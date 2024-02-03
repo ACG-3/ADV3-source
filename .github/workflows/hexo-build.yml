@@ -1,0 +1,38 @@
+name: Deploy Hexo Site
+
+on:
+  push:
+    branches:
+      - main  # 或你的源代码分支名称
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # 如果你的站点使用了git子模块
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '20.10.0'  # 确保这个版本与你的本地环境相匹配
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Clean
+        run: npx hexo clean  # 运行Hexo清除命令
+
+      - name: Build
+        run: npx hexo generate  # 运行Hexo生成命令
+
+      - name: Deploy to another repository
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: main  # 部署仓库的目标分支
+          build_dir: public  # 你希望部署的目录
+          repo: ACG-3/ADV3-source  # 更改为你的部署仓库的路径，格式为`username/repo`
+          commit_message: "deploy from source action"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}  # 使用你的GH_PAT

@@ -1,0 +1,134 @@
+<!-- jquery -->
+<% if (isCdnEnable('jquery')) {%>
+  <%- getCdnScript('jquery') %>
+<% } else { %>
+  <%- js('lib/jquery/jquery.min') %>
+<% } %>
+
+<% if (page.photos && page.photos.length) { %>
+  <% if (isCdnEnable('justified_gallery_js')) {%>
+    <%- getCdnScript('justified_gallery_js') %>
+  <% } else { %>
+    <%- js('lib/justified-gallery/js/jquery.justifiedGallery.min.js') %>
+  <% } %>
+<% } %>
+
+<!-- clipboard -->
+<% if (is_post()){ %>
+  <% if (isCdnEnable('clipboard')) { %>
+    <%- getCdnScript('clipboard') %>
+  <% } else { %>
+    <%- js('lib/clipboard/clipboard.min') %>
+  <% } %>
+  <script type="text/javascript">
+  $(function() {
+    // copy-btn HTML
+    var btn = "<span class=\"btn-copy tooltipped tooltipped-sw\" aria-label=\"<%= __('tooltip.copy_tip') %>\">";
+    btn += '<i class="fa-regular fa-clone"></i>';
+    btn += '</span>';
+    // mount it!
+    $(".highlight table").before(btn);
+    var clip = new ClipboardJS('.btn-copy', {
+      text: function(trigger) {
+        return Array.from(trigger.nextElementSibling.querySelectorAll('.code')).reduce((str,it)=>str+it.innerText+'\n','')
+      }
+    });
+    clip.on('success', function(e) {
+      e.trigger.setAttribute('aria-label', "<%= __('tooltip.copied') %>");
+      e.clearSelection();
+    })
+  })
+  </script>
+<% } %>
+<%- js('js/main') %>
+<!-- search -->
+<% if (config.search && (page.search || page.type === "search")){ %>
+  <%- js('js/search.js') %>
+  <script type="text/javascript">
+  $(function() {
+
+    var $inputArea = $("input#search-input");
+    var $resultArea = document.querySelector("div#search-result");
+
+    $inputArea.focus(function() {
+      var search_path = "<%= config.search.path %>";
+      if (search_path.length == 0) {
+        search_path = "search.xml";
+      }
+      var path = "<%= config.root %>" + search_path;
+      searchFunc(path, 'search-input', 'search-result');
+    });
+
+    $inputArea.keydown(function(e) {
+      if (e.which == 13) {
+        e.preventDefault();
+      }
+    });
+
+    var observer = new MutationObserver(function(mutationsList, observer) {
+      if (mutationsList.length == 1) {
+        if (mutationsList[0].addedNodes.length) {
+          $(".search-no-result").hide();
+        } else if (mutationsList[0].removedNodes.length) {
+          $(".search-no-result").show(200);
+        }
+      }
+    });
+
+    observer.observe($resultArea, { childList: true });
+
+  });
+  </script>
+<% } %>
+<!-- Baidu Analytics -->
+<% if (theme.baidu_analytics.enabled && theme.baidu_analytics.id){ %>
+  <script type="text/javascript">
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?<%= theme.baidu_analytics.id %>";
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(hm, s);
+        })();
+        </script>
+<% } %>
+<!-- Cloudflare Analytics -->
+<% if (theme.cloudflare_analytics.enabled && theme.cloudflare_analytics.id){ %>
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "<%= theme.cloudflare_analytics.id %>"}'></script>
+<% } %>
+<!-- Disqus Comments -->
+<% if (page.comments && theme.disqus.enabled && theme.disqus.shortname){ %>
+    <script type="text/javascript">
+        var disqus_shortname = '<%= theme.disqus.shortname %>';
+
+        (function(){
+            var dsq = document.createElement('script');
+            dsq.type = 'text/javascript';
+            dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/<% if (page.comments){ %>embed.js<% } else { %>count.js<% } %>';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        }());
+    </script>
+<% } %>
+<!-- utterances Comments -->
+<% if (page.comments && theme.utterances.enabled && theme.utterances.repo && theme.utterances.issue_term && theme.utterances.theme){ %>
+    <script type="text/javascript">
+      var utterances_repo = '<%= theme.utterances.repo %>';
+      var utterances_issue_term = '<%= theme.utterances.issue_term %>';
+      var utterances_label = '<%= theme.utterances.label %>';
+      var utterances_theme = '<%= theme.utterances.theme %>';
+
+      (function(){
+          var script = document.createElement('script');
+
+          script.src = 'https://utteranc.es/client.js';
+          script.setAttribute('repo', utterances_repo);
+          script.setAttribute('issue-term', 'pathname');
+          script.setAttribute('label', utterances_label);
+          script.setAttribute('theme', utterances_theme);
+          script.setAttribute('crossorigin', 'anonymous');
+          script.async = true;
+          (document.getElementById('utterances_thread')).appendChild(script);
+      }());
+  </script>
+<% } %>

@@ -1,0 +1,80 @@
+<head>
+    <!-- so meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+    <%- open_graph({
+        image:          thumbnail(page),
+        fb_app_id:      theme.open_graph.fb_app_id,
+        fb_admins:      theme.open_graph.fb_admins,
+        twitter_id:     theme.open_graph.twitter_id,
+        google_plus:    theme.open_graph.google_plus,
+    }) %>
+    <%- meta(page) %>
+    <% if (theme.favicon) { %>
+      <% if (theme.favicon.desktop) { %>
+        <% if (theme.gravatar && (theme.gravatar.email || theme.gravatar.hash) && theme.favicon.desktop.gravatar) { %>
+          <% if (theme.gravatar.email) { %>
+            <link rel="shortcut icon" href="<%= gravatar(theme.gravatar.email, 48) %>">
+          <% } else { %>
+            <link rel="shortcut icon" href="https://www.gravatar.com/avatar/<%= theme.gravatar.hash %>?s=48">
+          <% } %>
+        <% } else { %>
+          <link rel="shortcut icon" href="<%= url_for(theme.favicon.desktop.url) %>">
+        <% } %>
+      <% } %>
+      <% if (theme.favicon.android) { %>
+        <% if (theme.gravatar && (theme.gravatar.email || theme.gravatar.hash) && theme.favicon.android.gravatar) { %>
+          <% if (theme.gravatar.email) { %>
+            <link rel="icon" type="image/png" href="<%= gravatar(theme.gravatar.email, 192) %>" sizes="192x192">
+          <% } else { %>
+            <link rel="icon" type="image/png" href="https://www.gravatar.com/avatar/<%= theme.gravatar.hash %>?s=192">
+          <% } %>
+        <% } else { %>
+          <link rel="icon" type="image/png" href="<%= url_for(theme.favicon.android.url) %>" sizes="192x192">
+        <% } %>
+      <% } %>
+      <% if (theme.favicon.apple) { %>
+        <% if (theme.gravatar && (theme.gravatar.email || theme.gravatar.hash) && theme.favicon.apple.gravatar) { %>
+          <% if (theme.gravatar.email) { %>
+            <link rel="apple-touch-icon" sizes="180x180" href="<%= gravatar(theme.gravatar.email, 180) %>">
+          <% } else { %>
+            <link rel="apple-touch-icon" size="180x180" href="https://www.gravatar.com/avatar/<%= theme.gravatar.hash %>?s=180">
+          <% } %>
+        <% } else { %>
+          <link rel="apple-touch-icon" sizes="180x180" href="<%= url_for(theme.favicon.apple.url) %>">
+        <% } %>
+      <% } %>
+    <% } %>
+    <!-- title -->
+    <title><%= page_title() %></title>
+    <!-- async scripts -->
+    <%- partial('./google_analytics.ejs') %>
+    <%- partial('./umami_analytics.ejs') %>
+    <!-- styles -->
+    <%- css('css/style') %>
+    <!-- persian styles -->
+    <% if (theme.direction && theme.direction === 'rtl') { %>
+      <%- css('css/rtl') %>
+    <% } %>
+    <!-- rss -->
+    <% if (theme.rss === '' && config.feed && config.feed.path) { %>
+      <% theme.rss = config.feed.path %>
+    <% } %>
+    <% if (theme.rss) { %>
+      <link rel="alternate" href="<%= url_for(theme.rss) %>" title="<%= config.title %>" type="application/atom+xml" />
+    <% } %>
+	<!-- mathjax -->
+	<% if (theme.mathjax.enabled) {%>
+		<script type="text/x-mathjax-config">
+		  MathJax.Hub.Config({
+			tex2jax: {
+			  skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+			  inlineMath: [['$','$']]
+			}
+		  });
+		</script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+	<% } %>
+</head>
