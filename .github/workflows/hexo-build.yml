@@ -32,7 +32,7 @@ jobs:
         with:
           target_branch: main  # 部署仓库的目标分支
           build_dir: public  # 你希望部署的目录
-          repo: ACG-3/ADV3-source  # 更改为你的部署仓库的路径，格式为`username/repo`
+          repo: ACG-3/ADV3-deploy  # 更改为你的部署仓库的路径，格式为`username/repo`
           commit_message: "deploy from source action"
         env:
           GH_PAT: ${{ secrets.GH_PAT }}  # 使用你的GH_PAT
