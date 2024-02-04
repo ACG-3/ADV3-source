@@ -1,13 +1,13 @@
 ---
-title: Neko Para Vol.3 Neko-tachi no Aromatize
+title: ネコぱら Vol.3 ネコたちのアロマティゼ
 date: 2017-05-25 22:33:22
-permalink: archives/adv/1c7yy/
+permalink: archives/adv/mob11/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.3%20%E3%83%8D%E3%82%B3%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%A2%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%82%BC.md)
 
 ## 游戏封面
 
-![Neko Para Vol.3 Neko-tachi no Aromatize](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko%20Para%20Vol.3%20Neko-tachi%20no%20Aromatize_cover.avif)
+![ネコぱら Vol.3 ネコたちのアロマティゼ](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.3%20%E3%83%8D%E3%82%B3%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%A2%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%82%BC_cover.avif)
 
 
 ## 游戏名称
@@ -49,13 +49,13 @@ permalink: archives/adv/1c7yy/
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko%20Para%20Vol.3%20Neko-tachi%20no%20Aromatize_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.3%20%E3%83%8D%E3%82%B3%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%A2%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%82%BC_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko%20Para%20Vol.3%20Neko-tachi%20no%20Aromatize_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.3%20%E3%83%8D%E3%82%B3%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%A2%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%82%BC_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko%20Para%20Vol.3%20Neko-tachi%20no%20Aromatize_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.3%20%E3%83%8D%E3%82%B3%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%A2%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%82%BC_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko%20Para%20Vol.3%20Neko-tachi%20no%20Aromatize_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.3%20%E3%83%8D%E3%82%B3%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%A2%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%82%BC_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko%20Para%20Vol.3%20Neko-tachi%20no%20Aromatize_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.3%20%E3%83%8D%E3%82%B3%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%A2%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%82%BC_Screenshot_5.avif)
 

@@ -1,13 +1,13 @@
 ---
-title: Neko-nin exHeart +Plus Nachi Hen
+title: 猫忍えくすはーと +PLUS なち編
 date: 2017-11-02 22:33:22
-permalink: archives/adv/be1cl/
+permalink: archives/adv/p7dzi/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20%2BPLUS%20%E3%81%AA%E3%81%A1%E7%B7%A8.md)
 
 ## 游戏封面
 
-![Neko-nin exHeart +Plus Nachi Hen](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko-nin%20exHeart%20+Plus%20Nachi%20Hen_cover.avif)
+![猫忍えくすはーと +PLUS なち編](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20+PLUS%20%E3%81%AA%E3%81%A1%E7%B7%A8_cover.avif)
 
 
 ## 游戏名称
@@ -53,11 +53,11 @@ permalink: archives/adv/be1cl/
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko-nin%20exHeart%20+Plus%20Nachi%20Hen_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20+PLUS%20%E3%81%AA%E3%81%A1%E7%B7%A8_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko-nin%20exHeart%20+Plus%20Nachi%20Hen_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20+PLUS%20%E3%81%AA%E3%81%A1%E7%B7%A8_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko-nin%20exHeart%20+Plus%20Nachi%20Hen_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20+PLUS%20%E3%81%AA%E3%81%A1%E7%B7%A8_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko-nin%20exHeart%20+Plus%20Nachi%20Hen_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20+PLUS%20%E3%81%AA%E3%81%A1%E7%B7%A8_Screenshot_4.avif)
 

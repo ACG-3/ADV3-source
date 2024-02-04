@@ -1,7 +1,7 @@
 ---
 title: NinNinDays
 date: 2019-08-08 22:33:22
-permalink: archives/adv/rxrvr/
+permalink: archives/adv/ws4ui/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/NinNinDays.md)
 

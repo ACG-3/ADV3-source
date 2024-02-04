@@ -1,13 +1,13 @@
 ---
-title: NOeSIS02 -Uka-
+title: NOeSIS02-羽化-
 date: 2012-10-24 22:33:22
-permalink: archives/adv/zoomy/
+permalink: archives/adv/rlfjm/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/NOeSIS02-%E7%BE%BD%E5%8C%96-.md)
 
 ## 游戏封面
 
-![NOeSIS02 -Uka-](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02%20-Uka-_cover.avif)
+![NOeSIS02-羽化-](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_cover.avif)
 
 
 ## 游戏名称
@@ -51,11 +51,11 @@ permalink: archives/adv/zoomy/
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02%20-Uka-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02%20-Uka-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02%20-Uka-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02%20-Uka-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_Screenshot_4.avif)
 

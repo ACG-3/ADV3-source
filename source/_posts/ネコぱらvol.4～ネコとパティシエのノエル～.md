@@ -1,13 +1,13 @@
 ---
-title: Neko Para vol.4 ~Neko to Patissier no Noel~
+title: ネコぱらvol.4～ネコとパティシエのノエル～
 date: 2020-11-26 22:33:22
-permalink: archives/adv/g87st/
+permalink: archives/adv/zg5oy/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E.md)
 
 ## 游戏封面
 
-![Neko Para vol.4 ~Neko to Patissier no Noel~](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko%20Para%20vol.4%20~Neko%20to%20Patissier%20no%20Noel~_cover.avif)
+![ネコぱらvol.4～ネコとパティシエのノエル～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -44,7 +44,7 @@ permalink: archives/adv/g87st/
 
 在法国还遇到了一个新的猫女......
 
-这个故事是一部温馨的猫咪喜剧，讲述了卡修通过猫伙伴们所经历的成长，以及与猫伙伴和家人之间的羁绊...
+这个故事是一部温馨的猫咪喜剧，讲述了卡修通过猫伙伴们所经历的成长，以及与它们和家人之间的羁绊
 
 
 
@@ -57,13 +57,13 @@ permalink: archives/adv/g87st/
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko%20Para%20vol.4%20~Neko%20to%20Patissier%20no%20Noel~_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko%20Para%20vol.4%20~Neko%20to%20Patissier%20no%20Noel~_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko%20Para%20vol.4%20~Neko%20to%20Patissier%20no%20Noel~_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko%20Para%20vol.4%20~Neko%20to%20Patissier%20no%20Noel~_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko%20Para%20vol.4%20~Neko%20to%20Patissier%20no%20Noel~_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_5.avif)
 

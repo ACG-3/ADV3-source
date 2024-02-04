@@ -1,13 +1,13 @@
 ---
-title: Chocolat ~maid cafe "curio"~
+title: ショコラ ～maid cafe "curio"～
 date: 2003-04-04 22:33:22
-permalink: archives/adv/fb5fl/
+permalink: archives/adv/s3xrp/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%20%EF%BD%9Emaid%20cafe%20curio%EF%BD%9E.md)
 
 ## 游戏封面
 
-![Chocolat ~maid cafe "curio"~](None)
+![ショコラ ～maid cafe "curio"～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%20%EF%BD%9Emaid%20cafe%20curio%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -50,13 +50,13 @@ permalink: archives/adv/fb5fl/
 ## 游戏截图
 
 
-![Screenshot 1](Error processing image)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%20%EF%BD%9Emaid%20cafe%20curio%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](Error processing image)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%20%EF%BD%9Emaid%20cafe%20curio%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](Error processing image)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%20%EF%BD%9Emaid%20cafe%20curio%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](Error processing image)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%20%EF%BD%9Emaid%20cafe%20curio%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](Error processing image)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%20%EF%BD%9Emaid%20cafe%20curio%EF%BD%9E_Screenshot_5.avif)
 

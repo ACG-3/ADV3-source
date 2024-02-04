@@ -1,13 +1,13 @@
 ---
-title: Monobeno -Happy End-
+title: ものべの -happy end-
 date: 2013-10-25 22:33:22
-permalink: archives/adv/m2ot5/
+permalink: archives/adv/e3avi/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/NEKOKORO.md)
 
 ## 游戏封面
 
-![Monobeno -Happy End-](https://pan.timero.xyz/d/onedrive/img_lib_001/Monobeno%20-Happy%20End-_cover.avif)
+![ものべの -happy end-](https://pan.timero.xyz/d/onedrive/img_lib_001/NEKOKORO_cover.avif)
 
 
 ## 游戏名称
@@ -62,13 +62,13 @@ permalink: archives/adv/m2ot5/
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Monobeno%20-Happy%20End-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/NEKOKORO_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Monobeno%20-Happy%20End-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/NEKOKORO_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Monobeno%20-Happy%20End-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/NEKOKORO_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Monobeno%20-Happy%20End-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/NEKOKORO_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Monobeno%20-Happy%20End-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/NEKOKORO_Screenshot_5.avif)
 

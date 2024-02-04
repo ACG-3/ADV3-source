@@ -1,13 +1,13 @@
 ---
-title: Neko-nin exHeart 2 Love +Plus
+title: 猫忍えくすはーと２ LOVE +PLUS
 date: 2018-12-14 22:33:22
-permalink: archives/adv/wlaci/
+permalink: archives/adv/100t4/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%EF%BC%92%20LOVE%20%2BPLUS.md)
 
 ## 游戏封面
 
-![Neko-nin exHeart 2 Love +Plus](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko-nin%20exHeart%202%20Love%20+Plus_cover.avif)
+![猫忍えくすはーと２ LOVE +PLUS](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%EF%BC%92%20LOVE%20+PLUS_cover.avif)
 
 
 ## 游戏名称
@@ -59,13 +59,13 @@ Ritsu 想让自己从那些不思进取的同龄人中脱颖而出，她决心�
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko-nin%20exHeart%202%20Love%20+Plus_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%EF%BC%92%20LOVE%20+PLUS_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko-nin%20exHeart%202%20Love%20+Plus_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%EF%BC%92%20LOVE%20+PLUS_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko-nin%20exHeart%202%20Love%20+Plus_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%EF%BC%92%20LOVE%20+PLUS_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko-nin%20exHeart%202%20Love%20+Plus_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%EF%BC%92%20LOVE%20+PLUS_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Neko-nin%20exHeart%202%20Love%20+Plus_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%EF%BC%92%20LOVE%20+PLUS_Screenshot_5.avif)
 
