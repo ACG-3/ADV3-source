@@ -5,7 +5,7 @@
 # Link to a page that gives an overview of all your projects.
 # This can be an external link (e.g., to you GitHub profile) or to another
 # page within your website.
-projects_url: https://github.com/ACG-3/ADV3
+projects_url: https://github.com/ACG-3/ADV3-source
 
 # Set the page direction to RTL or LTR. default is LTR. (if you set it 'rtl', the 'vazir' font will be loaded.)
 direction: ltr
@@ -18,7 +18,7 @@ nav:
   articles: /archives/
   search: /search/
   about: /about/
-  projects: http://github.com/probberechts
+  projects: https://github.com/ACG-3/ADV3-source
 
 
 # Links to your social media accounts.
@@ -27,19 +27,19 @@ nav:
 # only 'mail' is an exception.
 # You can optionally add a 'label' key to set the title attribute on the link. 
 # 'icon' value will be used as title when 'label' is missing.
-#social_links:
-#  -
-#    icon: github
-#    link: http://github.com/probberechts/cactus-dark
+social_links:
+ -
+   icon: github
+   link: https://github.com/ACG-3
 #  -
 #    icon: twitter
 #    link: /
 #  -
 #    icon: facebook
 #    link: /
-#  -
-#    icon: mail
-#    link: mailto:name@email.com
+ -
+   icon: mail
+   link: mailto:acg.three@outlook.com
 #  -
 #    icon: mastodon
 #    label: mastodon.social

@@ -5,7 +5,7 @@
 # Site
 title: ADV!
 subtitle: ''
-description: 'Provide easy-to-use backups for all Chinese-localized visual novels (ADV)!,\n为所有汉化ADV提供易用的备份！'
+description: '为所有 中文化ADV 提供易用的备份！<br>Provide easy-to-use backups for all Chinese-localized visual novels (ADV)!'
 keywords: adv, visual novel, 汉化, galgame, 游戏, 备份, 下载, visual novel, chinese, game, backup, download
 author: ACG-3
 language: zh-CN
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://adv.timero.xyz
+url: https://adv.acg3.org
 #permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

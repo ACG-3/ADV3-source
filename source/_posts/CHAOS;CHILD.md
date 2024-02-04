@@ -1,9 +1,9 @@
 ---
 title: CHAOS;CHILD
-date: 2024-01-23 19:04:52
-permalink: archives/adv/8fxnh/
+date: 2014-12-18 22:33:22
+permalink: archives/adv/go0sw/
 ---
-[编辑此页面](https://github.com/ximu/adv!/CHAOS%3BCHILD.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/CHAOS%3BCHILD.md)
 
 ## 游戏封面
 
