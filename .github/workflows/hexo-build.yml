@@ -27,12 +27,16 @@ jobs:
       - name: Build
         run: npx hexo generate  # 运行Hexo生成命令
 
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=datetime::$(date +'%Y-%m-%d %H:%M:%S')"
+        
       - name: Deploy to another repository
         uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: main  # 部署仓库的目标分支
           build_dir: public  # 你希望部署的目录
           repo: ACG-3/ADV3-deploy  # 更改为你的部署仓库的路径，格式为`username/repo`
-          commit_message: "deploy from source action"
+          commit_message: "deploy from source action ${{ steps.date.outputs.datetime }}"
         env:
           GH_PAT: ${{ secrets.GH_PAT }}  # 使用你的GH_PAT
