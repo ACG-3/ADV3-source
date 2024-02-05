@@ -1,5 +1,5 @@
 ---
-title: "None"
+title: "My So-called Future Girlfriend"
 date: 2016-06-22
 permalink: archives/adv/aoimi/
 ---
