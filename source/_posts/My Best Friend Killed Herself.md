@@ -1,5 +1,5 @@
 ---
-title: None
+title: My Best Friend Killed Herself
 date: 2022-04-01 22:33:22
 permalink: archives/adv/qt3ew/
 ---
