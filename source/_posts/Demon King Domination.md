@@ -1,5 +1,5 @@
 ---
-title: None
+title: Demon King Domination
 date: 2018-03-28 22:33:22
 permalink: archives/adv/ayiwb/
 ---
