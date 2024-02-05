@@ -1,5 +1,5 @@
 ---
-title: ""My Maid Girlfriend: Romance You Choose""
+title: "My Maid Girlfriend: Romance You Choose"
 date: 2017-12-12
 permalink: archives/game/yzw8v/
 ---

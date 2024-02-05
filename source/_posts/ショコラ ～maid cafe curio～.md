@@ -1,5 +1,5 @@
 ---
-title: "ショコラ ～maid cafe "curio"～"
+title: "ショコラ ～maid cafe \"curio\"～"
 date: 2003-04-04
 permalink: archives/game/s3xrp/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "None"
+title: "The Oath of The Dark Magic Queen"
 date: 2021-11-05
 permalink: archives/game/bqk93/
 ---
