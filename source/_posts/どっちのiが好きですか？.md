@@ -1,6 +1,6 @@
 ---
-title: どっちのiが好きですか？
-date: 2019-11-29 22:33:22
+title: "どっちのiが好きですか？"
+date: 2019-11-29
 permalink: archives/adv/9rs9n/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F.md)

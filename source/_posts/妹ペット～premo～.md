@@ -1,6 +1,6 @@
 ---
-title: 妹ペット～premo～
-date: 2008-12-30 22:33:22
+title: "妹ペット～premo～"
+date: 2008-12-30
 permalink: archives/adv/rfqxq/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A6%B9%E3%83%9A%E3%83%83%E3%83%88%EF%BD%9Epremo%EF%BD%9E.md)

@@ -1,6 +1,6 @@
 ---
-title: ものべの
-date: 2012-04-27 22:33:22
+title: "ものべの"
+date: 2012-04-27
 permalink: archives/adv/0uo2o/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-.md)

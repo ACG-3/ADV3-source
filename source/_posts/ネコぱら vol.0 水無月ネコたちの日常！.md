@@ -1,6 +1,6 @@
 ---
-title: ネコぱら vol.0 水無月ネコたちの日常！
-date: 2015-08-16 22:33:22
+title: "ネコぱら vol.0 水無月ネコたちの日常！"
+date: 2015-08-16
 permalink: archives/adv/i2qur/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.0%20%E6%B0%B4%E7%84%A1%E6%9C%88%E3%83%8D%E3%82%B3%E3%81%9F%E3%81%A1%E3%81%AE%E6%97%A5%E5%B8%B8%EF%BC%81.md)

@@ -1,6 +1,6 @@
 ---
-title: キミのとなりで恋してる！ 〜 The Respective Happiness 〜
-date: 2015-11-27 22:33:22
+title: "キミのとなりで恋してる！ 〜 The Respective Happiness 〜"
+date: 2015-11-27
 permalink: archives/adv/pepls/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%AD%E3%83%9F%E3%81%AE%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%A7%E6%81%8B%E3%81%97%E3%81%A6%E3%82%8B%EF%BC%81%20%E3%80%9C%20The%20Respective%20Happiness%20%E3%80%9C.md)

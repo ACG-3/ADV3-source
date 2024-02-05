@@ -1,6 +1,6 @@
 ---
-title: ゾンビのあふれた世界で俺だけが襲われない vol.3
-date: 2018-04-13 22:33:22
+title: "ゾンビのあふれた世界で俺だけが襲われない vol.3"
+date: 2018-04-13
 permalink: archives/adv/44slo/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.3.md)

@@ -1,6 +1,6 @@
 ---
-title: NinNinDays2
-date: 2021-11-18 22:33:22
+title: "NinNinDays2"
+date: 2021-11-18
 permalink: archives/adv/hhhjz/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/NinNinDays2.md)

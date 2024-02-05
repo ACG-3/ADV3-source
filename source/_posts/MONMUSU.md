@@ -1,6 +1,6 @@
 ---
-title: もんむす・くえすと!前章 ～負ければ妖女に犯される～
-date: 2011-03-09 22:33:22
+title: "もんむす・くえすと!前章 ～負ければ妖女に犯される～"
+date: 2011-03-09
 permalink: archives/adv/ovsf4/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/MONMUSU.md)

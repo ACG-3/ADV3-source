@@ -1,6 +1,6 @@
 ---
-title: None
-date: 2016-06-22 22:33:22
+title: "None"
+date: 2016-06-22
 permalink: archives/adv/aoimi/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Miraeui%20Yeochinnimi%20Naege%20Insareul%20Geonnewatda.md)

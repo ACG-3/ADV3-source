@@ -1,6 +1,6 @@
 ---
-title: ネコぱらExtra  仔ネコの日の約束
-date: 2018-07-27 22:33:22
+title: "ネコぱらExtra  仔ネコの日の約束"
+date: 2018-07-27
 permalink: archives/adv/go7yp/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F.md)

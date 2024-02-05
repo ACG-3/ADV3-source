@@ -1,6 +1,6 @@
 ---
-title: 魔女こいにっき
-date: 2014-05-30 22:33:22
+title: "魔女こいにっき"
+date: 2014-05-30
 permalink: archives/adv/birg7/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E9%AD%94%E5%A5%B3%E3%81%93%E3%81%84%E3%81%AB%E3%81%A3%E3%81%8D%20Dragon%C3%97Caravan.md)

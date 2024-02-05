@@ -1,6 +1,6 @@
 ---
-title: Never7 -the end of infinity-
-date: 2000-03-23 22:33:22
+title: "Never7 -the end of infinity-"
+date: 2000-03-23
 permalink: archives/adv/pkqe4/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Never7%20-the%20end%20of%20infinity-.md)

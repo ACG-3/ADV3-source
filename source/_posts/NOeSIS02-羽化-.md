@@ -1,6 +1,6 @@
 ---
-title: NOeSIS02-羽化-
-date: 2012-10-24 22:33:22
+title: "NOeSIS02-羽化-"
+date: 2012-10-24
 permalink: archives/adv/rlfjm/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/NOeSIS02-%E7%BE%BD%E5%8C%96-.md)

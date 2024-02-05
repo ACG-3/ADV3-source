@@ -1,6 +1,6 @@
 ---
-title: STEINS;GATE
-date: 2009-10-15 22:33:22
+title: "STEINS;GATE"
+date: 2009-10-15
 permalink: archives/adv/bisn9/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/STEINS%3BGATE%200.md)

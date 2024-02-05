@@ -1,6 +1,6 @@
 ---
-title: NOeSIS 歌う影の戯曲
-date: 2017-11-23 22:33:22
+title: "NOeSIS 歌う影の戯曲"
+date: 2017-11-23
 permalink: archives/adv/0t1wf/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/NOeSIS%20%E6%AD%8C%E3%81%86%E5%BD%B1%E3%81%AE%E6%88%AF%E6%9B%B2.md)

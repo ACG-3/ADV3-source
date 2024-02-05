@@ -1,6 +1,6 @@
 ---
-title: その花びらにくちづけを わたしの王子さま
-date: 2007-05-29 22:33:22
+title: "その花びらにくちづけを わたしの王子さま"
+date: 2007-05-29
 permalink: archives/adv/chefq/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/My%20Dear%20Prince.md)

@@ -1,6 +1,6 @@
 ---
-title: Memory's Dogma Code:01
-date: 2016-11-04 22:33:22
+title: "Memory's Dogma Code:01"
+date: 2016-11-04
 permalink: archives/adv/zcczb/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Memory%27s%20Dogma%20Code01.md)

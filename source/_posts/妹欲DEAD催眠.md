@@ -1,6 +1,6 @@
 ---
-title: 妹欲DEAD催眠
-date: 2014-09-26 22:33:22
+title: "妹欲DEAD催眠"
+date: 2014-09-26
 permalink: archives/adv/m0az3/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A6%B9%E6%AC%B2DEAD%E5%82%AC%E7%9C%A0.md)

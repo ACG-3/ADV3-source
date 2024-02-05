@@ -1,6 +1,6 @@
 ---
-title: Magus Tale Infinity
-date: 2008-06-13 22:33:22
+title: "Magus Tale Infinity"
+date: 2008-06-13
 permalink: archives/adv/vqi9n/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Magus%20Tale%20Infinity.md)

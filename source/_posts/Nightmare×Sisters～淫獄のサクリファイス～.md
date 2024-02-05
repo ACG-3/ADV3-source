@@ -1,6 +1,6 @@
 ---
-title: Nightmare×Sisters～淫獄のサクリファイス～
-date: 2020-02-28 22:33:22
+title: "Nightmare×Sisters～淫獄のサクリファイス～"
+date: 2020-02-28
 permalink: archives/adv/2yls9/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Nightmare%C3%97Sisters%EF%BD%9E%E6%B7%AB%E7%8D%84%E3%81%AE%E3%82%B5%E3%82%AF%E3%83%AA%E3%83%95%E3%82%A1%E3%82%A4%E3%82%B9%EF%BD%9E.md)

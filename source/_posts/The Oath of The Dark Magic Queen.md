@@ -1,6 +1,6 @@
 ---
-title: None
-date: 2021-11-05 22:33:22
+title: "None"
+date: 2021-11-05
 permalink: archives/adv/bqk93/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/The%20Oath%20of%20The%20Dark%20Magic%20Queen.md)

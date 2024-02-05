@@ -1,6 +1,6 @@
 ---
-title: プリンセスメーカー4
-date: 2005-09-01 22:33:22
+title: "プリンセスメーカー4"
+date: 2005-09-01
 permalink: archives/adv/zk4uq/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Princess%20Maker.md)

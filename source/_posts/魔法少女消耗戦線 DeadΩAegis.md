@@ -1,6 +1,6 @@
 ---
-title: 魔法少女消耗戦線 DeadΩAegis
-date: 2021-03-26 22:33:22
+title: "魔法少女消耗戦線 DeadΩAegis"
+date: 2021-03-26
 permalink: archives/adv/pafbu/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis.md)

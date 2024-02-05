@@ -1,6 +1,6 @@
 ---
-title: ママごと
-date: 2008-09-26 22:33:22
+title: "ママごと"
+date: 2008-09-26
 permalink: archives/adv/besqj/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Nightmare%20Knight%20%EF%BD%9E%E6%B7%AB%E8%BE%B1%E3%81%AE%E3%83%AC%E3%82%B8%E3%82%B9%E3%82%BF%E3%83%B3%E3%82%B9%EF%BD%9E.md)

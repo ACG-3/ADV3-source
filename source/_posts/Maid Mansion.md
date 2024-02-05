@@ -1,6 +1,6 @@
 ---
-title: Maid Mansion
-date: 2020-11-14 22:33:22
+title: "Maid Mansion"
+date: 2020-11-14
 permalink: archives/adv/bzfdm/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Maid%20Mansion.md)
