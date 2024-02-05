@@ -1,7 +1,7 @@
 ---
 title: "Making＊Lovers"
 date: 2017-11-24
-permalink: archives/adv/58l3m/
+permalink: archives/game/58l3m/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Making%EF%BC%8ALovers.md)
 

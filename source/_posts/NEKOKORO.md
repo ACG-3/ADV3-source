@@ -1,7 +1,7 @@
 ---
 title: "ものべの -happy end-"
 date: 2013-10-25
-permalink: archives/adv/e3avi/
+permalink: archives/game/e3avi/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/NEKOKORO.md)
 

@@ -1,7 +1,7 @@
 ---
 title: "妹調教日記√happy end & another"
 date: 2013-08-11
-permalink: archives/adv/ppqsu/
+permalink: archives/game/ppqsu/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A6%B9%E8%AA%BF%E6%95%99%E6%97%A5%E8%A8%98%E2%88%9Ahappy%20end%20%26%20another.md)
 

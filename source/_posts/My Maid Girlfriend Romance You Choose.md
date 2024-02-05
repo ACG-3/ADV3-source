@@ -1,7 +1,7 @@
 ---
 title: ""My Maid Girlfriend: Romance You Choose""
 date: 2017-12-12
-permalink: archives/adv/yzw8v/
+permalink: archives/game/yzw8v/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/My%20Maid%20Girlfriend%20Romance%20You%20Choose.md)
 

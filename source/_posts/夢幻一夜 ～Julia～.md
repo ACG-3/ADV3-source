@@ -1,7 +1,7 @@
 ---
 title: "夢幻一夜 ～Julia～"
 date: 1999-12-17
-permalink: archives/adv/lxkbh/
+permalink: archives/game/lxkbh/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A4%A2%E5%B9%BB%E4%B8%80%E5%A4%9C%20%EF%BD%9EJulia%EF%BD%9E.md)
 

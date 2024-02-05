@@ -1,7 +1,7 @@
 ---
 title: "猫忍えくすはーと +PLUS なち編"
 date: 2017-11-02
-permalink: archives/adv/p7dzi/
+permalink: archives/game/p7dzi/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20%2BPLUS%20%E3%81%AA%E3%81%A1%E7%B7%A8.md)
 

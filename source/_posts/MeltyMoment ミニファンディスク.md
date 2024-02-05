@@ -1,7 +1,7 @@
 ---
 title: "MeltyMoment ミニファンディスク"
 date: 2014-08-29
-permalink: archives/adv/86rw1/
+permalink: archives/game/86rw1/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/MeltyMoment%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF.md)
 

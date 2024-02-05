@@ -1,7 +1,7 @@
 ---
 title: "夢現Re:Master"
 date: 2019-06-13
-permalink: archives/adv/s3f29/
+permalink: archives/game/s3f29/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A4%A2%E7%8F%BEReAfter.md)
 

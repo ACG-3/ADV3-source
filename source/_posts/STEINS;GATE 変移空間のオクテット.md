@@ -1,7 +1,7 @@
 ---
 title: "STEINS;GATE 変移空間のオクテット"
 date: 2011-10-28
-permalink: archives/adv/r3u6g/
+permalink: archives/game/r3u6g/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88.md)
 

@@ -1,7 +1,7 @@
 ---
 title: "まり∽くり -marriage crimson-"
 date: 2007-08-17
-permalink: archives/adv/wx7vn/
+permalink: archives/game/wx7vn/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%BE%E3%82%8A%E2%88%BD%E3%81%8F%E3%82%8A%20-marriage%20crimson-.md)
 

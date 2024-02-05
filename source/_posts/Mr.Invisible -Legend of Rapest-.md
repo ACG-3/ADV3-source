@@ -1,7 +1,7 @@
 ---
 title: "Mr.Invisible -Legend of Rapest-"
 date: 2008-10-24
-permalink: archives/adv/effmj/
+permalink: archives/game/effmj/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Mr.Invisible%20-Legend%20of%20Rapest-.md)
 

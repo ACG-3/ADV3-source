@@ -1,7 +1,7 @@
 ---
 title: "MEMORIES ～記憶のすべてを…～"
 date: 2005-12-02
-permalink: archives/adv/3e29g/
+permalink: archives/game/3e29g/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/MEMORIES%20%EF%BD%9E%E8%A8%98%E6%86%B6%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%E3%82%92%E2%80%A6%EF%BD%9E.md)
 

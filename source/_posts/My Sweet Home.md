@@ -1,7 +1,7 @@
 ---
 title: "Sweet Home～Hなお姉さんは好きですか？～"
 date: 2007-12-14
-permalink: archives/adv/nnbqs/
+permalink: archives/game/nnbqs/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/My%20Sweet%20Home.md)
 

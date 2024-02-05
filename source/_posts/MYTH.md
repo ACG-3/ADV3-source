@@ -1,7 +1,7 @@
 ---
 title: "Aguni～運命の先～"
 date: 2006-08-24
-permalink: archives/adv/phdos/
+permalink: archives/game/phdos/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/MYTH.md)
 

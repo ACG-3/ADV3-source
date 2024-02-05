@@ -1,7 +1,7 @@
 ---
 title: "STEINS;GATE 線形拘束のフェノグラム"
 date: 2013-04-25
-permalink: archives/adv/oxzsj/
+permalink: archives/game/oxzsj/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/STEINS%3BGATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0.md)
 

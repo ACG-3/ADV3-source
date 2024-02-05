@@ -1,7 +1,7 @@
 ---
 title: "NinNinDays"
 date: 2019-08-08
-permalink: archives/adv/ws4ui/
+permalink: archives/game/ws4ui/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/NinNinDays.md)
 

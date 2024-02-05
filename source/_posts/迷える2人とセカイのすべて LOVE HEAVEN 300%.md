@@ -1,7 +1,7 @@
 ---
 title: "迷える2人とセカイのすべて LOVE HEAVEN 300%"
 date: 2015-05-29
-permalink: archives/adv/os0q2/
+permalink: archives/game/os0q2/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E8%BF%B7%E3%81%88%E3%82%8B2%E4%BA%BA%E3%81%A8%E3%82%BB%E3%82%AB%E3%82%A4%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%20LOVE%20HEAVEN%20300%25.md)
 

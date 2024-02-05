@@ -1,7 +1,7 @@
 ---
 title: "Magical Charming!"
 date: 2013-05-31
-permalink: archives/adv/bj614/
+permalink: archives/game/bj614/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Magical%20Charming%21.md)
 

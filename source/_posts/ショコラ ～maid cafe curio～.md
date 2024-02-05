@@ -1,7 +1,7 @@
 ---
 title: "ショコラ ～maid cafe "curio"～"
 date: 2003-04-04
-permalink: archives/adv/s3xrp/
+permalink: archives/game/s3xrp/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B7%E3%83%A7%E3%82%B3%E3%83%A9%20%EF%BD%9Emaid%20cafe%20curio%EF%BD%9E.md)
 
