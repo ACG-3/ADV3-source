@@ -1,6 +1,6 @@
 ---
 title: Demon King Domination
-date: 2018-03-28 22:33:22
+date: 2018-03-28
 permalink: archives/adv/ayiwb/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Demon%20King%20Domination.md)
