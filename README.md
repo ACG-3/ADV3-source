@@ -20,7 +20,6 @@ ADV3是一个易用的 中文化 视觉小说 / Galgame 备份仓库。
 ## 致谢
 
 本仓库的诞生离不开以下项目
-
 - [hexo](https://github.com/hexojs/hexo)
 - [vndb](https://vndb.org)
 - [chatgpt](https://chat.openai.com)
