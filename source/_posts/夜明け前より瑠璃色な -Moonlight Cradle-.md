@@ -1,0 +1,61 @@
+---
+title: "夜明け前より瑠璃色な"
+date: 2005-09-22
+permalink: archives/adv/utaz1/
+---
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A4%9C%E6%98%8E%E3%81%91%E5%89%8D%E3%82%88%E3%82%8A%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AA%20-Moonlight%20Cradle-.md)
+
+## 游戏封面
+
+![夜明け前より瑠璃色な](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%9C%E6%98%8E%E3%81%91%E5%89%8D%E3%82%88%E3%82%8A%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AA%20-Moonlight%20Cradle-_cover.avif)
+
+
+## 游戏名称
+
+- 日文：夜明け前より瑠璃色な
+- 英文：None
+- 中文：更胜黎明前的琉璃色
+
+- 别名：Brighter than Dawning Blue, yoakena, keyorina, akeruri, yoriruri, yoaruri, ruriiro, amaeruna, 夜明けな, けよりな, あけるり, 明け瑠璃, よりるり, よあるり, 瑠璃色, あまえるな, 夜明前的琉璃色, Yoake Mae yori Ruriiro na
+
+
+## 游戏信息
+
+- 时长：40.0 h
+- 开发者：AUGUST
+- 发售日期：2005-09-22
+- 游戏平台：win, psp, ps2
+- 相关作品：
+   - 角色：ティンクル☆くるせいだーす -Passion Star Stream-
+   - 外传：夜明け前より瑠璃色な -Moonlight Cradle-
+
+- 相关链接：[vndb](https://vndb.org/v232)
+
+
+## 游戏简介
+
+故事发生在非常遥远的未来，人类刚刚从地球和月球之间几十年的战争中恢复过来。这场战争破坏性极大，使科技进步倒退了几十年甚至几个世纪，这就是为什么故事的背景看起来并不像未来世界。虽然现在世界和平了，但球体王国（月球）和地球联邦之间仍然互不信任。出于外交目的，两者之间的旅行受到限制，仅限于地球上的一个太空港。
+
+因此，无论如何，有一天，月球公主费娜-范姆-地球之光来到主人公的家中做客......
+
+
+
+
+## 下载链接
+
+[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A4%9C%E6%98%8E%E3%81%91%E5%89%8D%E3%82%88%E3%82%8A%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AA%20-Moonlight%20Cradle-)
+
+
+## 游戏截图
+
+
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%9C%E6%98%8E%E3%81%91%E5%89%8D%E3%82%88%E3%82%8A%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AA%20-Moonlight%20Cradle-_Screenshot_1.avif)
+
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%9C%E6%98%8E%E3%81%91%E5%89%8D%E3%82%88%E3%82%8A%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AA%20-Moonlight%20Cradle-_Screenshot_2.avif)
+
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%9C%E6%98%8E%E3%81%91%E5%89%8D%E3%82%88%E3%82%8A%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AA%20-Moonlight%20Cradle-_Screenshot_3.avif)
+
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%9C%E6%98%8E%E3%81%91%E5%89%8D%E3%82%88%E3%82%8A%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AA%20-Moonlight%20Cradle-_Screenshot_4.avif)
+
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%9C%E6%98%8E%E3%81%91%E5%89%8D%E3%82%88%E3%82%8A%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AA%20-Moonlight%20Cradle-_Screenshot_5.avif)
+
