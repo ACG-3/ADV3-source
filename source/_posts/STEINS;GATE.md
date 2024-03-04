@@ -1,7 +1,7 @@
 ---
 title: "STEINS;GATE"
 date: 2009-10-15
-permalink: archives/game/1fwh2/
+permalink: archives/adv/x5yj7/
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/STEINS%3BGATE.md)
 
