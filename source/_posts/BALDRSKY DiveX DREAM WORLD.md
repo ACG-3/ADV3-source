@@ -1,5 +1,5 @@
 ---
-title: "BALDRSKY DiveX "DREAM WORLD""
+title: "BALDRSKY DiveX \"DREAM WORLD\""
 date: 2010-09-24
 permalink: archives/adv/1fhw4/
 ---

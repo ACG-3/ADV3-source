@@ -1,5 +1,5 @@
 ---
-title: 月姫
+title: "月姫"
 date: 2000-08-11
 permalink: archives/game/3sh68/
 ---

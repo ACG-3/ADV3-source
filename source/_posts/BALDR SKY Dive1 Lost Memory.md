@@ -1,5 +1,5 @@
 ---
-title: "BALDR SKY Dive1 "Lost Memory""
+title: "BALDR SKY Dive1 \"Lost Memory\""
 date: 2009-03-27
 permalink: archives/adv/7ktau/
 ---

@@ -1,5 +1,5 @@
 ---
-title: "BALDR SKY Dive2 "RECORDARE""
+title: "BALDR SKY Dive2 \"RECORDARE\""
 date: 2009-11-27
 permalink: archives/adv/j9tbo/
 ---

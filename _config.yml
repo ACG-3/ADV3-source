@@ -105,3 +105,15 @@ deploy:
   type: git
   repo: https://github.com/ACG-3/ADV3-deploy.git
   branch: main
+
+markdown:
+  preset: 'default'
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+  plugins:
+    - 'markdown-it-footnote'
+    - 'markdown-it-highlightjs'
