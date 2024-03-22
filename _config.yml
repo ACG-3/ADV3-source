@@ -14,11 +14,19 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://adv.acg3.org
-#permalink: :year/:month/:day/:title/
+permalink: posts/:category/:abbrlink/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
+
+abbrlink:
+  alg: crc32  #support crc16(default) and crc32 ,crc16的最大帖子數是65535。
+  rep: hex    #support dec(default) and hex
+
+auto_dir_categorize:
+	enable: true  # options:true, false; default is true
+	force: true # options:true, false; default is false
 
 # Directory
 source_dir: source
