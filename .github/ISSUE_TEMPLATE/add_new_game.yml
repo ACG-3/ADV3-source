@@ -1,0 +1,54 @@
+name: Add Game
+title: "[Add Game]: "
+describtion: Add new game to the backup list
+labels: add game
+body:
+  - type: input
+    id: game_name
+    attributes:
+      label: 游戏原名
+      description: 请输入游戏原名！
+    validations:
+      required: true
+  - type: input
+    id: vndb_id
+    attributes:
+      label: VNDB ID
+      description: 请输入VNDB ID(可选)
+    validations:
+      required: false
+  - type: input
+    id: download_link
+    attributes:
+      label: 下载链接
+      description: 请输入游戏下载链接
+    validations:
+      required: true
+  - type: dropdown
+    id: download_platform
+    attributes:
+      label: 下载方式
+      description: 请选择下载方式
+      options:
+        - Onedrive
+        - Google Drive
+        - Baidu Pan
+        - Mega
+        - Torrent
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: download_password
+    attributes:
+      label: 下载密码
+      description: 请输入下载密码(可选)
+    validations:
+      required: false
+  - type: input
+    id: unpack_password
+    attributes:
+      label: 解压密码
+      description: 请输入解压密码(可选)
+    validations:
+      required: false
