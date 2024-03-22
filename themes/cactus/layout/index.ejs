@@ -2,6 +2,9 @@
   <% if (config.description) { %>
     <%- markdown(config.description) %>
   <% } %>
+  <% if (category_count('games')) { %>
+    <p>本项目已备份 中文化ADV <%= category_count('games') %> 个。</p>
+  <% } %>
   <% if (theme.social_links) { %>
     <p>
       <%= __('index.find_me_on') %>

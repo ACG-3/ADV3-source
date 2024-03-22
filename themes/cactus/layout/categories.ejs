@@ -1,0 +1,9 @@
+<h1>Categories</h1>
+<ul>
+  <% site.categories.forEach(function(category){ %>
+    <li>
+      <a href="<%- url_for(category.path) %>"><%= category.name %></a>
+      (<%= category.length %>)
+    </li>
+  <% }); %>
+</ul>
