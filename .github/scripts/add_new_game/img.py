@@ -13,9 +13,9 @@ def upload_to_webdav(local_file_path):
     webdav_url = 'https://pan.timero.xyz/dav/onedrive/img_lib_001/'
     webdav_username = os.getenv('WEBDAV_USERNAME')
     webdav_password = os.getenv('WEBDAV_PASSWORD')
-    file_name = local_file_path.split('/')[-1]
+    file_name = os.path.split(local_file_path)[-1]
     # remote_file_path = f'onedrive/img_lib_001/{file_name}'
-    command = f'curl -v -u {webdav_username}:{webdav_password} -T {local_file_path} {webdav_url}'
+    command = f'curl -v -u "{webdav_username}:{webdav_password}" -T "{local_file_path}" "{webdav_url}"'
     try:
         subprocess.check_output(command, shell=True, stderr=subprocess.STDOUT)
         print("Upload successful.")
@@ -95,13 +95,13 @@ def process_images(screenshots, game_title, output_folder):
     return processed_screenshots
 
 # 示例调用
-# screenshots = [
-#     {'title': 'Screenshot 1', 'url': 'https://t.vndb.org/sf/48/71248.jpg'},
-#     {'title': 'Screenshot 2', 'url': 'https://t.vndb.org/sf/49/71249.jpg'},
-#     # 更多截图...
-# ]
+screenshots = [
+    {'title': 'Screenshot 1', 'url': 'https://t.vndb.org/sf/48/71248.jpg'},
+    {'title': 'Screenshot 2', 'url': 'https://t.vndb.org/sf/49/71249.jpg'},
+    # 更多截图...
+]
 
-# game_title = "YourGameTitle"
-# output_folder = r".\img"
-# new_screenshots = process_images(screenshots, game_title, output_folder)
-# print(new_screenshots)
+game_title = "YourGameTitle"
+output_folder = r".\img"
+new_screenshots = process_images(screenshots, game_title, output_folder)
+print(new_screenshots)
