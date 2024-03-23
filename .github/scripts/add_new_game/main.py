@@ -202,13 +202,22 @@ def get_issue_number():
 
 
 def parse_issue_body(issue_body):
-    lines = issue_body.split('\n\n')
-    data = {}
-    for i in range(0, int(len(lines) / 2), 2):
-        key = issue_map.get(lines[i].strip("#").strip())
-        value = lines[i + 1].strip()
-        data[key] = value
-    return data
+    # 初始化字典来存放结果
+    result_dict = {}
+    
+    # 定义正则表达式：匹配 ### 开头的行及其后面的非###开头的行
+    # 考虑了 \r\n\r\n 和 \n\n 作为可能的分隔符
+    pattern = re.compile(r'###\s*(.*?)\r?\n\r?\n(.*?)(?=\r?\n\r?\n###|\Z)', re.DOTALL)
+    
+    # 在输入字符串中查找所有匹配项
+    matches = pattern.findall(issue_body)
+    
+    # 遍历匹配项，将它们添加到结果字典中
+    for match in matches:
+        key, value = match  # _ 用于忽略第三个捕获组，即分隔符
+        result_dict[issue_map.get(key.strip())] = value.strip()
+    
+    return result_dict
 
 md_folder_path = 'source/_posts/games'
 img_folder_path = '.github/scripts/add_new_game/img'
