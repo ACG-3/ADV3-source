@@ -10,6 +10,7 @@ webdav_username = os.getenv('WEBDAV_USERNAME')
 webdav_password = os.getenv('WEBDAV_PASSWORD')
 
 def upload_to_webdav(local_file_path):
+    global webdav_url, webdav_username, webdav_password
     file_name = local_file_path.split('\\')[-1]
     # remote_file_path = f'onedrive/img_lib_001/{file_name}'
     command = f'curl -v -u {webdav_username}:{webdav_password} -T {local_file_path} {webdav_url}'
