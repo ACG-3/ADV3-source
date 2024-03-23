@@ -165,6 +165,8 @@ def create_markdown(data):
     with open(os.path.join(md_folder_path, file_name + ".md"), 'w', encoding='utf-8') as file:
         file.write(md_content)
 
+    print (os.path.join(md_folder_path, file_name + ".md"))
+    
 def get_issue_content(issue_number):
     # 替换为你的 GitHub 仓库信息
     repo_owner = 'ACG-3'
@@ -227,3 +229,5 @@ def main():
         search_term = issue_data['game_name']
         game_data = fetch_game_info_by_name(search_term)
         create_markdown(game_data)
+        
+main()
