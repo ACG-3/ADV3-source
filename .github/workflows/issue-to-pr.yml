@@ -28,7 +28,7 @@ jobs:
       - name: Run Python script to generate Markdown
         id: generate_markdown
         run: |
-          echo "MARKDOWN_FILE=$(python .github/scripts/add_new_game/main.py ${{ github.event.issue.number }})" >> $GITHUB_ENV
+          python .github/scripts/add_new_game/main.py ${{ github.event.issue.number }}
 
 
       - name: Commit Markdown file
