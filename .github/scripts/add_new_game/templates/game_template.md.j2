@@ -40,8 +40,8 @@ date: {{ game_release_date }}
 
 其它链接：
 - [{{ download_platform }}]({{ download_url }})
-    {{ % if download_password % }}- 密码：{{ download_password }}{{ % endif % }}
-    {{ % if unpack_password % }}- 解压密码：{{ unpack_password }}{{ % endif % }}
+    {% if download_password %}- 密码：{{ download_password }}{% endif %}
+    {% if unpack_password %}- 解压密码：{{ unpack_password }}{% endif %}
 
 
 ## 游戏截图
