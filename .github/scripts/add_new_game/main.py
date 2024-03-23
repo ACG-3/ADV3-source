@@ -157,6 +157,7 @@ def create_markdown(data):
         'download_link': download_link,  # 这里添加下载链接
         'download_password': download_password,  # 这里添加下载链接的提取码
         'unpack_password': unpack_password,  # 这里添加解压密码
+        'download_platform': download_platform  # 这里添加下载平台
     }   
 
     # 生成 Markdown 内容
@@ -224,7 +225,7 @@ img_folder_path = '.github/scripts/add_new_game/img'
 
 def main():
     issue_number = get_issue_number()
-    # issue_number = 8
+    # issue_number = 12
     issue_body = get_issue_content(issue_number)
     issue_data = parse_issue_body(issue_body)
     global download_link
