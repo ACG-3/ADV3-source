@@ -1,0 +1,46 @@
+name: Issue to Markdown PR
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  WEBDAV_USERNAME: ${{ secrets.WEBDAV_USERNAME }}
+  WEBDAV_PASSWORD: ${{ secrets.WEBDAV_PASSWORD }}
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  create-markdown-and-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: pip install requests deepl Jinja2 Pillow pillow_avif_plugin
+
+      - name: Run Python script to generate Markdown
+        id: generate_markdown
+        run: |
+          echo "MARKDOWN_FILE=$(python path/to/your-script.py ${{ github.event.issue.number }})" >> $GITHUB_ENV
+
+
+      - name: Commit Markdown file
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add ${{ env.MARKDOWN_FILE }}
+          git commit -m "Add Markdown file for closed Issue #${{ github.event.issue.number }}"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          commit-message: "Add Markdown file for closed Issue #${{ github.event.issue.number }}"
+          title: "Add Markdown file for Issue #${{ github.event.issue.number }}"
+          body: "This PR adds a Markdown file generated based on the content of the closed Issue #${{ github.event.issue.number }}."
+          branch: "issue-${{ github.event.issue.number }}-markdown"

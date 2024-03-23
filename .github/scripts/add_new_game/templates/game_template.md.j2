@@ -1,0 +1,52 @@
+---
+title: "{{ game_title }}"
+date: {{ game_release_date }}
+---
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/{{ game_title_url }}.md)
+
+## 游戏封面
+
+![{{ game_title }}]({{ game_cover }})
+
+
+## 游戏名称
+
+- 日文：{{ game_title_jp }}
+- 英文：{{ game_title_en }}
+- 中文：{{ game_title_cn }}
+
+- 别名：{{ game_title_alias }}
+
+
+## 游戏信息
+
+- 时长：{{ game_length }} h
+- 开发者：{{ game_developer }}
+- 发售日期：{{ game_release_date }}
+- 游戏平台：{{ game_platform }}
+- 相关作品：{{ game_related_works }}
+
+- 相关链接：[vndb](https://vndb.org/{{ game_vndb_id }})
+
+
+## 游戏简介
+
+{{ game_description }}
+
+
+## 下载链接
+
+[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/{{ game_title_url }})
+
+其它链接：
+- [{{ download_platform }}]({{ download_url }})
+    {{ % if download_password % }}- 密码：{{ download_password }}{{ % endif % }}
+    {{ % if unpack_password % }}- 解压密码：{{ unpack_password }}{{ % endif % }}
+
+
+## 游戏截图
+
+{% for screenshot in screenshots %}
+![{{ screenshot.title }}]({{ screenshot.url }})
+{% endfor %}
+
