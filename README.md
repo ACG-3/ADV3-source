@@ -15,7 +15,7 @@ ADV3是一个易用的 中文化 视觉小说 / Galgame 备份仓库。
 - 所有的文件通过标题互相链接，您可以优雅的跳转。
     ![adv_link](https://pan.timero.xyz/d/onedrive/img_lib_001/adv3_link.gif)
 - 贡献一个游戏就像喝水一样简单，您只需要提交一个简单的issue，自动化脚本将为您生成一个完整的pr。
-    ![adv_issue_template](https://pan.timero.xyz/d/onedrive/img_lib_001/adv_issue_template.webp)
+    ![adv_issue_template](https://pan.timero.xyz/d/onedrive/img_lib_001/adv_issue_template.png)
 - ……
 
 ## 如何贡献
