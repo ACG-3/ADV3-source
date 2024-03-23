@@ -8,8 +8,6 @@ import pillow_avif  # 确保导入pillow_avif插件
 webdav_url = 'https://pan.timero.xyz/dav/onedrive/img_lib_001/'
 webdav_username = os.getenv('WEBDAV_USERNAME')
 webdav_password = os.getenv('WEBDAV_PASSWORD')
-# username = 'admin'
-# password = '7V4OeajR'
 
 def upload_to_webdav(local_file_path):
     file_name = local_file_path.split('\\')[-1]
