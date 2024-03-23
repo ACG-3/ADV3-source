@@ -133,6 +133,8 @@ def create_markdown(data):
     game_title = game_title_jp if game_title_jp != None else data['results'][0]['title']
     clean_game_title = escape_double_quotes(game_title)
     
+    file_name = sanitize_file_name(game_title)
+    
     # 准备数据（根据实际 API 返回的数据结构调整）
     game_data = {
         'game_title_url': urllib.parse.quote(file_name),
@@ -159,7 +161,7 @@ def create_markdown(data):
     # 生成 Markdown 内容
     md_content = template.render(game_data)
 
-    file_name = sanitize_file_name(game_title)
+    # file_name = sanitize_file_name(game_title)
 
     # 保存 Markdown 文件
     with open(os.path.join(md_folder_path, file_name + ".md"), 'w', encoding='utf-8') as file:
