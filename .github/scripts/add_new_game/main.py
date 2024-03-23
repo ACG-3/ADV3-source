@@ -174,7 +174,7 @@ def get_issue_content(issue_number):
     token = os.getenv('GITHUB_TOKEN')
 
     headers = {
-        'Authorization': f'token {token}',
+        # 'Authorization': f'token {token}',
         'Accept': 'application/vnd.github.v3+json'
     }
     url = f'https://api.github.com/repos/{repo_owner}/{repo_name}/issues/{issue_number}'
@@ -199,13 +199,12 @@ def get_issue_number():
 
 
 def parse_issue_body(issue_body):
-    lines = issue_body.split('\n')
+    lines = issue_body.split('\n\n')
     data = {}
-    for line in lines:
-        if ': ' in line:
-            key, value = line.split(': ', 1)
-            key = issue_map.get(key.strip('#').strip())
-            data[key] = value.strip()
+    for i in range(0, len(lines), 2):
+        key = issue_map.get(lines[i].strip("#").strip())
+        value = lines[i + 1].strip()
+        data[key] = value
     return data
 
 md_folder_path = 'source/_posts/games'
@@ -213,6 +212,7 @@ img_folder_path = './images'
 
 def main():
     issue_number = get_issue_number()
+    # issue_number = 8
     issue_body = get_issue_content(issue_number)
     issue_data = parse_issue_body(issue_body)
     global download_link
