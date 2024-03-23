@@ -4,6 +4,7 @@ env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   WEBDAV_USERNAME: ${{ secrets.WEBDAV_USERNAME }}
   WEBDAV_PASSWORD: ${{ secrets.WEBDAV_PASSWORD }}
+  DEEPL_AUTH_KEY: ${{ secrets.DEEPL_AUTH_KEY }}
 
 on:
   issues:

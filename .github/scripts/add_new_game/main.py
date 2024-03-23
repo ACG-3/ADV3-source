@@ -10,7 +10,7 @@ import json
 
 from img import process_images, process_single_image
 
-auth_key = 'c474cf90-a2b2-e972-b146-44a194b63d13:fx'  # 你的 DeepL API Key
+auth_key = os.getenv('DEEPL_AUTH_KEY')  # 你的 DeepL API Key
 
 relation_map = {
     'orig': '原作',
@@ -98,7 +98,7 @@ def translate_text_with_deepl(text, auth_key):
 
 def create_markdown(data):
     # 配置 Jinja2 环境
-    env = Environment(loader=FileSystemLoader(r'./templates'))
+    env = Environment(loader=FileSystemLoader(r'.github/scripts/add_new_game/templates'))
     template = env.get_template('game_template.md.j2')
     
     # 获取游戏描述并清理
