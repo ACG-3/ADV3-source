@@ -210,7 +210,7 @@ def parse_issue_body(issue_body):
     return data
 
 md_folder_path = 'source/_posts/games'
-img_folder_path = './images'
+img_folder_path = '.github/scripts/add_new_game/img'
 
 def main():
     issue_number = get_issue_number()
