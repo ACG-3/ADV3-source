@@ -3,6 +3,7 @@ from PIL import Image
 import os
 from io import BytesIO
 import subprocess
+import urllib.parse
 import pillow_avif  # 确保导入pillow_avif插件
 
 # webdav_url = 'https://pan.timero.xyz/dav/onedrive/img_lib_001/'
@@ -19,7 +20,7 @@ def upload_to_webdav(local_file_path):
     try:
         subprocess.check_output(command, shell=True, stderr=subprocess.STDOUT)
         print("Upload successful.")
-        return f"https://pan.timero.xyz/onedrive/img_lib_001/{file_name}"
+        return urllib.parse.quote(f"https://pan.timero.xyz/onedrive/img_lib_001/{file_name}")
     except subprocess.CalledProcessError as e:
         print("Error occurred:", e.output.decode())
 
@@ -95,13 +96,13 @@ def process_images(screenshots, game_title, output_folder):
     return processed_screenshots
 
 # 示例调用
-screenshots = [
-    {'title': 'Screenshot 1', 'url': 'https://t.vndb.org/sf/48/71248.jpg'},
-    {'title': 'Screenshot 2', 'url': 'https://t.vndb.org/sf/49/71249.jpg'},
-    # 更多截图...
-]
+# screenshots = [
+#     {'title': 'Screenshot 1', 'url': 'https://t.vndb.org/sf/48/71248.jpg'},
+#     {'title': 'Screenshot 2', 'url': 'https://t.vndb.org/sf/49/71249.jpg'},
+#     # 更多截图...
+# ]
 
-game_title = "YourGameTitle"
-output_folder = r".\img"
-new_screenshots = process_images(screenshots, game_title, output_folder)
-print(new_screenshots)
+# game_title = "YourGameTitle"
+# output_folder = r".\img"
+# new_screenshots = process_images(screenshots, game_title, output_folder)
+# print(new_screenshots)

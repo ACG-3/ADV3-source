@@ -204,7 +204,7 @@ def get_issue_number():
 def parse_issue_body(issue_body):
     lines = issue_body.split('\n\n')
     data = {}
-    for i in range(0, len(lines), 2):
+    for i in range(0, len(lines) / 2, 2):
         key = issue_map.get(lines[i].strip("#").strip())
         value = lines[i + 1].strip()
         data[key] = value
