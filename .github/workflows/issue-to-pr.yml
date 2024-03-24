@@ -5,6 +5,7 @@ env:
   WEBDAV_USERNAME: ${{ secrets.WEBDAV_USERNAME }}
   WEBDAV_PASSWORD: ${{ secrets.WEBDAV_PASSWORD }}
   DEEPL_AUTH_KEY: ${{ secrets.DEEPL_AUTH_KEY }}
+  ISSUE_NUMBER: ${{ github.event.issue.number }}
 
 on:
   issues:

@@ -195,11 +195,11 @@ issue_map = {
     '下载密码': 'download_password'
 }
 
-def get_issue_number():
-    event_path = os.getenv('GITHUB_EVENT_PATH')
-    with open(event_path) as event_file:
-        event_data = json.load(event_file)
-        return event_data['issue']['number']
+# def get_issue_number():
+#     event_path = os.getenv('GITHUB_EVENT_PATH')
+#     with open(event_path) as event_file:
+#         event_data = json.load(event_file)
+#         return event_data['issue']['number']
 
 
 def parse_issue_body(issue_body):
@@ -224,7 +224,7 @@ md_folder_path = 'source/_posts/games'
 img_folder_path = '.github/scripts/add_new_game/img'
 
 def main():
-    issue_number = get_issue_number()
+    issue_number = os.getenv('ISSUE_NUMBER')
     # issue_number = 12
     issue_body = get_issue_content(issue_number)
     issue_data = parse_issue_body(issue_body)
