@@ -1,0 +1,56 @@
+---
+title: "TS魔法少女なお!2nd!!"
+date: 2019-05-24
+---
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%212nd%21%21.md)
+
+## 游戏封面
+
+![TS魔法少女なお!2nd!!](https%3A//pan.timero.xyz/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%212nd%21%21_cover.avif)
+
+
+## 游戏名称
+
+- 日文：TS魔法少女なお!2nd!!
+- 英文：None
+- 中文：None
+
+- 别名：
+
+
+## 游戏信息
+
+- 时长：none h
+- 开发者：Crooked Navel
+- 发售日期：2019-05-24
+- 游戏平台：win
+- 相关作品：
+   - 前作：TS魔法少女なお!
+   - 旁支：TS魔法少女なお!2nd!!-ラピスオムニバス-
+
+- 相关链接：[vndb](https://vndb.org/v25820)
+
+
+## 游戏简介
+
+暂无描述
+
+
+## 下载链接
+
+[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%212nd%21%21)
+
+
+## 游戏截图
+
+
+![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%212nd%21%21_Screenshot_1.avif)
+
+![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%212nd%21%21_Screenshot_2.avif)
+
+![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%212nd%21%21_Screenshot_3.avif)
+
+![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%212nd%21%21_Screenshot_4.avif)
+
+![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%212nd%21%21_Screenshot_5.avif)
+
