@@ -2,7 +2,7 @@
 title: "CHAOS;HEAD NOAH"
 date: 2009-02-26
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/CHAOS%3BHEAD%20NOAH.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CHAOS%3BHEAD%20NOAH.md)
 
 ## 游戏封面
 
