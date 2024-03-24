@@ -47,11 +47,6 @@ Chaos;Head NoAH》是《Chaos;Head》的导演剪辑版，增加了 6 条新路�
 
 [点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/CHAOS%3BHEAD%20NOAH)
 
-其它链接：
-- [Onedrive](xxx)
-    - 密码：_No response_
-    - 解压密码：_No response_
-
 
 ## 游戏截图
 
