@@ -1,6 +1,7 @@
 ---
-title: "Re:birth colony -Lost azurite-"
-date: 2012-09-28
+title: 'Re:birth colony -Lost azurite-'
+abbrlink: af1ef215
+date: 2012-09-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Rebirth%20colony%20-Lost%20azurite-.md)
 

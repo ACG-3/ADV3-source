@@ -1,6 +1,7 @@
 ---
-title: "Synergia"
-date: 2020-07-27
+title: Synergia
+abbrlink: a6731c31
+date: 2020-07-27 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Synergia.md)
 

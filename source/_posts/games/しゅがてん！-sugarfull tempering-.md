@@ -1,6 +1,7 @@
 ---
-title: "しゅがてん！-sugarfull tempering-"
-date: 2017-02-24
+title: しゅがてん！-sugarfull tempering-
+abbrlink: 84ce0bce
+date: 2017-02-24 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-.md)
 

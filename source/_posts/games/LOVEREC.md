@@ -1,6 +1,7 @@
 ---
-title: "Click Here For Love: Reconnected"
-date: 2009-07-16
+title: 'Click Here For Love: Reconnected'
+abbrlink: c2aa56b3
+date: 2009-07-16 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LOVEREC.md)
 

@@ -1,6 +1,7 @@
 ---
-title: "LEWDNESS ~Vita Sexualis~"
-date: 2012-06-22
+title: LEWDNESS ~Vita Sexualis~
+abbrlink: 5d6f5a54
+date: 2012-06-22 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LEWDNESS%20~Vita%20Sexualis~.md)
 

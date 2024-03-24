@@ -1,6 +1,7 @@
 ---
-title: "Tropical Liquor"
-date: 2018-03-09
+title: Tropical Liquor
+abbrlink: f639a091
+date: 2018-03-09 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Tropical%20Liquor.md)
 

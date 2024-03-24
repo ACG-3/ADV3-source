@@ -1,6 +1,7 @@
 ---
-title: "カオスヘッド らぶChu☆Chu!"
-date: 2010-03-25
+title: カオスヘッド らぶChu☆Chu!
+abbrlink: 352207b8
+date: 2010-03-25 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%AB%E3%82%AA%E3%82%B9%E3%83%98%E3%83%83%E3%83%89%20%E3%82%89%E3%81%B6Chu%E2%98%86Chu%21.md)
 

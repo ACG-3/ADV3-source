@@ -1,6 +1,7 @@
 ---
-title: "ToHeart2"
-date: 2004-12-28
+title: ToHeart2
+abbrlink: 2c02af4f
+date: 2004-12-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ToHeart2.md)
 

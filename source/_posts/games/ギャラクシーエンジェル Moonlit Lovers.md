@@ -1,6 +1,7 @@
 ---
-title: "ギャラクシーエンジェル"
-date: 2002-08-23
+title: ギャラクシーエンジェル
+abbrlink: bbdc8f2c
+date: 2002-08-23 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%AE%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%BC%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%20Moonlit%20Lovers.md)
 

@@ -1,6 +1,7 @@
 ---
-title: "催眠学習 -Secret Desire-"
-date: 2021-03-26
+title: 催眠学習 -Secret Desire-
+abbrlink: f3cae6e1
+date: 2021-03-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-.md)
 

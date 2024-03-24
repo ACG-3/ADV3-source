@@ -1,6 +1,7 @@
 ---
-title: "プリンセスメーカー4"
-date: 2005-09-01
+title: プリンセスメーカー4
+abbrlink: d2c19c3c
+date: 2005-09-01 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Princess%20Maker.md)
 

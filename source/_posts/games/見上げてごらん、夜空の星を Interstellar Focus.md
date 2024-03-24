@@ -1,6 +1,7 @@
 ---
-title: "見上げてごらん、夜空の星を Interstellar Focus"
-date: 2018-06-29
+title: 見上げてごらん、夜空の星を Interstellar Focus
+abbrlink: 1cb0f2e7
+date: 2018-06-29 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%A6%8B%E4%B8%8A%E3%81%92%E3%81%A6%E3%81%94%E3%82%89%E3%82%93%E3%80%81%E5%A4%9C%E7%A9%BA%E3%81%AE%E6%98%9F%E3%82%92%20Interstellar%20Focus.md)
 

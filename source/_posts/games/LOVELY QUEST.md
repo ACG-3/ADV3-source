@@ -1,6 +1,7 @@
 ---
-title: "LOVELY QUEST"
-date: 2012-09-28
+title: LOVELY QUEST
+abbrlink: 96b1d23a
+date: 2012-09-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LOVELY%20QUEST.md)
 

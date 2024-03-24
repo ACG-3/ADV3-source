@@ -1,6 +1,7 @@
 ---
-title: "planetarian ～ちいさなほしのゆめ～"
-date: 2004-11-29
+title: planetarian ～ちいさなほしのゆめ～
+abbrlink: ed5740d5
+date: 2004-11-29 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/planetarian%20%EF%BD%9E%E3%81%A1%E3%81%84%E3%81%95%E3%81%AA%E3%81%BB%E3%81%97%E3%81%AE%E3%82%86%E3%82%81%EF%BD%9E.md)
 

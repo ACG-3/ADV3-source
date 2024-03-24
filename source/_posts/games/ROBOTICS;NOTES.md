@@ -1,6 +1,7 @@
 ---
-title: "ROBOTICS;NOTES"
-date: 2012-06-28
+title: ROBOTICS;NOTES
+abbrlink: 3dfa372a
+date: 2012-06-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ROBOTICS%3BNOTES.md)
 

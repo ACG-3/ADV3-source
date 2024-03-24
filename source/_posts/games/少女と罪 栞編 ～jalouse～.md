@@ -1,6 +1,7 @@
 ---
-title: "少女と罪 栞編 ～jalouse～"
-date: 2019-09-19
+title: 少女と罪 栞編 ～jalouse～
+abbrlink: d7b440f2
+date: 2019-09-19 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%B0%91%E5%A5%B3%E3%81%A8%E7%BD%AA%20%E6%A0%9E%E7%B7%A8%20%EF%BD%9Ejalouse%EF%BD%9E.md)
 

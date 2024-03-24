@@ -1,6 +1,7 @@
 ---
-title: "Rewrite"
-date: 2011-06-24
+title: Rewrite
+abbrlink: ca56344b
+date: 2011-06-24 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Rewrite.md)
 

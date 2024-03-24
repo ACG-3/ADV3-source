@@ -1,6 +1,7 @@
 ---
-title: "涼風のメルト -Where wishes are drawn to each other-"
-date: 2010-08-27
+title: 涼風のメルト -Where wishes are drawn to each other-
+abbrlink: 2f46ee43
+date: 2010-08-27 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-.md)
 

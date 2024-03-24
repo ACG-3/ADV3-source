@@ -1,6 +1,7 @@
 ---
-title: "月は東に日は西に ～Operation Sanctuary～"
-date: 2003-09-26
+title: 月は東に日は西に ～Operation Sanctuary～
+abbrlink: 182f9364
+date: 2003-09-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%9C%88%E3%81%AF%E6%9D%B1%E3%81%AB%E6%97%A5%E3%81%AF%E8%A5%BF%E3%81%AB%20%EF%BD%9EOperation%20Sanctuary%EF%BD%9E.md)
 

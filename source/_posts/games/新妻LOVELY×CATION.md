@@ -1,6 +1,7 @@
 ---
-title: "新妻LOVELY×CATION"
-date: 2017-04-28
+title: 新妻LOVELY×CATION
+abbrlink: 4f654ca0
+date: 2017-04-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%96%B0%E5%A6%BBLOVELY%C3%97CATION.md)
 

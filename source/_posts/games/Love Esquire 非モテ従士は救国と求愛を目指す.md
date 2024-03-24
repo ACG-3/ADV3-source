@@ -1,6 +1,7 @@
 ---
-title: "Love Esquire 非モテ従士は救国と求愛を目指す"
-date: 2019-10-08
+title: Love Esquire 非モテ従士は救国と求愛を目指す
+abbrlink: f8908290
+date: 2019-10-08 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99.md)
 

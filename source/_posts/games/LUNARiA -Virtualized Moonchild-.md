@@ -1,6 +1,7 @@
 ---
-title: "LUNARiA -Virtualized Moonchild-"
-date: 2021-12-24
+title: LUNARiA -Virtualized Moonchild-
+abbrlink: fc4c4d7f
+date: 2021-12-24 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LUNARiA%20-Virtualized%20Moonchild-.md)
 

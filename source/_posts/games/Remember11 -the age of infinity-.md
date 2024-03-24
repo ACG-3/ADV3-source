@@ -1,6 +1,7 @@
 ---
-title: "Remember11 -the age of infinity-"
-date: 2004-03-18
+title: Remember11 -the age of infinity-
+abbrlink: f84cb5b6
+date: 2004-03-18 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Remember11%20-the%20age%20of%20infinity-.md)
 

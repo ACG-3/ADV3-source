@@ -1,6 +1,7 @@
 ---
-title: "LoveKami -Sweet Stars-"
-date: 2016-12-16
+title: LoveKami -Sweet Stars-
+abbrlink: 713d44e2
+date: 2016-12-16 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LoveKami%20-Trouble%20Goddess-.md)
 

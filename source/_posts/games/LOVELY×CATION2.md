@@ -1,6 +1,7 @@
 ---
-title: "LOVELY×CATION2"
-date: 2013-04-26
+title: LOVELY×CATION2
+abbrlink: 34802f9d
+date: 2013-04-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LOVELY%C3%97CATION2.md)
 

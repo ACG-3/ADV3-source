@@ -1,6 +1,7 @@
 ---
-title: "Yuuki's Party Night"
-date: 2020-02-21
+title: Yuuki's Party Night
+abbrlink: df4838cf
+date: 2020-02-21 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Yuuki%27s%20Party%20Night.md)
 

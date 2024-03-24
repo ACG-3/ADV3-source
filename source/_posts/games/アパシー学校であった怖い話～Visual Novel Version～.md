@@ -1,6 +1,7 @@
 ---
-title: "アパシー学校であった怖い話～Visual Novel Version～"
-date: 2007-08-17
+title: アパシー学校であった怖い話～Visual Novel Version～
+abbrlink: 3e90982c
+date: 2007-08-17 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E.md)
 

@@ -1,6 +1,7 @@
 ---
-title: "Lunaris Filia～キスと契約と深紅の瞳～"
-date: 2011-09-30
+title: Lunaris Filia～キスと契約と深紅の瞳～
+abbrlink: 4f5c122a
+date: 2011-09-30 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E.md)
 

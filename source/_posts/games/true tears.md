@@ -1,6 +1,7 @@
 ---
-title: "true tears"
-date: 2006-03-31
+title: true tears
+abbrlink: 6555849c
+date: 2006-03-31 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/true%20tears.md)
 

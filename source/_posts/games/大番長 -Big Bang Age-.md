@@ -1,6 +1,7 @@
 ---
-title: "大番長 -Big Bang Age-"
-date: 2003-12-19
+title: 大番長 -Big Bang Age-
+abbrlink: e861def6
+date: 2003-12-19 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-.md)
 

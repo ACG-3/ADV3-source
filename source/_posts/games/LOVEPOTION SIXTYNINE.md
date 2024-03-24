@@ -1,6 +1,7 @@
 ---
-title: "LOVEPOTION SIXTYNINE"
-date: 2013-12-31
+title: LOVEPOTION SIXTYNINE
+abbrlink: acd079c1
+date: 2013-12-31 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LOVEPOTION%20SIXTYNINE.md)
 

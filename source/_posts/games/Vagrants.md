@@ -1,6 +1,7 @@
 ---
-title: "Vagrants"
-date: 2003-12-26
+title: Vagrants
+abbrlink: ec5040c
+date: 2003-12-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Vagrants.md)
 

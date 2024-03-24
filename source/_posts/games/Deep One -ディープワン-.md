@@ -1,6 +1,7 @@
 ---
-title: "Deep One -ディープワン-"
-date: 2018-10-26
+title: Deep One -ディープワン-
+abbrlink: 3d0879a0
+date: 2018-10-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Deep%20One%20-%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%AF%E3%83%B3-.md)
 

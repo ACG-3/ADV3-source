@@ -1,6 +1,7 @@
 ---
-title: "ToHeart2 AnotherDays"
-date: 2008-02-29
+title: ToHeart2 AnotherDays
+abbrlink: 596e5a61
+date: 2008-02-29 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ToHeart2%20AnotherDays.md)
 

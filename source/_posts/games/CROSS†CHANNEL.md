@@ -1,6 +1,7 @@
 ---
-title: "CROSS†CHANNEL"
-date: 2003-09-26
+title: CROSS†CHANNEL
+abbrlink: 5abff38
+date: 2003-09-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CROSS%E2%80%A0CHANNEL.md)
 

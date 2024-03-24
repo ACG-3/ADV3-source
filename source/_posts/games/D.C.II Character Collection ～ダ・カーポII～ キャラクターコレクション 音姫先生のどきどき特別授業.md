@@ -1,6 +1,7 @@
 ---
-title: "D.C.II Character Collection ～ダ・カーポII～ キャラクターコレクション 音姫先生のどきどき特別授業"
-date: 2008-11-14
+title: D.C.II Character Collection ～ダ・カーポII～ キャラクターコレクション 音姫先生のどきどき特別授業
+abbrlink: fe2e1f1a
+date: 2008-11-14 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/D.C.II%20Character%20Collection%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%20%E9%9F%B3%E5%A7%AB%E5%85%88%E7%94%9F%E3%81%AE%E3%81%A9%E3%81%8D%E3%81%A9%E3%81%8D%E7%89%B9%E5%88%A5%E6%8E%88%E6%A5%AD.md)
 

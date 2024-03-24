@@ -1,6 +1,7 @@
 ---
-title: "奴隷との生活 -Teaching Feeling-"
-date: 2015-10-09
+title: 奴隷との生活 -Teaching Feeling-
+abbrlink: '82666344'
+date: 2015-10-09 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A5%B4%E9%9A%B7%E3%81%A8%E3%81%AE%E7%94%9F%E6%B4%BB%20-Teaching%20Feeling-.md)
 

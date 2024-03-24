@@ -1,6 +1,7 @@
 ---
-title: "Hello 殺戮 world -ZERO ONE-"
-date: 2017-11-25
+title: Hello 殺戮 world -ZERO ONE-
+abbrlink: 84df9b02
+date: 2017-11-25 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Hello%20%E6%AE%BA%E6%88%AE%20world%20-ZERO%20ONE-.md)
 

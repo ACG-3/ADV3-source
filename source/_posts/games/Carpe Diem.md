@@ -1,6 +1,7 @@
 ---
-title: "Carpe diem -カルペ・ディエム-"
-date: 2011-12-20
+title: Carpe diem -カルペ・ディエム-
+abbrlink: 68d8cbe7
+date: 2011-12-20 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Carpe%20Diem.md)
 

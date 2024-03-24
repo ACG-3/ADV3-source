@@ -1,6 +1,7 @@
 ---
-title: "天使ノ二挺拳銃 -Angelos Armas-"
-date: 2005-01-28
+title: 天使ノ二挺拳銃 -Angelos Armas-
+abbrlink: a4dd9486
+date: 2005-01-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%A9%E4%BD%BF%E3%83%8E%E4%BA%8C%E6%8C%BA%E6%8B%B3%E9%8A%83%20-Angelos%20Armas-.md)
 

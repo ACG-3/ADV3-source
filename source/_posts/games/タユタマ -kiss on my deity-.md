@@ -1,6 +1,7 @@
 ---
-title: "ef - a fairy tale of the two."
-date: 2006-12-22
+title: ef - a fairy tale of the two.
+abbrlink: cb292c13
+date: 2006-12-22 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-.md)
 

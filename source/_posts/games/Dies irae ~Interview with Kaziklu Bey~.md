@@ -1,6 +1,7 @@
 ---
-title: "Dies irae ~Interview with Kaziklu Bey~"
-date: 2016-03-25
+title: Dies irae ~Interview with Kaziklu Bey~
+abbrlink: 1efc8bdd
+date: 2016-03-25 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Dies%20irae%20~Interview%20with%20Kaziklu%20Bey~.md)
 

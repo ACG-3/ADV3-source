@@ -1,6 +1,7 @@
 ---
-title: "智代アフター ～It’s a Wonderful Life～"
-date: 2005-11-25
+title: 智代アフター ～It’s a Wonderful Life～
+abbrlink: 669787a6
+date: 2005-11-25 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%99%BA%E4%BB%A3%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20%EF%BD%9EIt%E2%80%99s%20a%20Wonderful%20Life%EF%BD%9E.md)
 

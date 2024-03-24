@@ -1,6 +1,7 @@
 ---
-title: "Clover Day's"
-date: 2014-03-28
+title: Clover Day's
+abbrlink: 47e3870a
+date: 2014-03-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Clover%20Day%27s.md)
 

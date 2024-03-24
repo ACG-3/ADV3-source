@@ -1,6 +1,7 @@
 ---
-title: "Tiny Dungeon ~BIRTH for YOURS~"
-date: 2011-07-29
+title: Tiny Dungeon ~BIRTH for YOURS~
+abbrlink: acdd0f96
+date: 2011-07-29 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Tiny%20Dungeon%20~BIRTH%20for%20YOURS~.md)
 

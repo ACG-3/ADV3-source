@@ -1,6 +1,7 @@
 ---
-title: "Little Sick Girls ～桃蜜は妹の香り～"
-date: 2020-05-29
+title: Little Sick Girls ～桃蜜は妹の香り～
+abbrlink: 8a2fddd7
+date: 2020-05-29 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Little%20Sick%20Girls%20%EF%BD%9E%E6%A1%83%E8%9C%9C%E3%81%AF%E5%A6%B9%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E.md)
 

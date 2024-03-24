@@ -1,6 +1,7 @@
 ---
-title: "あいたくて… 〜your smiles in my heart〜"
-date: 2000-03-16
+title: あいたくて… 〜your smiles in my heart〜
+abbrlink: cdfff53
+date: 2000-03-16 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Your%20Diary.md)
 

@@ -1,6 +1,7 @@
 ---
-title: "消えた世界と月と少女-The world was prayed by the girl living a thousand years-"
-date: 2018-03-23
+title: 消えた世界と月と少女-The world was prayed by the girl living a thousand years-
+abbrlink: bb986b09
+date: 2018-03-23 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-.md)
 

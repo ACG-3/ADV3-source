@@ -1,6 +1,7 @@
 ---
-title: "CURE GIRL"
-date: 2011-05-20
+title: CURE GIRL
+abbrlink: b8a17e2d
+date: 2011-05-20 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CURE%20GIRL.md)
 

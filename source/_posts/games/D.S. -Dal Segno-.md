@@ -1,6 +1,7 @@
 ---
-title: "D.S. -Dal Segno-"
-date: 2016-04-28
+title: D.S. -Dal Segno-
+abbrlink: 38f35954
+date: 2016-04-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/D.S.%20-Dal%20Segno-.md)
 

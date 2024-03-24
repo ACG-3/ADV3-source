@@ -1,6 +1,7 @@
 ---
-title: "Izumo"
-date: 2001-12-21
+title: Izumo
+abbrlink: c8274e45
+date: 2001-12-21 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Izumo%202.md)
 

@@ -1,6 +1,7 @@
 ---
-title: "planetarian～雪圏球～"
-date: 2021-09-03
+title: planetarian～雪圏球～
+abbrlink: a9c6fc46
+date: 2021-09-03 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/planetarian%EF%BD%9E%E9%9B%AA%E5%9C%8F%E7%90%83%EF%BD%9E.md)
 

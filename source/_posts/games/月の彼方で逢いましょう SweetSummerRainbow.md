@@ -1,6 +1,7 @@
 ---
-title: "月の彼方で逢いましょう SweetSummerRainbow"
-date: 2020-05-29
+title: 月の彼方で逢いましょう SweetSummerRainbow
+abbrlink: 6bf491e1
+date: 2020-05-29 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow.md)
 

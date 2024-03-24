@@ -1,6 +1,7 @@
 ---
-title: "月光のカルネヴァーレ"
-date: 2007-01-26
+title: 月光のカルネヴァーレ
+abbrlink: 521cb398
+date: 2007-01-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CARNIVAL.md)
 

@@ -1,6 +1,7 @@
 ---
-title: "この世の果てで恋を唄う少女YU-NO"
-date: 1996-12-26
+title: この世の果てで恋を唄う少女YU-NO
+abbrlink: cdd6fd6c
+date: 1996-12-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO.md)
 

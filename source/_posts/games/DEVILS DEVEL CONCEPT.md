@@ -1,6 +1,7 @@
 ---
-title: "DEVILS DEVEL CONCEPT"
-date: 2009-02-26
+title: DEVILS DEVEL CONCEPT
+abbrlink: c3e3200a
+date: 2009-02-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/DEVILS%20DEVEL%20CONCEPT.md)
 

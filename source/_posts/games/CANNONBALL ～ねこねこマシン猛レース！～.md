@@ -1,6 +1,7 @@
 ---
-title: "CANNONBALL ～ねこねこマシン猛レース！～"
-date: 2003-02-07
+title: CANNONBALL ～ねこねこマシン猛レース！～
+abbrlink: c836ac06
+date: 2003-02-07 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E.md)
 

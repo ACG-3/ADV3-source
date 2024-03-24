@@ -1,6 +1,7 @@
 ---
-title: "CHAOS;CHILD"
-date: 2014-12-18
+title: CHAOS;CHILD
+abbrlink: ff512b93
+date: 2014-12-18 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CHAOS%3BCHILD.md)
 

@@ -1,6 +1,7 @@
 ---
-title: "Tiny Dungeon ~BLESS of DRAGON~"
-date: 2010-12-24
+title: Tiny Dungeon ~BLESS of DRAGON~
+abbrlink: 60e5e44e
+date: 2010-12-24 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Tiny%20Dungeon%20~BLESS%20of%20DRAGON~.md)
 

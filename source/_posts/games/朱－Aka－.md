@@ -1,6 +1,7 @@
 ---
-title: "朱－Aka－"
-date: 2003-06-13
+title: 朱－Aka－
+abbrlink: '33e86354'
+date: 2003-06-13 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D.md)
 

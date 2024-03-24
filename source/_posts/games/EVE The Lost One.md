@@ -1,6 +1,7 @@
 ---
-title: "DESIRE 背徳の螺旋"
-date: 1994-07-22
+title: DESIRE 背徳の螺旋
+abbrlink: bb58a312
+date: 1994-07-22 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/EVE%20The%20Lost%20One.md)
 

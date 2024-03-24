@@ -1,6 +1,7 @@
 ---
-title: "D.C.II ～ダ・カーポII～ 春風のアルティメットバトル!"
-date: 2006-04-15
+title: D.C.II ～ダ・カーポII～ 春風のアルティメットバトル!
+abbrlink: 4538f359
+date: 2006-04-15 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21.md)
 

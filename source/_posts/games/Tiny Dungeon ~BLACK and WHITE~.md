@@ -1,6 +1,7 @@
 ---
-title: "Tiny Dungeon ~BLACK and WHITE~"
-date: 2010-06-25
+title: Tiny Dungeon ~BLACK and WHITE~
+abbrlink: fee0716c
+date: 2010-06-25 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Tiny%20Dungeon%20~BLACK%20and%20WHITE~.md)
 

@@ -1,6 +1,7 @@
 ---
-title: "EVE ZERO"
-date: 2000-03-30
+title: EVE ZERO
+abbrlink: 6601b88c
+date: 2000-03-30 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/EVE%20ZERO.md)
 

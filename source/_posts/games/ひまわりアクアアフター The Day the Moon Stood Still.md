@@ -1,6 +1,7 @@
 ---
-title: "ひまわりアクアアフター The Day the Moon Stood Still"
-date: 2010-08-14
+title: ひまわりアクアアフター The Day the Moon Stood Still
+abbrlink: 81c0c774
+date: 2010-08-14 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still.md)
 

@@ -1,6 +1,7 @@
 ---
-title: "TRUE REMEMBRANCE"
-date: 2003-05-11
+title: TRUE REMEMBRANCE
+abbrlink: 7ac75343
+date: 2003-05-11 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/TRUE%20REMEMBRANCE.md)
 

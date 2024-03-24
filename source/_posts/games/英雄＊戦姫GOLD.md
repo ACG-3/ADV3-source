@@ -1,6 +1,7 @@
 ---
-title: "英雄＊戦姫GOLD"
-date: 2014-03-28
+title: 英雄＊戦姫GOLD
+abbrlink: 674724eb
+date: 2014-03-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%8B%B1%E9%9B%84%EF%BC%8A%E6%88%A6%E5%A7%ABGOLD.md)
 

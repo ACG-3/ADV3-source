@@ -1,6 +1,7 @@
 ---
-title: "ChronoBox -クロノボックス-"
-date: 2017-05-26
+title: ChronoBox -クロノボックス-
+abbrlink: d74a09ba
+date: 2017-05-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-.md)
 

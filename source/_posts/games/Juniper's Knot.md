@@ -1,6 +1,7 @@
 ---
-title: "Juniper's Knot"
-date: 2012-04-12
+title: Juniper's Knot
+abbrlink: fce0f72d
+date: 2012-04-12 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Juniper%27s%20Knot.md)
 

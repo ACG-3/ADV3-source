@@ -1,6 +1,7 @@
 ---
-title: "Rewrite Harvest festa!"
-date: 2012-07-27
+title: Rewrite Harvest festa!
+abbrlink: 193999a1
+date: 2012-07-27 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Rewrite%20Harvest%20festa%21.md)
 

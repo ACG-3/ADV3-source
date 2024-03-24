@@ -1,6 +1,7 @@
 ---
-title: "天秤のLa DEA。 ～戦女神MEMORIA～"
-date: 2014-04-25
+title: 天秤のLa DEA。 ～戦女神MEMORIA～
+abbrlink: b4388b3a
+date: 2014-04-25 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%A9%E7%A7%A4%E3%81%AELa%20DEA%E3%80%82%20%EF%BD%9E%E6%88%A6%E5%A5%B3%E7%A5%9EMEMORIA%EF%BD%9E.md)
 

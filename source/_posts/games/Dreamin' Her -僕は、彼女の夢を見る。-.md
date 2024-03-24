@@ -1,6 +1,7 @@
 ---
-title: "Dreamin' Her -僕は、彼女の夢を見る。-"
-date: 2022-04-28
+title: Dreamin' Her -僕は、彼女の夢を見る。-
+abbrlink: 3f3b4285
+date: 2022-04-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-.md)
 

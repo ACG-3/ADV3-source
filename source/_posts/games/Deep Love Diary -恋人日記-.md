@@ -1,6 +1,7 @@
 ---
-title: "Deep Love Diary -恋人日記-"
-date: 2016-10-28
+title: Deep Love Diary -恋人日記-
+abbrlink: afa1fed8
+date: 2016-10-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Deep%20Love%20Diary%20-%E6%81%8B%E4%BA%BA%E6%97%A5%E8%A8%98-.md)
 

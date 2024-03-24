@@ -1,6 +1,7 @@
 ---
-title: "タユタマ -It's happy days-"
-date: 2009-05-29
+title: タユタマ -It's happy days-
+abbrlink: 7c8d99e1
+date: 2009-05-29 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-.md)
 

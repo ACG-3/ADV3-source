@@ -1,6 +1,7 @@
 ---
-title: "りりくる Rainbow Stage!!!"
-date: 2016-04-28
+title: りりくる Rainbow Stage!!!
+abbrlink: '22e57885'
+date: 2016-04-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%8A%E3%82%8A%E3%81%8F%E3%82%8B%20Rainbow%20Stage%21%21%21.md)
 

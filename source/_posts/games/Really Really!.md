@@ -1,6 +1,7 @@
 ---
-title: "Tick! Tack!"
-date: 2005-09-16
+title: Tick! Tack!
+abbrlink: c6e32844
+date: 2005-09-16 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Really%20Really%21.md)
 

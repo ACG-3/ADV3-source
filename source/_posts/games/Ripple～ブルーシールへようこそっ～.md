@@ -1,6 +1,7 @@
 ---
-title: "Ripple～ブルーシールへようこそっ～"
-date: 2002-04-05
+title: Ripple～ブルーシールへようこそっ～
+abbrlink: 4b536fb4
+date: 2002-04-05 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E.md)
 

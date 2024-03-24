@@ -1,6 +1,7 @@
 ---
-title: "D.C.II To You ～ダ・カーポII～トゥーユー サイドエピソード"
-date: 2009-06-26
+title: D.C.II To You ～ダ・カーポII～トゥーユー サイドエピソード
+abbrlink: 75a2f41c
+date: 2009-06-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/D.C.II%20To%20You%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%E3%83%88%E3%82%A5%E3%83%BC%E3%83%A6%E3%83%BC%20%E3%82%B5%E3%82%A4%E3%83%89%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%89.md)
 

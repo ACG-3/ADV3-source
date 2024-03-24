@@ -1,6 +1,7 @@
 ---
-title: "CLANNAD"
-date: 2004-04-28
+title: CLANNAD
+abbrlink: 6c9a7f7d
+date: 2004-04-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CLANNAD.md)
 

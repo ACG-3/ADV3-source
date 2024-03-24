@@ -1,6 +1,7 @@
 ---
-title: "プリズム・ハート"
-date: 2000-10-06
+title: プリズム・ハート
+abbrlink: b49409b7
+date: 2000-10-06 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Love%20SM.md)
 

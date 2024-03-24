@@ -1,6 +1,7 @@
 ---
-title: "TS魔法少女なお!"
-date: 2014-05-09
+title: TS魔法少女なお!
+abbrlink: 2fbb84c4
+date: 2014-05-09 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21.md)
 

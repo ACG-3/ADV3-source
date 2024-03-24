@@ -1,6 +1,7 @@
 ---
-title: "Just Deserts"
-date: 2016-07-25
+title: Just Deserts
+abbrlink: e86edbbc
+date: 2016-07-25 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Just%20Deserts.md)
 

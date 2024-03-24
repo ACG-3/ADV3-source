@@ -1,6 +1,7 @@
 ---
-title: "CLEARWORLD -クリアワールド-"
-date: 2020-09-25
+title: CLEARWORLD -クリアワールド-
+abbrlink: f85cb151
+date: 2020-09-25 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CLEARWORLD%20-%E3%82%AF%E3%83%AA%E3%82%A2%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89-.md)
 

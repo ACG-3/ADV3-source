@@ -1,6 +1,7 @@
 ---
-title: "終ノ空 remake"
-date: 2020-12-25
+title: 終ノ空 remake
+abbrlink: bfdb0b3a
+date: 2020-12-25 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E7%B5%82%E3%83%8E%E7%A9%BA%20remake.md)
 

@@ -1,6 +1,7 @@
 ---
-title: "ハートフルメモリーズ 〜Little Witch Parfait 2〜"
-date: 2000-04-21
+title: ハートフルメモリーズ 〜Little Witch Parfait 2〜
+abbrlink: 24a6ef43
+date: 2000-04-21 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%8F%E3%83%BC%E3%83%88%E3%83%95%E3%83%AB%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%20%E3%80%9CLittle%20Witch%20Parfait%202%E3%80%9C.md)
 

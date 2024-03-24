@@ -1,6 +1,7 @@
 ---
-title: "ウルトラ魔法少女まなな vol.1"
-date: 2004-08-27
+title: ウルトラ魔法少女まなな vol.1
+abbrlink: b9a2bcdb
+date: 2004-08-27 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/RanceVI%20-%E3%82%BC%E3%82%B9%E5%B4%A9%E5%A3%8A-.md)
 

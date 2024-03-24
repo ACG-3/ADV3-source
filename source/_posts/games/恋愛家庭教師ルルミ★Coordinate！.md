@@ -1,6 +1,7 @@
 ---
-title: "恋愛家庭教師ルルミ★Coordinate！"
-date: 2011-08-26
+title: 恋愛家庭教師ルルミ★Coordinate！
+abbrlink: 947898ff
+date: 2011-08-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%81%8B%E6%84%9B%E5%AE%B6%E5%BA%AD%E6%95%99%E5%B8%AB%E3%83%AB%E3%83%AB%E3%83%9F%E2%98%85Coordinate%EF%BC%81.md)
 

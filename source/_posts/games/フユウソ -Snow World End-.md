@@ -1,6 +1,7 @@
 ---
-title: "フユウソ -Snow World End-"
-date: 2017-07-28
+title: フユウソ -Snow World End-
+abbrlink: 7210104f
+date: 2017-07-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%95%E3%83%A6%E3%82%A6%E3%82%BD%20-Snow%20World%20End-.md)
 

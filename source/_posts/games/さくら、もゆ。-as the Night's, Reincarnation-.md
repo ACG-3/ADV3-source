@@ -1,6 +1,7 @@
 ---
-title: "さくら、もゆ。-as the Night's, Reincarnation-"
-date: 2019-01-31
+title: 'さくら、もゆ。-as the Night''s, Reincarnation-'
+abbrlink: f915bdb6
+date: 2019-01-31 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%95%E3%81%8F%E3%82%89%E3%80%81%E3%82%82%E3%82%86%E3%80%82-as%20the%20Night%27s%2C%20Reincarnation-.md)
 

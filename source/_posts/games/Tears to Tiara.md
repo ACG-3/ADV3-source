@@ -1,6 +1,7 @@
 ---
-title: "Tears to Tiara"
-date: 2005-04-28
+title: Tears to Tiara
+abbrlink: c1aabf1e
+date: 2005-04-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Tears%20to%20Tiara.md)
 

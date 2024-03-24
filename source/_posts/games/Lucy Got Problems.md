@@ -1,6 +1,7 @@
 ---
-title: "Lucy Got Problems"
-date: 2018-09-18
+title: Lucy Got Problems
+abbrlink: e83cfec7
+date: 2018-09-18 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Lucy%20Got%20Problems.md)
 

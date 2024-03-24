@@ -1,6 +1,7 @@
 ---
-title: "竜姫ぐーたらいふ LOVE + PLUS"
-date: 2020-12-18
+title: 竜姫ぐーたらいふ LOVE + PLUS
+abbrlink: daccbd47
+date: 2020-12-18 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS.md)
 

@@ -1,6 +1,7 @@
 ---
-title: "The Fairy's Song"
-date: 2020-08-07
+title: The Fairy's Song
+abbrlink: 3c2e3023
+date: 2020-08-07 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/The%20Fairy%27s%20Song.md)
 

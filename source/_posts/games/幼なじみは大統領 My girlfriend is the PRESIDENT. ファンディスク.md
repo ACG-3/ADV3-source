@@ -1,6 +1,7 @@
 ---
-title: "幼なじみは大統領 My girlfriend is the PRESIDENT. ファンディスク"
-date: 2010-08-13
+title: 幼なじみは大統領 My girlfriend is the PRESIDENT. ファンディスク
+abbrlink: 1c749292
+date: 2010-08-13 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT.%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF.md)
 

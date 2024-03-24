@@ -1,6 +1,7 @@
 ---
-title: "CHAOS;HEAD"
-date: 2008-04-25
+title: CHAOS;HEAD
+abbrlink: 48f085d3
+date: 2008-04-25 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CHAOS%3BHEAD.md)
 

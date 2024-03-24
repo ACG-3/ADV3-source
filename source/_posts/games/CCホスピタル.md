@@ -1,6 +1,7 @@
 ---
-title: "CCホスピタル"
-date: 2006-03-24
+title: CCホスピタル
+abbrlink: 92f33f3d
+date: 2006-03-24 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CC%E3%83%9B%E3%82%B9%E3%83%94%E3%82%BF%E3%83%AB.md)
 

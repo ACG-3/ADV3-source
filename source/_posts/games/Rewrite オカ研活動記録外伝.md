@@ -1,6 +1,7 @@
 ---
-title: "Rewrite オカ研活動記録外伝"
-date: 2016-12-21
+title: Rewrite オカ研活動記録外伝
+abbrlink: 47b16c11
+date: 2016-12-21 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Rewrite%20%E3%82%AA%E3%82%AB%E7%A0%94%E6%B4%BB%E5%8B%95%E8%A8%98%E9%8C%B2%E5%A4%96%E4%BC%9D.md)
 

@@ -1,6 +1,7 @@
 ---
-title: "Love×Holic ～魅惑の乙女と白濁カンケイ～"
-date: 2018-05-25
+title: Love×Holic ～魅惑の乙女と白濁カンケイ～
+abbrlink: 29b9515a
+date: 2018-05-25 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E.md)
 

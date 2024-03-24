@@ -1,6 +1,7 @@
 ---
-title: "LOVE³ -ラヴキューブ-"
-date: 2019-07-25
+title: LOVE³ -ラヴキューブ-
+abbrlink: a49c00a9
+date: 2019-07-25 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LOVE%C2%B3%20-%E3%83%A9%E3%83%B4%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%96-.md)
 

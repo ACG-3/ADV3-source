@@ -1,6 +1,7 @@
 ---
-title: "タユタマ 2 -you're the only one-"
-date: 2016-09-23
+title: タユタマ 2 -you're the only one-
+abbrlink: adb57a77
+date: 2016-09-23 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-.md)
 

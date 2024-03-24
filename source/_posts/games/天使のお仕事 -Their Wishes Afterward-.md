@@ -1,6 +1,7 @@
 ---
-title: "天使のお仕事 -Their Wishes Afterward-"
-date: 1999-12-24
+title: 天使のお仕事 -Their Wishes Afterward-
+abbrlink: bacb3d6b
+date: 1999-12-24 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%20-Their%20Wishes%20Afterward-.md)
 

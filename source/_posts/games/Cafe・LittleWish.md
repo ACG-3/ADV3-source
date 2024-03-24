@@ -1,6 +1,7 @@
 ---
-title: "Cafe・LittleWish"
-date: 2003-02-14
+title: Cafe・LittleWish
+abbrlink: 7c38fcaa
+date: 2003-02-14 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Cafe%E3%83%BBLittleWish.md)
 

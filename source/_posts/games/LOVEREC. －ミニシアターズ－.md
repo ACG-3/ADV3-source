@@ -1,6 +1,7 @@
 ---
-title: "LOVEREC. －ミニシアターズ－"
-date: 2016-01-29
+title: LOVEREC. －ミニシアターズ－
+abbrlink: 55ad6d9
+date: 2016-01-29 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LOVEREC.%20%EF%BC%8D%E3%83%9F%E3%83%8B%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%E3%82%BA%EF%BC%8D.md)
 
