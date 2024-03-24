@@ -3,7 +3,7 @@ title: ef - a fairy tale of the two.
 abbrlink: cb292c13
 date: 2006-12-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/ef%20-%20a%20fairy%20tale%20of%20the%20two.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ef%20-%20a%20fairy%20tale%20of%20the%20two.md)
 
 ## 游戏封面
 

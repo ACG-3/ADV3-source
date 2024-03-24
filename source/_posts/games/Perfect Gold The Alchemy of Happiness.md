@@ -3,7 +3,7 @@ title: 'Perfect Gold: The Alchemy of Happiness'
 abbrlink: 7b16185e
 date: 2021-04-19 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Perfect%20Gold%20The%20Alchemy%20of%20Happiness.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Perfect%20Gold%20The%20Alchemy%20of%20Happiness.md)
 
 ## 游戏封面
 

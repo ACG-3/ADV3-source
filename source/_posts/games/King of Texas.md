@@ -3,7 +3,7 @@ title: King of Texas
 abbrlink: 9bc1fdcb
 date: 2019-02-21 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/King%20of%20Texas.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/King%20of%20Texas.md)
 
 ## 游戏封面
 

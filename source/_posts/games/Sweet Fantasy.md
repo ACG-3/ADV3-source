@@ -3,7 +3,7 @@ title: Sweet Fantasy
 abbrlink: eb605066
 date: 2017-04-03 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Sweet%20Fantasy.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sweet%20Fantasy.md)
 
 ## 游戏封面
 

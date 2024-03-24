@@ -3,7 +3,7 @@ title: The Wilting Amaranth
 abbrlink: 86a6d847
 date: 2018-03-16 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/The%20Wilting%20Amaranth.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/The%20Wilting%20Amaranth.md)
 
 ## 游戏封面
 

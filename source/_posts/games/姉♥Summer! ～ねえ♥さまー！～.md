@@ -3,7 +3,7 @@ title: 姉♥Summer!2 ～ねえ♥さま～
 abbrlink: c36db2ec
 date: 2009-08-14 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A7%89%E2%99%A5Summer%21%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%E3%83%BC%EF%BC%81%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A7%89%E2%99%A5Summer%21%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%E3%83%BC%EF%BC%81%EF%BD%9E.md)
 
 ## 游戏封面
 

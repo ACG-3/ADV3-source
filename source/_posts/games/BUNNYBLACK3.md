@@ -3,7 +3,7 @@ title: BUNNYBLACK3
 abbrlink: 42e1dd6
 date: 2013-06-21 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/BUNNYBLACK3.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BUNNYBLACK3.md)
 
 ## 游戏封面
 

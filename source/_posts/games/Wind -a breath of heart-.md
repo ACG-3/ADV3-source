@@ -3,7 +3,7 @@ title: Wind -a breath of heart-
 abbrlink: fe821798
 date: 2002-04-19 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Wind%20-a%20breath%20of%20heart-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Wind%20-a%20breath%20of%20heart-.md)
 
 ## 游戏封面
 

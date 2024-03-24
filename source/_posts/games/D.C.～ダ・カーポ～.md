@@ -2,7 +2,7 @@
 title: "D.C.～ダ・カーポ～"
 date: 2002-06-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/D.C.%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9D%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/D.C.%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9D%EF%BD%9E.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: Demon King Domination
 abbrlink: ef6bf63e
 date: 2018-03-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Demon%20King%20Domination.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Demon%20King%20Domination.md)
 
 ## 游戏封面
 

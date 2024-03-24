@@ -3,7 +3,7 @@ title: てんたま 2wins
 abbrlink: 3d4fdc14
 date: 2004-02-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins.md)
 
 ## 游戏封面
 

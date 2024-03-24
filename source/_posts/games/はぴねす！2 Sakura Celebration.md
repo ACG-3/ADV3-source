@@ -3,7 +3,7 @@ title: はぴねす！2 Sakura Celebration
 abbrlink: af16fd39
 date: 2019-02-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration.md)
 
 ## 游戏封面
 

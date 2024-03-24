@@ -3,7 +3,7 @@ title: 幼なじみは大統領 My girlfriend is the PRESIDENT.
 abbrlink: de9413a8
 date: 2009-10-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/My%20Girlfriend.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/My%20Girlfriend.md)
 
 ## 游戏封面
 

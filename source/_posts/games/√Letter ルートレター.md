@@ -3,7 +3,7 @@ title: √Letter ルートレター
 abbrlink: 5f61bee8
 date: 2016-06-16 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC.md)
 
 ## 游戏封面
 

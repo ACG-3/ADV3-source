@@ -3,7 +3,7 @@ title: Fatal Twelve
 abbrlink: 1cf7a906
 date: 2018-03-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Fatal%20Twelve.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Fatal%20Twelve.md)
 
 ## 游戏封面
 

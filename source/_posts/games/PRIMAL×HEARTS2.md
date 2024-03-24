@@ -3,7 +3,7 @@ title: PRIMAL×HEARTS2
 abbrlink: 22a6a9b6
 date: 2015-10-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/PRIMAL%C3%97HEARTS2.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/PRIMAL%C3%97HEARTS2.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "シンシア ～Sincerely to You～"
 date: 2004-04-23
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B7%E3%83%B3%E3%82%B7%E3%82%A2%20%EF%BD%9ESincerely%20to%20You%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%B7%E3%83%B3%E3%82%B7%E3%82%A2%20%EF%BD%9ESincerely%20to%20You%EF%BD%9E.md)
 
 ## 游戏封面
 

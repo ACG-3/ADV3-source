@@ -2,7 +2,7 @@
 title: "天神乱漫 LUCKY or UNLUCKY!?"
 date: 2009-05-29
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21.md)
 
 ## 游戏封面
 

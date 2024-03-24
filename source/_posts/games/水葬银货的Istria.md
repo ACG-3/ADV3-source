@@ -3,7 +3,7 @@ title: 水葬銀貨のイストリア
 abbrlink: ef2fdaa8
 date: 2017-03-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria.md)
 
 ## 游戏封面
 

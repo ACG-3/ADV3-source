@@ -2,7 +2,7 @@
 title: "はにデビ！ Honey & Devil"
 date: 2017-05-26
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%AF%E3%81%AB%E3%83%87%E3%83%93%EF%BC%81%20Honey%20%26%20Devil.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%AF%E3%81%AB%E3%83%87%E3%83%93%EF%BC%81%20Honey%20%26%20Devil.md)
 
 ## 游戏封面
 

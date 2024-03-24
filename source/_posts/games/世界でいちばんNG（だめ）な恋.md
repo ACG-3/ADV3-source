@@ -3,7 +3,7 @@ title: 世界でいちばんNG（だめ）な恋
 abbrlink: 4f2cd13e
 date: 2007-11-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B.md)
 
 ## 游戏封面
 

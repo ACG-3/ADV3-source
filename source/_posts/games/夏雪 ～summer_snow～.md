@@ -2,7 +2,7 @@
 title: "夏雪 ～summer_snow～"
 date: 2011-06-03
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A4%8F%E9%9B%AA%20%EF%BD%9Esummer_snow%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%8F%E9%9B%AA%20%EF%BD%9Esummer_snow%EF%BD%9E.md)
 
 ## 游戏封面
 

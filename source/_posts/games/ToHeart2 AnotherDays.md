@@ -2,7 +2,7 @@
 title: "ToHeart2 AnotherDays"
 date: 2008-02-29
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/ToHeart2%20AnotherDays.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ToHeart2%20AnotherDays.md)
 
 ## 游戏封面
 

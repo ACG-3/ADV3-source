@@ -3,7 +3,7 @@ title: もんむす・くえすと!前章 ～負ければ妖女に犯される�
 abbrlink: 7a624529
 date: 2011-03-09 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/MONMUSU.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/MONMUSU.md)
 
 ## 游戏封面
 

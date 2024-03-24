@@ -3,7 +3,7 @@ title: 漆黒のシャルノス ～What a beautiful tomorrow～
 abbrlink: fc09b409
 date: 2008-11-21 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%BC%86%E9%BB%92%E3%81%AE%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%8E%E3%82%B9%20%EF%BD%9EWhat%20a%20beautiful%20tomorrow%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%BC%86%E9%BB%92%E3%81%AE%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%8E%E3%82%B9%20%EF%BD%9EWhat%20a%20beautiful%20tomorrow%EF%BD%9E.md)
 
 ## 游戏封面
 

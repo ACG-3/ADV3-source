@@ -3,7 +3,7 @@ title: 'Memories Off #5 とぎれたフィルム'
 abbrlink: c880c132
 date: 2005-10-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Memories%20Off%20%235%20%E3%81%A8%E3%81%8E%E3%82%8C%E3%81%9F%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Memories%20Off%20%235%20%E3%81%A8%E3%81%8E%E3%82%8C%E3%81%9F%E3%83%95%E3%82%A3%E3%83%AB%E3%83%A0.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: NOeSIS02-羽化-
 abbrlink: e301668e
 date: 2012-10-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/NOeSIS02-%E7%BE%BD%E5%8C%96-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/NOeSIS02-%E7%BE%BD%E5%8C%96-.md)
 
 ## 游戏封面
 

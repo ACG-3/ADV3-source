@@ -3,7 +3,7 @@ title: ワルキューレロマンツェ More＆More
 abbrlink: '73244190'
 date: 2013-10-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More.md)
 
 ## 游戏封面
 

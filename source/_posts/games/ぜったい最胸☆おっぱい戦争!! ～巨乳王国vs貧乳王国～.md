@@ -3,7 +3,7 @@ title: ぜったい最胸☆おっぱい戦争!! ～巨乳王国vs貧乳王国�
 abbrlink: 75dc8009
 date: 2012-10-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E.md)
 
 ## 游戏封面
 

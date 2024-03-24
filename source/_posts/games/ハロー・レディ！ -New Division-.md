@@ -3,7 +3,7 @@ title: ハロー・レディ！ -New Division-
 abbrlink: 110fb0b6
 date: 2014-12-19 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-.md)
 
 ## 游戏封面
 

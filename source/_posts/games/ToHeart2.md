@@ -2,7 +2,7 @@
 title: "ToHeart2"
 date: 2004-12-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/ToHeart2.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ToHeart2.md)
 
 ## 游戏封面
 

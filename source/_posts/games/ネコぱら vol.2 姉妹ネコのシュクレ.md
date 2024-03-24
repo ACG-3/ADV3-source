@@ -3,7 +3,7 @@ title: ネコぱら vol.2 姉妹ネコのシュクレ
 abbrlink: 4c0cbb97
 date: 2016-02-19 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC.md)
 
 ## 游戏封面
 

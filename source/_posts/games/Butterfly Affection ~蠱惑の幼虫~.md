@@ -3,7 +3,7 @@ title: Butterfly Affection ~蠱惑の幼虫~
 abbrlink: 17283f45
 date: 2019-01-06 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Butterfly%20Affection%20~%E8%A0%B1%E6%83%91%E3%81%AE%E5%B9%BC%E8%99%AB~.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Butterfly%20Affection%20~%E8%A0%B1%E6%83%91%E3%81%AE%E5%B9%BC%E8%99%AB~.md)
 
 ## 游戏封面
 

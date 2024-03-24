@@ -3,7 +3,7 @@ title: FLOWERS -Le volume sur hiver-
 abbrlink: cf91bee
 date: 2017-09-15 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/FLOWERS%20-Le%20volume%20sur%20hiver-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/FLOWERS%20-Le%20volume%20sur%20hiver-.md)
 
 ## 游戏封面
 

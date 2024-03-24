@@ -2,7 +2,7 @@
 title: "shin-neko ～再会した妹との新たな関係～"
 date: 2020-08-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/shin-neko%20%EF%BD%9E%E5%86%8D%E4%BC%9A%E3%81%97%E3%81%9F%E5%A6%B9%E3%81%A8%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E9%96%A2%E4%BF%82%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/shin-neko%20%EF%BD%9E%E5%86%8D%E4%BC%9A%E3%81%97%E3%81%9F%E5%A6%B9%E3%81%A8%E3%81%AE%E6%96%B0%E3%81%9F%E3%81%AA%E9%96%A2%E4%BF%82%EF%BD%9E.md)
 
 ## 游戏封面
 

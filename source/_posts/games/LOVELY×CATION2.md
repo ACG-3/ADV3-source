@@ -2,7 +2,7 @@
 title: "LOVELY×CATION2"
 date: 2013-04-26
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/LOVELY%C3%97CATION2.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LOVELY%C3%97CATION2.md)
 
 ## 游戏封面
 

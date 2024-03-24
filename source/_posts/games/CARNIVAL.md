@@ -2,7 +2,7 @@
 title: "月光のカルネヴァーレ"
 date: 2007-01-26
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/CARNIVAL.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CARNIVAL.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "Deep One -ディープワン-"
 date: 2018-10-26
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Deep%20One%20-%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%AF%E3%83%B3-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Deep%20One%20-%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%AF%E3%83%B3-.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: Along the Edge
 abbrlink: 8d215049
 date: 2016-06-14 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Along%20the%20Edge.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Along%20the%20Edge.md)
 
 ## 游戏封面
 

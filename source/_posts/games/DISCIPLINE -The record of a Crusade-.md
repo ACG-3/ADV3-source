@@ -2,7 +2,7 @@
 title: "DISCIPLINE -The record of a Crusade-"
 date: 2002-08-30
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/DISCIPLINE%20-The%20record%20of%20a%20Crusade-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/DISCIPLINE%20-The%20record%20of%20a%20Crusade-.md)
 
 ## 游戏封面
 

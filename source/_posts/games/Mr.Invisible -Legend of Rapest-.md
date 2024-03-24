@@ -3,7 +3,7 @@ title: Mr.Invisible -Legend of Rapest-
 abbrlink: 99dfddbe
 date: 2008-10-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Mr.Invisible%20-Legend%20of%20Rapest-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Mr.Invisible%20-Legend%20of%20Rapest-.md)
 
 ## 游戏封面
 

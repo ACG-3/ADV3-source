@@ -3,7 +3,7 @@ title: フレラバ 〜Friend to Lover〜 ミニファンディスク
 abbrlink: 7b62fa85
 date: 2014-08-15 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF.md)
 
 ## 游戏封面
 

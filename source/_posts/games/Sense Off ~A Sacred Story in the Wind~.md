@@ -3,7 +3,7 @@ title: Sense Off ~A Sacred Story in the Wind~
 abbrlink: 85ba3777
 date: 2000-08-18 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Sense%20Off%20~A%20Sacred%20Story%20in%20the%20Wind~.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sense%20Off%20~A%20Sacred%20Story%20in%20the%20Wind~.md)
 
 ## 游戏封面
 

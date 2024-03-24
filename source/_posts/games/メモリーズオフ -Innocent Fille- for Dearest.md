@@ -3,7 +3,7 @@ title: メモリーズオフ -Innocent Fille- for Dearest
 abbrlink: 76928a67
 date: 2019-03-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: Go! Go! Nippon! ~My First Trip to Japan~
 abbrlink: '268e5684'
 date: 2011-09-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~.md)
 
 ## 游戏封面
 

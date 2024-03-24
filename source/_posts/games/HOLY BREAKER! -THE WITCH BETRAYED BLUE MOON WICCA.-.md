@@ -3,7 +3,7 @@ title: HOLY BREAKER! -THE WITCH BETRAYED BLUE MOON WICCA.-
 abbrlink: b84ba716
 date: 2014-12-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/HOLY%20BREAKER%21%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/HOLY%20BREAKER%21%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-.md)
 
 ## 游戏封面
 

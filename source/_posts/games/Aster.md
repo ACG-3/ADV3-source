@@ -3,7 +3,7 @@ title: Fate/stay night
 abbrlink: f40cd00f
 date: 2004-01-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Aster.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Aster.md)
 
 ## 游戏封面
 

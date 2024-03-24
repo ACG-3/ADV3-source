@@ -2,7 +2,7 @@
 title: "Cafe・LittleWish"
 date: 2003-02-14
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Cafe%E3%83%BBLittleWish.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Cafe%E3%83%BBLittleWish.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "Tiny Dungeon ~BRAVE or SLAVE~"
 date: 2012-07-27
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Tiny%20Dungeon%20~BRAVE%20or%20SLAVE~.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Tiny%20Dungeon%20~BRAVE%20or%20SLAVE~.md)
 
 ## 游戏封面
 

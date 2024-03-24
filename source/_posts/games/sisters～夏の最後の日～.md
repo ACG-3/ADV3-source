@@ -3,7 +3,7 @@ title: sisters～夏の最後の日～
 abbrlink: f6c96057
 date: 2011-04-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/sisters%EF%BD%9E%E5%A4%8F%E3%81%AE%E6%9C%80%E5%BE%8C%E3%81%AE%E6%97%A5%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/sisters%EF%BD%9E%E5%A4%8F%E3%81%AE%E6%9C%80%E5%BE%8C%E3%81%AE%E6%97%A5%EF%BD%9E.md)
 
 ## 游戏封面
 

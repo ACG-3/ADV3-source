@@ -2,7 +2,7 @@
 title: "Tiny Dungeon ~BLESS of DRAGON~"
 date: 2010-12-24
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Tiny%20Dungeon%20~BLESS%20of%20DRAGON~.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Tiny%20Dungeon%20~BLESS%20of%20DRAGON~.md)
 
 ## 游戏封面
 

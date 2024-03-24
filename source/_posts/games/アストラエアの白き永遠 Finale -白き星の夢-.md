@@ -2,7 +2,7 @@
 title: "アストラエアの白き永遠"
 date: 2014-07-25
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A8%E3%82%A2%E3%81%AE%E7%99%BD%E3%81%8D%E6%B0%B8%E9%81%A0%20Finale%20-%E7%99%BD%E3%81%8D%E6%98%9F%E3%81%AE%E5%A4%A2-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%A2%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A8%E3%82%A2%E3%81%AE%E7%99%BD%E3%81%8D%E6%B0%B8%E9%81%A0%20Finale%20-%E7%99%BD%E3%81%8D%E6%98%9F%E3%81%AE%E5%A4%A2-.md)
 
 ## 游戏封面
 

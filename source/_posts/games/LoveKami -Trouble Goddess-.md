@@ -2,7 +2,7 @@
 title: "LoveKami -Sweet Stars-"
 date: 2016-12-16
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/LoveKami%20-Trouble%20Goddess-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LoveKami%20-Trouble%20Goddess-.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: NOeSIS～嘘を吐いた記憶の物語～
 abbrlink: 44ee6450
 date: 2011-10-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E.md)
 
 ## 游戏封面
 

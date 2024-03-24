@@ -3,7 +3,7 @@ title: Ever17 -the out of infinity-
 abbrlink: 4aa3badc
 date: 2002-08-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Ever17%20-the%20out%20of%20infinity-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Ever17%20-the%20out%20of%20infinity-.md)
 
 ## 游戏封面
 

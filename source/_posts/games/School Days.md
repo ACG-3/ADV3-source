@@ -3,7 +3,7 @@ title: School Days
 abbrlink: f7e0747c
 date: 2005-04-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/School%20Days.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/School%20Days.md)
 
 ## 游戏封面
 

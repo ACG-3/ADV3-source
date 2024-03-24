@@ -2,7 +2,7 @@
 title: "CCホスピタル"
 date: 2006-03-24
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/CC%E3%83%9B%E3%82%B9%E3%83%94%E3%82%BF%E3%83%AB.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CC%E3%83%9B%E3%82%B9%E3%83%94%E3%82%BF%E3%83%AB.md)
 
 ## 游戏封面
 

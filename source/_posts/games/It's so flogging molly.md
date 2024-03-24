@@ -3,7 +3,7 @@ title: It's so flogging molly
 abbrlink: acfd377e
 date: 2004-08-05 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/It%27s%20so%20flogging%20molly.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/It%27s%20so%20flogging%20molly.md)
 
 ## 游戏封面
 

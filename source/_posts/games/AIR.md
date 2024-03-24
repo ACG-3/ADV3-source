@@ -3,7 +3,7 @@ title: 月姫
 abbrlink: 42af4ffc
 date: 2000-08-11 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/AIR.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/AIR.md)
 
 ## 游戏封面
 

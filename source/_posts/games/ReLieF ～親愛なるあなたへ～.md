@@ -2,7 +2,7 @@
 title: "Re:LieF ～親愛なるあなたへ～"
 date: 2016-10-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/ReLieF%20%EF%BD%9E%E8%A6%AA%E6%84%9B%E3%81%AA%E3%82%8B%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ReLieF%20%EF%BD%9E%E8%A6%AA%E6%84%9B%E3%81%AA%E3%82%8B%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%EF%BD%9E.md)
 
 ## 游戏封面
 

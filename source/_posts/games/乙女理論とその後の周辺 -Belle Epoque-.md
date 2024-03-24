@@ -3,7 +3,7 @@ title: 乙女理論とその後の周辺 -Belle Epoque-
 abbrlink: 52d863b7
 date: 2016-05-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E5%91%A8%E8%BE%BA%20-Belle%20Epoque-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E5%91%A8%E8%BE%BA%20-Belle%20Epoque-.md)
 
 ## 游戏封面
 

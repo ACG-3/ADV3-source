@@ -3,7 +3,7 @@ title: ALPHA-NIGHTHAWK
 abbrlink: e9a5129e
 date: 2019-03-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/ALPHA-NIGHTHAWK.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ALPHA-NIGHTHAWK.md)
 
 ## 游戏封面
 

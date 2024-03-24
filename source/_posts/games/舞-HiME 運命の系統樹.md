@@ -3,7 +3,7 @@ title: 舞-HiME 運命の系統樹
 abbrlink: 9c1f229b
 date: 2005-06-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9.md)
 
 ## 游戏封面
 

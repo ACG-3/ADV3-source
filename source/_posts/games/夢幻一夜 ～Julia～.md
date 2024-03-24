@@ -3,7 +3,7 @@ title: 夢幻一夜 ～Julia～
 abbrlink: 4c3bfa72
 date: 1999-12-17 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A4%A2%E5%B9%BB%E4%B8%80%E5%A4%9C%20%EF%BD%9EJulia%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%A2%E5%B9%BB%E4%B8%80%E5%A4%9C%20%EF%BD%9EJulia%EF%BD%9E.md)
 
 ## 游戏封面
 

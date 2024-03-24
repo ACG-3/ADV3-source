@@ -2,7 +2,7 @@
 title: "逃避行GAME"
 date: 2013-05-24
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E9%80%83%E9%81%BF%E8%A1%8CGAME.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E9%80%83%E9%81%BF%E8%A1%8CGAME.md)
 
 ## 游戏封面
 

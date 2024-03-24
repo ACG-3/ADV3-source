@@ -2,7 +2,7 @@
 title: "ハピメア-Fragmentation Dream-"
 date: 2014-02-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%8F%E3%83%94%E3%83%A1%E3%82%A2-Fragmentation%20Dream-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%8F%E3%83%94%E3%83%A1%E3%82%A2-Fragmentation%20Dream-.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: 'Memory''s Dogma Code:01'
 abbrlink: b5d9091f
 date: 2016-11-04 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Memory%27s%20Dogma%20Code01.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Memory%27s%20Dogma%20Code01.md)
 
 ## 游戏封面
 

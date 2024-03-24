@@ -3,7 +3,7 @@ title: My Best Friend Killed Herself
 abbrlink: cda48dd9
 date: 2022-04-01 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/My%20Best%20Friend%20Killed%20Herself.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/My%20Best%20Friend%20Killed%20Herself.md)
 
 ## 游戏封面
 

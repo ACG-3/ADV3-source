@@ -3,7 +3,7 @@ title: Futa Fix Dick Dine and Dash
 abbrlink: dc637ee5
 date: 2020-12-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Futa%20Fix%20Dick%20Dine%20and%20Dash.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Futa%20Fix%20Dick%20Dine%20and%20Dash.md)
 
 ## 游戏封面
 

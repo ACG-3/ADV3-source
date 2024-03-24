@@ -2,7 +2,7 @@
 title: "Re:birth colony -Lost azurite-"
 date: 2012-09-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Rebirth%20colony%20-Lost%20azurite-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Rebirth%20colony%20-Lost%20azurite-.md)
 
 ## 游戏封面
 

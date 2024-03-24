@@ -3,7 +3,7 @@ title: ギャル子ちゃんとしっぽり温泉旅行 ～Hしまくり三泊�
 abbrlink: fc754df6
 date: 2020-02-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%AE%E3%83%A3%E3%83%AB%E5%AD%90%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E3%81%97%E3%81%A3%E3%81%BD%E3%82%8A%E6%B8%A9%E6%B3%89%E6%97%85%E8%A1%8C%20%EF%BD%9EH%E3%81%97%E3%81%BE%E3%81%8F%E3%82%8A%E4%B8%89%E6%B3%8A%E5%9B%9B%E6%97%A5%E3%81%AE%E6%97%85%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%AE%E3%83%A3%E3%83%AB%E5%AD%90%E3%81%A1%E3%82%83%E3%82%93%E3%81%A8%E3%81%97%E3%81%A3%E3%81%BD%E3%82%8A%E6%B8%A9%E6%B3%89%E6%97%85%E8%A1%8C%20%EF%BD%9EH%E3%81%97%E3%81%BE%E3%81%8F%E3%82%8A%E4%B8%89%E6%B3%8A%E5%9B%9B%E6%97%A5%E3%81%AE%E6%97%85%EF%BD%9E.md)
 
 ## 游戏封面
 

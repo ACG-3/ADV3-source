@@ -3,7 +3,7 @@ title: オーガストファンBOX
 abbrlink: 8b7241c9
 date: 2004-08-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%AA%E3%83%BC%E3%82%AC%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%83%B3BOX.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%AA%E3%83%BC%E3%82%AC%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%83%B3BOX.md)
 
 ## 游戏封面
 

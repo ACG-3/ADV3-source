@@ -3,7 +3,7 @@ title: 聖騎士Melty☆Lovers
 abbrlink: 68fbb1b4
 date: 2015-09-18 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E8%81%96%E9%A8%8E%E5%A3%ABMelty%E2%98%86Lovers.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%81%96%E9%A8%8E%E5%A3%ABMelty%E2%98%86Lovers.md)
 
 ## 游戏封面
 

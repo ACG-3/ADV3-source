@@ -2,7 +2,7 @@
 title: "流星ワールドアクター Badge & Dagger"
 date: 2021-06-25
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger.md)
 
 ## 游戏封面
 

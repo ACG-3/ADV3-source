@@ -2,7 +2,7 @@
 title: "COSPLAY LOVE! Enchanted princess"
 date: 2022-03-30
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/COSPLAY%20LOVE%21%20Enchanted%20princess.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/COSPLAY%20LOVE%21%20Enchanted%20princess.md)
 
 ## 游戏封面
 

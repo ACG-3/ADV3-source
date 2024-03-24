@@ -3,7 +3,7 @@ title: 'Monochromie : Blanche'
 abbrlink: 67a3a193
 date: 2007-12-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Monochrome.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Monochrome.md)
 
 ## 游戏封面
 

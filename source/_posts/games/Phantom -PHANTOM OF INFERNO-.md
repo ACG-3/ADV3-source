@@ -3,7 +3,7 @@ title: Phantom -PHANTOM OF INFERNO-
 abbrlink: 3e927f02
 date: 2000-02-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Phantom%20-PHANTOM%20OF%20INFERNO-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Phantom%20-PHANTOM%20OF%20INFERNO-.md)
 
 ## 游戏封面
 

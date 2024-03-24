@@ -3,7 +3,7 @@ title: NOeSIS 歌う影の戯曲
 abbrlink: ddd03b0f
 date: 2017-11-23 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/NOeSIS%20%E6%AD%8C%E3%81%86%E5%BD%B1%E3%81%AE%E6%88%AF%E6%9B%B2.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/NOeSIS%20%E6%AD%8C%E3%81%86%E5%BD%B1%E3%81%AE%E6%88%AF%E6%9B%B2.md)
 
 ## 游戏封面
 

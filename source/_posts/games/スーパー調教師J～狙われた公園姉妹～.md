@@ -2,7 +2,7 @@
 title: "スーパー調教師J～狙われた公園姉妹～"
 date: 2007-12-31
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E8%AA%BF%E6%95%99%E5%B8%ABJ%EF%BD%9E%E7%8B%99%E3%82%8F%E3%82%8C%E3%81%9F%E5%85%AC%E5%9C%92%E5%A7%89%E5%A6%B9%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E8%AA%BF%E6%95%99%E5%B8%ABJ%EF%BD%9E%E7%8B%99%E3%82%8F%E3%82%8C%E3%81%9F%E5%85%AC%E5%9C%92%E5%A7%89%E5%A6%B9%EF%BD%9E.md)
 
 ## 游戏封面
 

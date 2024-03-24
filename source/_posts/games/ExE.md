@@ -3,7 +3,7 @@ title: ExE
 abbrlink: 6840d0d8
 date: 2007-06-01 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/ExE.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ExE.md)
 
 ## 游戏封面
 

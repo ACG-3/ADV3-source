@@ -3,7 +3,7 @@ title: Folklore Jam
 abbrlink: d127022
 date: 2003-10-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Folklore%20Jam.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Folklore%20Jam.md)
 
 ## 游戏封面
 

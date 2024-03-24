@@ -3,7 +3,7 @@ title: Secret Agent～騎士学園の忍びなるもの～
 abbrlink: e4e83d8e
 date: 2020-05-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Secret%20Agent%EF%BD%9E%E9%A8%8E%E5%A3%AB%E5%AD%A6%E5%9C%92%E3%81%AE%E5%BF%8D%E3%81%B3%E3%81%AA%E3%82%8B%E3%82%82%E3%81%AE%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Secret%20Agent%EF%BD%9E%E9%A8%8E%E5%A3%AB%E5%AD%A6%E5%9C%92%E3%81%AE%E5%BF%8D%E3%81%B3%E3%81%AA%E3%82%8B%E3%82%82%E3%81%AE%EF%BD%9E.md)
 
 ## 游戏封面
 

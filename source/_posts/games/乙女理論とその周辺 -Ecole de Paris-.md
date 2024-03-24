@@ -3,7 +3,7 @@ title: 乙女理論とその周辺 -Ecole de Paris-
 abbrlink: 11dd5bc7
 date: 2013-07-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-.md)
 
 ## 游戏封面
 

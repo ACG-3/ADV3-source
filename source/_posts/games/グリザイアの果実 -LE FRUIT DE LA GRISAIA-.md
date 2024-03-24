@@ -3,7 +3,7 @@ title: グリザイアの果実 -LE FRUIT DE LA GRISAIA-
 abbrlink: 5f3a4ec8
 date: 2011-02-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-.md)
 
 ## 游戏封面
 

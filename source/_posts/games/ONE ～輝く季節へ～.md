@@ -3,7 +3,7 @@ title: ONE ～輝く季節へ～
 abbrlink: 97df0ac3
 date: 1998-05-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E.md)
 
 ## 游戏封面
 

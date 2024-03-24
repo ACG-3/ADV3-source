@@ -3,7 +3,7 @@ title: 幻創のイデア～Oratorio Phantasm Historia～
 abbrlink: 4602b334
 date: 2013-06-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E.md)
 
 ## 游戏封面
 

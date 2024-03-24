@@ -3,7 +3,7 @@ title: Sakura Knight 3
 abbrlink: 3a05302d
 date: 2020-09-07 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Sakura%20Knight%203.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sakura%20Knight%203.md)
 
 ## 游戏封面
 

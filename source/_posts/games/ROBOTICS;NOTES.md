@@ -2,7 +2,7 @@
 title: "ROBOTICS;NOTES"
 date: 2012-06-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/ROBOTICS%3BNOTES.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ROBOTICS%3BNOTES.md)
 
 ## 游戏封面
 

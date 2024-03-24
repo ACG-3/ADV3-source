@@ -3,7 +3,7 @@ title: BALDRSKY DiveX "DREAM WORLD"
 abbrlink: 579e51a0
 date: 2010-09-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/BALDRSKY%20DiveX%20DREAM%20WORLD.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BALDRSKY%20DiveX%20DREAM%20WORLD.md)
 
 ## 游戏封面
 

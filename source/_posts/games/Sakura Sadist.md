@@ -3,7 +3,7 @@ title: Sakura Sadist
 abbrlink: e88f3b5f
 date: 2018-05-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Sakura%20Sadist.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sakura%20Sadist.md)
 
 ## 游戏封面
 

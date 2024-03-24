@@ -3,7 +3,7 @@ title: Summer Pockets
 abbrlink: 34db14e6
 date: 2018-06-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Summer%20Pockets.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Summer%20Pockets.md)
 
 ## 游戏封面
 

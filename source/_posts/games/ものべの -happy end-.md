@@ -3,7 +3,7 @@ title: ものべの
 abbrlink: c6636a4e
 date: 2012-04-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-.md)
 
 ## 游戏封面
 

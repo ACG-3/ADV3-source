@@ -3,7 +3,7 @@ title: 魔法少女消耗戦線 DeadΩAegis
 abbrlink: 12eebf0c
 date: 2021-03-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis.md)
 
 ## 游戏封面
 

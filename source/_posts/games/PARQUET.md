@@ -3,7 +3,7 @@ title: PARQUET
 abbrlink: c0a0d99a
 date: 2021-07-31 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/PARQUET.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/PARQUET.md)
 
 ## 游戏封面
 

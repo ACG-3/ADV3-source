@@ -3,7 +3,7 @@ title: Always The Same Blue Sky...
 abbrlink: 3fcf1200
 date: 2013-08-09 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Always%20The%20Same%20Blue%20Sky.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Always%20The%20Same%20Blue%20Sky.md)
 
 ## 游戏封面
 

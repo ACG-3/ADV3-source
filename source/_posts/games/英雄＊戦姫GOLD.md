@@ -2,7 +2,7 @@
 title: "英雄＊戦姫GOLD"
 date: 2014-03-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E8%8B%B1%E9%9B%84%EF%BC%8A%E6%88%A6%E5%A7%ABGOLD.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%8B%B1%E9%9B%84%EF%BC%8A%E6%88%A6%E5%A7%ABGOLD.md)
 
 ## 游戏封面
 

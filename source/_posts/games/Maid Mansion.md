@@ -3,7 +3,7 @@ title: Maid Mansion
 abbrlink: 27dd614d
 date: 2020-11-14 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Maid%20Mansion.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Maid%20Mansion.md)
 
 ## 游戏封面
 

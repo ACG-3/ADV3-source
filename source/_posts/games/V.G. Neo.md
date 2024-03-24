@@ -3,7 +3,7 @@ title: V.G. Neo
 abbrlink: 1af42087
 date: 2003-12-19 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/V.G.%20Neo.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/V.G.%20Neo.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "凍京NECRO＜トウキョウ・ネクロ＞"
 date: 2016-01-29
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E.md)
 
 ## 游戏封面
 

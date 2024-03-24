@@ -3,7 +3,7 @@ title: STEINS;GATE 比翼恋理のだーりん
 abbrlink: 4a60af4b
 date: 2011-06-16 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/STEINS%3BGATE%20%E6%AF%94%E7%BF%BC%E6%81%8B%E7%90%86%E3%81%AE%E3%81%A0%E3%83%BC%E3%82%8A%E3%82%93.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/STEINS%3BGATE%20%E6%AF%94%E7%BF%BC%E6%81%8B%E7%90%86%E3%81%AE%E3%81%A0%E3%83%BC%E3%82%8A%E3%82%93.md)
 
 ## 游戏封面
 

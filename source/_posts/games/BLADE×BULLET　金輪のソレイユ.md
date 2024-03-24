@@ -3,7 +3,7 @@ title: BLADE×BULLET　金輪のソレイユ
 abbrlink: 1a197051
 date: 2017-08-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/BLADE%C3%97BULLET%E3%80%80%E9%87%91%E8%BC%AA%E3%81%AE%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BLADE%C3%97BULLET%E3%80%80%E9%87%91%E8%BC%AA%E3%81%AE%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6.md)
 
 ## 游戏封面
 

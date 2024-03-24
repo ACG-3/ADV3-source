@@ -3,7 +3,7 @@ title: euphoria
 abbrlink: 5ba3653c
 date: 2011-06-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/euphoria.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/euphoria.md)
 
 ## 游戏封面
 

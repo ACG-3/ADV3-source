@@ -3,7 +3,7 @@ title: グリザイアの楽園 -LE EDEN DE LA GRISAIA-
 abbrlink: 33c25678
 date: 2013-05-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-.md)
 
 ## 游戏封面
 

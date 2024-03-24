@@ -2,7 +2,7 @@
 title: "キサラギGOLD★STAR"
 date: 2010-10-29
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%AD%E3%82%B5%E3%83%A9%E3%82%AEGOLD%E2%98%85STAR.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%AD%E3%82%B5%E3%83%A9%E3%82%AEGOLD%E2%98%85STAR.md)
 
 ## 游戏封面
 

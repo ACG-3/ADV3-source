@@ -3,7 +3,7 @@ title: エンジェルアソートVol.05
 abbrlink: b4334dbc
 date: 2008-01-18 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%88Vol.05.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%88Vol.05.md)
 
 ## 游戏封面
 

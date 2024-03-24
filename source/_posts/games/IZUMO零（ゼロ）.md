@@ -2,7 +2,7 @@
 title: "IZUMO零（ゼロ）"
 date: 2005-09-22
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/IZUMO%E9%9B%B6%EF%BC%88%E3%82%BC%E3%83%AD%EF%BC%89.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/IZUMO%E9%9B%B6%EF%BC%88%E3%82%BC%E3%83%AD%EF%BC%89.md)
 
 ## 游戏封面
 

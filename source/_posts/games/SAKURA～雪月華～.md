@@ -3,7 +3,7 @@ title: SAKURA～雪月華～
 abbrlink: 5632f6c1
 date: 2003-07-31 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/SAKURA%EF%BD%9E%E9%9B%AA%E6%9C%88%E8%8F%AF%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/SAKURA%EF%BD%9E%E9%9B%AA%E6%9C%88%E8%8F%AF%EF%BD%9E.md)
 
 ## 游戏封面
 

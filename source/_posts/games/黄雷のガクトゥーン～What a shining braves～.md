@@ -3,7 +3,7 @@ title: 黄雷のガクトゥーン～What a shining braves～
 abbrlink: 676f55cf
 date: 2012-12-21 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E.md)
 
 ## 游戏封面
 

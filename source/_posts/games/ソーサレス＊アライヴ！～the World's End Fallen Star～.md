@@ -3,7 +3,7 @@ title: ソーサレス＊アライヴ！～the World's End Fallen Star～
 abbrlink: d1d18614
 date: 2019-01-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World%27s%20End%20Fallen%20Star%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World%27s%20End%20Fallen%20Star%EF%BD%9E.md)
 
 ## 游戏封面
 

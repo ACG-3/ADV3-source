@@ -3,7 +3,7 @@ title: Handle With Care..
 abbrlink: 2a2ece27
 date: 2001-04-06 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Handle%20With%20Care.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Handle%20With%20Care.md)
 
 ## 游戏封面
 

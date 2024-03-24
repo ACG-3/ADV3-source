@@ -5,7 +5,7 @@ title: >-
 abbrlink: ef082f70
 date: 2019-06-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Ninja%20Girl%20and%20the%20Mysterious%20Army%20of%20Urban%20Legend%20Monsters%21%20~Hunt%20of%20the%20Headless%20Horseman~.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Ninja%20Girl%20and%20the%20Mysterious%20Army%20of%20Urban%20Legend%20Monsters%21%20~Hunt%20of%20the%20Headless%20Horseman~.md)
 
 ## 游戏封面
 

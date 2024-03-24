@@ -2,7 +2,7 @@
 title: "椿とワンルーム -絆きらめく恋いろはSS-"
 date: 2020-07-31
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-.md)
 
 ## 游戏封面
 

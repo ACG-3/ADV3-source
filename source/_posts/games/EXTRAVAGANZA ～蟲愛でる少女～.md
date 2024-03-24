@@ -2,7 +2,7 @@
 title: "EXTRAVAGANZA ～蟲愛でる少女～"
 date: 2006-10-27
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/EXTRAVAGANZA%20%EF%BD%9E%E8%9F%B2%E6%84%9B%E3%81%A7%E3%82%8B%E5%B0%91%E5%A5%B3%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/EXTRAVAGANZA%20%EF%BD%9E%E8%9F%B2%E6%84%9B%E3%81%A7%E3%82%8B%E5%B0%91%E5%A5%B3%EF%BD%9E.md)
 
 ## 游戏封面
 

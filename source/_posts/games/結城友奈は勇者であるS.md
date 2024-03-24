@@ -3,7 +3,7 @@ title: 結城友奈は勇者であるS
 abbrlink: 1b20dc97
 date: 2015-05-20 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E7%B5%90%E5%9F%8E%E5%8F%8B%E5%A5%88%E3%81%AF%E5%8B%87%E8%80%85%E3%81%A7%E3%81%82%E3%82%8BS.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E7%B5%90%E5%9F%8E%E5%8F%8B%E5%A5%88%E3%81%AF%E5%8B%87%E8%80%85%E3%81%A7%E3%81%82%E3%82%8BS.md)
 
 ## 游戏封面
 

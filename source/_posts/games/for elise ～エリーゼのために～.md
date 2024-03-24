@@ -2,7 +2,7 @@
 title: "for elise ～エリーゼのために～"
 date: 1996-12-06
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/for%20elise%20%EF%BD%9E%E3%82%A8%E3%83%AA%E3%83%BC%E3%82%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/for%20elise%20%EF%BD%9E%E3%82%A8%E3%83%AA%E3%83%BC%E3%82%BC%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%EF%BD%9E.md)
 
 ## 游戏封面
 

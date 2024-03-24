@@ -2,7 +2,7 @@
 title: "朱－Aka－"
 date: 2003-06-13
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D.md)
 
 ## 游戏封面
 

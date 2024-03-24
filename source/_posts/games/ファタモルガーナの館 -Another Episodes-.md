@@ -3,7 +3,7 @@ title: ファタモルガーナの館 -Another Episodes-
 abbrlink: c67cf9a9
 date: 2015-08-16 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-.md)
 
 ## 游戏封面
 

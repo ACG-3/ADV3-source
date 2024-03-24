@@ -3,7 +3,7 @@ title: Find Love or Die Trying
 abbrlink: 98754d6b
 date: 2021-09-16 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Find%20Love%20or%20Die%20Trying.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Find%20Love%20or%20Die%20Trying.md)
 
 ## 游戏封面
 

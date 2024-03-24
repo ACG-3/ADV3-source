@@ -2,7 +2,7 @@
 title: "天使の日曜日 “ef - a fairy tale of the two.” Pleasurable Box."
 date: 2010-09-17
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%20%E2%80%9Cef%20-%20a%20fairy%20tale%20of%20the%20two.%E2%80%9D%20Pleasurable%20Box.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%20%E2%80%9Cef%20-%20a%20fairy%20tale%20of%20the%20two.%E2%80%9D%20Pleasurable%20Box.md)
 
 ## 游戏封面
 

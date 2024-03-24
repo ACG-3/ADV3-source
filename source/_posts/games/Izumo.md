@@ -2,7 +2,7 @@
 title: "Izumo"
 date: 2001-12-21
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Izumo.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Izumo.md)
 
 ## 游戏封面
 

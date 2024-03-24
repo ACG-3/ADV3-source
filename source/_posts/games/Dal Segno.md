@@ -2,7 +2,7 @@
 title: "D.S. -Dal Segno-"
 date: 2016-04-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Dal%20Segno.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Dal%20Segno.md)
 
 ## 游戏封面
 

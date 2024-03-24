@@ -3,7 +3,7 @@ title: Dies irae ~Acta est Fabula~
 abbrlink: 9dfc41f8
 date: 2009-07-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Dies%20irae%20Also%20sprach%20Zarathustra.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Dies%20irae%20Also%20sprach%20Zarathustra.md)
 
 ## 游戏封面
 

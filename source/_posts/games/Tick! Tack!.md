@@ -2,7 +2,7 @@
 title: "Tick! Tack!"
 date: 2005-09-16
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Tick%21%20Tack%21.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Tick%21%20Tack%21.md)
 
 ## 游戏封面
 

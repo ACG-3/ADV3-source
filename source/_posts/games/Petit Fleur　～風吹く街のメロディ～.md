@@ -3,7 +3,7 @@ title: Petit Fleur　～風吹く街のメロディ～
 abbrlink: 35b566e1
 date: 2003-12-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E.md)
 
 ## 游戏封面
 

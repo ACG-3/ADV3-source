@@ -3,7 +3,7 @@ title: グリザイア ファントムトリガー Vol. 8
 abbrlink: fd7a7f22
 date: 2022-02-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC%20Vol.%208.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%20%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC%20Vol.%208.md)
 
 ## 游戏封面
 

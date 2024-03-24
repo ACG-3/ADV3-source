@@ -3,7 +3,7 @@ title: メモリーズオフ6 Next Relation
 abbrlink: d83230c8
 date: 2009-08-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20Next%20Relation.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20Next%20Relation.md)
 
 ## 游戏封面
 

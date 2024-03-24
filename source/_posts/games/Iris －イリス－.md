@@ -3,7 +3,7 @@ title: Iris －イリス－
 abbrlink: 83bf00e8
 date: 2003-02-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Iris%20%EF%BC%8D%E3%82%A4%E3%83%AA%E3%82%B9%EF%BC%8D.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Iris%20%EF%BC%8D%E3%82%A4%E3%83%AA%E3%82%B9%EF%BC%8D.md)
 
 ## 游戏封面
 

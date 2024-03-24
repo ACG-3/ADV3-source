@@ -3,7 +3,7 @@ title: '萌え萌え2次大戦（略）2[chu～♪]'
 abbrlink: '91e71835'
 date: 2009-09-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E8%90%8C%E3%81%88%E8%90%8C%E3%81%882%E6%AC%A1%E5%A4%A7%E6%88%A6%EF%BC%88%E7%95%A5%EF%BC%892%5Bchu%EF%BD%9E%E2%99%AA%5D.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%90%8C%E3%81%88%E8%90%8C%E3%81%882%E6%AC%A1%E5%A4%A7%E6%88%A6%EF%BC%88%E7%95%A5%EF%BC%892%5Bchu%EF%BD%9E%E2%99%AA%5D.md)
 
 ## 游戏封面
 

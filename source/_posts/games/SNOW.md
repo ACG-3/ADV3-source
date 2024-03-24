@@ -3,7 +3,7 @@ title: 雪花 -きら-
 abbrlink: 53fc1dc2
 date: 2002-04-15 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/SNOW.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/SNOW.md)
 
 ## 游戏封面
 

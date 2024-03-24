@@ -3,7 +3,7 @@ title: 和み匣 Innocent Greyファンディスク
 abbrlink: '90616232'
 date: 2007-04-06 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%92%8C%E3%81%BF%E5%8C%A3%20Innocent%20Grey%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%92%8C%E3%81%BF%E5%8C%A3%20Innocent%20Grey%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF.md)
 
 ## 游戏封面
 

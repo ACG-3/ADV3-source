@@ -3,7 +3,7 @@ title: Paraphilia ～ペット志願～
 abbrlink: 2e5396b4
 date: 2006-12-31 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Paraphilia%20%EF%BD%9E%E3%83%9A%E3%83%83%E3%83%88%E5%BF%97%E9%A1%98%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Paraphilia%20%EF%BD%9E%E3%83%9A%E3%83%83%E3%83%88%E5%BF%97%E9%A1%98%EF%BD%9E.md)
 
 ## 游戏封面
 

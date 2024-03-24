@@ -2,7 +2,7 @@
 title: "DESIRE 背徳の螺旋"
 date: 1994-07-22
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/EVE%20The%20Lost%20One.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/EVE%20The%20Lost%20One.md)
 
 ## 游戏封面
 

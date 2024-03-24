@@ -3,7 +3,7 @@ title: Our Lovely Escape
 abbrlink: 9d718357
 date: 2019-09-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Our%20Lovely%20Escape.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Our%20Lovely%20Escape.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: 腐り姫 ～euthanasia～
 abbrlink: 36228f40
 date: 2002-02-08 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E8%85%90%E3%82%8A%E5%A7%AB%20%EF%BD%9Eeuthanasia%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%85%90%E3%82%8A%E5%A7%AB%20%EF%BD%9Eeuthanasia%EF%BD%9E.md)
 
 ## 游戏封面
 

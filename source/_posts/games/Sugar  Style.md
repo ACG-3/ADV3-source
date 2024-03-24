@@ -3,7 +3,7 @@ title: Sugar * Style
 abbrlink: 3f0b8dbe
 date: 2019-01-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Sugar%20%20Style.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sugar%20%20Style.md)
 
 ## 游戏封面
 

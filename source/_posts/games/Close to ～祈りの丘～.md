@@ -3,7 +3,7 @@ title: Close to ～祈りの丘～
 abbrlink: 3aa53393
 date: 2001-04-19 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Close%20to%20%EF%BD%9E%E7%A5%88%E3%82%8A%E3%81%AE%E4%B8%98%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Close%20to%20%EF%BD%9E%E7%A5%88%E3%82%8A%E3%81%AE%E4%B8%98%EF%BD%9E.md)
 
 ## 游戏封面
 

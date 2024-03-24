@@ -2,7 +2,7 @@
 title: "デート・ア・ライブ 凛祢ユートピア"
 date: 2013-06-27
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3.md)
 
 ## 游戏封面
 

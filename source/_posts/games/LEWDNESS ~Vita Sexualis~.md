@@ -2,7 +2,7 @@
 title: "LEWDNESS ~Vita Sexualis~"
 date: 2012-06-22
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/LEWDNESS%20~Vita%20Sexualis~.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LEWDNESS%20~Vita%20Sexualis~.md)
 
 ## 游戏封面
 

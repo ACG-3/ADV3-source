@@ -2,7 +2,7 @@
 title: "恋騎士Purely☆Kiss"
 date: 2011-09-30
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%81%8B%E9%A8%8E%E5%A3%ABPurely%E2%98%86Kiss.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%81%8B%E9%A8%8E%E5%A3%ABPurely%E2%98%86Kiss.md)
 
 ## 游戏封面
 

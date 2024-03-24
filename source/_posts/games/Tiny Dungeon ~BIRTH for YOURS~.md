@@ -2,7 +2,7 @@
 title: "Tiny Dungeon ~BIRTH for YOURS~"
 date: 2011-07-29
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Tiny%20Dungeon%20~BIRTH%20for%20YOURS~.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Tiny%20Dungeon%20~BIRTH%20for%20YOURS~.md)
 
 ## 游戏封面
 

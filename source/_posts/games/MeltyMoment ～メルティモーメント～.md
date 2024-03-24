@@ -3,7 +3,7 @@ title: MeltyMoment ～メルティモーメント～
 abbrlink: 59f12e44
 date: 2014-01-31 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E.md)
 
 ## 游戏封面
 

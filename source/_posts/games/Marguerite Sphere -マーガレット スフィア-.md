@@ -2,7 +2,7 @@
 title: "Marguerite Sphere -マーガレット スフィア-"
 date: 2011-04-22
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Marguerite%20Sphere%20-%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Marguerite%20Sphere%20-%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2-.md)
 
 ## 游戏封面
 

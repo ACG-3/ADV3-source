@@ -3,7 +3,7 @@ title: サクラ・MMO エクストラ ～新たなる挑戦～
 abbrlink: 5496790e
 date: 2021-01-11 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%BBMMO%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%20%EF%BD%9E%E6%96%B0%E3%81%9F%E3%81%AA%E3%82%8B%E6%8C%91%E6%88%A6%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%BBMMO%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%88%E3%83%A9%20%EF%BD%9E%E6%96%B0%E3%81%9F%E3%81%AA%E3%82%8B%E6%8C%91%E6%88%A6%EF%BD%9E.md)
 
 ## 游戏封面
 

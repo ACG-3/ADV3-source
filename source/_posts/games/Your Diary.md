@@ -2,7 +2,7 @@
 title: "あいたくて… 〜your smiles in my heart〜"
 date: 2000-03-16
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Your%20Diary.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Your%20Diary.md)
 
 ## 游戏封面
 

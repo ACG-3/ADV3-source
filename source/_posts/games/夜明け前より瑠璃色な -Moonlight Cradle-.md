@@ -3,7 +3,7 @@ title: 夜明け前より瑠璃色な
 abbrlink: d86ec724
 date: 2005-09-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A4%9C%E6%98%8E%E3%81%91%E5%89%8D%E3%82%88%E3%82%8A%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AA%20-Moonlight%20Cradle-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%9C%E6%98%8E%E3%81%91%E5%89%8D%E3%82%88%E3%82%8A%E7%91%A0%E7%92%83%E8%89%B2%E3%81%AA%20-Moonlight%20Cradle-.md)
 
 ## 游戏封面
 

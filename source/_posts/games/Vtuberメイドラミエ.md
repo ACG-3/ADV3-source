@@ -3,7 +3,7 @@ title: Vtuberメイドラミエ
 abbrlink: 5e9fbdd7
 date: 2021-12-16 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Vtuber%E3%83%A1%E3%82%A4%E3%83%89%E3%83%A9%E3%83%9F%E3%82%A8.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Vtuber%E3%83%A1%E3%82%A4%E3%83%89%E3%83%A9%E3%83%9F%E3%82%A8.md)
 
 ## 游戏封面
 

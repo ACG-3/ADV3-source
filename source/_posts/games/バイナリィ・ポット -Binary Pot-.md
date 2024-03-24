@@ -3,7 +3,7 @@ title: バイナリィ・ポット -Binary Pot-
 abbrlink: 582ce7df
 date: 2002-02-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-.md)
 
 ## 游戏封面
 

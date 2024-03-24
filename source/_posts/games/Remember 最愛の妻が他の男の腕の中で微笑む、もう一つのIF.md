@@ -2,7 +2,7 @@
 title: "Remember 最愛の妻が他の男の腕の中で微笑む、もう一つのIF"
 date: 2012-03-23
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF.md)
 
 ## 游戏封面
 

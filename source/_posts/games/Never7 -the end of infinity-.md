@@ -3,7 +3,7 @@ title: Never7 -the end of infinity-
 abbrlink: 102552af
 date: 2000-03-23 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Never7%20-the%20end%20of%20infinity-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Never7%20-the%20end%20of%20infinity-.md)
 
 ## 游戏封面
 

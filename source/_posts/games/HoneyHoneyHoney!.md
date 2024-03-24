@@ -3,7 +3,7 @@ title: Honey*Honey*Honey!
 abbrlink: f191185e
 date: 2020-09-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/HoneyHoneyHoney%21.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/HoneyHoneyHoney%21.md)
 
 ## 游戏封面
 

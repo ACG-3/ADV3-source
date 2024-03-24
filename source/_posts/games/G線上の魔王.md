@@ -3,7 +3,7 @@ title: G線上の魔王
 abbrlink: e785fbf3
 date: 2008-05-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B.md)
 
 ## 游戏封面
 

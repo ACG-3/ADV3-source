@@ -3,7 +3,7 @@ title: Without Within
 abbrlink: 933a66da
 date: 2014-12-21 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Without%20Within.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Without%20Within.md)
 
 ## 游戏封面
 

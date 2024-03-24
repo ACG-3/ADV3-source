@@ -2,7 +2,7 @@
 title: "LOVESICK PUPPIES -僕らは恋するために生まれてきた-"
 date: 2013-03-22
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-.md)
 
 ## 游戏封面
 

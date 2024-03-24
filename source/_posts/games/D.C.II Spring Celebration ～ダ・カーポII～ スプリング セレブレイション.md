@@ -2,7 +2,7 @@
 title: "D.C.II Spring Celebration ～ダ・カーポII～ スプリング セレブレイション"
 date: 2007-04-27
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3.md)
 
 ## 游戏封面
 

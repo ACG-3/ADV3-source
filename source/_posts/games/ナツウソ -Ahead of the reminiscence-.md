@@ -2,7 +2,7 @@
 title: "ナツウソ -Ahead of the reminiscence-"
 date: 2016-04-22
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-.md)
 
 ## 游戏封面
 

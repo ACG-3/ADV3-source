@@ -3,7 +3,7 @@ title: Kiss & Crisis
 abbrlink: 8f54b111
 date: 2018-09-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Kiss%20%26%20Crisis.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Kiss%20%26%20Crisis.md)
 
 ## 游戏封面
 

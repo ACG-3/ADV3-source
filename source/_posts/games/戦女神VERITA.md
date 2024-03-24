@@ -2,7 +2,7 @@
 title: "戦女神VERITA"
 date: 2010-04-23
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA.md)
 
 ## 游戏封面
 

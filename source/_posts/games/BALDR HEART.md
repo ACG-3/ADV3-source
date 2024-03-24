@@ -3,7 +3,7 @@ title: BALDR HEART
 abbrlink: e3d64abb
 date: 2016-08-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/BALDR%20HEART.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BALDR%20HEART.md)
 
 ## 游戏封面
 

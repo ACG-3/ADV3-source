@@ -3,7 +3,7 @@ title: 'Memories Off #5 Encore'
 abbrlink: a84fe2b3
 date: 2007-07-12 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Memories%20Off%20%235%20Encore.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Memories%20Off%20%235%20Encore.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: PRINCESS WALTZ
 abbrlink: 1c500fa7
 date: 2006-04-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/PRINCESS%20WALTZ.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/PRINCESS%20WALTZ.md)
 
 ## 游戏封面
 

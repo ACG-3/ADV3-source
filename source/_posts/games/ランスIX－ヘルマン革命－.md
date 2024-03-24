@@ -2,7 +2,7 @@
 title: "ランスIX－ヘルマン革命－"
 date: 2014-04-25
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D.md)
 
 ## 游戏封面
 

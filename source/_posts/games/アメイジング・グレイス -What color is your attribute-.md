@@ -3,7 +3,7 @@ title: アメイジング・グレイス -What color is your attribute?-
 abbrlink: d74d96df
 date: 2018-11-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-.md)
 
 ## 游戏封面
 

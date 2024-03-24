@@ -3,7 +3,7 @@ title: 僕はキミだけを見つめる～I gaze at only you～
 abbrlink: 710efda0
 date: 2006-08-13 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E.md)
 
 ## 游戏封面
 

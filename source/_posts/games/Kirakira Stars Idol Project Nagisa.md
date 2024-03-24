@@ -3,7 +3,7 @@ title: Kirakira Stars Idol Project Nagisa
 abbrlink: a47cc5d4
 date: 2020-06-19 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Kirakira%20Stars%20Idol%20Project%20Nagisa.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Kirakira%20Stars%20Idol%20Project%20Nagisa.md)
 
 ## 游戏封面
 

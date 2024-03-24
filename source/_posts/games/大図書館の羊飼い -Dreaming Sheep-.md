@@ -2,7 +2,7 @@
 title: "大図書館の羊飼い -Dreaming Sheep-"
 date: 2014-03-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-.md)
 
 ## 游戏封面
 

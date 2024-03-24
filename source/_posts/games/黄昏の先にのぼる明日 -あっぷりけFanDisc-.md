@@ -3,7 +3,7 @@ title: 黄昏の先にのぼる明日 -あっぷりけFanDisc-
 abbrlink: 4e959d20
 date: 2012-12-14 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E9%BB%84%E6%98%8F%E3%81%AE%E5%85%88%E3%81%AB%E3%81%AE%E3%81%BC%E3%82%8B%E6%98%8E%E6%97%A5%20-%E3%81%82%E3%81%A3%E3%81%B7%E3%82%8A%E3%81%91FanDisc-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E9%BB%84%E6%98%8F%E3%81%AE%E5%85%88%E3%81%AB%E3%81%AE%E3%81%BC%E3%82%8B%E6%98%8E%E6%97%A5%20-%E3%81%82%E3%81%A3%E3%81%B7%E3%82%8A%E3%81%91FanDisc-.md)
 
 ## 游戏封面
 

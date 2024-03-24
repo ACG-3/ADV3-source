@@ -2,7 +2,7 @@
 title: "TrymenT ―今を変えたいと願うあなたへ―"
 date: 2020-02-20
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95.md)
 
 ## 游戏封面
 

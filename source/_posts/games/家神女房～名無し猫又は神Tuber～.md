@@ -3,7 +3,7 @@ title: 家神女房～名無し猫又は神Tuber～
 abbrlink: 2c363e9d
 date: 2018-11-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%AE%B6%E7%A5%9E%E5%A5%B3%E6%88%BF%EF%BD%9E%E5%90%8D%E7%84%A1%E3%81%97%E7%8C%AB%E5%8F%88%E3%81%AF%E7%A5%9ETuber%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%AE%B6%E7%A5%9E%E5%A5%B3%E6%88%BF%EF%BD%9E%E5%90%8D%E7%84%A1%E3%81%97%E7%8C%AB%E5%8F%88%E3%81%AF%E7%A5%9ETuber%EF%BD%9E.md)
 
 ## 游戏封面
 

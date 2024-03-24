@@ -3,7 +3,7 @@ title: MinDeaD BlooD ～支配者の為の狂死曲～
 abbrlink: c5ef1c2f
 date: 2004-06-11 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/MinDeaD%20BlooD%20%EF%BD%9E%E6%94%AF%E9%85%8D%E8%80%85%E3%81%AE%E7%82%BA%E3%81%AE%E7%8B%82%E6%AD%BB%E6%9B%B2%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/MinDeaD%20BlooD%20%EF%BD%9E%E6%94%AF%E9%85%8D%E8%80%85%E3%81%AE%E7%82%BA%E3%81%AE%E7%8B%82%E6%AD%BB%E6%9B%B2%EF%BD%9E.md)
 
 ## 游戏封面
 

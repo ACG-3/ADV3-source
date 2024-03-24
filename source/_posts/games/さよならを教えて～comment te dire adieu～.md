@@ -2,7 +2,7 @@
 title: "さよならを教えて～comment te dire adieu～"
 date: 2001-03-02
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%EF%BD%9Ecomment%20te%20dire%20adieu%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%EF%BD%9Ecomment%20te%20dire%20adieu%EF%BD%9E.md)
 
 ## 游戏封面
 

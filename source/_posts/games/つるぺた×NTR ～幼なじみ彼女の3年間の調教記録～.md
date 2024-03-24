@@ -3,7 +3,7 @@ title: つるぺた×NTR ～幼なじみ彼女の3年間の調教記録～
 abbrlink: bf967eda
 date: 2013-07-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%A4%E3%82%8B%E3%81%BA%E3%81%9F%C3%97NTR%20%EF%BD%9E%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E5%BD%BC%E5%A5%B3%E3%81%AE3%E5%B9%B4%E9%96%93%E3%81%AE%E8%AA%BF%E6%95%99%E8%A8%98%E9%8C%B2%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%A4%E3%82%8B%E3%81%BA%E3%81%9F%C3%97NTR%20%EF%BD%9E%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E5%BD%BC%E5%A5%B3%E3%81%AE3%E5%B9%B4%E9%96%93%E3%81%AE%E8%AA%BF%E6%95%99%E8%A8%98%E9%8C%B2%EF%BD%9E.md)
 
 ## 游戏封面
 

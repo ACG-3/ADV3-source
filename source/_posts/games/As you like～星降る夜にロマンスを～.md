@@ -3,7 +3,7 @@ title: As you like～星降る夜にロマンスを～
 abbrlink: 903787dc
 date: 2005-07-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/As%20you%20like%EF%BD%9E%E6%98%9F%E9%99%8D%E3%82%8B%E5%A4%9C%E3%81%AB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/As%20you%20like%EF%BD%9E%E6%98%9F%E9%99%8D%E3%82%8B%E5%A4%9C%E3%81%AB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%EF%BD%9E.md)
 
 ## 游戏封面
 

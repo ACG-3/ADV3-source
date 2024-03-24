@@ -2,7 +2,7 @@
 title: "Deep Love Diary -恋人日記-"
 date: 2016-10-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Deep%20Love%20Diary%20-%E6%81%8B%E4%BA%BA%E6%97%A5%E8%A8%98-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Deep%20Love%20Diary%20-%E6%81%8B%E4%BA%BA%E6%97%A5%E8%A8%98-.md)
 
 ## 游戏封面
 

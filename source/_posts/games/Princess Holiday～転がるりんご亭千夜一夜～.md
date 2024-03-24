@@ -3,7 +3,7 @@ title: Princess Holiday～転がるりんご亭千夜一夜～
 abbrlink: b73f254
 date: 2002-09-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E.md)
 
 ## 游戏封面
 

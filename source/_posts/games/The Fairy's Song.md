@@ -2,7 +2,7 @@
 title: "The Fairy's Song"
 date: 2020-08-07
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/The%20Fairy%27s%20Song.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/The%20Fairy%27s%20Song.md)
 
 ## 游戏封面
 

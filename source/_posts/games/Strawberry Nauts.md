@@ -3,7 +3,7 @@ title: Strawberry Nauts
 abbrlink: cc8ad978
 date: 2011-11-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Strawberry%20Nauts.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Strawberry%20Nauts.md)
 
 ## 游戏封面
 

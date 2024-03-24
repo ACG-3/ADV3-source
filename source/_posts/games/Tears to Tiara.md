@@ -2,7 +2,7 @@
 title: "Tears to Tiara"
 date: 2005-04-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Tears%20to%20Tiara.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Tears%20to%20Tiara.md)
 
 ## 游戏封面
 

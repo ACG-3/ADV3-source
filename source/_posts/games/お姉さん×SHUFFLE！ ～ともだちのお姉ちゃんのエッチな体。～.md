@@ -3,7 +3,7 @@ title: お姉さん×SHUFFLE！ ～ともだちのお姉ちゃんのエッチな
 abbrlink: 6967d2d
 date: 2017-12-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%8A%E5%A7%89%E3%81%95%E3%82%93%C3%97SHUFFLE%EF%BC%81%20%EF%BD%9E%E3%81%A8%E3%82%82%E3%81%A0%E3%81%A1%E3%81%AE%E3%81%8A%E5%A7%89%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E3%82%A8%E3%83%83%E3%83%81%E3%81%AA%E4%BD%93%E3%80%82%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%8A%E5%A7%89%E3%81%95%E3%82%93%C3%97SHUFFLE%EF%BC%81%20%EF%BD%9E%E3%81%A8%E3%82%82%E3%81%A0%E3%81%A1%E3%81%AE%E3%81%8A%E5%A7%89%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E3%82%A8%E3%83%83%E3%83%81%E3%81%AA%E4%BD%93%E3%80%82%EF%BD%9E.md)
 
 ## 游戏封面
 

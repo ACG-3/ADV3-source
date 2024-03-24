@@ -3,7 +3,7 @@ title: 古色迷宮輪舞曲  ～HISTOIRE DE DESTIN～
 abbrlink: 4cdc9263
 date: 2012-07-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%8F%A4%E8%89%B2%E8%BF%B7%E5%AE%AE%E8%BC%AA%E8%88%9E%E6%9B%B2%20%20%EF%BD%9EHISTOIRE%20DE%20DESTIN%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%8F%A4%E8%89%B2%E8%BF%B7%E5%AE%AE%E8%BC%AA%E8%88%9E%E6%9B%B2%20%20%EF%BD%9EHISTOIRE%20DE%20DESTIN%EF%BD%9E.md)
 
 ## 游戏封面
 

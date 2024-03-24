@@ -2,7 +2,7 @@
 title: "異世界酒場のセクステット ～Vol.1 New World Days～"
 date: 2020-11-05
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E.md)
 
 ## 游戏封面
 

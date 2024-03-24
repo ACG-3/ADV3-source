@@ -3,7 +3,7 @@ title: 星空へ架かる橋AA
 abbrlink: f1c25b70
 date: 2012-04-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA.md)
 
 ## 游戏封面
 

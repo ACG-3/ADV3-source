@@ -3,7 +3,7 @@ title: メモリーズオフ -Innocent Fille-
 abbrlink: 6f79fd99
 date: 2018-03-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-.md)
 
 ## 游戏封面
 

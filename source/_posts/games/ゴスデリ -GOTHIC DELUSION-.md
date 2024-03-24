@@ -3,7 +3,7 @@ title: ゴスデリ -GOTHIC DELUSION-
 abbrlink: f7c723fb
 date: 2010-07-23 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B4%E3%82%B9%E3%83%87%E3%83%AA%20-GOTHIC%20DELUSION-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%B4%E3%82%B9%E3%83%87%E3%83%AA%20-GOTHIC%20DELUSION-.md)
 
 ## 游戏封面
 

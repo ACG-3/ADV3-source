@@ -3,7 +3,7 @@ title: Sakura Gamer 2
 abbrlink: eaabea20
 date: 2019-12-12 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Sakura%20Gamer%202.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sakura%20Gamer%202.md)
 
 ## 游戏封面
 

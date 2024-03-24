@@ -2,7 +2,7 @@
 title: "Triangle Love -アプリコットフィズ-"
 date: 2016-08-26
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Triangle%20Love%20-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B3%E3%83%83%E3%83%88%E3%83%95%E3%82%A3%E3%82%BA-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Triangle%20Love%20-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B3%E3%83%83%E3%83%88%E3%83%95%E3%82%A3%E3%82%BA-.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: とってもフェロモン
 abbrlink: 3de6b6f0
 date: 2001-07-06 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/We%20Are.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/We%20Are.md)
 
 ## 游戏封面
 

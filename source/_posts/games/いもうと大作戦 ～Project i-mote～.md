@@ -3,7 +3,7 @@ title: いもうと大作戦 ～Project i-mote～
 abbrlink: 9703a82a
 date: 2006-03-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%84%E3%82%82%E3%81%86%E3%81%A8%E5%A4%A7%E4%BD%9C%E6%88%A6%20%EF%BD%9EProject%20i-mote%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%84%E3%82%82%E3%81%86%E3%81%A8%E5%A4%A7%E4%BD%9C%E6%88%A6%20%EF%BD%9EProject%20i-mote%EF%BD%9E.md)
 
 ## 游戏封面
 

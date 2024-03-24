@@ -3,7 +3,7 @@ title: NinNinDays2
 abbrlink: ff2107cf
 date: 2021-11-18 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/NinNinDays2.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/NinNinDays2.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "初恋ばれんたいん SPECIAL"
 date: 1998-11-05
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%88%9D%E6%81%8B%E3%81%B0%E3%82%8C%E3%82%93%E3%81%9F%E3%81%84%E3%82%93%20SPECIAL.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%88%9D%E6%81%8B%E3%81%B0%E3%82%8C%E3%82%93%E3%81%9F%E3%81%84%E3%82%93%20SPECIAL.md)
 
 ## 游戏封面
 

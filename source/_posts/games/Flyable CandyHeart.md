@@ -3,7 +3,7 @@ title: Flyable CandyHeart
 abbrlink: cc771718
 date: 2011-02-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Flyable%20CandyHeart.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Flyable%20CandyHeart.md)
 
 ## 游戏封面
 

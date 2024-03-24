@@ -3,7 +3,7 @@ title: BLOODY†RONDO
 abbrlink: c1958c9e
 date: 2011-01-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/BLOODY%E2%80%A0RONDO.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BLOODY%E2%80%A0RONDO.md)
 
 ## 游戏封面
 

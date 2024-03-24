@@ -3,7 +3,7 @@ title: Sladkij keksik
 abbrlink: fd1db5ff
 date: 2020-05-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Sweet%20F.%20Cake.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sweet%20F.%20Cake.md)
 
 ## 游戏封面
 

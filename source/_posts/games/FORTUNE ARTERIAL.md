@@ -3,7 +3,7 @@ title: FORTUNE ARTERIAL
 abbrlink: 4c3ca62
 date: 2008-01-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/FORTUNE%20ARTERIAL.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/FORTUNE%20ARTERIAL.md)
 
 ## 游戏封面
 

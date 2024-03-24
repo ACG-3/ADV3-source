@@ -3,7 +3,7 @@ title: ネコぱらvol.4～ネコとパティシエのノエル～
 abbrlink: cf7bc49c
 date: 2020-11-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E.md)
 
 ## 游戏封面
 

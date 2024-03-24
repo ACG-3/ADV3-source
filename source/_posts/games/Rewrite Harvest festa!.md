@@ -2,7 +2,7 @@
 title: "Rewrite Harvest festa!"
 date: 2012-07-27
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Rewrite%20Harvest%20festa%21.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Rewrite%20Harvest%20festa%21.md)
 
 ## 游戏封面
 

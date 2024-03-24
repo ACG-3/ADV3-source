@@ -2,7 +2,7 @@
 title: "フユウソ -Snow World End-"
 date: 2017-07-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%95%E3%83%A6%E3%82%A6%E3%82%BD%20-Snow%20World%20End-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%95%E3%83%A6%E3%82%A6%E3%82%BD%20-Snow%20World%20End-.md)
 
 ## 游戏封面
 

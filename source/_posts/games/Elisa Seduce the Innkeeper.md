@@ -3,7 +3,7 @@ title: 'Elisa: The Innkeeper - A New Customer Arrives!'
 abbrlink: 314f306d
 date: 2017-06-20 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Elisa%20Seduce%20the%20Innkeeper.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Elisa%20Seduce%20the%20Innkeeper.md)
 
 ## 游戏封面
 

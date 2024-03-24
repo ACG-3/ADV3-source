@@ -3,7 +3,7 @@ title: Shiny Days
 abbrlink: c54105e0
 date: 2012-04-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Shiny%20Days.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Shiny%20Days.md)
 
 ## 游戏封面
 

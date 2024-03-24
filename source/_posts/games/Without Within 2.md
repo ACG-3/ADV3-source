@@ -3,7 +3,7 @@ title: Without Within 2
 abbrlink: c38c1d1f
 date: 2015-11-09 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Without%20Within%202.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Without%20Within%202.md)
 
 ## 游戏封面
 

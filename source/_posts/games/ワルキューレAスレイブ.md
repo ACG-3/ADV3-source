@@ -3,7 +3,7 @@ title: ワルキューレAスレイブ
 abbrlink: 8b3c815
 date: 2017-04-19 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%ACA%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%96.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%ACA%E3%82%B9%E3%83%AC%E3%82%A4%E3%83%96.md)
 
 ## 游戏封面
 

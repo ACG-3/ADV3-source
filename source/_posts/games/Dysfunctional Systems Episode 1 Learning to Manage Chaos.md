@@ -3,7 +3,7 @@ title: 'Dysfunctional Systems Episode 1: Learning to Manage Chaos'
 abbrlink: 24b7ac4f
 date: 2013-04-04 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos.md)
 
 ## 游戏封面
 

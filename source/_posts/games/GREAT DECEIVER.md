@@ -3,7 +3,7 @@ title: GREAT DECEIVER
 abbrlink: 356cf38d
 date: 2019-06-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/GREAT%20DECEIVER.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/GREAT%20DECEIVER.md)
 
 ## 游戏封面
 

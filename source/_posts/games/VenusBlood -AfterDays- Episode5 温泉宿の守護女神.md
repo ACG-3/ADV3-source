@@ -3,7 +3,7 @@ title: 'VenusBlood -AfterDays- Episode:5 温泉宿の守護女神'
 abbrlink: a98c1402
 date: 2020-10-23 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/VenusBlood%20-AfterDays-%20Episode5%20%E6%B8%A9%E6%B3%89%E5%AE%BF%E3%81%AE%E5%AE%88%E8%AD%B7%E5%A5%B3%E7%A5%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/VenusBlood%20-AfterDays-%20Episode5%20%E6%B8%A9%E6%B3%89%E5%AE%BF%E3%81%AE%E5%AE%88%E8%AD%B7%E5%A5%B3%E7%A5%9E.md)
 
 ## 游戏封面
 

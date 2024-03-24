@@ -3,7 +3,7 @@ title: G線上の魔王 大番外編『車輪の国の魔王』
 abbrlink: 655f6a93
 date: 2011-05-02 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F.md)
 
 ## 游戏封面
 

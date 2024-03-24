@@ -2,7 +2,7 @@
 title: "LUNARiA -Virtualized Moonchild-"
 date: 2021-12-24
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/LUNARiA%20-Virtualized%20Moonchild-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LUNARiA%20-Virtualized%20Moonchild-.md)
 
 ## 游戏封面
 

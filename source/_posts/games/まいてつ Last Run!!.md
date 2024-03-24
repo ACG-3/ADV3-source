@@ -3,7 +3,7 @@ title: まいてつ
 abbrlink: ae2ca6fc
 date: 2016-03-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%BE%E3%81%84%E3%81%A6%E3%81%A4%20Last%20Run%21%21.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%BE%E3%81%84%E3%81%A6%E3%81%A4%20Last%20Run%21%21.md)
 
 ## 游戏封面
 

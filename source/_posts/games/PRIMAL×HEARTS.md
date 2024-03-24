@@ -3,7 +3,7 @@ title: PRIMAL×HEARTS
 abbrlink: abd57fa2
 date: 2014-08-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/PRIMAL%C3%97HEARTS.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/PRIMAL%C3%97HEARTS.md)
 
 ## 游戏封面
 

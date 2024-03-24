@@ -3,7 +3,7 @@ title: 蒼い空のネオスフィア 　どきどきアドベンチャー　Eff
 abbrlink: 52f405ad
 date: 2005-12-16 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E8%92%BC%E3%81%84%E7%A9%BA%E3%81%AE%E3%83%8D%E3%82%AA%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2%20%E3%80%80%E3%81%A9%E3%81%8D%E3%81%A9%E3%81%8D%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%80%80Effective%20E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%92%BC%E3%81%84%E7%A9%BA%E3%81%AE%E3%83%8D%E3%82%AA%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2%20%E3%80%80%E3%81%A9%E3%81%8D%E3%81%A9%E3%81%8D%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%80%80Effective%20E.md)
 
 ## 游戏封面
 

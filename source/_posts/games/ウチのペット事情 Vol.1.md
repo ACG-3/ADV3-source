@@ -3,7 +3,7 @@ title: ウチのペット事情 Vol.1
 abbrlink: d7945531
 date: 2022-04-08 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "Highway Blossoms"
 date: 2016-06-17
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Highway%20Blossoms.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Highway%20Blossoms.md)
 
 ## 游戏封面
 

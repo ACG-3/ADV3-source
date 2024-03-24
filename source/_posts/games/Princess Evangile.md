@@ -3,7 +3,7 @@ title: Princess Evangile
 abbrlink: 4dbb840b
 date: 2011-07-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Princess%20Evangile.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Princess%20Evangile.md)
 
 ## 游戏封面
 

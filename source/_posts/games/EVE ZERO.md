@@ -2,7 +2,7 @@
 title: "EVE ZERO"
 date: 2000-03-30
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/EVE%20ZERO.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/EVE%20ZERO.md)
 
 ## 游戏封面
 

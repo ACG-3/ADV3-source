@@ -3,7 +3,7 @@ title: サフィズムの舷窓
 abbrlink: '20e78578'
 date: 2001-05-18 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Polar%20Star.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Polar%20Star.md)
 
 ## 游戏封面
 

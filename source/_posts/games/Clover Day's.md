@@ -2,7 +2,7 @@
 title: "Clover Day's"
 date: 2014-03-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Clover%20Day%27s.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Clover%20Day%27s.md)
 
 ## 游戏封面
 

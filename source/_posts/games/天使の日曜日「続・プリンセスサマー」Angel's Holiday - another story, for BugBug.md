@@ -2,7 +2,7 @@
 title: "天使の日曜日「続・プリンセスサマー」Angel's Holiday - another story, for BugBug."
 date: 2011-05-02
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug.md)
 
 ## 游戏封面
 

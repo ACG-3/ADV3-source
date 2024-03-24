@@ -3,7 +3,7 @@ title: Sakura Knight
 abbrlink: d4981235
 date: 2020-01-31 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Sakura%20Knight.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sakura%20Knight.md)
 
 ## 游戏封面
 

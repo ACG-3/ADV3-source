@@ -3,7 +3,7 @@ title: fault - milestone one
 abbrlink: d1f445ac
 date: 2013-08-12 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/fault%20-%20milestone%20one.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/fault%20-%20milestone%20one.md)
 
 ## 游戏封面
 

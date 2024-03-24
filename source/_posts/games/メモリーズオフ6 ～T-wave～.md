@@ -3,7 +3,7 @@ title: メモリーズオフ6 ～T-wave～
 abbrlink: 3838a0f4
 date: 2008-08-21 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E.md)
 
 ## 游戏封面
 

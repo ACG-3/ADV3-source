@@ -3,7 +3,7 @@ title: 'VenusBlood DarkChronicle Episode:2 混沌に堕ちる母娘神'
 abbrlink: a0577b54
 date: 2020-10-23 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/VenusBlood%20DarkChronicle%20Episode2%20%E6%B7%B7%E6%B2%8C%E3%81%AB%E5%A0%95%E3%81%A1%E3%82%8B%E6%AF%8D%E5%A8%98%E7%A5%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/VenusBlood%20DarkChronicle%20Episode2%20%E6%B7%B7%E6%B2%8C%E3%81%AB%E5%A0%95%E3%81%A1%E3%82%8B%E6%AF%8D%E5%A8%98%E7%A5%9E.md)
 
 ## 游戏封面
 

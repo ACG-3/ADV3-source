@@ -3,7 +3,7 @@ title: WORLD END ECONOMiCA
 abbrlink: d2747e82
 date: 2011-08-13 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/WORLD%20END%20ECONOMiCA.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/WORLD%20END%20ECONOMiCA.md)
 
 ## 游戏封面
 

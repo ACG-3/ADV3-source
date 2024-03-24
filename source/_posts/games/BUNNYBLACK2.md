@@ -3,7 +3,7 @@ title: BUNNYBLACK2
 abbrlink: 73292d40
 date: 2012-01-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/BUNNYBLACK2.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BUNNYBLACK2.md)
 
 ## 游戏封面
 

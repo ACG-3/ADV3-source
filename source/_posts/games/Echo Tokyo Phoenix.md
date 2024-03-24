@@ -3,7 +3,7 @@ title: 'Echo Tokyo: Phoenix'
 abbrlink: df12a5e1
 date: 2019-03-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Echo%20Tokyo%20Phoenix.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Echo%20Tokyo%20Phoenix.md)
 
 ## 游戏封面
 

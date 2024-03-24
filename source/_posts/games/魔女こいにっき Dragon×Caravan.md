@@ -3,7 +3,7 @@ title: 魔女こいにっき
 abbrlink: '8896969'
 date: 2014-05-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E9%AD%94%E5%A5%B3%E3%81%93%E3%81%84%E3%81%AB%E3%81%A3%E3%81%8D%20Dragon%C3%97Caravan.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E9%AD%94%E5%A5%B3%E3%81%93%E3%81%84%E3%81%AB%E3%81%A3%E3%81%8D%20Dragon%C3%97Caravan.md)
 
 ## 游戏封面
 

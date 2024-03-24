@@ -3,7 +3,7 @@ title: WHITE ALBUM2
 abbrlink: '330134e7'
 date: 2010-03-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/WHITE%20ALBUM2.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/WHITE%20ALBUM2.md)
 
 ## 游戏封面
 

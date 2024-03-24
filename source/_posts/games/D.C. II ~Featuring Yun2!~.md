@@ -2,7 +2,7 @@
 title: "D.C. II ~Featuring Yun2!~"
 date: 2006-11-07
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/D.C.%20II%20~Featuring%20Yun2%21~.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/D.C.%20II%20~Featuring%20Yun2%21~.md)
 
 ## 游戏封面
 

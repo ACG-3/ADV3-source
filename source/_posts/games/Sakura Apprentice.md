@@ -3,7 +3,7 @@ title: Sakura Apprentice
 abbrlink: a29ad027
 date: 2019-08-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Sakura%20Apprentice.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sakura%20Apprentice.md)
 
 ## 游戏封面
 

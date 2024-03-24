@@ -3,7 +3,7 @@ title: 'VenusBlood:Lagoon'
 abbrlink: ada4fe66
 date: 2018-12-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/VenusBloodLagoon.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/VenusBloodLagoon.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "ヘイズマン -THE LOCAL HERO-"
 date: 2017-09-29
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-.md)
 
 ## 游戏封面
 

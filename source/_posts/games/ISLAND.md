@@ -3,7 +3,7 @@ title: GALZOOアイランド
 abbrlink: 6a00ea44
 date: 2005-12-09 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/ISLAND.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ISLAND.md)
 
 ## 游戏封面
 

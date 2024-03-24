@@ -3,7 +3,7 @@ title: わん・もあ・ちゃんす！
 abbrlink: '55701782'
 date: 2012-02-20 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/One%20More%20Chance.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/One%20More%20Chance.md)
 
 ## 游戏封面
 

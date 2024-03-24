@@ -3,7 +3,7 @@ title: Kanon
 abbrlink: 60bdd33e
 date: 1999-06-04 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Kanon.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Kanon.md)
 
 ## 游戏封面
 

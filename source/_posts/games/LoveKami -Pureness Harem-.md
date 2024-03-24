@@ -2,7 +2,7 @@
 title: "LoveKami -Pureness Harem-"
 date: 2018-11-14
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/LoveKami%20-Pureness%20Harem-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LoveKami%20-Pureness%20Harem-.md)
 
 ## 游戏封面
 

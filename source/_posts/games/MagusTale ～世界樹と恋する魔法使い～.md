@@ -3,7 +3,7 @@ title: MagusTale ～世界樹と恋する魔法使い～
 abbrlink: 1cf96f07
 date: 2007-11-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/MagusTale%20%EF%BD%9E%E4%B8%96%E7%95%8C%E6%A8%B9%E3%81%A8%E6%81%8B%E3%81%99%E3%82%8B%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/MagusTale%20%EF%BD%9E%E4%B8%96%E7%95%8C%E6%A8%B9%E3%81%A8%E6%81%8B%E3%81%99%E3%82%8B%E9%AD%94%E6%B3%95%E4%BD%BF%E3%81%84%EF%BD%9E.md)
 
 ## 游戏封面
 

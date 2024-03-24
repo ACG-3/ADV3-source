@@ -3,7 +3,7 @@ title: King of Bali
 abbrlink: f85bf46d
 date: 2017-07-21 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/King%20Of%20Bali.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/King%20Of%20Bali.md)
 
 ## 游戏封面
 

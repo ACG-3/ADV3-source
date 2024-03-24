@@ -2,7 +2,7 @@
 title: "Juniper's Knot"
 date: 2012-04-12
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Juniper%27s%20Knot.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Juniper%27s%20Knot.md)
 
 ## 游戏封面
 

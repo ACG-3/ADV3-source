@@ -3,7 +3,7 @@ title: Heart of the Woods
 abbrlink: 8b3bbfe4
 date: 2019-02-15 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Heart%20of%20the%20Woods.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Heart%20of%20the%20Woods.md)
 
 ## 游戏封面
 

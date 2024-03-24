@@ -3,7 +3,7 @@ title: PURELY×CATION
 abbrlink: 208547bf
 date: 2016-04-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/PURELY%C3%97CATION.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/PURELY%C3%97CATION.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: みらろま ~Miracle Romance Strawberry Scramble~
 abbrlink: 6afed65f
 date: 2005-12-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Berry%27s.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Berry%27s.md)
 
 ## 游戏封面
 

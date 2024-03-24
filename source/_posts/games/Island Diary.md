@@ -3,7 +3,7 @@ title: Island Diary
 abbrlink: 1ab0e457
 date: 2021-03-19 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Island%20Diary.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Island%20Diary.md)
 
 ## 游戏封面
 

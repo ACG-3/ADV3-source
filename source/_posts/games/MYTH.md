@@ -3,7 +3,7 @@ title: Aguni～運命の先～
 abbrlink: b1865b1d
 date: 2006-08-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/MYTH.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/MYTH.md)
 
 ## 游戏封面
 

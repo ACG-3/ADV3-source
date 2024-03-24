@@ -3,7 +3,7 @@ title: サクラ・MMO２ ～明かされし事実～
 abbrlink: 5c7e6a4d
 date: 2019-01-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%BBMMO%EF%BC%92%20%EF%BD%9E%E6%98%8E%E3%81%8B%E3%81%95%E3%82%8C%E3%81%97%E4%BA%8B%E5%AE%9F%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%BBMMO%EF%BC%92%20%EF%BD%9E%E6%98%8E%E3%81%8B%E3%81%95%E3%82%8C%E3%81%97%E4%BA%8B%E5%AE%9F%EF%BD%9E.md)
 
 ## 游戏封面
 

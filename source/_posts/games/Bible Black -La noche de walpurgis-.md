@@ -3,7 +3,7 @@ title: Bible Black -La noche de walpurgis-
 abbrlink: 6346414d
 date: 2000-07-14 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Bible%20Black%20-La%20noche%20de%20walpurgis-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Bible%20Black%20-La%20noche%20de%20walpurgis-.md)
 
 ## 游戏封面
 

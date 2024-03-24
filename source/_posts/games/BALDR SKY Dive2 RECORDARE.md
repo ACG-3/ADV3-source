@@ -3,7 +3,7 @@ title: BALDR SKY Dive2 "RECORDARE"
 abbrlink: 991ec1c0
 date: 2009-11-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/BALDR%20SKY%20Dive2%20RECORDARE.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BALDR%20SKY%20Dive2%20RECORDARE.md)
 
 ## 游戏封面
 

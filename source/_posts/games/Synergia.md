@@ -2,7 +2,7 @@
 title: "Synergia"
 date: 2020-07-27
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Synergia.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Synergia.md)
 
 ## 游戏封面
 

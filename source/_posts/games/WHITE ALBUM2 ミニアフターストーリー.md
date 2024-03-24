@@ -3,7 +3,7 @@ title: WHITE ALBUM2 ミニアフターストーリー
 abbrlink: 4920dfa
 date: 2012-12-20 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC.md)
 
 ## 游戏封面
 

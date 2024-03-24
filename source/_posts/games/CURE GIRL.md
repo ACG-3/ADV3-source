@@ -2,7 +2,7 @@
 title: "CURE GIRL"
 date: 2011-05-20
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/CURE%20GIRL.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CURE%20GIRL.md)
 
 ## 游戏封面
 

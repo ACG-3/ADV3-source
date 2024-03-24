@@ -3,7 +3,7 @@ title: Song of Memories
 abbrlink: 39e7973a
 date: 2017-04-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Song%20of%20Memories.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Song%20of%20Memories.md)
 
 ## 游戏封面
 

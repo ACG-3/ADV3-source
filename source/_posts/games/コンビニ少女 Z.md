@@ -3,7 +3,7 @@ title: コンビニ少女 Z
 abbrlink: 1da8aba2
 date: 2020-03-10 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E5%B0%91%E5%A5%B3%20Z.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%B3%E3%83%B3%E3%83%93%E3%83%8B%E5%B0%91%E5%A5%B3%20Z.md)
 
 ## 游戏封面
 

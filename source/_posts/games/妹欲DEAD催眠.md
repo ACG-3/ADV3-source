@@ -3,7 +3,7 @@ title: 妹欲DEAD催眠
 abbrlink: 9ec8bb90
 date: 2014-09-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A6%B9%E6%AC%B2DEAD%E5%82%AC%E7%9C%A0.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A6%B9%E6%AC%B2DEAD%E5%82%AC%E7%9C%A0.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "CHAOS;HEAD"
 date: 2008-04-25
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/CHAOS%3BHEAD.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CHAOS%3BHEAD.md)
 
 ## 游戏封面
 

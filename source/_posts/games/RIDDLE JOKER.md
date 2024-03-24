@@ -2,7 +2,7 @@
 title: "RIDDLE JOKER"
 date: 2018-03-30
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/RIDDLE%20JOKER.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/RIDDLE%20JOKER.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: Divine Slice of Life
 abbrlink: 2cacae77
 date: 2015-10-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Divine%20Slice%20of%20Life.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Divine%20Slice%20of%20Life.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "Tropical Liquor"
 date: 2018-03-09
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Tropical%20Liquor.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Tropical%20Liquor.md)
 
 ## 游戏封面
 

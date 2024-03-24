@@ -2,7 +2,7 @@
 title: "LOVEREC. －ミニシアターズ－"
 date: 2016-01-29
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/LOVEREC.%20%EF%BC%8D%E3%83%9F%E3%83%8B%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%E3%82%BA%EF%BC%8D.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LOVEREC.%20%EF%BC%8D%E3%83%9F%E3%83%8B%E3%82%B7%E3%82%A2%E3%82%BF%E3%83%BC%E3%82%BA%EF%BC%8D.md)
 
 ## 游戏封面
 

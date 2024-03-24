@@ -3,7 +3,7 @@ title: 白光のヴァルーシア ～What a beautiful hopes～
 abbrlink: 6527dc65
 date: 2009-11-20 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E.md)
 
 ## 游戏封面
 

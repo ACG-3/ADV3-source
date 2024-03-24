@@ -3,7 +3,7 @@ title: ステディ×スタディ
 abbrlink: af05f6f2
 date: 2004-03-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Study%20Steady.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Study%20Steady.md)
 
 ## 游戏封面
 

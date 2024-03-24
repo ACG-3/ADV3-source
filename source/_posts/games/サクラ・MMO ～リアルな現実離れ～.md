@@ -3,7 +3,7 @@ title: サクラ・MMO ～リアルな現実離れ～
 abbrlink: f3d6443e
 date: 2018-10-15 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%BBMMO%20%EF%BD%9E%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E7%8F%BE%E5%AE%9F%E9%9B%A2%E3%82%8C%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%BBMMO%20%EF%BD%9E%E3%83%AA%E3%82%A2%E3%83%AB%E3%81%AA%E7%8F%BE%E5%AE%9F%E9%9B%A2%E3%82%8C%EF%BD%9E.md)
 
 ## 游戏封面
 

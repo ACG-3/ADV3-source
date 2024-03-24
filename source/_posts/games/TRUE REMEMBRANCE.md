@@ -2,7 +2,7 @@
 title: "TRUE REMEMBRANCE"
 date: 2003-05-11
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/TRUE%20REMEMBRANCE.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/TRUE%20REMEMBRANCE.md)
 
 ## 游戏封面
 

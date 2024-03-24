@@ -3,7 +3,7 @@ title: その花びらにくちづけを わたしの王子さま
 abbrlink: d9f8ec3e
 date: 2007-05-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/My%20Dear%20Prince.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/My%20Dear%20Prince.md)
 
 ## 游戏封面
 

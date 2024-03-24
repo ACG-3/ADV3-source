@@ -2,7 +2,7 @@
 title: "タユタマ -It's happy days-"
 date: 2009-05-29
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-.md)
 
 ## 游戏封面
 

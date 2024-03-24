@@ -3,7 +3,7 @@ title: ツンデレアイドルは僕だけのMペット ～いっぱい躾け�
 abbrlink: 2d73fef9
 date: 2016-05-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%84%E3%83%B3%E3%83%87%E3%83%AC%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%81%AF%E5%83%95%E3%81%A0%E3%81%91%E3%81%AEM%E3%83%9A%E3%83%83%E3%83%88%20%EF%BD%9E%E3%81%84%E3%81%A3%E3%81%B1%E3%81%84%E8%BA%BE%E3%81%91%E3%81%A6%E3%81%94%E4%B8%BB%E4%BA%BA%E6%A7%98%E3%81%AELOVE%E7%B2%BE%E5%AD%90%E3%81%A7%E5%AD%95%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AE%E2%99%AA%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%84%E3%83%B3%E3%83%87%E3%83%AC%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%81%AF%E5%83%95%E3%81%A0%E3%81%91%E3%81%AEM%E3%83%9A%E3%83%83%E3%83%88%20%EF%BD%9E%E3%81%84%E3%81%A3%E3%81%B1%E3%81%84%E8%BA%BE%E3%81%91%E3%81%A6%E3%81%94%E4%B8%BB%E4%BA%BA%E6%A7%98%E3%81%AELOVE%E7%B2%BE%E5%AD%90%E3%81%A7%E5%AD%95%E3%81%BF%E3%81%9F%E3%81%84%E3%81%AE%E2%99%AA%EF%BD%9E.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: 'レミニセンス Re:Collect'
 abbrlink: b48c44b7
 date: 2014-06-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: フォセット ～Cafe au Le Ciel Bleu～
 abbrlink: b368a1d6
 date: 2006-12-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%95%E3%82%A9%E3%82%BB%E3%83%83%E3%83%88%20%EF%BD%9ECafe%20au%20Le%20Ciel%20Bleu%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%95%E3%82%A9%E3%82%BB%E3%83%83%E3%83%88%20%EF%BD%9ECafe%20au%20Le%20Ciel%20Bleu%EF%BD%9E.md)
 
 ## 游戏封面
 

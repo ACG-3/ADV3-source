@@ -3,7 +3,7 @@ title: すうぃ～と☆SwitcH ～まじわるシセンでとろけるカラダ
 abbrlink: 98565ad0
 date: 2015-04-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%99%E3%81%86%E3%81%83%EF%BD%9E%E3%81%A8%E2%98%86SwitcH%20%EF%BD%9E%E3%81%BE%E3%81%98%E3%82%8F%E3%82%8B%E3%82%B7%E3%82%BB%E3%83%B3%E3%81%A7%E3%81%A8%E3%82%8D%E3%81%91%E3%82%8B%E3%82%AB%E3%83%A9%E3%83%80%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%99%E3%81%86%E3%81%83%EF%BD%9E%E3%81%A8%E2%98%86SwitcH%20%EF%BD%9E%E3%81%BE%E3%81%98%E3%82%8F%E3%82%8B%E3%82%B7%E3%82%BB%E3%83%B3%E3%81%A7%E3%81%A8%E3%82%8D%E3%81%91%E3%82%8B%E3%82%AB%E3%83%A9%E3%83%80%EF%BD%9E.md)
 
 ## 游戏封面
 

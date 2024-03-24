@@ -3,7 +3,7 @@ title: Angel Beats! -1st beat-
 abbrlink: 6b45b0c1
 date: 2015-06-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Angel%20Beats%21%20-1st%20beat-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Angel%20Beats%21%20-1st%20beat-.md)
 
 ## 游戏封面
 

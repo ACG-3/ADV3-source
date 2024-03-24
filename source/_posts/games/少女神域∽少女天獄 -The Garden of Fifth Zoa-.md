@@ -3,7 +3,7 @@ title: 少女神域∽少女天獄 -The Garden of Fifth Zoa-
 abbrlink: ae4d3fae
 date: 2013-04-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "星空のメモリア-Wish upon a shooting star-"
 date: 2009-03-27
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%98%9F%E7%A9%BA%E3%81%AE%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2-Wish%20upon%20a%20shooting%20star-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%98%9F%E7%A9%BA%E3%81%AE%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%A2-Wish%20upon%20a%20shooting%20star-.md)
 
 ## 游戏封面
 

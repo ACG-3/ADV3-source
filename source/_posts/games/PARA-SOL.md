@@ -3,7 +3,7 @@ title: PARA-SOL
 abbrlink: c284331c
 date: 2010-07-23 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/PARA-SOL.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/PARA-SOL.md)
 
 ## 游戏封面
 

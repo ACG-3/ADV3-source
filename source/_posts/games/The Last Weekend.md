@@ -2,7 +2,7 @@
 title: "The Last Weekend"
 date: 2017-02-14
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/The%20Last%20Weekend.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/The%20Last%20Weekend.md)
 
 ## 游戏封面
 

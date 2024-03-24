@@ -3,7 +3,7 @@ title: よめがみ My Sweet Goddess!
 abbrlink: '68356617'
 date: 2016-11-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess%21.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess%21.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: SaDistic BlooD
 abbrlink: b3c99a
 date: 2019-12-20 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/SaDistic%20BlooD.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/SaDistic%20BlooD.md)
 
 ## 游戏封面
 

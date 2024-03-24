@@ -3,7 +3,7 @@ title: アキウソ -The only neat thing to do-
 abbrlink: 52e9163b
 date: 2016-11-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-.md)
 
 ## 游戏封面
 

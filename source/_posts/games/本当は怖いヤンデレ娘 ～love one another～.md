@@ -2,7 +2,7 @@
 title: "本当は怖いヤンデレ娘 ～love one another～"
 date: 2016-10-02
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%9C%AC%E5%BD%93%E3%81%AF%E6%80%96%E3%81%84%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E5%A8%98%20%EF%BD%9Elove%20one%20another%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%9C%AC%E5%BD%93%E3%81%AF%E6%80%96%E3%81%84%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E5%A8%98%20%EF%BD%9Elove%20one%20another%EF%BD%9E.md)
 
 ## 游戏封面
 

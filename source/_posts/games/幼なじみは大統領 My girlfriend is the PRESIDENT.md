@@ -2,7 +2,7 @@
 title: "幼なじみは大統領 My girlfriend is the PRESIDENT."
 date: 2009-10-30
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: SeaBed
 abbrlink: c8dbd0ac
 date: 2015-11-15 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/SeaBed.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/SeaBed.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: STEINS;GATE
 abbrlink: 7fd6e4a3
 date: 2009-10-15 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/STEINS%3BGATE.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/STEINS%3BGATE.md)
 
 ## 游戏封面
 

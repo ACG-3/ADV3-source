@@ -3,7 +3,7 @@ title: 'eden* They were only two, on the planet.'
 abbrlink: 60beb792
 date: 2009-09-18 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/eden%20They%20were%20only%20two%2C%20on%20the%20planet.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/eden%20They%20were%20only%20two%2C%20on%20the%20planet.md)
 
 ## 游戏封面
 

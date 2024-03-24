@@ -3,7 +3,7 @@ title: えろゼミ~エッチにヤル気にABC~
 abbrlink: 583a8dff
 date: 2016-06-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%88%E3%82%8D%E3%82%BC%E3%83%9F~%E3%82%A8%E3%83%83%E3%83%81%E3%81%AB%E3%83%A4%E3%83%AB%E6%B0%97%E3%81%ABABC~.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%88%E3%82%8D%E3%82%BC%E3%83%9F~%E3%82%A8%E3%83%83%E3%83%81%E3%81%AB%E3%83%A4%E3%83%AB%E6%B0%97%E3%81%ABABC~.md)
 
 ## 游戏封面
 

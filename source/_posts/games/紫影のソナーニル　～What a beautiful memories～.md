@@ -2,7 +2,7 @@
 title: "紫影のソナーニル　～What a beautiful memories～"
 date: 2010-11-26
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E7%B4%AB%E5%BD%B1%E3%81%AE%E3%82%BD%E3%83%8A%E3%83%BC%E3%83%8B%E3%83%AB%E3%80%80%EF%BD%9EWhat%20a%20beautiful%20memories%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E7%B4%AB%E5%BD%B1%E3%81%AE%E3%82%BD%E3%83%8A%E3%83%BC%E3%83%8B%E3%83%AB%E3%80%80%EF%BD%9EWhat%20a%20beautiful%20memories%EF%BD%9E.md)
 
 ## 游戏封面
 

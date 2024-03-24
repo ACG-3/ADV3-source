@@ -3,7 +3,7 @@ title: Sakura Forest Girls 2
 abbrlink: ebed4ede
 date: 2021-07-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Sakura%20Forest%20Girls%202.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sakura%20Forest%20Girls%202.md)
 
 ## 游戏封面
 

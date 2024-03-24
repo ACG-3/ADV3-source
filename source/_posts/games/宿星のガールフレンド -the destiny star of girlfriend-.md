@@ -3,7 +3,7 @@ title: 宿星のガールフレンド -the destiny star of girlfriend-
 abbrlink: d68f8136
 date: 2018-07-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-.md)
 
 ## 游戏封面
 

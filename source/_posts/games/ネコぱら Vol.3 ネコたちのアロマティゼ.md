@@ -3,7 +3,7 @@ title: ネコぱら Vol.3 ネコたちのアロマティゼ
 abbrlink: 2e0bdbb8
 date: 2017-05-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.3%20%E3%83%8D%E3%82%B3%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%A2%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%82%BC.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.3%20%E3%83%8D%E3%82%B3%E3%81%9F%E3%81%A1%E3%81%AE%E3%82%A2%E3%83%AD%E3%83%9E%E3%83%86%E3%82%A3%E3%82%BC.md)
 
 ## 游戏封面
 

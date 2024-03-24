@@ -3,7 +3,7 @@ title: Forest Fortress
 abbrlink: fd1a01f
 date: 2018-04-04 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Forest%20Fortress.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Forest%20Fortress.md)
 
 ## 游戏封面
 

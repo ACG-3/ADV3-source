@@ -3,7 +3,7 @@ title: Endless Dungeon
 abbrlink: eb75ed2c
 date: 2014-03-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Endless%20Dungeon.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Endless%20Dungeon.md)
 
 ## 游戏封面
 

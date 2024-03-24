@@ -3,7 +3,7 @@ title: Bloody Chronicles - New Cycle of Death
 abbrlink: fd976113
 date: 2019-04-15 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Bloody%20Chronicles%20-%20New%20Cycle%20of%20Death.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Bloody%20Chronicles%20-%20New%20Cycle%20of%20Death.md)
 
 ## 游戏封面
 

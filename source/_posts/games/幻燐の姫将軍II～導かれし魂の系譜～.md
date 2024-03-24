@@ -3,7 +3,7 @@ title: 幻燐の姫将軍II～導かれし魂の系譜～
 abbrlink: 5e954ed5
 date: 2003-12-19 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: Steamy Sextet
 abbrlink: 3b09c70a
 date: 2019-12-01 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Steamy%20Sextet.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Steamy%20Sextet.md)
 
 ## 游戏封面
 

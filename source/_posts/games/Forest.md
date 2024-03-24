@@ -3,7 +3,7 @@ title: Forest
 abbrlink: aff15682
 date: 2004-02-13 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Forest.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Forest.md)
 
 ## 游戏封面
 

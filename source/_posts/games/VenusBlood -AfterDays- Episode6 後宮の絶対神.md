@@ -3,7 +3,7 @@ title: 'VenusBlood -AfterDays- Episode:6 後宮の絶対神'
 abbrlink: 1b9c6173
 date: 2020-10-23 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/VenusBlood%20-AfterDays-%20Episode6%20%E5%BE%8C%E5%AE%AE%E3%81%AE%E7%B5%B6%E5%AF%BE%E7%A5%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/VenusBlood%20-AfterDays-%20Episode6%20%E5%BE%8C%E5%AE%AE%E3%81%AE%E7%B5%B6%E5%AF%BE%E7%A5%9E.md)
 
 ## 游戏封面
 

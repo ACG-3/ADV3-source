@@ -3,7 +3,7 @@ title: どっちのiが好きですか？
 abbrlink: 58d25fee
 date: 2019-11-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F.md)
 
 ## 游戏封面
 

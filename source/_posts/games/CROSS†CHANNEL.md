@@ -2,7 +2,7 @@
 title: "CROSS†CHANNEL"
 date: 2003-09-26
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/CROSS%E2%80%A0CHANNEL.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CROSS%E2%80%A0CHANNEL.md)
 
 ## 游戏封面
 

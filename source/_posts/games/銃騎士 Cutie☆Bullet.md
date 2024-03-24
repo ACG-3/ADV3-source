@@ -2,7 +2,7 @@
 title: "銃騎士 Cutie☆Bullet"
 date: 2014-03-28
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E9%8A%83%E9%A8%8E%E5%A3%AB%20Cutie%E2%98%86Bullet.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E9%8A%83%E9%A8%8E%E5%A3%AB%20Cutie%E2%98%86Bullet.md)
 
 ## 游戏封面
 

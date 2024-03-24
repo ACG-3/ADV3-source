@@ -3,7 +3,7 @@ title: Sweet Home～Hなお姉さんは好きですか？～
 abbrlink: f7db79b0
 date: 2007-12-14 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/My%20Sweet%20Home.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/My%20Sweet%20Home.md)
 
 ## 游戏封面
 

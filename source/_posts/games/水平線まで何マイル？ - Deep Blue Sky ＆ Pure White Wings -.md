@@ -2,7 +2,7 @@
 title: "水平線まで何マイル？ - Deep Blue Sky ＆ Pure White Wings -"
 date: 2008-08-29
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%B0%B4%E5%B9%B3%E7%B7%9A%E3%81%BE%E3%81%A7%E4%BD%95%E3%83%9E%E3%82%A4%E3%83%AB%EF%BC%9F%20-%20Deep%20Blue%20Sky%20%EF%BC%86%20Pure%20White%20Wings%20-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%B0%B4%E5%B9%B3%E7%B7%9A%E3%81%BE%E3%81%A7%E4%BD%95%E3%83%9E%E3%82%A4%E3%83%AB%EF%BC%9F%20-%20Deep%20Blue%20Sky%20%EF%BC%86%20Pure%20White%20Wings%20-.md)
 
 ## 游戏封面
 

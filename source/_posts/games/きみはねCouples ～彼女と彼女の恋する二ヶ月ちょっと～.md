@@ -3,7 +3,7 @@ title: きみはねCouples ～彼女と彼女の恋する二ヶ月ちょっと�
 abbrlink: bab4f310
 date: 2019-01-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%8D%E3%81%BF%E3%81%AF%E3%81%ADCouples%20%EF%BD%9E%E5%BD%BC%E5%A5%B3%E3%81%A8%E5%BD%BC%E5%A5%B3%E3%81%AE%E6%81%8B%E3%81%99%E3%82%8B%E4%BA%8C%E3%83%B6%E6%9C%88%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%8D%E3%81%BF%E3%81%AF%E3%81%ADCouples%20%EF%BD%9E%E5%BD%BC%E5%A5%B3%E3%81%A8%E5%BD%BC%E5%A5%B3%E3%81%AE%E6%81%8B%E3%81%99%E3%82%8B%E4%BA%8C%E3%83%B6%E6%9C%88%E3%81%A1%E3%82%87%E3%81%A3%E3%81%A8%EF%BD%9E.md)
 
 ## 游戏封面
 

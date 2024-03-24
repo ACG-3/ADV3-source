@@ -2,7 +2,7 @@
 title: "Role player：小粥姉妹の粘膜ポトレ ぐりぐちゃLIVE！"
 date: 2021-06-25
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Role%20player%EF%BC%9A%E5%B0%8F%E7%B2%A5%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E2%80%83%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Role%20player%EF%BC%9A%E5%B0%8F%E7%B2%A5%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E2%80%83%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: PRETTY×CATION
 abbrlink: 7e779f83
 date: 2014-04-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/PRETTY%C3%97CATION.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/PRETTY%C3%97CATION.md)
 
 ## 游戏封面
 

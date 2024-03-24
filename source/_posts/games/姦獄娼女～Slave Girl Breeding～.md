@@ -3,7 +3,7 @@ title: 姦獄娼女～Slave Girl Breeding～
 abbrlink: f13619b4
 date: 2015-10-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E.md)
 
 ## 游戏封面
 

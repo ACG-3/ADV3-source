@@ -3,7 +3,7 @@ title: CLEAVAGE
 abbrlink: 5d2d3418
 date: 2005-02-18 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/STARLESS.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/STARLESS.md)
 
 ## 游戏封面
 

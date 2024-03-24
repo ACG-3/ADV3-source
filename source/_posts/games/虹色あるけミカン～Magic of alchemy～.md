@@ -3,7 +3,7 @@ title: 虹色あるけミカン～Magic of alchemy～
 abbrlink: 75d34071
 date: 2007-08-31 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E8%99%B9%E8%89%B2%E3%81%82%E3%82%8B%E3%81%91%E3%83%9F%E3%82%AB%E3%83%B3%EF%BD%9EMagic%20of%20alchemy%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%99%B9%E8%89%B2%E3%81%82%E3%82%8B%E3%81%91%E3%83%9F%E3%82%AB%E3%83%B3%EF%BD%9EMagic%20of%20alchemy%EF%BD%9E.md)
 
 ## 游戏封面
 

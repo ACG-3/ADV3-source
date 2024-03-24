@@ -3,7 +3,7 @@ title: Stellar ☆ Theater
 abbrlink: 7d6c0056
 date: 2009-06-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Stellar%20%E2%98%86%20Theater.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Stellar%20%E2%98%86%20Theater.md)
 
 ## 游戏封面
 

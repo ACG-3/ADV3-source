@@ -3,7 +3,7 @@ title: Memories Off ～それから again～
 abbrlink: fe31106
 date: 2006-03-23 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E.md)
 
 ## 游戏封面
 

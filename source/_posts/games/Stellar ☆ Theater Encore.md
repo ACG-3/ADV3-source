@@ -3,7 +3,7 @@ title: Stellar ☆ Theater Encore
 abbrlink: e41dd0c2
 date: 2011-06-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Stellar%20%E2%98%86%20Theater%20Encore.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Stellar%20%E2%98%86%20Theater%20Encore.md)
 
 ## 游戏封面
 

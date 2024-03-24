@@ -3,7 +3,7 @@ title: King of Phoenix
 abbrlink: 41b7fbd1
 date: 2018-09-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/King%20of%20Phoenix.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/King%20of%20Phoenix.md)
 
 ## 游戏封面
 

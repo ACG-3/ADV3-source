@@ -3,7 +3,7 @@ title: 水夏~SUIKA~
 abbrlink: 7a9e762d
 date: 2001-07-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%B0%B4%E5%A4%8F~SUIKA~.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%B0%B4%E5%A4%8F~SUIKA~.md)
 
 ## 游戏封面
 

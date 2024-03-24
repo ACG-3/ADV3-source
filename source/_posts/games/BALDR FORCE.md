@@ -3,7 +3,7 @@ title: BALDR FORCE
 abbrlink: 14520a75
 date: 2002-11-01 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/BALDR%20FORCE.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BALDR%20FORCE.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "朝焼けのブルーⅡ　- Pianissimo episode -"
 date: 2015-07-26
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AE%E3%83%96%E3%83%AB%E3%83%BC%E2%85%A1%E3%80%80-%20Pianissimo%20episode%20-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%9C%9D%E7%84%BC%E3%81%91%E3%81%AE%E3%83%96%E3%83%AB%E3%83%BC%E2%85%A1%E3%80%80-%20Pianissimo%20episode%20-.md)
 
 ## 游戏封面
 

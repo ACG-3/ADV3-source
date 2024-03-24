@@ -2,7 +2,7 @@
 title: "Chasing Tails -A Promise in the Snow-"
 date: 2021-08-14
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Chasing%20Tails%20%E3%80%9C%E9%9B%AA%E4%B8%AD%E8%AA%93%E7%BA%A6%E3%80%9C.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Chasing%20Tails%20%E3%80%9C%E9%9B%AA%E4%B8%AD%E8%AA%93%E7%BA%A6%E3%80%9C.md)
 
 ## 游戏封面
 

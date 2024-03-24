@@ -3,7 +3,7 @@ title: U-ena -遠花火の少女-
 abbrlink: f1ab2d8d
 date: 2022-05-08 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/U-ena%20-%E9%81%A0%E8%8A%B1%E7%81%AB%E3%81%AE%E5%B0%91%E5%A5%B3-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/U-ena%20-%E9%81%A0%E8%8A%B1%E7%81%AB%E3%81%AE%E5%B0%91%E5%A5%B3-.md)
 
 ## 游戏封面
 

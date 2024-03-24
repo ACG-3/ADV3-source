@@ -3,7 +3,7 @@ title: SEX戦争 ～愛あるエッチは禁止ですっ！～
 abbrlink: e377d7e5
 date: 2012-08-31 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/SEX%E6%88%A6%E4%BA%89%20%EF%BD%9E%E6%84%9B%E3%81%82%E3%82%8B%E3%82%A8%E3%83%83%E3%83%81%E3%81%AF%E7%A6%81%E6%AD%A2%E3%81%A7%E3%81%99%E3%81%A3%EF%BC%81%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/SEX%E6%88%A6%E4%BA%89%20%EF%BD%9E%E6%84%9B%E3%81%82%E3%82%8B%E3%82%A8%E3%83%83%E3%83%81%E3%81%AF%E7%A6%81%E6%AD%A2%E3%81%A7%E3%81%99%E3%81%A3%EF%BC%81%EF%BD%9E.md)
 
 ## 游戏封面
 

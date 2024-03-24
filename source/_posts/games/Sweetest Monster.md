@@ -3,7 +3,7 @@ title: Sweetest Monster
 abbrlink: b2d2048f
 date: 2017-02-06 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Sweetest%20Monster.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sweetest%20Monster.md)
 
 ## 游戏封面
 

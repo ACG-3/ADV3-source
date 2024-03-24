@@ -2,7 +2,7 @@
 title: "AS〜エンジェリックセレナーデ"
 date: 2002-03-29
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/AS%E3%80%9C%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%83%E3%82%AF%E3%82%BB%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%87.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/AS%E3%80%9C%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AA%E3%83%83%E3%82%AF%E3%82%BB%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%87.md)
 
 ## 游戏封面
 

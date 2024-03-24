@@ -3,7 +3,7 @@ title: '夢現Re:Master'
 abbrlink: d7ee6178
 date: 2019-06-13 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E5%A4%A2%E7%8F%BEReAfter.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%A2%E7%8F%BEReAfter.md)
 
 ## 游戏封面
 

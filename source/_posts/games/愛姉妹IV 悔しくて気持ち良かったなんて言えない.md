@@ -3,7 +3,7 @@ title: 愛姉妹IV 悔しくて気持ち良かったなんて言えない
 abbrlink: cd2ee766
 date: 2014-05-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84.md)
 
 ## 游戏封面
 

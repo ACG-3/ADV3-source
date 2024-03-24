@@ -3,7 +3,7 @@ title: 死埋葬 -III-
 abbrlink: e59ab8ef
 date: 2019-12-31 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-.md)
 
 ## 游戏封面
 

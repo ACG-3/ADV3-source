@@ -2,7 +2,7 @@
 title: "戦国ランス～三匹が斬ったり突いたり燃やしたり -slash!thrust!burn!-"
 date: 2008-04-11
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-.md)
 
 ## 游戏封面
 

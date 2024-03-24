@@ -3,7 +3,7 @@ title: Kirakira Stars Idol Project Ai
 abbrlink: 4672ddec
 date: 2020-02-17 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Kirakira%20Stars%20Idol%20Project%20Ai.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Kirakira%20Stars%20Idol%20Project%20Ai.md)
 
 ## 游戏封面
 

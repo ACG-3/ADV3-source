@@ -3,7 +3,7 @@ title: SWAN SONG
 abbrlink: c0e6751e
 date: 2005-07-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/SWAN%20SONG.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/SWAN%20SONG.md)
 
 ## 游戏封面
 

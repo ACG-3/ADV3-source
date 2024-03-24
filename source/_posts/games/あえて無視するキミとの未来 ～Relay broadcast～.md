@@ -2,7 +2,7 @@
 title: "あえて無視するキミとの未来 ～Relay broadcast～"
 date: 2012-11-30
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%82%E3%81%88%E3%81%A6%E7%84%A1%E8%A6%96%E3%81%99%E3%82%8B%E3%82%AD%E3%83%9F%E3%81%A8%E3%81%AE%E6%9C%AA%E6%9D%A5%20%EF%BD%9ERelay%20broadcast%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%82%E3%81%88%E3%81%A6%E7%84%A1%E8%A6%96%E3%81%99%E3%82%8B%E3%82%AD%E3%83%9F%E3%81%A8%E3%81%AE%E6%9C%AA%E6%9D%A5%20%EF%BD%9ERelay%20broadcast%EF%BD%9E.md)
 
 ## 游戏封面
 

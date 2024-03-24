@@ -3,7 +3,7 @@ title: 赫炎のインガノック -What a beautiful people-
 abbrlink: b6cc0fc3
 date: 2007-11-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E8%B5%AB%E7%82%8E%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%AC%E3%83%8E%E3%83%83%E3%82%AF%20-What%20a%20beautiful%20people-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%B5%AB%E7%82%8E%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%AC%E3%83%8E%E3%83%83%E3%82%AF%20-What%20a%20beautiful%20people-.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "Little Sick Girls ～鏡の中のアイドル～"
 date: 2019-12-20
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Little%20Sick%20Girls%20%EF%BD%9E%E9%8F%A1%E3%81%AE%E4%B8%AD%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Little%20Sick%20Girls%20%EF%BD%9E%E9%8F%A1%E3%81%AE%E4%B8%AD%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%EF%BD%9E.md)
 
 ## 游戏封面
 

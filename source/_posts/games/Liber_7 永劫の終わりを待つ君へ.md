@@ -2,7 +2,7 @@
 title: "Liber_7 永劫の終わりを待つ君へ"
 date: 2016-12-22
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Liber_7%20%E6%B0%B8%E5%8A%AB%E3%81%AE%E7%B5%82%E3%82%8F%E3%82%8A%E3%82%92%E5%BE%85%E3%81%A4%E5%90%9B%E3%81%B8.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Liber_7%20%E6%B0%B8%E5%8A%AB%E3%81%AE%E7%B5%82%E3%82%8F%E3%82%8A%E3%82%92%E5%BE%85%E3%81%A4%E5%90%9B%E3%81%B8.md)
 
 ## 游戏封面
 

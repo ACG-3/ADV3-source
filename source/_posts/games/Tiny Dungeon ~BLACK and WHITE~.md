@@ -2,7 +2,7 @@
 title: "Tiny Dungeon ~BLACK and WHITE~"
 date: 2010-06-25
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Tiny%20Dungeon%20~BLACK%20and%20WHITE~.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Tiny%20Dungeon%20~BLACK%20and%20WHITE~.md)
 
 ## 游戏封面
 

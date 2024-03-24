@@ -2,7 +2,7 @@
 title: "箱庭ロジック～瑚子といちゃらぶ！SM生活っ～"
 date: 2016-06-24
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E7%AE%B1%E5%BA%AD%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%EF%BD%9E%E7%91%9A%E5%AD%90%E3%81%A8%E3%81%84%E3%81%A1%E3%82%83%E3%82%89%E3%81%B6%EF%BC%81SM%E7%94%9F%E6%B4%BB%E3%81%A3%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E7%AE%B1%E5%BA%AD%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%EF%BD%9E%E7%91%9A%E5%AD%90%E3%81%A8%E3%81%84%E3%81%A1%E3%82%83%E3%82%89%E3%81%B6%EF%BC%81SM%E7%94%9F%E6%B4%BB%E3%81%A3%EF%BD%9E.md)
 
 ## 游戏封面
 

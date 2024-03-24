@@ -3,7 +3,7 @@ title: Oakwood Academy of Spells and Sorcery
 abbrlink: a986b4c4
 date: 2018-03-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Oakwood%20Academy%20of%20Spells%20and%20Sorcery.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Oakwood%20Academy%20of%20Spells%20and%20Sorcery.md)
 
 ## 游戏封面
 

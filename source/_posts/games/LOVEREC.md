@@ -2,7 +2,7 @@
 title: "Click Here For Love: Reconnected"
 date: 2009-07-16
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/LOVEREC.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LOVEREC.md)
 
 ## 游戏封面
 

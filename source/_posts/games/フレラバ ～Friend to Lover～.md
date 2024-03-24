@@ -3,7 +3,7 @@ title: フレラバ ～Friend to Lover～
 abbrlink: '4573e532'
 date: 2013-06-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%EF%BD%9EFriend%20to%20Lover%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%EF%BD%9EFriend%20to%20Lover%EF%BD%9E.md)
 
 ## 游戏封面
 

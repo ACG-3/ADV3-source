@@ -2,7 +2,7 @@
 title: "ラブラブHメイド"
 date: 2003-10-24
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%A9%E3%83%96%E3%83%A9%E3%83%96H%E3%83%A1%E3%82%A4%E3%83%89.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%A9%E3%83%96%E3%83%A9%E3%83%96H%E3%83%A1%E3%82%A4%E3%83%89.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "Rance Ⅹ -決戦-"
 date: 2018-02-23
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Rance%20%E2%85%A9%20-%E6%B1%BA%E6%88%A6-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Rance%20%E2%85%A9%20-%E6%B1%BA%E6%88%A6-.md)
 
 ## 游戏封面
 

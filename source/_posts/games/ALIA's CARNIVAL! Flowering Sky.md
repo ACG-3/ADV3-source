@@ -3,7 +3,7 @@ title: ALIA's CARNIVAL!
 abbrlink: 712b48b8
 date: 2014-03-28 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/ALIA%27s%20CARNIVAL%21%20Flowering%20Sky.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/ALIA%27s%20CARNIVAL%21%20Flowering%20Sky.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: With Ribbon
 abbrlink: 317be18b
 date: 2011-02-25 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/With%20Ribbon.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/With%20Ribbon.md)
 
 ## 游戏封面
 

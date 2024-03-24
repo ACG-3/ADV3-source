@@ -3,7 +3,7 @@ title: BALDR SKY Dive1 "Lost Memory"
 abbrlink: 7ebfa88e
 date: 2009-03-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/BALDR%20SKY%20Dive1%20Lost%20Memory.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BALDR%20SKY%20Dive1%20Lost%20Memory.md)
 
 ## 游戏封面
 

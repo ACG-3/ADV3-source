@@ -2,7 +2,7 @@
 title: "Little Sick Girls ～幼馴染の恋人～"
 date: 2019-09-27
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E.md)
 
 ## 游戏封面
 

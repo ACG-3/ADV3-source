@@ -3,7 +3,7 @@ title: 'School of Talent: SUZU-ROUTE'
 abbrlink: 2e00ac78
 date: 2017-02-23 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/School%20of%20Talent%20SUZU-ROUTE.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/School%20of%20Talent%20SUZU-ROUTE.md)
 
 ## 游戏封面
 

@@ -2,7 +2,7 @@
 title: "Cafe Sourire"
 date: 2011-06-24
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Cafe%20Sourire.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Cafe%20Sourire.md)
 
 ## 游戏封面
 

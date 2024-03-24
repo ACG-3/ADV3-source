@@ -3,7 +3,7 @@ title: PRETTY×CATION2
 abbrlink: 6e1a1b08
 date: 2015-04-24 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/PRETTY%C3%97CATION2.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/PRETTY%C3%97CATION2.md)
 
 ## 游戏封面
 

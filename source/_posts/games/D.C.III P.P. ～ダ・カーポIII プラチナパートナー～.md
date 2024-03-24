@@ -2,7 +2,7 @@
 title: "D.C.III P.P. ～ダ・カーポIII プラチナパートナー～"
 date: 2014-04-25
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E.md)
 
 ## 游戏封面
 

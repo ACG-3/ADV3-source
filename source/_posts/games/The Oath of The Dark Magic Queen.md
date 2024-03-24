@@ -3,7 +3,7 @@ title: The Oath of The Dark Magic Queen
 abbrlink: ae8d5fd9
 date: 2021-11-05 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/The%20Oath%20of%20The%20Dark%20Magic%20Queen.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/The%20Oath%20of%20The%20Dark%20Magic%20Queen.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: The Sad Story of Emmeline Burns
 abbrlink: 5e44e101
 date: 2015-10-15 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/The%20Sad%20Story%20of%20Emmeline%20Burns.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/The%20Sad%20Story%20of%20Emmeline%20Burns.md)
 
 ## 游戏封面
 

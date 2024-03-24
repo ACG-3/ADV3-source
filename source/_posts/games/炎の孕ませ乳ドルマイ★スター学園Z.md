@@ -2,7 +2,7 @@
 title: "炎の孕ませ乳ドルマイ★スター学園Z"
 date: 2014-03-20
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E7%82%8E%E3%81%AE%E5%AD%95%E3%81%BE%E3%81%9B%E4%B9%B3%E3%83%89%E3%83%AB%E3%83%9E%E3%82%A4%E2%98%85%E3%82%B9%E3%82%BF%E3%83%BC%E5%AD%A6%E5%9C%92Z.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E7%82%8E%E3%81%AE%E5%AD%95%E3%81%BE%E3%81%9B%E4%B9%B3%E3%83%89%E3%83%AB%E3%83%9E%E3%82%A4%E2%98%85%E3%82%B9%E3%82%BF%E3%83%BC%E5%AD%A6%E5%9C%92Z.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: Sakura Forest Girls 3
 abbrlink: 9cea7e48
 date: 2021-11-15 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Sakura%20Forest%20Girls%203.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sakura%20Forest%20Girls%203.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: 猫忍えくすはーと２ LOVE +PLUS
 abbrlink: bf2acead
 date: 2018-12-14 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%EF%BC%92%20LOVE%20%2BPLUS.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%EF%BC%92%20LOVE%20%2BPLUS.md)
 
 ## 游戏封面
 

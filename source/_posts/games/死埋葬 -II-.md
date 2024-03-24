@@ -3,7 +3,7 @@ title: 死埋葬 -II-
 abbrlink: ab33787
 date: 2018-12-30 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-II-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-II-.md)
 
 ## 游戏封面
 

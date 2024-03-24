@@ -3,7 +3,7 @@ title: H2O -FOOTPRINTS IN THE SAND-
 abbrlink: 7b58a4b1
 date: 2006-06-23 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-.md)
 
 ## 游戏封面
 

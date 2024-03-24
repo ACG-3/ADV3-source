@@ -2,7 +2,7 @@
 title: "月姫 PLUS-DISC"
 date: 2001-02
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E6%9C%88%E5%A7%AB%20PLUS-DISC.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%9C%88%E5%A7%AB%20PLUS-DISC.md)
 
 ## 游戏封面
 

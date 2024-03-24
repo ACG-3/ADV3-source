@@ -3,7 +3,7 @@ title: Harmonia -ハルモニア-
 abbrlink: bec16ca6
 date: 2016-09-23 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Harmonia%20-%E3%83%8F%E3%83%AB%E3%83%A2%E3%83%8B%E3%82%A2-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Harmonia%20-%E3%83%8F%E3%83%AB%E3%83%A2%E3%83%8B%E3%82%A2-.md)
 
 ## 游戏封面
 

@@ -3,7 +3,7 @@ title: Escape from the Princess
 abbrlink: ba7b5842
 date: 2018-09-17 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/EscapeFromThePrincess.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/EscapeFromThePrincess.md)
 
 ## 游戏封面
 

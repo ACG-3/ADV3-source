@@ -2,7 +2,7 @@
 title: "プリンセスメーカー4"
 date: 2005-09-01
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Princess%20Maker.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Princess%20Maker.md)
 
 ## 游戏封面
 

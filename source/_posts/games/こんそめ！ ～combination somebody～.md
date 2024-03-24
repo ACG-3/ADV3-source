@@ -2,7 +2,7 @@
 title: "こんそめ！ ～combination somebody～"
 date: 2010-06-25
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%81%93%E3%82%93%E3%81%9D%E3%82%81%EF%BC%81%20%EF%BD%9Ecombination%20somebody%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%93%E3%82%93%E3%81%9D%E3%82%81%EF%BC%81%20%EF%BD%9Ecombination%20somebody%EF%BD%9E.md)
 
 ## 游戏封面
 

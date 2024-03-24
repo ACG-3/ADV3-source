@@ -2,7 +2,7 @@
 title: "CHAOS;CHILD"
 date: 2014-12-18
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/CHAOS%3BCHILD.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CHAOS%3BCHILD.md)
 
 ## 游戏封面
 

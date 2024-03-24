@@ -2,7 +2,7 @@
 title: "Canvas3 ～白銀のポートレート～"
 date: 2009-03-20
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Canvas3%20%EF%BD%9E%E7%99%BD%E9%8A%80%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88%EF%BD%9E.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Canvas3%20%EF%BD%9E%E7%99%BD%E9%8A%80%E3%81%AE%E3%83%9D%E3%83%BC%E3%83%88%E3%83%AC%E3%83%BC%E3%83%88%EF%BD%9E.md)
 
 ## 游戏封面
 

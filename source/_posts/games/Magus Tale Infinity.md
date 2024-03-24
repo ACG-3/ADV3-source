@@ -3,7 +3,7 @@ title: Magus Tale Infinity
 abbrlink: 482b6096
 date: 2008-06-13 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Magus%20Tale%20Infinity.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Magus%20Tale%20Infinity.md)
 
 ## 游戏封面
 

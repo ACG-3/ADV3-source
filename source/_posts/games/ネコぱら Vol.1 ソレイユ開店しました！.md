@@ -3,7 +3,7 @@ title: ネコぱら Vol.1 ソレイユ開店しました！
 abbrlink: af2df1f3
 date: 2014-12-29 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81.md)
 
 ## 游戏封面
 

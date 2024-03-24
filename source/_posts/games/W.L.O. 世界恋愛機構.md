@@ -3,7 +3,7 @@ title: W.L.O. 世界恋愛機構
 abbrlink: '93e85498'
 date: 2009-03-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/W.L.O.%20%E4%B8%96%E7%95%8C%E6%81%8B%E6%84%9B%E6%A9%9F%E6%A7%8B.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/W.L.O.%20%E4%B8%96%E7%95%8C%E6%81%8B%E6%84%9B%E6%A9%9F%E6%A7%8B.md)
 
 ## 游戏封面
 

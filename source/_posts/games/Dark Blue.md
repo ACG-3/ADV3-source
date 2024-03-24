@@ -2,7 +2,7 @@
 title: "冥色の隷姫 ～緩やかに廃滅する青珊瑚の森～"
 date: 2005-09-16
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Dark%20Blue.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Dark%20Blue.md)
 
 ## 游戏封面
 

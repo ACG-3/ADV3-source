@@ -3,7 +3,7 @@ title: Bol'shaja Medvedica
 abbrlink: 5a38d240
 date: 2017-01-14 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Big%20Dipper.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Big%20Dipper.md)
 
 ## 游戏封面
 

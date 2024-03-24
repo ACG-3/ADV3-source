@@ -3,7 +3,7 @@ title: グリムガーデンの少女 -witch in gleamgarden-
 abbrlink: 3f00d610
 date: 2013-07-26 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/%E3%82%B0%E3%83%AA%E3%83%A0%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AE%E5%B0%91%E5%A5%B3%20-witch%20in%20gleamgarden-.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%B0%E3%83%AA%E3%83%A0%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3%E3%81%AE%E5%B0%91%E5%A5%B3%20-witch%20in%20gleamgarden-.md)
 
 ## 游戏封面
 

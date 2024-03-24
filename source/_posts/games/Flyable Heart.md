@@ -3,7 +3,7 @@ title: Flyable Heart
 abbrlink: c8f24b18
 date: 2009-03-19 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/Flyable%20Heart.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Flyable%20Heart.md)
 
 ## 游戏封面
 

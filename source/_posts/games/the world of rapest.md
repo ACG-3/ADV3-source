@@ -2,7 +2,7 @@
 title: "the world of rapest"
 date: 2007-11-09
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/the%20world%20of%20rapest.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/the%20world%20of%20rapest.md)
 
 ## 游戏封面
 

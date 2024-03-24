@@ -3,7 +3,7 @@ title: Pure Marriage ～赤い糸物語 まどか編～
 abbrlink: 3c977cf4
 date: 2016-05-27 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/PureMarriage.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/PureMarriage.md)
 
 ## 游戏封面
 
