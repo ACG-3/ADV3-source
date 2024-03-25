@@ -13,6 +13,7 @@ on:
 
 jobs:
   create-markdown-and-pr:
+    if: contains(github.event.issue.labels.*.name, 'game')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
