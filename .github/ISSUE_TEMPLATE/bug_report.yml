@@ -1,13 +1,13 @@
 name: Report a bug
-title: "[Report bug]: "
+title: "[Bug Report]: "
 description: Report a bug in the application
 labels: "bug"
 body:
   - type: dropdown
     id: bug_type
     attributes:
-      label: Bug Type
-      description: Please select the bug type
+      label: 问题类型
+      description: 请选择问题类型
       options:
         - 网站内容
         - 网站功能
@@ -18,21 +18,21 @@ body:
   - type: input
     id: bug_description
     attributes:
-      label: Bug Description
-      description: 问题描述
+      label: 问题描述
+      description: 描述一下你遇到的问题
     validations:
       required: true
   - type: input
     id: bug_screenshot
     attributes:
-      label: Bug Screenshot
-      description: 问题截图（可选）
+      label: 问题截图（可选）
+      description: 请提供问题截图
     validations:
       required: false
   - type: input
     id: bug_link
     attributes:
-      label: Bug Link
-      description: 问题链接（可选）
+      label: 问题链接（可选）
+      description: 请提供问题链接
     validations:
       required: false
