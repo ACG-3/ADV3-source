@@ -1,7 +1,6 @@
 ---
-title: CHAOS;CHILD
-abbrlink: ff512b93
-date: 2014-12-18 00:00:00
+title: "CHAOS;CHILD"
+date: 2014-12-18
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CHAOS%3BCHILD.md)
 
@@ -44,6 +43,11 @@ date: 2014-12-18 00:00:00
 ## 下载链接
 
 [点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/CHAOS%3BCHILD)
+
+其它链接：
+- [Onedrive](xxx)
+    - 密码：exam
+    - 解压密码：example
 
 
 ## 游戏截图
