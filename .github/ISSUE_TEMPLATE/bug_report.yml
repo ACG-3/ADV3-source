@@ -1,0 +1,38 @@
+name: Report a bug
+title: "[Report bug]: "
+description: Report a bug in the application
+labels: "bug"
+body:
+  - type: dropdown
+    id: bug_type
+    attributes:
+      label: Bug Type
+      description: Please select the bug type
+      options:
+        - 网站内容
+        - 网站功能
+        - 游戏下载
+        - 其他
+    validations:
+      required: true
+  - type: input
+    id: bug_description
+    attributes:
+      label: Bug Description
+      description: 问题描述
+    validations:
+      required: true
+  - type: input
+    id: bug_screenshot
+    attributes:
+      label: Bug Screenshot
+      description: 问题截图（可选）
+    validations:
+      required: false
+  - type: input
+    id: bug_link
+    attributes:
+      label: Bug Link
+      description: 问题链接（可选）
+    validations:
+      required: false
