@@ -1,7 +1,7 @@
 name: Request feature
 title: "[Feature Request]: "
 description: Request a feature in the application
-labels: ["feature"]
+labels: "enhancement"
 body:
   - type: dropdown
     id: feature_type

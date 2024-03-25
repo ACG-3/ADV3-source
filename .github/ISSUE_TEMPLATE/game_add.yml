@@ -1,7 +1,7 @@
 name: Add game
 title: "[Game Add]: "
 description: Add new game to the backup list
-labels: ["game"]
+labels: "game"
 body:
   - type: input
     id: game_name

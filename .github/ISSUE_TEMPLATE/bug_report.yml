@@ -1,7 +1,7 @@
 name: Report bug
 title: "[Bug Report]: "
 description: Report a bug in the application
-labels: ["bug"]
+labels: "bug"
 body:
   - type: dropdown
     id: bug_type
