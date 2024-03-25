@@ -46,4 +46,4 @@ jobs:
           commit-message: "Add Markdown file for closed Issue #${{ github.event.issue.number }}"
           title: "Add Markdown file for Issue #${{ github.event.issue.number }}"
           body: "This PR adds a Markdown file generated based on the content of the closed Issue #${{ github.event.issue.number }}."
-          branch: "issue-${{ github.event.issue.number }}-markdown"
+          branch: "issue-${{ github.event.issue.number }}"
