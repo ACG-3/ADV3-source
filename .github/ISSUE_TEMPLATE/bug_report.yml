@@ -15,14 +15,14 @@ body:
         - 其他
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: bug_description
     attributes:
       label: 问题描述
       description: 描述一下你遇到的问题
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: bug_screenshot
     attributes:
       label: 问题截图（可选）
