@@ -1,5 +1,5 @@
-name: Add Game
-title: "[Add Game]: "
+name: Add game
+title: "[Game Add]: "
 description: Add new game to the backup list
 labels: "game"
 body:
