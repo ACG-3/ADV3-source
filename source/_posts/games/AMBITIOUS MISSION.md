@@ -1,0 +1,78 @@
+---
+title: "かけぬけ★青春スパーキング！"
+date: 2020-08-28
+---
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/AMBITIOUS%20MISSION.md)
+
+## 游戏封面
+
+![かけぬけ★青春スパーキング！](https%3A//pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_cover.avif)
+
+
+## 游戏名称
+
+- 日文：かけぬけ★青春スパーキング！
+- 英文：None
+- 中文：闪耀青春追逐记
+
+- 别名：
+
+
+## 游戏信息
+
+- 时长：45.75 h
+- 开发者：SAGA PLANETS
+- 发售日期：2020-08-28
+- 游戏平台：win, ps4, swi
+- 相关作品：
+
+- 相关链接：[vndb](https://vndb.org/v28286)
+
+
+## 游戏简介
+
+主人公东野雄是风见学院的一名大三学生、
+正值青春年华但是...
+
+"青春？什么青春？你知道，我的兼职工作很忙。"
+
+Yuu 是一个坚定的现实主义者，他在兼职工作中尽情挥洒自己的青春。
+他学习成绩优异，为了养活自己，他不辞辛苦地工作。
+他的业余爱好是查看银行账户余额。
+青梅竹马的日比木和仰慕他的同学里决定让他参加社团活动，试图改变他的生活。
+
+日比木是个活泼的女孩，她建议他加入 Act 俱乐部，即活动俱乐部的简称，其宗旨是 "让我们在学校里尽情享受青春！"
+
+严肃的女孩 Riri 向他推荐了志愿者俱乐部，俗称 "消极俱乐部"，其口号是 "让我们用青春让世界更美好"。
+
+每个社团都决心招募小雄。
+"这两个社团都不吸引我。对我来说，青春本来就是多余的"。
+但尽管他抗议，女孩们还是每天拉着他到处跑。
+这到底是怎么一回事？
+
+"这种事还没决定吧？"
+"准备好吧很快你就能享受青春了！"
+
+等待着东野雄的是怎样的青春呢？
+
+
+
+
+## 下载链接
+
+[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/AMBITIOUS%20MISSION)
+
+
+## 游戏截图
+
+
+![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_1.avif)
+
+![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_2.avif)
+
+![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_3.avif)
+
+![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_4.avif)
+
+![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_5.avif)
+
