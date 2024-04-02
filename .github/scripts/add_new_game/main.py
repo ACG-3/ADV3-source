@@ -153,7 +153,7 @@ def create_markdown(data):
         'game_related_links': '暂无',  # 你可以根据需要添加链接
         'game_description': translated_description,
         'game_vndb_id': data['results'][0]['id'],
-        'screenshots': process_images([{'title': f'Screenshot {i+1}', 'url': sc['thumbnail'].replace('st', 'sf')} for i, sc in enumerate(data['results'][0]['screenshots'][:5])], file_name, img_folder_path),
+        'screenshots': process_images([{'title': f'Screenshot {i+1}', 'url': sc['thumbnail'].replace('sf.t', 'sf')} for i, sc in enumerate(data['results'][0]['screenshots'][:5])], file_name, img_folder_path),
         'download_link': download_link,  # 这里添加下载链接
         'download_password': download_password,  # 这里添加下载链接的提取码
         'unpack_password': unpack_password,  # 这里添加解压密码
