@@ -7,7 +7,7 @@ date: 2007-08-17 00:00:00
 
 ## 游戏封面
 
-![アパシー学校であった怖い話～Visual Novel Version～](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E_cover.avif)
+![アパシー学校であった怖い話～Visual Novel Version～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -72,13 +72,13 @@ date: 2007-08-17 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%83%91%E3%82%B7%E3%83%BC%E5%AD%A6%E6%A0%A1%E3%81%A7%E3%81%82%E3%81%A3%E3%81%9F%E6%80%96%E3%81%84%E8%A9%B1%EF%BD%9EVisual%20Novel%20Version%EF%BD%9E_Screenshot_5.avif)
 

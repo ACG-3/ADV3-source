@@ -7,7 +7,7 @@ date: 2016-11-25 00:00:00
 
 ## 游戏封面
 
-![アキウソ -The only neat thing to do-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_cover.avif)
+![アキウソ -The only neat thing to do-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_cover.avif)
 
 
 ## 游戏名称
@@ -56,13 +56,13 @@ date: 2016-11-25 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_5.avif)
 

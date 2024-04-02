@@ -7,7 +7,7 @@ date: 2018-09-27 00:00:00
 
 ## 游戏封面
 
-![King of Phoenix](https://pan.timero.xyz/onedrive/img_lib_001/King%20of%20Phoenix_cover.avif)
+![King of Phoenix](https://pan.timero.xyz/d/onedrive/img_lib_001/King%20of%20Phoenix_cover.avif)
 
 
 ## 游戏名称
@@ -48,9 +48,9 @@ date: 2018-09-27 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/King%20of%20Phoenix_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/King%20of%20Phoenix_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/King%20of%20Phoenix_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/King%20of%20Phoenix_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/King%20of%20Phoenix_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/King%20of%20Phoenix_Screenshot_3.avif)
 

@@ -7,7 +7,7 @@ date: 2022-09-30 00:00:00
 
 ## 游戏封面
 
-![Role player：とろろ姉妹の粘膜ポトレ　ぐりぐちゃLIVE！](https://pan.timero.xyz/onedrive/img_lib_001/Role%20player%EF%BC%9A%E3%81%A8%E3%82%8D%E3%82%8D%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E3%80%80%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81_cover.avif)
+![Role player：とろろ姉妹の粘膜ポトレ　ぐりぐちゃLIVE！](https://pan.timero.xyz/d/onedrive/img_lib_001/Role%20player%EF%BC%9A%E3%81%A8%E3%82%8D%E3%82%8D%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E3%80%80%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81_cover.avif)
 
 
 ## 游戏名称
@@ -73,13 +73,13 @@ date: 2022-09-30 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Role%20player%EF%BC%9A%E3%81%A8%E3%82%8D%E3%82%8D%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E3%80%80%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Role%20player%EF%BC%9A%E3%81%A8%E3%82%8D%E3%82%8D%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E3%80%80%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Role%20player%EF%BC%9A%E3%81%A8%E3%82%8D%E3%82%8D%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E3%80%80%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Role%20player%EF%BC%9A%E3%81%A8%E3%82%8D%E3%82%8D%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E3%80%80%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Role%20player%EF%BC%9A%E3%81%A8%E3%82%8D%E3%82%8D%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E3%80%80%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Role%20player%EF%BC%9A%E3%81%A8%E3%82%8D%E3%82%8D%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E3%80%80%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Role%20player%EF%BC%9A%E3%81%A8%E3%82%8D%E3%82%8D%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E3%80%80%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Role%20player%EF%BC%9A%E3%81%A8%E3%82%8D%E3%82%8D%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E3%80%80%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Role%20player%EF%BC%9A%E3%81%A8%E3%82%8D%E3%82%8D%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E3%80%80%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Role%20player%EF%BC%9A%E3%81%A8%E3%82%8D%E3%82%8D%E5%A7%89%E5%A6%B9%E3%81%AE%E7%B2%98%E8%86%9C%E3%83%9D%E3%83%88%E3%83%AC%E3%80%80%E3%81%90%E3%82%8A%E3%81%90%E3%81%A1%E3%82%83LIVE%EF%BC%81_Screenshot_5.avif)
 

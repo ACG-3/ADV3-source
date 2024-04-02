@@ -7,7 +7,7 @@ date: 2020-05-29 00:00:00
 
 ## 游戏封面
 
-![Little Sick Girls ～桃蜜は妹の香り～](https://pan.timero.xyz/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E6%A1%83%E8%9C%9C%E3%81%AF%E5%A6%B9%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E_cover.avif)
+![Little Sick Girls ～桃蜜は妹の香り～](https://pan.timero.xyz/d/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E6%A1%83%E8%9C%9C%E3%81%AF%E5%A6%B9%E3%81%AE%E9%A6%99%E3%82%8A%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称

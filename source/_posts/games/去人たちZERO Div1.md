@@ -7,7 +7,7 @@ date: 2022-11-09 00:00:00
 
 ## 游戏封面
 
-![去人たちZERO Div1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1_cover.avif)
+![去人たちZERO Div1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1_cover.avif)
 
 
 ## 游戏名称
@@ -47,7 +47,7 @@ date: 2022-11-09 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1_Screenshot_2.avif)
 

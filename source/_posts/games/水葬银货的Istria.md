@@ -7,7 +7,7 @@ date: 2017-03-24 00:00:00
 
 ## 游戏封面
 
-![水葬銀貨のイストリア](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria_cover.avif)
+![水葬銀貨のイストリア](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria_cover.avif)
 
 
 ## 游戏名称
@@ -50,13 +50,13 @@ date: 2017-03-24 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B0%B4%E8%91%AC%E9%93%B6%E8%B4%A7%E7%9A%84Istria_Screenshot_5.avif)
 

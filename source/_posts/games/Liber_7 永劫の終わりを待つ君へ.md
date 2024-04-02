@@ -7,7 +7,7 @@ date: 2016-12-22 00:00:00
 
 ## 游戏封面
 
-![Liber_7 永劫の終わりを待つ君へ](https://pan.timero.xyz/onedrive/img_lib_001/Liber_7%20%E6%B0%B8%E5%8A%AB%E3%81%AE%E7%B5%82%E3%82%8F%E3%82%8A%E3%82%92%E5%BE%85%E3%81%A4%E5%90%9B%E3%81%B8_cover.avif)
+![Liber_7 永劫の終わりを待つ君へ](https://pan.timero.xyz/d/onedrive/img_lib_001/Liber_7%20%E6%B0%B8%E5%8A%AB%E3%81%AE%E7%B5%82%E3%82%8F%E3%82%8A%E3%82%92%E5%BE%85%E3%81%A4%E5%90%9B%E3%81%B8_cover.avif)
 
 
 ## 游戏名称

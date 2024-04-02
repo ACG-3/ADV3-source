@@ -7,7 +7,7 @@ date: 2021-08-14 00:00:00
 
 ## 游戏封面
 
-![Chasing Tails -A Promise in the Snow-](https://pan.timero.xyz/onedrive/img_lib_001/Chasing%20Tails%20%E3%80%9C%E9%9B%AA%E4%B8%AD%E8%AA%93%E7%BA%A6%E3%80%9C_cover.avif)
+![Chasing Tails -A Promise in the Snow-](https://pan.timero.xyz/d/onedrive/img_lib_001/Chasing%20Tails%20%E3%80%9C%E9%9B%AA%E4%B8%AD%E8%AA%93%E7%BA%A6%E3%80%9C_cover.avif)
 
 
 ## 游戏名称

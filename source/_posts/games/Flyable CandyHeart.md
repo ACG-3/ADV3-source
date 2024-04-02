@@ -7,7 +7,7 @@ date: 2011-02-25 00:00:00
 
 ## 游戏封面
 
-![Flyable CandyHeart](https://pan.timero.xyz/onedrive/img_lib_001/Flyable%20CandyHeart_cover.avif)
+![Flyable CandyHeart](https://pan.timero.xyz/d/onedrive/img_lib_001/Flyable%20CandyHeart_cover.avif)
 
 
 ## 游戏名称
@@ -56,13 +56,13 @@ FCH 还有三条额外路线：一条是大家最喜欢的学生会秘书 Gumi-c
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Flyable%20CandyHeart_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Flyable%20CandyHeart_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Flyable%20CandyHeart_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Flyable%20CandyHeart_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Flyable%20CandyHeart_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Flyable%20CandyHeart_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Flyable%20CandyHeart_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Flyable%20CandyHeart_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Flyable%20CandyHeart_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Flyable%20CandyHeart_Screenshot_5.avif)
 

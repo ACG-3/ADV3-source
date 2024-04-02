@@ -7,7 +7,7 @@ date: 2013-06-28 00:00:00
 
 ## 游戏封面
 
-![幻創のイデア～Oratorio Phantasm Historia～](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E_cover.avif)
+![幻創のイデア～Oratorio Phantasm Historia～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -50,13 +50,13 @@ date: 2013-06-28 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BB%E5%89%B5%E3%81%AE%E3%82%A4%E3%83%87%E3%82%A2%EF%BD%9EOratorio%20Phantasm%20Historia%EF%BD%9E_Screenshot_5.avif)
 

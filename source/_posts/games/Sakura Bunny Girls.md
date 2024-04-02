@@ -7,7 +7,7 @@ date: 2023-07-23 00:00:00
 
 ## 游戏封面
 
-![Sakura Bunny Girls](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Bunny%20Girls_cover.avif)
+![Sakura Bunny Girls](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Bunny%20Girls_cover.avif)
 
 
 ## 游戏名称
@@ -62,13 +62,13 @@ Yori 是一个身负使命的人。他是一名专业保安，只要价钱合适
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Bunny%20Girls_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Bunny%20Girls_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Bunny%20Girls_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Bunny%20Girls_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Bunny%20Girls_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Bunny%20Girls_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Bunny%20Girls_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Bunny%20Girls_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Bunny%20Girls_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Bunny%20Girls_Screenshot_5.avif)
 

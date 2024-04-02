@@ -7,7 +7,7 @@ date: 2020-10-29 00:00:00
 
 ## 游戏封面
 
-![Kirakira Stars Idol Project Reika](https://pan.timero.xyz/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Reika_cover.avif)
+![Kirakira Stars Idol Project Reika](https://pan.timero.xyz/d/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Reika_cover.avif)
 
 
 ## 游戏名称

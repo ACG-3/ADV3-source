@@ -7,7 +7,7 @@ date: 2010-08-27 00:00:00
 
 ## 游戏封面
 
-![涼風のメルト -Where wishes are drawn to each other-](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-_cover.avif)
+![涼風のメルト -Where wishes are drawn to each other-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-_cover.avif)
 
 
 ## 游戏名称
@@ -51,13 +51,13 @@ Whirlpool 的第 5 部作品讲述的是人类与神灵之间的羁绊。明仁�
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B6%BC%E9%A2%A8%E3%81%AE%E3%83%A1%E3%83%AB%E3%83%88%20-Where%20wishes%20are%20drawn%20to%20each%20other-_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2019-10-08 00:00:00
 
 ## 游戏封面
 
-![Love Esquire 非モテ従士は救国と求愛を目指す](https://pan.timero.xyz/onedrive/img_lib_001/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99_cover.avif)
+![Love Esquire 非モテ従士は救国と求愛を目指す](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99_cover.avif)
 
 
 ## 游戏名称
@@ -57,13 +57,13 @@ Love Esquire》是一款浪漫喜剧视觉小说/约会模拟器，带有怀旧�
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%20Esquire%20%E9%9D%9E%E3%83%A2%E3%83%86%E5%BE%93%E5%A3%AB%E3%81%AF%E6%95%91%E5%9B%BD%E3%81%A8%E6%B1%82%E6%84%9B%E3%82%92%E7%9B%AE%E6%8C%87%E3%81%99_Screenshot_5.avif)
 

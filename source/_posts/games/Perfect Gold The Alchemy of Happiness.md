@@ -7,7 +7,7 @@ date: 2021-04-19 00:00:00
 
 ## 游戏封面
 
-![Perfect Gold: The Alchemy of Happiness](https://pan.timero.xyz/onedrive/img_lib_001/Perfect%20Gold%20The%20Alchemy%20of%20Happiness_cover.avif)
+![Perfect Gold: The Alchemy of Happiness](https://pan.timero.xyz/d/onedrive/img_lib_001/Perfect%20Gold%20The%20Alchemy%20of%20Happiness_cover.avif)
 
 
 ## 游戏名称
@@ -53,13 +53,13 @@ date: 2021-04-19 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Perfect%20Gold%20The%20Alchemy%20of%20Happiness_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Perfect%20Gold%20The%20Alchemy%20of%20Happiness_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Perfect%20Gold%20The%20Alchemy%20of%20Happiness_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Perfect%20Gold%20The%20Alchemy%20of%20Happiness_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Perfect%20Gold%20The%20Alchemy%20of%20Happiness_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Perfect%20Gold%20The%20Alchemy%20of%20Happiness_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Perfect%20Gold%20The%20Alchemy%20of%20Happiness_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Perfect%20Gold%20The%20Alchemy%20of%20Happiness_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Perfect%20Gold%20The%20Alchemy%20of%20Happiness_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Perfect%20Gold%20The%20Alchemy%20of%20Happiness_Screenshot_5.avif)
 

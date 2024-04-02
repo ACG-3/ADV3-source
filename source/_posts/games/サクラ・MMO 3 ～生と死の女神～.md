@@ -7,7 +7,7 @@ date: 2019-06-07 00:00:00
 
 ## 游戏封面
 
-![サクラ・MMO 3 ～生と死の女神～](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%BBMMO%203%20%EF%BD%9E%E7%94%9F%E3%81%A8%E6%AD%BB%E3%81%AE%E5%A5%B3%E7%A5%9E%EF%BD%9E_cover.avif)
+![サクラ・MMO 3 ～生と死の女神～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%BBMMO%203%20%EF%BD%9E%E7%94%9F%E3%81%A8%E6%AD%BB%E3%81%AE%E5%A5%B3%E7%A5%9E%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称

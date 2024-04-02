@@ -7,7 +7,7 @@ date: 2016-05-27 00:00:00
 
 ## 游戏封面
 
-![乙女理論とその後の周辺 -Belle Epoque-](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E5%91%A8%E8%BE%BA%20-Belle%20Epoque-_cover.avif)
+![乙女理論とその後の周辺 -Belle Epoque-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E5%91%A8%E8%BE%BA%20-Belle%20Epoque-_cover.avif)
 
 
 ## 游戏名称

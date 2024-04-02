@@ -7,7 +7,7 @@ date: 2019-12-01 00:00:00
 
 ## 游戏封面
 
-![Steamy Sextet](https://pan.timero.xyz/onedrive/img_lib_001/Steamy%20Sextet_cover.avif)
+![Steamy Sextet](https://pan.timero.xyz/d/onedrive/img_lib_001/Steamy%20Sextet_cover.avif)
 
 
 ## 游戏名称
@@ -54,11 +54,11 @@ Steamy Sextet》是一款视觉小说游戏，讲述了六个女人的小故事�
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Steamy%20Sextet_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Steamy%20Sextet_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Steamy%20Sextet_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Steamy%20Sextet_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Steamy%20Sextet_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Steamy%20Sextet_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Steamy%20Sextet_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Steamy%20Sextet_Screenshot_4.avif)
 

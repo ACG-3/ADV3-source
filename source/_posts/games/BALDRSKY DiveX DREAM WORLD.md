@@ -6,7 +6,7 @@ date: 2010-09-24
 
 ## 游戏封面
 
-![BALDR SKY DiveX "DREAM WORLD"](https://pan.timero.xyz/onedrive/img_lib_001/BALDRSKY%20DiveX%20DREAM%20WORLD_cover.avif)
+![BALDR SKY DiveX "DREAM WORLD"](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDRSKY%20DiveX%20DREAM%20WORLD_cover.avif)
 
 
 ## 游戏名称
@@ -48,13 +48,13 @@ date: 2010-09-24
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/BALDRSKY%20DiveX%20DREAM%20WORLD_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDRSKY%20DiveX%20DREAM%20WORLD_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/BALDRSKY%20DiveX%20DREAM%20WORLD_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDRSKY%20DiveX%20DREAM%20WORLD_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/BALDRSKY%20DiveX%20DREAM%20WORLD_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDRSKY%20DiveX%20DREAM%20WORLD_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/BALDRSKY%20DiveX%20DREAM%20WORLD_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDRSKY%20DiveX%20DREAM%20WORLD_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/BALDRSKY%20DiveX%20DREAM%20WORLD_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDRSKY%20DiveX%20DREAM%20WORLD_Screenshot_5.avif)
 

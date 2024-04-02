@@ -7,7 +7,7 @@ date: 2005-09-22 00:00:00
 
 ## 游戏封面
 
-![IZUMO零（ゼロ）](https://pan.timero.xyz/onedrive/img_lib_001/IZUMO%E9%9B%B6%EF%BC%88%E3%82%BC%E3%83%AD%EF%BC%89_cover.avif)
+![IZUMO零（ゼロ）](https://pan.timero.xyz/d/onedrive/img_lib_001/IZUMO%E9%9B%B6%EF%BC%88%E3%82%BC%E3%83%AD%EF%BC%89_cover.avif)
 
 
 ## 游戏名称

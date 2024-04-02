@@ -7,7 +7,7 @@ date: 2002-09-27 00:00:00
 
 ## 游戏封面
 
-![Princess Holiday～転がるりんご亭千夜一夜～](https://pan.timero.xyz/onedrive/img_lib_001/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E_cover.avif)
+![Princess Holiday～転がるりんご亭千夜一夜～](https://pan.timero.xyz/d/onedrive/img_lib_001/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -55,13 +55,13 @@ date: 2002-09-27 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Princess%20Holiday%EF%BD%9E%E8%BB%A2%E3%81%8C%E3%82%8B%E3%82%8A%E3%82%93%E3%81%94%E4%BA%AD%E5%8D%83%E5%A4%9C%E4%B8%80%E5%A4%9C%EF%BD%9E_Screenshot_5.avif)
 

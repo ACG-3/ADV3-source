@@ -7,7 +7,7 @@ date: 2009-05-29 00:00:00
 
 ## 游戏封面
 
-![タユタマ -It's happy days-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-_cover.avif)
+![タユタマ -It's happy days-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-_cover.avif)
 
 
 ## 游戏名称
@@ -53,13 +53,13 @@ date: 2009-05-29 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-It%27s%20happy%20days-_Screenshot_5.avif)
 

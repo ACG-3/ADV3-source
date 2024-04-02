@@ -7,7 +7,7 @@ date: 2003-02-27 00:00:00
 
 ## 游戏封面
 
-![Iris －イリス－](https://pan.timero.xyz/onedrive/img_lib_001/Iris%20%EF%BC%8D%E3%82%A4%E3%83%AA%E3%82%B9%EF%BC%8D_cover.avif)
+![Iris －イリス－](https://pan.timero.xyz/d/onedrive/img_lib_001/Iris%20%EF%BC%8D%E3%82%A4%E3%83%AA%E3%82%B9%EF%BC%8D_cover.avif)
 
 
 ## 游戏名称
@@ -49,7 +49,7 @@ KID 继续推出浪漫互动游戏，这款游戏的故事发生在一所初中�
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Iris%20%EF%BC%8D%E3%82%A4%E3%83%AA%E3%82%B9%EF%BC%8D_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Iris%20%EF%BC%8D%E3%82%A4%E3%83%AA%E3%82%B9%EF%BC%8D_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Iris%20%EF%BC%8D%E3%82%A4%E3%83%AA%E3%82%B9%EF%BC%8D_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Iris%20%EF%BC%8D%E3%82%A4%E3%83%AA%E3%82%B9%EF%BC%8D_Screenshot_2.avif)
 

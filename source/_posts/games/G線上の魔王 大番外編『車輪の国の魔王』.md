@@ -7,7 +7,7 @@ date: 2011-05-02 00:00:00
 
 ## 游戏封面
 
-![G線上の魔王 大番外編『車輪の国の魔王』](https://pan.timero.xyz/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F_cover.avif)
+![G線上の魔王 大番外編『車輪の国の魔王』](https://pan.timero.xyz/d/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F_cover.avif)
 
 
 ## 游戏名称
@@ -48,13 +48,13 @@ date: 2011-05-02 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B%20%E5%A4%A7%E7%95%AA%E5%A4%96%E7%B7%A8%E3%80%8E%E8%BB%8A%E8%BC%AA%E3%81%AE%E5%9B%BD%E3%81%AE%E9%AD%94%E7%8E%8B%E3%80%8F_Screenshot_5.avif)
 

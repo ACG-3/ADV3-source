@@ -7,7 +7,7 @@ date: 2013-06-27 00:00:00
 
 ## 游戏封面
 
-![デート・ア・ライブ 凛祢ユートピア](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_cover.avif)
+![デート・ア・ライブ 凛祢ユートピア](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_cover.avif)
 
 
 ## 游戏名称
@@ -54,13 +54,13 @@ date: 2013-06-27 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%87%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%20Twin%20Edition%20%E5%87%9C%E7%B7%92%E3%83%AA%E3%83%B3%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_5.avif)
 

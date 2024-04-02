@@ -7,7 +7,7 @@ date: 2017-12-09 00:00:00
 
 ## 游戏封面
 
-![四国志すぺしゃるDX ～酒池肉うどん戦記～](https://pan.timero.xyz/onedrive/img_lib_001/%E5%9B%9B%E5%9B%BD%E5%BF%97%E3%81%99%E3%81%BA%E3%81%97%E3%82%83%E3%82%8BDX%20%EF%BD%9E%E9%85%92%E6%B1%A0%E8%82%89%E3%81%86%E3%81%A9%E3%82%93%E6%88%A6%E8%A8%98%EF%BD%9E_cover.avif)
+![四国志すぺしゃるDX ～酒池肉うどん戦記～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%9B%9B%E5%9B%BD%E5%BF%97%E3%81%99%E3%81%BA%E3%81%97%E3%82%83%E3%82%8BDX%20%EF%BD%9E%E9%85%92%E6%B1%A0%E8%82%89%E3%81%86%E3%81%A9%E3%82%93%E6%88%A6%E8%A8%98%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称

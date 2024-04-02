@@ -7,7 +7,7 @@ date: 2023-03-08 00:00:00
 
 ## 游戏封面
 
-![PARANORMASIGHT FILE23 本所七不思議](https://pan.timero.xyz/onedrive/img_lib_001/PARANORMASIGHT%20FILE23%20%E6%9C%AC%E6%89%80%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0_cover.avif)
+![PARANORMASIGHT FILE23 本所七不思議](https://pan.timero.xyz/d/onedrive/img_lib_001/PARANORMASIGHT%20FILE23%20%E6%9C%AC%E6%89%80%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0_cover.avif)
 
 
 ## 游戏名称
@@ -51,13 +51,13 @@ date: 2023-03-08 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/PARANORMASIGHT%20FILE23%20%E6%9C%AC%E6%89%80%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/PARANORMASIGHT%20FILE23%20%E6%9C%AC%E6%89%80%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/PARANORMASIGHT%20FILE23%20%E6%9C%AC%E6%89%80%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/PARANORMASIGHT%20FILE23%20%E6%9C%AC%E6%89%80%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/PARANORMASIGHT%20FILE23%20%E6%9C%AC%E6%89%80%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/PARANORMASIGHT%20FILE23%20%E6%9C%AC%E6%89%80%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/PARANORMASIGHT%20FILE23%20%E6%9C%AC%E6%89%80%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/PARANORMASIGHT%20FILE23%20%E6%9C%AC%E6%89%80%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/PARANORMASIGHT%20FILE23%20%E6%9C%AC%E6%89%80%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/PARANORMASIGHT%20FILE23%20%E6%9C%AC%E6%89%80%E4%B8%83%E4%B8%8D%E6%80%9D%E8%AD%B0_Screenshot_5.avif)
 

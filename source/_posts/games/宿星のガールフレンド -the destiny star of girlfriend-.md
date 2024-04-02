@@ -7,7 +7,7 @@ date: 2018-07-27 00:00:00
 
 ## 游戏封面
 
-![宿星のガールフレンド -the destiny star of girlfriend-](https://pan.timero.xyz/onedrive/img_lib_001/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-_cover.avif)
+![宿星のガールフレンド -the destiny star of girlfriend-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-_cover.avif)
 
 
 ## 游戏名称
@@ -50,13 +50,13 @@ date: 2018-07-27 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%AE%BF%E6%98%9F%E3%81%AE%E3%82%AC%E3%83%BC%E3%83%AB%E3%83%95%E3%83%AC%E3%83%B3%E3%83%89%20-the%20destiny%20star%20of%20girlfriend-_Screenshot_5.avif)
 

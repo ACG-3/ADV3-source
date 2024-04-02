@@ -7,7 +7,7 @@ date: 2010-08-14 00:00:00
 
 ## 游戏封面
 
-![ひまわりアクアアフター The Day the Moon Stood Still](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still_cover.avif)
+![ひまわりアクアアフター The Day the Moon Stood Still](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still_cover.avif)
 
 
 ## 游戏名称
@@ -47,13 +47,13 @@ Fandisc 的故事发生在主游戏事件发生一年之后，以 Aqua 和 Cosmo
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%20The%20Day%20the%20Moon%20Stood%20Still_Screenshot_5.avif)
 

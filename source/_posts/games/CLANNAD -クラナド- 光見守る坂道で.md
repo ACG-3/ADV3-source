@@ -7,7 +7,7 @@ date: 2008-08-28 00:00:00
 
 ## 游戏封面
 
-![CLANNAD -クラナド- 光見守る坂道で](https://pan.timero.xyz/onedrive/img_lib_001/CLANNAD%20-%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89-%20%E5%85%89%E8%A6%8B%E5%AE%88%E3%82%8B%E5%9D%82%E9%81%93%E3%81%A7_cover.avif)
+![CLANNAD -クラナド- 光見守る坂道で](https://pan.timero.xyz/d/onedrive/img_lib_001/CLANNAD%20-%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89-%20%E5%85%89%E8%A6%8B%E5%AE%88%E3%82%8B%E5%9D%82%E9%81%93%E3%81%A7_cover.avif)
 
 
 ## 游戏名称
@@ -47,13 +47,13 @@ date: 2008-08-28 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/CLANNAD%20-%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89-%20%E5%85%89%E8%A6%8B%E5%AE%88%E3%82%8B%E5%9D%82%E9%81%93%E3%81%A7_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/CLANNAD%20-%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89-%20%E5%85%89%E8%A6%8B%E5%AE%88%E3%82%8B%E5%9D%82%E9%81%93%E3%81%A7_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/CLANNAD%20-%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89-%20%E5%85%89%E8%A6%8B%E5%AE%88%E3%82%8B%E5%9D%82%E9%81%93%E3%81%A7_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/CLANNAD%20-%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89-%20%E5%85%89%E8%A6%8B%E5%AE%88%E3%82%8B%E5%9D%82%E9%81%93%E3%81%A7_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/CLANNAD%20-%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89-%20%E5%85%89%E8%A6%8B%E5%AE%88%E3%82%8B%E5%9D%82%E9%81%93%E3%81%A7_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/CLANNAD%20-%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89-%20%E5%85%89%E8%A6%8B%E5%AE%88%E3%82%8B%E5%9D%82%E9%81%93%E3%81%A7_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/CLANNAD%20-%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89-%20%E5%85%89%E8%A6%8B%E5%AE%88%E3%82%8B%E5%9D%82%E9%81%93%E3%81%A7_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/CLANNAD%20-%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89-%20%E5%85%89%E8%A6%8B%E5%AE%88%E3%82%8B%E5%9D%82%E9%81%93%E3%81%A7_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/CLANNAD%20-%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89-%20%E5%85%89%E8%A6%8B%E5%AE%88%E3%82%8B%E5%9D%82%E9%81%93%E3%81%A7_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/CLANNAD%20-%E3%82%AF%E3%83%A9%E3%83%8A%E3%83%89-%20%E5%85%89%E8%A6%8B%E5%AE%88%E3%82%8B%E5%9D%82%E9%81%93%E3%81%A7_Screenshot_5.avif)
 

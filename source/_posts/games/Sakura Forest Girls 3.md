@@ -7,7 +7,7 @@ date: 2021-11-15 00:00:00
 
 ## 游戏封面
 
-![Sakura Forest Girls 3](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Forest%20Girls%203_cover.avif)
+![Sakura Forest Girls 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Forest%20Girls%203_cover.avif)
 
 
 ## 游戏名称

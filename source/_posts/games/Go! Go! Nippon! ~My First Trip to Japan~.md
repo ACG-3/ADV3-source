@@ -7,7 +7,7 @@ date: 2011-09-30 00:00:00
 
 ## 游戏封面
 
-![Go! Go! Nippon! ~My First Trip to Japan~](https://pan.timero.xyz/onedrive/img_lib_001/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~_cover.avif)
+![Go! Go! Nippon! ~My First Trip to Japan~](https://pan.timero.xyz/d/onedrive/img_lib_001/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~_cover.avif)
 
 
 ## 游戏名称
@@ -62,13 +62,13 @@ date: 2011-09-30 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Go%21%20Go%21%20Nippon%21%20~My%20First%20Trip%20to%20Japan~_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2021-07-26 00:00:00
 
 ## 游戏封面
 
-![Sakura Forest Girls 2](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Forest%20Girls%202_cover.avif)
+![Sakura Forest Girls 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Forest%20Girls%202_cover.avif)
 
 
 ## 游戏名称

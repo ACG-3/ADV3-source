@@ -7,7 +7,7 @@ date: 2020-10-23 00:00:00
 
 ## 游戏封面
 
-![VenusBlood DarkChronicle Episode:2 混沌に堕ちる母娘神](https://pan.timero.xyz/onedrive/img_lib_001/VenusBlood%20DarkChronicle%20Episode2%20%E6%B7%B7%E6%B2%8C%E3%81%AB%E5%A0%95%E3%81%A1%E3%82%8B%E6%AF%8D%E5%A8%98%E7%A5%9E_cover.avif)
+![VenusBlood DarkChronicle Episode:2 混沌に堕ちる母娘神](https://pan.timero.xyz/d/onedrive/img_lib_001/VenusBlood%20DarkChronicle%20Episode2%20%E6%B7%B7%E6%B2%8C%E3%81%AB%E5%A0%95%E3%81%A1%E3%82%8B%E6%AF%8D%E5%A8%98%E7%A5%9E_cover.avif)
 
 
 ## 游戏名称

@@ -7,7 +7,7 @@ date: 2012-10-26 00:00:00
 
 ## 游戏封面
 
-![ぜったい最胸☆おっぱい戦争!! ～巨乳王国vs貧乳王国～](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E_cover.avif)
+![ぜったい最胸☆おっぱい戦争!! ～巨乳王国vs貧乳王国～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -48,13 +48,13 @@ date: 2012-10-26 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%9C%E3%81%A3%E3%81%9F%E3%81%84%E6%9C%80%E8%83%B8%E2%98%86%E3%81%8A%E3%81%A3%E3%81%B1%E3%81%84%E6%88%A6%E4%BA%89%21%21%20%EF%BD%9E%E5%B7%A8%E4%B9%B3%E7%8E%8B%E5%9B%BDvs%E8%B2%A7%E4%B9%B3%E7%8E%8B%E5%9B%BD%EF%BD%9E_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2022-10-07 00:00:00
 
 ## 游戏封面
 
-![NTR妄想されるフジキさん](https://pan.timero.xyz/onedrive/img_lib_001/NTR%E5%A6%84%E6%83%B3%E3%81%95%E3%82%8C%E3%82%8B%E3%83%95%E3%82%B8%E3%82%AD%E3%81%95%E3%82%93_cover.avif)
+![NTR妄想されるフジキさん](https://pan.timero.xyz/d/onedrive/img_lib_001/NTR%E5%A6%84%E6%83%B3%E3%81%95%E3%82%8C%E3%82%8B%E3%83%95%E3%82%B8%E3%82%AD%E3%81%95%E3%82%93_cover.avif)
 
 
 ## 游戏名称

@@ -7,7 +7,7 @@ date: 2017-12-29 00:00:00
 
 ## 游戏封面
 
-![Six Days of Snow](https://pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_cover.avif)
+![Six Days of Snow](https://pan.timero.xyz/d/onedrive/img_lib_001/Six%20Days%20of%20Snow_cover.avif)
 
 
 ## 游戏名称
@@ -58,11 +58,11 @@ date: 2017-12-29 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_4.avif)
 

@@ -7,7 +7,7 @@ date: 2012-12-20 00:00:00
 
 ## 游戏封面
 
-![WHITE ALBUM2 ミニアフターストーリー](https://pan.timero.xyz/onedrive/img_lib_001/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_cover.avif)
+![WHITE ALBUM2 ミニアフターストーリー](https://pan.timero.xyz/d/onedrive/img_lib_001/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_cover.avif)
 
 
 ## 游戏名称
@@ -47,13 +47,13 @@ date: 2012-12-20 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/WHITE%20ALBUM2%20%E3%83%9F%E3%83%8B%E3%82%A2%E3%83%95%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC_Screenshot_5.avif)
 

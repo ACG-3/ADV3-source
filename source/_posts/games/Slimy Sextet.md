@@ -7,7 +7,7 @@ date: 2023-05-19 00:00:00
 
 ## 游戏封面
 
-![Slimy Sextet](https://pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_cover.avif)
+![Slimy Sextet](https://pan.timero.xyz/d/onedrive/img_lib_001/Slimy%20Sextet_cover.avif)
 
 
 ## 游戏名称
@@ -54,13 +54,13 @@ Slimy Sextet》是一部视觉小说，你将扮演塞莱斯特的粘液奴才�
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_5.avif)
 

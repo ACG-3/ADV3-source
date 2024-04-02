@@ -7,7 +7,7 @@ date: 2017-02-14 00:00:00
 
 ## 游戏封面
 
-![The Last Weekend](https://pan.timero.xyz/onedrive/img_lib_001/The%20Last%20Weekend_cover.avif)
+![The Last Weekend](https://pan.timero.xyz/d/onedrive/img_lib_001/The%20Last%20Weekend_cover.avif)
 
 
 ## 游戏名称

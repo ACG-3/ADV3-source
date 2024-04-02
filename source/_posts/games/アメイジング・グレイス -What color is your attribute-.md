@@ -7,7 +7,7 @@ date: 2018-11-30 00:00:00
 
 ## 游戏封面
 
-![アメイジング・グレイス -What color is your attribute?-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-_cover.avif)
+![アメイジング・グレイス -What color is your attribute?-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-_cover.avif)
 
 
 ## 游戏名称
@@ -52,13 +52,13 @@ date: 2018-11-30 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%83%A1%E3%82%A4%E3%82%B8%E3%83%B3%E3%82%B0%E3%83%BB%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%B9%20-What%20color%20is%20your%20attribute-_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2007-08-17 00:00:00
 
 ## 游戏封面
 
-![まり∽くり -marriage crimson-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%BE%E3%82%8A%E2%88%BD%E3%81%8F%E3%82%8A%20-marriage%20crimson-_cover.avif)
+![まり∽くり -marriage crimson-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%BE%E3%82%8A%E2%88%BD%E3%81%8F%E3%82%8A%20-marriage%20crimson-_cover.avif)
 
 
 ## 游戏名称
@@ -47,9 +47,9 @@ date: 2007-08-17 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%BE%E3%82%8A%E2%88%BD%E3%81%8F%E3%82%8A%20-marriage%20crimson-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%BE%E3%82%8A%E2%88%BD%E3%81%8F%E3%82%8A%20-marriage%20crimson-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%BE%E3%82%8A%E2%88%BD%E3%81%8F%E3%82%8A%20-marriage%20crimson-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%BE%E3%82%8A%E2%88%BD%E3%81%8F%E3%82%8A%20-marriage%20crimson-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%BE%E3%82%8A%E2%88%BD%E3%81%8F%E3%82%8A%20-marriage%20crimson-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%BE%E3%82%8A%E2%88%BD%E3%81%8F%E3%82%8A%20-marriage%20crimson-_Screenshot_3.avif)
 

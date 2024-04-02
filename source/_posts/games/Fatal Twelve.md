@@ -7,7 +7,7 @@ date: 2018-03-30 00:00:00
 
 ## 游戏封面
 
-![Fatal Twelve](https://pan.timero.xyz/onedrive/img_lib_001/Fatal%20Twelve_cover.avif)
+![Fatal Twelve](https://pan.timero.xyz/d/onedrive/img_lib_001/Fatal%20Twelve_cover.avif)
 
 
 ## 游戏名称
@@ -56,13 +56,13 @@ Shishimai Rinka 是一名高中生，代替祖母经营一家名为 "狮子屋 "
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_5.avif)
 

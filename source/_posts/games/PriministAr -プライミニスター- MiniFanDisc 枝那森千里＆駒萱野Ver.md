@@ -7,7 +7,7 @@ date: 2015-11-27 00:00:00
 
 ## 游戏封面
 
-![PriministAr -プライミニスター- MiniFanDisc 枝那森千里＆駒萱野Ver.](https://pan.timero.xyz/onedrive/img_lib_001/PriministAr%20-%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9F%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%BC-%20MiniFanDisc%20%E6%9E%9D%E9%82%A3%E6%A3%AE%E5%8D%83%E9%87%8C%EF%BC%86%E9%A7%92%E8%90%B1%E9%87%8EVer_cover.avif)
+![PriministAr -プライミニスター- MiniFanDisc 枝那森千里＆駒萱野Ver.](https://pan.timero.xyz/d/onedrive/img_lib_001/PriministAr%20-%E3%83%97%E3%83%A9%E3%82%A4%E3%83%9F%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%BC-%20MiniFanDisc%20%E6%9E%9D%E9%82%A3%E6%A3%AE%E5%8D%83%E9%87%8C%EF%BC%86%E9%A7%92%E8%90%B1%E9%87%8EVer_cover.avif)
 
 
 ## 游戏名称

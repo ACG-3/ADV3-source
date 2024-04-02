@@ -7,7 +7,7 @@ date: 2017-10-27 00:00:00
 
 ## 游戏封面
 
-![クールでMな会長と過激な甘イチャ子作り学園性活](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%A7M%E3%81%AA%E4%BC%9A%E9%95%B7%E3%81%A8%E9%81%8E%E6%BF%80%E3%81%AA%E7%94%98%E3%82%A4%E3%83%81%E3%83%A3%E5%AD%90%E4%BD%9C%E3%82%8A%E5%AD%A6%E5%9C%92%E6%80%A7%E6%B4%BB_cover.avif)
+![クールでMな会長と過激な甘イチャ子作り学園性活](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%AF%E3%83%BC%E3%83%AB%E3%81%A7M%E3%81%AA%E4%BC%9A%E9%95%B7%E3%81%A8%E9%81%8E%E6%BF%80%E3%81%AA%E7%94%98%E3%82%A4%E3%83%81%E3%83%A3%E5%AD%90%E4%BD%9C%E3%82%8A%E5%AD%A6%E5%9C%92%E6%80%A7%E6%B4%BB_cover.avif)
 
 
 ## 游戏名称

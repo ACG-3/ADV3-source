@@ -7,7 +7,7 @@ date: 2012-02-24 00:00:00
 
 ## 游戏封面
 
-![グリザイアの迷宮 -LE LABYRINTHE DE LA GRISAIA-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E8%BF%B7%E5%AE%AE%20-LE%20LABYRINTHE%20DE%20LA%20GRISAIA-_cover.avif)
+![グリザイアの迷宮 -LE LABYRINTHE DE LA GRISAIA-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E8%BF%B7%E5%AE%AE%20-LE%20LABYRINTHE%20DE%20LA%20GRISAIA-_cover.avif)
 
 
 ## 游戏名称
@@ -55,13 +55,13 @@ date: 2012-02-24 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E8%BF%B7%E5%AE%AE%20-LE%20LABYRINTHE%20DE%20LA%20GRISAIA-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E8%BF%B7%E5%AE%AE%20-LE%20LABYRINTHE%20DE%20LA%20GRISAIA-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E8%BF%B7%E5%AE%AE%20-LE%20LABYRINTHE%20DE%20LA%20GRISAIA-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E8%BF%B7%E5%AE%AE%20-LE%20LABYRINTHE%20DE%20LA%20GRISAIA-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E8%BF%B7%E5%AE%AE%20-LE%20LABYRINTHE%20DE%20LA%20GRISAIA-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E8%BF%B7%E5%AE%AE%20-LE%20LABYRINTHE%20DE%20LA%20GRISAIA-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E8%BF%B7%E5%AE%AE%20-LE%20LABYRINTHE%20DE%20LA%20GRISAIA-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E8%BF%B7%E5%AE%AE%20-LE%20LABYRINTHE%20DE%20LA%20GRISAIA-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E8%BF%B7%E5%AE%AE%20-LE%20LABYRINTHE%20DE%20LA%20GRISAIA-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E8%BF%B7%E5%AE%AE%20-LE%20LABYRINTHE%20DE%20LA%20GRISAIA-_Screenshot_5.avif)
 

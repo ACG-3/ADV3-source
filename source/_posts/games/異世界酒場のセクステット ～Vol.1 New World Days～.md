@@ -7,7 +7,7 @@ date: 2020-11-05 00:00:00
 
 ## 游戏封面
 
-![異世界酒場のセクステット ～Vol.1 New World Days～](https://pan.timero.xyz/onedrive/img_lib_001/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E_cover.avif)
+![異世界酒場のセクステット ～Vol.1 New World Days～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -61,13 +61,13 @@ date: 2020-11-05 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%95%B0%E4%B8%96%E7%95%8C%E9%85%92%E5%A0%B4%E3%81%AE%E3%82%BB%E3%82%AF%E3%82%B9%E3%83%86%E3%83%83%E3%83%88%20%EF%BD%9EVol.1%20New%20World%20Days%EF%BD%9E_Screenshot_5.avif)
 

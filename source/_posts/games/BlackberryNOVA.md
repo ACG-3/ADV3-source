@@ -7,7 +7,7 @@ date: 2021-08-19 00:00:00
 
 ## 游戏封面
 
-![BlackberryNOVA](https://pan.timero.xyz/onedrive/img_lib_001/BlackberryNOVA_cover.avif)
+![BlackberryNOVA](https://pan.timero.xyz/d/onedrive/img_lib_001/BlackberryNOVA_cover.avif)
 
 
 ## 游戏名称

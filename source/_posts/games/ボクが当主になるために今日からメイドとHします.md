@@ -7,7 +7,7 @@ date: 2023-03-31 00:00:00
 
 ## 游戏封面
 
-![ボクが当主になるために今日からメイドとHします](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_cover.avif)
+![ボクが当主になるために今日からメイドとHします](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_cover.avif)
 
 
 ## 游戏名称
@@ -66,11 +66,11 @@ date: 2023-03-31 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_4.avif)
 

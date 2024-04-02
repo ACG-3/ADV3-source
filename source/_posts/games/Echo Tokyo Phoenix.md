@@ -7,7 +7,7 @@ date: 2019-03-22 00:00:00
 
 ## 游戏封面
 
-![Echo Tokyo: Phoenix](https://pan.timero.xyz/onedrive/img_lib_001/Echo%20Tokyo%20Phoenix_cover.avif)
+![Echo Tokyo: Phoenix](https://pan.timero.xyz/d/onedrive/img_lib_001/Echo%20Tokyo%20Phoenix_cover.avif)
 
 
 ## 游戏名称

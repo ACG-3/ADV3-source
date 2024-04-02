@@ -7,7 +7,7 @@ date: 2019-01-06 00:00:00
 
 ## 游戏封面
 
-![Butterfly Affection ~蠱惑の幼虫~](https://pan.timero.xyz/onedrive/img_lib_001/Butterfly%20Affection%20~%E8%A0%B1%E6%83%91%E3%81%AE%E5%B9%BC%E8%99%AB~_cover.avif)
+![Butterfly Affection ~蠱惑の幼虫~](https://pan.timero.xyz/d/onedrive/img_lib_001/Butterfly%20Affection%20~%E8%A0%B1%E6%83%91%E3%81%AE%E5%B9%BC%E8%99%AB~_cover.avif)
 
 
 ## 游戏名称
@@ -46,9 +46,9 @@ date: 2019-01-06 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Butterfly%20Affection%20~%E8%A0%B1%E6%83%91%E3%81%AE%E5%B9%BC%E8%99%AB~_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Butterfly%20Affection%20~%E8%A0%B1%E6%83%91%E3%81%AE%E5%B9%BC%E8%99%AB~_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Butterfly%20Affection%20~%E8%A0%B1%E6%83%91%E3%81%AE%E5%B9%BC%E8%99%AB~_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Butterfly%20Affection%20~%E8%A0%B1%E6%83%91%E3%81%AE%E5%B9%BC%E8%99%AB~_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Butterfly%20Affection%20~%E8%A0%B1%E6%83%91%E3%81%AE%E5%B9%BC%E8%99%AB~_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Butterfly%20Affection%20~%E8%A0%B1%E6%83%91%E3%81%AE%E5%B9%BC%E8%99%AB~_Screenshot_3.avif)
 

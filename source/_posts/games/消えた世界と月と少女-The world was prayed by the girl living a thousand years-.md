@@ -7,7 +7,7 @@ date: 2018-03-23 00:00:00
 
 ## 游戏封面
 
-![消えた世界と月と少女-The world was prayed by the girl living a thousand years-](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-_cover.avif)
+![消えた世界と月と少女-The world was prayed by the girl living a thousand years-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-_cover.avif)
 
 
 ## 游戏名称
@@ -46,13 +46,13 @@ date: 2018-03-23 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B6%88%E3%81%88%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A8%E6%9C%88%E3%81%A8%E5%B0%91%E5%A5%B3-The%20world%20was%20prayed%20by%20the%20girl%20living%20a%20thousand%20years-_Screenshot_5.avif)
 

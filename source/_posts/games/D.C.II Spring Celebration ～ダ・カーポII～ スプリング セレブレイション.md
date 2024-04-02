@@ -7,7 +7,7 @@ date: 2007-04-27 00:00:00
 
 ## 游戏封面
 
-![D.C.II Spring Celebration ～ダ・カーポII～ スプリング セレブレイション](https://pan.timero.xyz/onedrive/img_lib_001/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_cover.avif)
+![D.C.II Spring Celebration ～ダ・カーポII～ スプリング セレブレイション](https://pan.timero.xyz/d/onedrive/img_lib_001/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_cover.avif)
 
 
 ## 游戏名称
@@ -47,13 +47,13 @@ date: 2007-04-27 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/D.C.II%20Spring%20Celebration%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E3%82%B9%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B0%20%E3%82%BB%E3%83%AC%E3%83%96%E3%83%AC%E3%82%A4%E3%82%B7%E3%83%A7%E3%83%B3_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2014-12-19 00:00:00
 
 ## 游戏封面
 
-![螺旋遡行のディストピア -The infinite set of alternative version-](https://pan.timero.xyz/onedrive/img_lib_001/%E8%9E%BA%E6%97%8B%E9%81%A1%E8%A1%8C%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%20-The%20infinite%20set%20of%20alternative%20version-_cover.avif)
+![螺旋遡行のディストピア -The infinite set of alternative version-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%9E%BA%E6%97%8B%E9%81%A1%E8%A1%8C%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%20-The%20infinite%20set%20of%20alternative%20version-_cover.avif)
 
 
 ## 游戏名称
@@ -75,13 +75,13 @@ date: 2014-12-19 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E8%9E%BA%E6%97%8B%E9%81%A1%E8%A1%8C%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%20-The%20infinite%20set%20of%20alternative%20version-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%9E%BA%E6%97%8B%E9%81%A1%E8%A1%8C%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%20-The%20infinite%20set%20of%20alternative%20version-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E8%9E%BA%E6%97%8B%E9%81%A1%E8%A1%8C%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%20-The%20infinite%20set%20of%20alternative%20version-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%9E%BA%E6%97%8B%E9%81%A1%E8%A1%8C%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%20-The%20infinite%20set%20of%20alternative%20version-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E8%9E%BA%E6%97%8B%E9%81%A1%E8%A1%8C%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%20-The%20infinite%20set%20of%20alternative%20version-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%9E%BA%E6%97%8B%E9%81%A1%E8%A1%8C%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%20-The%20infinite%20set%20of%20alternative%20version-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E8%9E%BA%E6%97%8B%E9%81%A1%E8%A1%8C%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%20-The%20infinite%20set%20of%20alternative%20version-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%9E%BA%E6%97%8B%E9%81%A1%E8%A1%8C%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%20-The%20infinite%20set%20of%20alternative%20version-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E8%9E%BA%E6%97%8B%E9%81%A1%E8%A1%8C%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%20-The%20infinite%20set%20of%20alternative%20version-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%9E%BA%E6%97%8B%E9%81%A1%E8%A1%8C%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%94%E3%82%A2%20-The%20infinite%20set%20of%20alternative%20version-_Screenshot_5.avif)
 

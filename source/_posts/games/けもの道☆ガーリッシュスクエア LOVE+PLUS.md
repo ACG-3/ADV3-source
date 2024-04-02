@@ -7,7 +7,7 @@ date: 2022-07-15 00:00:00
 
 ## 游戏封面
 
-![けもの道☆ガーリッシュスクエア LOVE+PLUS](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%91%E3%82%82%E3%81%AE%E9%81%93%E2%98%86%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20LOVE%2BPLUS_cover.avif)
+![けもの道☆ガーリッシュスクエア LOVE+PLUS](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%91%E3%82%82%E3%81%AE%E9%81%93%E2%98%86%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20LOVE%2BPLUS_cover.avif)
 
 
 ## 游戏名称
@@ -55,13 +55,13 @@ date: 2022-07-15 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%91%E3%82%82%E3%81%AE%E9%81%93%E2%98%86%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20LOVE%2BPLUS_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%91%E3%82%82%E3%81%AE%E9%81%93%E2%98%86%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20LOVE%2BPLUS_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%91%E3%82%82%E3%81%AE%E9%81%93%E2%98%86%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20LOVE%2BPLUS_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%91%E3%82%82%E3%81%AE%E9%81%93%E2%98%86%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20LOVE%2BPLUS_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%91%E3%82%82%E3%81%AE%E9%81%93%E2%98%86%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20LOVE%2BPLUS_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%91%E3%82%82%E3%81%AE%E9%81%93%E2%98%86%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20LOVE%2BPLUS_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%91%E3%82%82%E3%81%AE%E9%81%93%E2%98%86%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20LOVE%2BPLUS_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%91%E3%82%82%E3%81%AE%E9%81%93%E2%98%86%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20LOVE%2BPLUS_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%91%E3%82%82%E3%81%AE%E9%81%93%E2%98%86%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20LOVE%2BPLUS_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%91%E3%82%82%E3%81%AE%E9%81%93%E2%98%86%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%20LOVE%2BPLUS_Screenshot_5.avif)
 

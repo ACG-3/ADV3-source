@@ -7,7 +7,7 @@ date: 2006-12-22 00:00:00
 
 ## 游戏封面
 
-![ef - a fairy tale of the two.](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-_cover.avif)
+![ef - a fairy tale of the two.](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-_cover.avif)
 
 
 ## 游戏名称
@@ -53,13 +53,13 @@ date: 2006-12-22 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%20-kiss%20on%20my%20deity-_Screenshot_5.avif)
 

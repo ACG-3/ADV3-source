@@ -7,7 +7,7 @@ date: 2012-09-28 00:00:00
 
 ## 游戏封面
 
-![LOVELY QUEST](https://pan.timero.xyz/onedrive/img_lib_001/LOVELY%20QUEST_cover.avif)
+![LOVELY QUEST](https://pan.timero.xyz/d/onedrive/img_lib_001/LOVELY%20QUEST_cover.avif)
 
 
 ## 游戏名称
@@ -49,13 +49,13 @@ date: 2012-09-28 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/LOVELY%20QUEST_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/LOVELY%20QUEST_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/LOVELY%20QUEST_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/LOVELY%20QUEST_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/LOVELY%20QUEST_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/LOVELY%20QUEST_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/LOVELY%20QUEST_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/LOVELY%20QUEST_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/LOVELY%20QUEST_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/LOVELY%20QUEST_Screenshot_5.avif)
 

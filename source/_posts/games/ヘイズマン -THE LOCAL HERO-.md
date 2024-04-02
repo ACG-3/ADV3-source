@@ -7,7 +7,7 @@ date: 2017-09-29 00:00:00
 
 ## 游戏封面
 
-![ヘイズマン -THE LOCAL HERO-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-_cover.avif)
+![ヘイズマン -THE LOCAL HERO-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-_cover.avif)
 
 
 ## 游戏名称
@@ -52,13 +52,13 @@ Shoutarou 每天都要做许多兼职工作，以维持生计。尽管他的徒�
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%98%E3%82%A4%E3%82%BA%E3%83%9E%E3%83%B3%20-THE%20LOCAL%20HERO-_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2022-04-28 00:00:00
 
 ## 游戏封面
 
-![Dreamin' Her -僕は、彼女の夢を見る。-](https://pan.timero.xyz/onedrive/img_lib_001/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-_cover.avif)
+![Dreamin' Her -僕は、彼女の夢を見る。-](https://pan.timero.xyz/d/onedrive/img_lib_001/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-_cover.avif)
 
 
 ## 游戏名称
@@ -84,13 +84,13 @@ date: 2022-04-28 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Dreamin%27%20Her%20-%E5%83%95%E3%81%AF%E3%80%81%E5%BD%BC%E5%A5%B3%E3%81%AE%E5%A4%A2%E3%82%92%E8%A6%8B%E3%82%8B%E3%80%82-_Screenshot_5.avif)
 

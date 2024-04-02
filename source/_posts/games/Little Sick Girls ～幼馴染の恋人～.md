@@ -7,7 +7,7 @@ date: 2019-09-27 00:00:00
 
 ## 游戏封面
 
-![Little Sick Girls ～幼馴染の恋人～](https://pan.timero.xyz/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E_cover.avif)
+![Little Sick Girls ～幼馴染の恋人～](https://pan.timero.xyz/d/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -51,13 +51,13 @@ date: 2019-09-27 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Little%20Sick%20Girls%20%EF%BD%9E%E5%B9%BC%E9%A6%B4%E6%9F%93%E3%81%AE%E6%81%8B%E4%BA%BA%EF%BD%9E_Screenshot_5.avif)
 

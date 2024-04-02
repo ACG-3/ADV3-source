@@ -7,7 +7,7 @@ date: 2006-06-23 00:00:00
 
 ## 游戏封面
 
-![H2O -FOOTPRINTS IN THE SAND-](https://pan.timero.xyz/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_cover.avif)
+![H2O -FOOTPRINTS IN THE SAND-](https://pan.timero.xyz/d/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_cover.avif)
 
 
 ## 游戏名称
@@ -52,13 +52,13 @@ H2O 的故事围绕着失明的初中男生广濑拓马（Takuma Hirose）展开
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_5.avif)
 

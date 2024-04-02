@@ -7,7 +7,7 @@ date: 2022-05-08 00:00:00
 
 ## 游戏封面
 
-![U-ena -遠花火の少女-](https://pan.timero.xyz/onedrive/img_lib_001/U-ena%20-%E9%81%A0%E8%8A%B1%E7%81%AB%E3%81%AE%E5%B0%91%E5%A5%B3-_cover.avif)
+![U-ena -遠花火の少女-](https://pan.timero.xyz/d/onedrive/img_lib_001/U-ena%20-%E9%81%A0%E8%8A%B1%E7%81%AB%E3%81%AE%E5%B0%91%E5%A5%B3-_cover.avif)
 
 
 ## 游戏名称

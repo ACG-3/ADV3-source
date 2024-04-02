@@ -7,7 +7,7 @@ date: 2019-11-29 00:00:00
 
 ## 游戏封面
 
-![どっちのiが好きですか？](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F_cover.avif)
+![どっちのiが好きですか？](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F_cover.avif)
 
 
 ## 游戏名称
@@ -49,13 +49,13 @@ Tadaomi 是 Gouketsukan 私立学校的二年级学生。由于忙于准备明�
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%A9%E3%81%A3%E3%81%A1%E3%81%AEi%E3%81%8C%E5%A5%BD%E3%81%8D%E3%81%A7%E3%81%99%E3%81%8B%EF%BC%9F_Screenshot_5.avif)
 

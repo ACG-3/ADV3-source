@@ -60,13 +60,13 @@ date: 2009-09-18 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/eden%20They%20were%20only%20two%2C%20on%20the%20planet_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/eden%20They%20were%20only%20two%2C%20on%20the%20planet_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/eden%20They%20were%20only%20two%2C%20on%20the%20planet_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/eden%20They%20were%20only%20two%2C%20on%20the%20planet_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/eden%20They%20were%20only%20two%2C%20on%20the%20planet_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/eden%20They%20were%20only%20two%2C%20on%20the%20planet_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/eden%20They%20were%20only%20two%2C%20on%20the%20planet_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/eden%20They%20were%20only%20two%2C%20on%20the%20planet_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/eden%20They%20were%20only%20two%2C%20on%20the%20planet_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/eden%20They%20were%20only%20two%2C%20on%20the%20planet_Screenshot_5.avif)
 

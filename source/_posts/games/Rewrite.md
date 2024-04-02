@@ -7,7 +7,7 @@ date: 2011-06-24 00:00:00
 
 ## 游戏封面
 
-![Rewrite](https://pan.timero.xyz/onedrive/img_lib_001/Rewrite_cover.avif)
+![Rewrite](https://pan.timero.xyz/d/onedrive/img_lib_001/Rewrite_cover.avif)
 
 
 ## 游戏名称
@@ -53,13 +53,13 @@ Tennouji Kotarou 就住在这里。他是一名高中生，拥有改写自己身
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Rewrite_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Rewrite_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Rewrite_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Rewrite_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Rewrite_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Rewrite_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Rewrite_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Rewrite_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Rewrite_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Rewrite_Screenshot_5.avif)
 

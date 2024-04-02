@@ -7,7 +7,7 @@ date: 2020-05-15 00:00:00
 
 ## 游戏封面
 
-![Model Melissa](https://pan.timero.xyz/onedrive/img_lib_001/Model%20Melissa_cover.avif)
+![Model Melissa](https://pan.timero.xyz/d/onedrive/img_lib_001/Model%20Melissa_cover.avif)
 
 
 ## 游戏名称

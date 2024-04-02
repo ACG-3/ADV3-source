@@ -7,7 +7,7 @@ date: 2016-06-24 00:00:00
 
 ## 游戏封面
 
-![箱庭ロジック～瑚子といちゃらぶ！SM生活っ～](https://pan.timero.xyz/onedrive/img_lib_001/%E7%AE%B1%E5%BA%AD%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%EF%BD%9E%E7%91%9A%E5%AD%90%E3%81%A8%E3%81%84%E3%81%A1%E3%82%83%E3%82%89%E3%81%B6%EF%BC%81SM%E7%94%9F%E6%B4%BB%E3%81%A3%EF%BD%9E_cover.avif)
+![箱庭ロジック～瑚子といちゃらぶ！SM生活っ～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%AE%B1%E5%BA%AD%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%EF%BD%9E%E7%91%9A%E5%AD%90%E3%81%A8%E3%81%84%E3%81%A1%E3%82%83%E3%82%89%E3%81%B6%EF%BC%81SM%E7%94%9F%E6%B4%BB%E3%81%A3%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称

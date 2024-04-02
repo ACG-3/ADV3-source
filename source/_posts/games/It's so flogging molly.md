@@ -7,7 +7,7 @@ date: 2004-08-05 00:00:00
 
 ## 游戏封面
 
-![It's so flogging molly](https://pan.timero.xyz/onedrive/img_lib_001/It%27s%20so%20flogging%20molly_cover.avif)
+![It's so flogging molly](https://pan.timero.xyz/d/onedrive/img_lib_001/It%27s%20so%20flogging%20molly_cover.avif)
 
 
 ## 游戏名称

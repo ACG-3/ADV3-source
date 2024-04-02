@@ -7,7 +7,7 @@ date: 2019-03-28 00:00:00
 
 ## 游戏封面
 
-![メモリーズオフ -Innocent Fille- for Dearest](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest_cover.avif)
+![メモリーズオフ -Innocent Fille- for Dearest](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest_cover.avif)
 
 
 ## 游戏名称
@@ -48,13 +48,13 @@ Innocent Fille》中的所有角色都有了圆满的结局，同时也保持了
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-%20for%20Dearest_Screenshot_5.avif)
 

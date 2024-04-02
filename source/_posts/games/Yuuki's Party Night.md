@@ -7,7 +7,7 @@ date: 2020-02-21 00:00:00
 
 ## 游戏封面
 
-![Yuuki's Party Night](https://pan.timero.xyz/onedrive/img_lib_001/Yuuki%27s%20Party%20Night_cover.avif)
+![Yuuki's Party Night](https://pan.timero.xyz/d/onedrive/img_lib_001/Yuuki%27s%20Party%20Night_cover.avif)
 
 
 ## 游戏名称

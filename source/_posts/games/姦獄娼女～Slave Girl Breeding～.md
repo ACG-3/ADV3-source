@@ -7,7 +7,7 @@ date: 2015-10-29 00:00:00
 
 ## 游戏封面
 
-![姦獄娼女～Slave Girl Breeding～](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E_cover.avif)
+![姦獄娼女～Slave Girl Breeding～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -73,13 +73,13 @@ date: 2015-10-29 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A7%A6%E7%8D%84%E5%A8%BC%E5%A5%B3%EF%BD%9ESlave%20Girl%20Breeding%EF%BD%9E_Screenshot_5.avif)
 

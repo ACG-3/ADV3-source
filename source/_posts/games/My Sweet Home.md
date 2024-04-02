@@ -7,7 +7,7 @@ date: 2007-12-14 00:00:00
 
 ## 游戏封面
 
-![Sweet Home～Hなお姉さんは好きですか？～](https://pan.timero.xyz/onedrive/img_lib_001/My%20Sweet%20Home_cover.avif)
+![Sweet Home～Hなお姉さんは好きですか？～](https://pan.timero.xyz/d/onedrive/img_lib_001/My%20Sweet%20Home_cover.avif)
 
 
 ## 游戏名称
@@ -48,13 +48,13 @@ date: 2007-12-14 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/My%20Sweet%20Home_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/My%20Sweet%20Home_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/My%20Sweet%20Home_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/My%20Sweet%20Home_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/My%20Sweet%20Home_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/My%20Sweet%20Home_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/My%20Sweet%20Home_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/My%20Sweet%20Home_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/My%20Sweet%20Home_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/My%20Sweet%20Home_Screenshot_5.avif)
 

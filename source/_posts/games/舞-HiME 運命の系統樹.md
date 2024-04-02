@@ -7,7 +7,7 @@ date: 2005-06-30 00:00:00
 
 ## 游戏封面
 
-![舞-HiME 運命の系統樹](https://pan.timero.xyz/onedrive/img_lib_001/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9_cover.avif)
+![舞-HiME 運命の系統樹](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9_cover.avif)
 
 
 ## 游戏名称
@@ -48,13 +48,13 @@ date: 2005-06-30 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%88%9E-HiME%20%E9%81%8B%E5%91%BD%E3%81%AE%E7%B3%BB%E7%B5%B1%E6%A8%B9_Screenshot_5.avif)
 

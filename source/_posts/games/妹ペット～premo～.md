@@ -7,7 +7,7 @@ date: 2008-12-30 00:00:00
 
 ## 游戏封面
 
-![妹ペット～premo～](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A6%B9%E3%83%9A%E3%83%83%E3%83%88%EF%BD%9Epremo%EF%BD%9E_cover.avif)
+![妹ペット～premo～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A6%B9%E3%83%9A%E3%83%83%E3%83%88%EF%BD%9Epremo%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称

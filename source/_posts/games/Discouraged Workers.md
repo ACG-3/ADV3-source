@@ -7,7 +7,7 @@ date: 2015-09-16 00:00:00
 
 ## 游戏封面
 
-![Silmangsileobja](https://pan.timero.xyz/onedrive/img_lib_001/Discouraged%20Workers_cover.avif)
+![Silmangsileobja](https://pan.timero.xyz/d/onedrive/img_lib_001/Discouraged%20Workers_cover.avif)
 
 
 ## 游戏名称

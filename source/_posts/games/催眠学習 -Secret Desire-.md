@@ -7,7 +7,7 @@ date: 2021-03-26 00:00:00
 
 ## 游戏封面
 
-![催眠学習 -Secret Desire-](https://pan.timero.xyz/onedrive/img_lib_001/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-_cover.avif)
+![催眠学習 -Secret Desire-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-_cover.avif)
 
 
 ## 游戏名称
@@ -60,13 +60,13 @@ date: 2021-03-26 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%82%AC%E7%9C%A0%E5%AD%A6%E7%BF%92%20-Secret%20Desire-_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2003-07-31 00:00:00
 
 ## 游戏封面
 
-![SAKURA～雪月華～](https://pan.timero.xyz/onedrive/img_lib_001/SAKURA%EF%BD%9E%E9%9B%AA%E6%9C%88%E8%8F%AF%EF%BD%9E_cover.avif)
+![SAKURA～雪月華～](https://pan.timero.xyz/d/onedrive/img_lib_001/SAKURA%EF%BD%9E%E9%9B%AA%E6%9C%88%E8%8F%AF%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称

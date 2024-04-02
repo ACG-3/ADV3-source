@@ -7,7 +7,7 @@ date: 2009-10-30 00:00:00
 
 ## 游戏封面
 
-![幼なじみは大統領 My girlfriend is the PRESIDENT.](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT_cover.avif)
+![幼なじみは大統領 My girlfriend is the PRESIDENT.](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT_cover.avif)
 
 
 ## 游戏名称
@@ -53,13 +53,13 @@ date: 2009-10-30 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BC%E3%81%AA%E3%81%98%E3%81%BF%E3%81%AF%E5%A4%A7%E7%B5%B1%E9%A0%98%20My%20girlfriend%20is%20the%20PRESIDENT_Screenshot_5.avif)
 

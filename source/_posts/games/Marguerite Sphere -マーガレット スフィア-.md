@@ -7,7 +7,7 @@ date: 2011-04-22 00:00:00
 
 ## 游戏封面
 
-![Marguerite Sphere -マーガレット スフィア-](https://pan.timero.xyz/onedrive/img_lib_001/Marguerite%20Sphere%20-%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2-_cover.avif)
+![Marguerite Sphere -マーガレット スフィア-](https://pan.timero.xyz/d/onedrive/img_lib_001/Marguerite%20Sphere%20-%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2-_cover.avif)
 
 
 ## 游戏名称
@@ -48,9 +48,9 @@ date: 2011-04-22 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Marguerite%20Sphere%20-%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Marguerite%20Sphere%20-%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Marguerite%20Sphere%20-%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Marguerite%20Sphere%20-%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Marguerite%20Sphere%20-%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Marguerite%20Sphere%20-%E3%83%9E%E3%83%BC%E3%82%AC%E3%83%AC%E3%83%83%E3%83%88%20%E3%82%B9%E3%83%95%E3%82%A3%E3%82%A2-_Screenshot_3.avif)
 

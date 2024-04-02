@@ -7,7 +7,7 @@ date: 2016-04-22 00:00:00
 
 ## 游戏封面
 
-![ナツウソ -Ahead of the reminiscence-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-_cover.avif)
+![ナツウソ -Ahead of the reminiscence-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-_cover.avif)
 
 
 ## 游戏名称
@@ -57,13 +57,13 @@ date: 2016-04-22 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8A%E3%83%84%E3%82%A6%E3%82%BD%20-Ahead%20of%20the%20reminiscence-_Screenshot_5.avif)
 

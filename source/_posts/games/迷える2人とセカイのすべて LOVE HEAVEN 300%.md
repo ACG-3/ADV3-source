@@ -7,7 +7,7 @@ date: 2015-05-29 00:00:00
 
 ## 游戏封面
 
-![迷える2人とセカイのすべて LOVE HEAVEN 300%](https://pan.timero.xyz/onedrive/img_lib_001/%E8%BF%B7%E3%81%88%E3%82%8B2%E4%BA%BA%E3%81%A8%E3%82%BB%E3%82%AB%E3%82%A4%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%20LOVE%20HEAVEN%20300%25_cover.avif)
+![迷える2人とセカイのすべて LOVE HEAVEN 300%](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%BF%B7%E3%81%88%E3%82%8B2%E4%BA%BA%E3%81%A8%E3%82%BB%E3%82%AB%E3%82%A4%E3%81%AE%E3%81%99%E3%81%B9%E3%81%A6%20LOVE%20HEAVEN%20300%25_cover.avif)
 
 
 ## 游戏名称

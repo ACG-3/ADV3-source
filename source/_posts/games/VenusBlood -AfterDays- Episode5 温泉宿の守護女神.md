@@ -7,7 +7,7 @@ date: 2020-10-23 00:00:00
 
 ## 游戏封面
 
-![VenusBlood -AfterDays- Episode:5 温泉宿の守護女神](https://pan.timero.xyz/onedrive/img_lib_001/VenusBlood%20-AfterDays-%20Episode5%20%E6%B8%A9%E6%B3%89%E5%AE%BF%E3%81%AE%E5%AE%88%E8%AD%B7%E5%A5%B3%E7%A5%9E_cover.avif)
+![VenusBlood -AfterDays- Episode:5 温泉宿の守護女神](https://pan.timero.xyz/d/onedrive/img_lib_001/VenusBlood%20-AfterDays-%20Episode5%20%E6%B8%A9%E6%B3%89%E5%AE%BF%E3%81%AE%E5%AE%88%E8%AD%B7%E5%A5%B3%E7%A5%9E_cover.avif)
 
 
 ## 游戏名称

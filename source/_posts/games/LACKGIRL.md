@@ -7,7 +7,7 @@ date: 2022-12-31 00:00:00
 
 ## 游戏封面
 
-![LACKGIRL](https://pan.timero.xyz/onedrive/img_lib_001/LACKGIRL_cover.avif)
+![LACKGIRL](https://pan.timero.xyz/d/onedrive/img_lib_001/LACKGIRL_cover.avif)
 
 
 ## 游戏名称

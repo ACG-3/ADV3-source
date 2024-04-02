@@ -7,7 +7,7 @@ date: 2014-05-09 00:00:00
 
 ## 游戏封面
 
-![TS魔法少女なお!](https://pan.timero.xyz/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21_cover.avif)
+![TS魔法少女なお!](https://pan.timero.xyz/d/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21_cover.avif)
 
 
 ## 游戏名称
@@ -54,13 +54,13 @@ date: 2014-05-09 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/TS%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E3%81%AA%E3%81%8A%21_Screenshot_5.avif)
 

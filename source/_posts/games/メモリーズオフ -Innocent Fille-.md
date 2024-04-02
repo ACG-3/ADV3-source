@@ -7,7 +7,7 @@ date: 2018-03-29 00:00:00
 
 ## 游戏封面
 
-![メモリーズオフ -Innocent Fille-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_cover.avif)
+![メモリーズオフ -Innocent Fille-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_cover.avif)
 
 
 ## 游戏名称
@@ -53,9 +53,9 @@ date: 2018-03-29 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_Screenshot_3.avif)
 

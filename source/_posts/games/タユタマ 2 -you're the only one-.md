@@ -7,7 +7,7 @@ date: 2016-09-23 00:00:00
 
 ## 游戏封面
 
-![タユタマ 2 -you're the only one-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-_cover.avif)
+![タユタマ 2 -you're the only one-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-_cover.avif)
 
 
 ## 游戏名称
@@ -60,13 +60,13 @@ date: 2016-09-23 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BF%E3%83%A6%E3%82%BF%E3%83%9E%202%20-you%27re%20the%20only%20one-_Screenshot_5.avif)
 

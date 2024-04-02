@@ -7,7 +7,7 @@ date: 2014-06-27 00:00:00
 
 ## 游戏封面
 
-![レミニセンス Re:Collect](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect_cover.avif)
+![レミニセンス Re:Collect](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect_cover.avif)
 
 
 ## 游戏名称
@@ -53,13 +53,13 @@ date: 2014-06-27 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%AC%E3%83%9F%E3%83%8B%E3%82%BB%E3%83%B3%E3%82%B9%20ReCollect_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2015-08-16 00:00:00
 
 ## 游戏封面
 
-![ファタモルガーナの館 -Another Episodes-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-_cover.avif)
+![ファタモルガーナの館 -Another Episodes-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-_cover.avif)
 
 
 ## 游戏名称
@@ -60,13 +60,13 @@ date: 2015-08-16 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%95%E3%82%A1%E3%82%BF%E3%83%A2%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%8A%E3%81%AE%E9%A4%A8%20-Another%20Episodes-_Screenshot_5.avif)
 

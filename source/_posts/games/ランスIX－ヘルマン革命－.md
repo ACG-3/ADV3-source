@@ -7,7 +7,7 @@ date: 2014-04-25 00:00:00
 
 ## 游戏封面
 
-![ランスIX－ヘルマン革命－](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D_cover.avif)
+![ランスIX－ヘルマン革命－](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D_cover.avif)
 
 
 ## 游戏名称
@@ -56,13 +56,13 @@ date: 2014-04-25 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A9%E3%83%B3%E3%82%B9IX%EF%BC%8D%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E9%9D%A9%E5%91%BD%EF%BC%8D_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2012-04-27 00:00:00
 
 ## 游戏封面
 
-![ものべの](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-_cover.avif)
+![ものべの](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-_cover.avif)
 
 
 ## 游戏名称
@@ -53,13 +53,13 @@ date: 2012-04-27 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%82%E3%81%AE%E3%81%B9%E3%81%AE%20-happy%20end-_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2015-06-26 00:00:00
 
 ## 游戏封面
 
-![Angel Beats! -1st beat-](https://pan.timero.xyz/onedrive/img_lib_001/Angel%20Beats%21%20-1st%20beat-_cover.avif)
+![Angel Beats! -1st beat-](https://pan.timero.xyz/d/onedrive/img_lib_001/Angel%20Beats%21%20-1st%20beat-_cover.avif)
 
 
 ## 游戏名称
@@ -56,13 +56,13 @@ Angel Beats! 是 Key、Dengeki G's 和 Aniplex 的合作项目。
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Angel%20Beats%21%20-1st%20beat-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Angel%20Beats%21%20-1st%20beat-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Angel%20Beats%21%20-1st%20beat-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Angel%20Beats%21%20-1st%20beat-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Angel%20Beats%21%20-1st%20beat-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Angel%20Beats%21%20-1st%20beat-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Angel%20Beats%21%20-1st%20beat-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Angel%20Beats%21%20-1st%20beat-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Angel%20Beats%21%20-1st%20beat-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Angel%20Beats%21%20-1st%20beat-_Screenshot_5.avif)
 

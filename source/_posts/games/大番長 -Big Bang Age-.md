@@ -7,7 +7,7 @@ date: 2003-12-19 00:00:00
 
 ## 游戏封面
 
-![大番長 -Big Bang Age-](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-_cover.avif)
+![大番長 -Big Bang Age-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-_cover.avif)
 
 
 ## 游戏名称
@@ -57,13 +57,13 @@ date: 2003-12-19 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A7%E7%95%AA%E9%95%B7%20-Big%20Bang%20Age-_Screenshot_5.avif)
 

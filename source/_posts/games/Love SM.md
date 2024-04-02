@@ -7,7 +7,7 @@ date: 2000-10-06 00:00:00
 
 ## 游戏封面
 
-![プリズム・ハート](https://pan.timero.xyz/onedrive/img_lib_001/Love%20SM_cover.avif)
+![プリズム・ハート](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%20SM_cover.avif)
 
 
 ## 游戏名称

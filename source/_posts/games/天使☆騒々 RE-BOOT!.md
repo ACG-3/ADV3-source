@@ -7,7 +7,7 @@ date: 2023-04-28 00:00:00
 
 ## 游戏封面
 
-![天使☆騒々 RE-BOOT!](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_cover.avif)
+![天使☆騒々 RE-BOOT!](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_cover.avif)
 
 
 ## 游戏名称
@@ -69,13 +69,13 @@ date: 2023-04-28 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_5.avif)
 

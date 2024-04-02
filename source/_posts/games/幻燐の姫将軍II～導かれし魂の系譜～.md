@@ -7,7 +7,7 @@ date: 2003-12-19 00:00:00
 
 ## 游戏封面
 
-![幻燐の姫将軍II～導かれし魂の系譜～](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E_cover.avif)
+![幻燐の姫将軍II～導かれし魂の系譜～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -55,13 +55,13 @@ date: 2003-12-19 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B9%BB%E7%87%90%E3%81%AE%E5%A7%AB%E5%B0%86%E8%BB%8DII%EF%BD%9E%E5%B0%8E%E3%81%8B%E3%82%8C%E3%81%97%E9%AD%82%E3%81%AE%E7%B3%BB%E8%AD%9C%EF%BD%9E_Screenshot_5.avif)
 

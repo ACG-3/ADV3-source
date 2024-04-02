@@ -7,7 +7,7 @@ date: 2018-03-30 00:00:00
 
 ## 游戏封面
 
-![ゾンビのあふれた世界で俺だけが襲われない vol.2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.2_cover.avif)
+![ゾンビのあふれた世界で俺だけが襲われない vol.2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.2_cover.avif)
 
 
 ## 游戏名称
@@ -50,13 +50,13 @@ date: 2018-03-30 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.2_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.2_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.2_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.2_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.2_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.2_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.2_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.2_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.2_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BE%E3%83%B3%E3%83%93%E3%81%AE%E3%81%82%E3%81%B5%E3%82%8C%E3%81%9F%E4%B8%96%E7%95%8C%E3%81%A7%E4%BF%BA%E3%81%A0%E3%81%91%E3%81%8C%E8%A5%B2%E3%82%8F%E3%82%8C%E3%81%AA%E3%81%84%20vol.2_Screenshot_5.avif)
 

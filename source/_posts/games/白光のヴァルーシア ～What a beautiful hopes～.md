@@ -7,7 +7,7 @@ date: 2009-11-20 00:00:00
 
 ## 游戏封面
 
-![白光のヴァルーシア ～What a beautiful hopes～](https://pan.timero.xyz/onedrive/img_lib_001/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E_cover.avif)
+![白光のヴァルーシア ～What a beautiful hopes～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -58,13 +58,13 @@ date: 2009-11-20 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%99%BD%E5%85%89%E3%81%AE%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%BC%E3%82%B7%E3%82%A2%20%EF%BD%9EWhat%20a%20beautiful%20hopes%EF%BD%9E_Screenshot_5.avif)
 

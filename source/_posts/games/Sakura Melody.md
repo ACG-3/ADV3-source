@@ -7,7 +7,7 @@ date: 2022-10-24 00:00:00
 
 ## 游戏封面
 
-![Sakura Melody](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Melody_cover.avif)
+![Sakura Melody](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Melody_cover.avif)
 
 
 ## 游戏名称

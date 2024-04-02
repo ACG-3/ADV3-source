@@ -7,7 +7,7 @@ date: 2021-12-18 00:00:00
 
 ## 游戏封面
 
-![日陰の日葵 - sun in the shade](https://pan.timero.xyz/onedrive/img_lib_001/%E6%97%A5%E9%99%B0%E3%81%AE%E6%97%A5%E8%91%B5%20-%20sun%20in%20the%20shade_cover.avif)
+![日陰の日葵 - sun in the shade](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%97%A5%E9%99%B0%E3%81%AE%E6%97%A5%E8%91%B5%20-%20sun%20in%20the%20shade_cover.avif)
 
 
 ## 游戏名称

@@ -7,7 +7,7 @@ date: 2016-06-22 00:00:00
 
 ## 游戏封面
 
-![Miraeui Yeochinnimi Naege Insareul Geonnewatda](https://pan.timero.xyz/onedrive/img_lib_001/Miraeui%20Yeochinnimi%20Naege%20Insareul%20Geonnewatda_cover.avif)
+![Miraeui Yeochinnimi Naege Insareul Geonnewatda](https://pan.timero.xyz/d/onedrive/img_lib_001/Miraeui%20Yeochinnimi%20Naege%20Insareul%20Geonnewatda_cover.avif)
 
 
 ## 游戏名称
@@ -52,9 +52,9 @@ date: 2016-06-22 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Miraeui%20Yeochinnimi%20Naege%20Insareul%20Geonnewatda_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Miraeui%20Yeochinnimi%20Naege%20Insareul%20Geonnewatda_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Miraeui%20Yeochinnimi%20Naege%20Insareul%20Geonnewatda_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Miraeui%20Yeochinnimi%20Naege%20Insareul%20Geonnewatda_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Miraeui%20Yeochinnimi%20Naege%20Insareul%20Geonnewatda_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Miraeui%20Yeochinnimi%20Naege%20Insareul%20Geonnewatda_Screenshot_3.avif)
 

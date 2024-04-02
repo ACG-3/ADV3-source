@@ -7,7 +7,7 @@ date: 2010-04-23 00:00:00
 
 ## 游戏封面
 
-![戦女神VERITA](https://pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA_cover.avif)
+![戦女神VERITA](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA_cover.avif)
 
 
 ## 游戏名称
@@ -53,13 +53,13 @@ date: 2010-04-23 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%88%A6%E5%A5%B3%E7%A5%9EVERITA_Screenshot_5.avif)
 

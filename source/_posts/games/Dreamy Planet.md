@@ -7,7 +7,7 @@ date: 2022-09-15 00:00:00
 
 ## 游戏封面
 
-![Dreamy Planet](https://pan.timero.xyz/onedrive/img_lib_001/Dreamy%20Planet_cover.avif)
+![Dreamy Planet](https://pan.timero.xyz/d/onedrive/img_lib_001/Dreamy%20Planet_cover.avif)
 
 
 ## 游戏名称

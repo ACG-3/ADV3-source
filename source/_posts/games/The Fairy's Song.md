@@ -7,7 +7,7 @@ date: 2020-08-07 00:00:00
 
 ## 游戏封面
 
-![The Fairy's Song](https://pan.timero.xyz/onedrive/img_lib_001/The%20Fairy%27s%20Song_cover.avif)
+![The Fairy's Song](https://pan.timero.xyz/d/onedrive/img_lib_001/The%20Fairy%27s%20Song_cover.avif)
 
 
 ## 游戏名称

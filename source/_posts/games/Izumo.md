@@ -7,7 +7,7 @@ date: 2001-12-21 00:00:00
 
 ## 游戏封面
 
-![Izumo](https://pan.timero.xyz/onedrive/img_lib_001/Izumo_cover.avif)
+![Izumo](https://pan.timero.xyz/d/onedrive/img_lib_001/Izumo_cover.avif)
 
 
 ## 游戏名称

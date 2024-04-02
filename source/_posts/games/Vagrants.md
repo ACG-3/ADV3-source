@@ -7,7 +7,7 @@ date: 2003-12-26 00:00:00
 
 ## 游戏封面
 
-![Vagrants](https://pan.timero.xyz/onedrive/img_lib_001/Vagrants_cover.avif)
+![Vagrants](https://pan.timero.xyz/d/onedrive/img_lib_001/Vagrants_cover.avif)
 
 
 ## 游戏名称

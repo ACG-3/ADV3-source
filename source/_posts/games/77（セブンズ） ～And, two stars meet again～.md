@@ -7,7 +7,7 @@ date: 2009-07-31 00:00:00
 
 ## 游戏封面
 
-![77（セブンズ） ～And, two stars meet again～](https://pan.timero.xyz/onedrive/img_lib_001/77%EF%BC%88%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA%EF%BC%89%20%EF%BD%9EAnd%2C%20two%20stars%20meet%20again%EF%BD%9E_cover.avif)
+![77（セブンズ） ～And, two stars meet again～](https://pan.timero.xyz/d/onedrive/img_lib_001/77%EF%BC%88%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA%EF%BC%89%20%EF%BD%9EAnd%2C%20two%20stars%20meet%20again%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -52,13 +52,13 @@ date: 2009-07-31 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/77%EF%BC%88%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA%EF%BC%89%20%EF%BD%9EAnd%2C%20two%20stars%20meet%20again%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/77%EF%BC%88%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA%EF%BC%89%20%EF%BD%9EAnd%2C%20two%20stars%20meet%20again%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/77%EF%BC%88%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA%EF%BC%89%20%EF%BD%9EAnd%2C%20two%20stars%20meet%20again%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/77%EF%BC%88%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA%EF%BC%89%20%EF%BD%9EAnd%2C%20two%20stars%20meet%20again%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/77%EF%BC%88%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA%EF%BC%89%20%EF%BD%9EAnd%2C%20two%20stars%20meet%20again%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/77%EF%BC%88%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA%EF%BC%89%20%EF%BD%9EAnd%2C%20two%20stars%20meet%20again%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/77%EF%BC%88%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA%EF%BC%89%20%EF%BD%9EAnd%2C%20two%20stars%20meet%20again%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/77%EF%BC%88%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA%EF%BC%89%20%EF%BD%9EAnd%2C%20two%20stars%20meet%20again%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/77%EF%BC%88%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA%EF%BC%89%20%EF%BD%9EAnd%2C%20two%20stars%20meet%20again%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/77%EF%BC%88%E3%82%BB%E3%83%96%E3%83%B3%E3%82%BA%EF%BC%89%20%EF%BD%9EAnd%2C%20two%20stars%20meet%20again%EF%BD%9E_Screenshot_5.avif)
 

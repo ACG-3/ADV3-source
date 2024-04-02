@@ -7,7 +7,7 @@ date: 2016-01-29 00:00:00
 
 ## 游戏封面
 
-![凍京NECRO＜トウキョウ・ネクロ＞](https://pan.timero.xyz/onedrive/img_lib_001/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E_cover.avif)
+![凍京NECRO＜トウキョウ・ネクロ＞](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E_cover.avif)
 
 
 ## 游戏名称
@@ -59,13 +59,13 @@ Nemo ante mortem beatus.
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%87%8D%E4%BA%ACNECRO%EF%BC%9C%E3%83%88%E3%82%A6%E3%82%AD%E3%83%A7%E3%82%A6%E3%83%BB%E3%83%8D%E3%82%AF%E3%83%AD%EF%BC%9E_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2017-02-24 00:00:00
 
 ## 游戏封面
 
-![しゅがてん！-sugarfull tempering-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-_cover.avif)
+![しゅがてん！-sugarfull tempering-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-_cover.avif)
 
 
 ## 游戏名称
@@ -56,13 +56,13 @@ date: 2017-02-24 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%97%E3%82%85%E3%81%8C%E3%81%A6%E3%82%93%EF%BC%81-sugarfull%20tempering-_Screenshot_5.avif)
 

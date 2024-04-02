@@ -7,7 +7,7 @@ date: 2006-12-31 00:00:00
 
 ## 游戏封面
 
-![夢見る銀貨](https://pan.timero.xyz/onedrive/img_lib_001/GINKA_cover.avif)
+![夢見る銀貨](https://pan.timero.xyz/d/onedrive/img_lib_001/GINKA_cover.avif)
 
 
 ## 游戏名称

@@ -7,7 +7,7 @@ date: 2023-06-23 00:00:00
 
 ## 游戏封面
 
-![ましろ色シンフォニー SANA EDITION](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%BE%E3%81%97%E3%82%8D%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%20SANA%20EDITION_cover.avif)
+![ましろ色シンフォニー SANA EDITION](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%BE%E3%81%97%E3%82%8D%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%20SANA%20EDITION_cover.avif)
 
 
 ## 游戏名称
@@ -58,13 +58,13 @@ Inui Sana 是一位无法承认自己感情的少女。
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%BE%E3%81%97%E3%82%8D%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%20SANA%20EDITION_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%BE%E3%81%97%E3%82%8D%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%20SANA%20EDITION_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%BE%E3%81%97%E3%82%8D%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%20SANA%20EDITION_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%BE%E3%81%97%E3%82%8D%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%20SANA%20EDITION_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%BE%E3%81%97%E3%82%8D%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%20SANA%20EDITION_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%BE%E3%81%97%E3%82%8D%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%20SANA%20EDITION_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%BE%E3%81%97%E3%82%8D%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%20SANA%20EDITION_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%BE%E3%81%97%E3%82%8D%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%20SANA%20EDITION_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%BE%E3%81%97%E3%82%8D%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%20SANA%20EDITION_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%BE%E3%81%97%E3%82%8D%E8%89%B2%E3%82%B7%E3%83%B3%E3%83%95%E3%82%A9%E3%83%8B%E3%83%BC%20SANA%20EDITION_Screenshot_5.avif)
 

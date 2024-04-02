@@ -7,7 +7,7 @@ date: 2016-12-21 00:00:00
 
 ## 游戏封面
 
-![Rewrite オカ研活動記録外伝](https://pan.timero.xyz/onedrive/img_lib_001/Rewrite%20%E8%B6%85%E8%87%AA%E7%A0%94%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95%E5%A4%96%E4%BC%A0%20%E5%90%8E%E7%AF%87_cover.avif)
+![Rewrite オカ研活動記録外伝](https://pan.timero.xyz/d/onedrive/img_lib_001/Rewrite%20%E8%B6%85%E8%87%AA%E7%A0%94%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95%E5%A4%96%E4%BC%A0%20%E5%90%8E%E7%AF%87_cover.avif)
 
 
 ## 游戏名称
@@ -47,13 +47,13 @@ date: 2016-12-21 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Rewrite%20%E8%B6%85%E8%87%AA%E7%A0%94%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95%E5%A4%96%E4%BC%A0%20%E5%90%8E%E7%AF%87_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Rewrite%20%E8%B6%85%E8%87%AA%E7%A0%94%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95%E5%A4%96%E4%BC%A0%20%E5%90%8E%E7%AF%87_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Rewrite%20%E8%B6%85%E8%87%AA%E7%A0%94%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95%E5%A4%96%E4%BC%A0%20%E5%90%8E%E7%AF%87_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Rewrite%20%E8%B6%85%E8%87%AA%E7%A0%94%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95%E5%A4%96%E4%BC%A0%20%E5%90%8E%E7%AF%87_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Rewrite%20%E8%B6%85%E8%87%AA%E7%A0%94%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95%E5%A4%96%E4%BC%A0%20%E5%90%8E%E7%AF%87_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Rewrite%20%E8%B6%85%E8%87%AA%E7%A0%94%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95%E5%A4%96%E4%BC%A0%20%E5%90%8E%E7%AF%87_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Rewrite%20%E8%B6%85%E8%87%AA%E7%A0%94%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95%E5%A4%96%E4%BC%A0%20%E5%90%8E%E7%AF%87_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Rewrite%20%E8%B6%85%E8%87%AA%E7%A0%94%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95%E5%A4%96%E4%BC%A0%20%E5%90%8E%E7%AF%87_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Rewrite%20%E8%B6%85%E8%87%AA%E7%A0%94%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95%E5%A4%96%E4%BC%A0%20%E5%90%8E%E7%AF%87_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Rewrite%20%E8%B6%85%E8%87%AA%E7%A0%94%E6%B4%BB%E5%8A%A8%E8%AE%B0%E5%BD%95%E5%A4%96%E4%BC%A0%20%E5%90%8E%E7%AF%87_Screenshot_5.avif)
 

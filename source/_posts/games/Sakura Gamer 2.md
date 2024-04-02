@@ -7,7 +7,7 @@ date: 2019-12-12 00:00:00
 
 ## 游戏封面
 
-![Sakura Gamer 2](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Gamer%202_cover.avif)
+![Sakura Gamer 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Gamer%202_cover.avif)
 
 
 ## 游戏名称

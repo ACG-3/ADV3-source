@@ -7,7 +7,7 @@ date: 2019-10-10 00:00:00
 
 ## 游戏封面
 
-![King of Halloween](https://pan.timero.xyz/onedrive/img_lib_001/King%20of%20Halloween_cover.avif)
+![King of Halloween](https://pan.timero.xyz/d/onedrive/img_lib_001/King%20of%20Halloween_cover.avif)
 
 
 ## 游戏名称

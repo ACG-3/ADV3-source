@@ -7,7 +7,7 @@ date: 2008-01-18 00:00:00
 
 ## 游戏封面
 
-![エンジェルアソートVol.05](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%88Vol.05_cover.avif)
+![エンジェルアソートVol.05](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%88Vol.05_cover.avif)
 
 
 ## 游戏名称

@@ -7,7 +7,7 @@ date: 2012-04-27 00:00:00
 
 ## 游戏封面
 
-![星空へ架かる橋AA](https://pan.timero.xyz/onedrive/img_lib_001/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA_cover.avif)
+![星空へ架かる橋AA](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA_cover.avif)
 
 
 ## 游戏名称
@@ -49,13 +49,13 @@ Hoshikaka 的番号，包含 6 位女主角的故事之后，以及新女主角 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%98%9F%E7%A9%BA%E3%81%B8%E6%9E%B6%E3%81%8B%E3%82%8B%E6%A9%8BAA_Screenshot_5.avif)
 

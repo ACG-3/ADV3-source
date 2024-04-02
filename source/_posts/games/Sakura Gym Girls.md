@@ -7,7 +7,7 @@ date: 2022-12-19 00:00:00
 
 ## 游戏封面
 
-![Sakura Gym Girls](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Gym%20Girls_cover.avif)
+![Sakura Gym Girls](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Gym%20Girls_cover.avif)
 
 
 ## 游戏名称

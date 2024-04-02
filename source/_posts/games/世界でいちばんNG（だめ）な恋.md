@@ -7,7 +7,7 @@ date: 2007-11-22 00:00:00
 
 ## 游戏封面
 
-![世界でいちばんNG（だめ）な恋](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_cover.avif)
+![世界でいちばんNG（だめ）な恋](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_cover.avif)
 
 
 ## 游戏名称
@@ -54,13 +54,13 @@ date: 2007-11-22 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2018-05-25 00:00:00
 
 ## 游戏封面
 
-![Love×Holic ～魅惑の乙女と白濁カンケイ～](https://pan.timero.xyz/onedrive/img_lib_001/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E_cover.avif)
+![Love×Holic ～魅惑の乙女と白濁カンケイ～](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -52,13 +52,13 @@ date: 2018-05-25 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Love%C3%97Holic%20%EF%BD%9E%E9%AD%85%E6%83%91%E3%81%AE%E4%B9%99%E5%A5%B3%E3%81%A8%E7%99%BD%E6%BF%81%E3%82%AB%E3%83%B3%E3%82%B1%E3%82%A4%EF%BD%9E_Screenshot_5.avif)
 

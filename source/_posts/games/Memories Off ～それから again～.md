@@ -7,7 +7,7 @@ date: 2006-03-23 00:00:00
 
 ## 游戏封面
 
-![Memories Off ～それから again～](https://pan.timero.xyz/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E_cover.avif)
+![Memories Off ～それから again～](https://pan.timero.xyz/d/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -50,13 +50,13 @@ date: 2006-03-23 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%20again%EF%BD%9E_Screenshot_5.avif)
 

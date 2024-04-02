@@ -7,7 +7,7 @@ date: 2011-10-28 00:00:00
 
 ## 游戏封面
 
-![STEINS;GATE 変移空間のオクテット](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88_cover.avif)
+![STEINS;GATE 変移空間のオクテット](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88_cover.avif)
 
 
 ## 游戏名称
@@ -49,13 +49,13 @@ date: 2011-10-28 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS%3BGATE%20%E5%A4%89%E7%A7%BB%E7%A9%BA%E9%96%93%E3%81%AE%E3%82%AA%E3%82%AF%E3%83%86%E3%83%83%E3%83%88_Screenshot_5.avif)
 

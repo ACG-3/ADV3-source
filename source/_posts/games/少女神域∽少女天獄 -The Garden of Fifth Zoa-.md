@@ -7,7 +7,7 @@ date: 2013-04-26 00:00:00
 
 ## 游戏封面
 
-![少女神域∽少女天獄 -The Garden of Fifth Zoa-](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-_cover.avif)
+![少女神域∽少女天獄 -The Garden of Fifth Zoa-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-_cover.avif)
 
 
 ## 游戏名称
@@ -52,13 +52,13 @@ date: 2013-04-26 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%B0%91%E5%A5%B3%E7%A5%9E%E5%9F%9F%E2%88%BD%E5%B0%91%E5%A5%B3%E5%A4%A9%E7%8D%84%20-The%20Garden%20of%20Fifth%20Zoa-_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2011-10-30 00:00:00
 
 ## 游戏封面
 
-![NOeSIS～嘘を吐いた記憶の物語～](https://pan.timero.xyz/onedrive/img_lib_001/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E_cover.avif)
+![NOeSIS～嘘を吐いた記憶の物語～](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -60,13 +60,13 @@ date: 2011-10-30 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS%EF%BD%9E%E5%98%98%E3%82%92%E5%90%90%E3%81%84%E3%81%9F%E8%A8%98%E6%86%B6%E3%81%AE%E7%89%A9%E8%AA%9E%EF%BD%9E_Screenshot_5.avif)
 

@@ -6,7 +6,7 @@ date: 2009-03-27
 
 ## 游戏封面
 
-![BALDR SKY Dive1 "Lost Memory"](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_cover.avif)
+![BALDR SKY Dive1 "Lost Memory"](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_cover.avif)
 
 
 ## 游戏名称
@@ -54,13 +54,13 @@ date: 2009-03-27
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_5.avif)
 

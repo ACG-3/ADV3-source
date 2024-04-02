@@ -7,7 +7,7 @@ date: 2004-02-26 00:00:00
 
 ## 游戏封面
 
-![てんたま 2wins](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins_cover.avif)
+![てんたま 2wins](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins_cover.avif)
 
 
 ## 游戏名称
@@ -51,13 +51,13 @@ date: 2004-02-26 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%A6%E3%82%93%E3%81%9F%E3%81%BE%202wins_Screenshot_5.avif)
 

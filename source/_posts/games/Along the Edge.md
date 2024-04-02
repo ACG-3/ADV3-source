@@ -7,7 +7,7 @@ date: 2016-06-14 00:00:00
 
 ## 游戏封面
 
-![Along the Edge](https://pan.timero.xyz/onedrive/img_lib_001/Along%20the%20Edge_cover.avif)
+![Along the Edge](https://pan.timero.xyz/d/onedrive/img_lib_001/Along%20the%20Edge_cover.avif)
 
 
 ## 游戏名称
@@ -54,13 +54,13 @@ Along the Edge》是一部以欧洲乡村为背景的交互式图画小说，你
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Along%20the%20Edge_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Along%20the%20Edge_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Along%20the%20Edge_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Along%20the%20Edge_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Along%20the%20Edge_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Along%20the%20Edge_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Along%20the%20Edge_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Along%20the%20Edge_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Along%20the%20Edge_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Along%20the%20Edge_Screenshot_5.avif)
 

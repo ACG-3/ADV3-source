@@ -7,7 +7,7 @@ date: 2023-02-06 00:00:00
 
 ## 游戏封面
 
-![The Fairy's Secret](https://pan.timero.xyz/onedrive/img_lib_001/The%20Fairy%27s%20Secret_cover.avif)
+![The Fairy's Secret](https://pan.timero.xyz/d/onedrive/img_lib_001/The%20Fairy%27s%20Secret_cover.avif)
 
 
 ## 游戏名称

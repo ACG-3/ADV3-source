@@ -7,7 +7,7 @@ date: 2021-11-05 00:00:00
 
 ## 游戏封面
 
-![The Oath of The Dark Magic Queen](https://pan.timero.xyz/onedrive/img_lib_001/The%20Oath%20of%20The%20Dark%20Magic%20Queen_cover.avif)
+![The Oath of The Dark Magic Queen](https://pan.timero.xyz/d/onedrive/img_lib_001/The%20Oath%20of%20The%20Dark%20Magic%20Queen_cover.avif)
 
 
 ## 游戏名称

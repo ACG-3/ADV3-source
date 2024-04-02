@@ -7,7 +7,7 @@ date: 2023-02-17 00:00:00
 
 ## 游戏封面
 
-![Selene ~Apoptosis~](https://pan.timero.xyz/onedrive/img_lib_001/Selene%20~Apoptosis~_cover.avif)
+![Selene ~Apoptosis~](https://pan.timero.xyz/d/onedrive/img_lib_001/Selene%20~Apoptosis~_cover.avif)
 
 
 ## 游戏名称
@@ -54,13 +54,13 @@ Selene ~Apoptosis~ 是一部免费的神秘惊悚视觉小说，充满了黑暗�
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Selene%20~Apoptosis~_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Selene%20~Apoptosis~_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Selene%20~Apoptosis~_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Selene%20~Apoptosis~_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Selene%20~Apoptosis~_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Selene%20~Apoptosis~_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Selene%20~Apoptosis~_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Selene%20~Apoptosis~_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Selene%20~Apoptosis~_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Selene%20~Apoptosis~_Screenshot_5.avif)
 

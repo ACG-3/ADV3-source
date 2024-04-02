@@ -7,7 +7,7 @@ date: 2013-04-04 00:00:00
 
 ## 游戏封面
 
-![Dysfunctional Systems Episode 1: Learning to Manage Chaos](https://pan.timero.xyz/onedrive/img_lib_001/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos_cover.avif)
+![Dysfunctional Systems Episode 1: Learning to Manage Chaos](https://pan.timero.xyz/d/onedrive/img_lib_001/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos_cover.avif)
 
 
 ## 游戏名称
@@ -47,13 +47,13 @@ Dysfunctional Systems》是一部记录温特-哈里森（Winter Harrison）生�
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Dysfunctional%20Systems%20Episode%201%20Learning%20to%20Manage%20Chaos_Screenshot_5.avif)
 

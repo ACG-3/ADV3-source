@@ -7,7 +7,7 @@ date: 2015-10-30 00:00:00
 
 ## 游戏封面
 
-![PRIMAL×HEARTS2](https://pan.timero.xyz/onedrive/img_lib_001/PRIMAL%C3%97HEARTS2_cover.avif)
+![PRIMAL×HEARTS2](https://pan.timero.xyz/d/onedrive/img_lib_001/PRIMAL%C3%97HEARTS2_cover.avif)
 
 
 ## 游戏名称
@@ -64,11 +64,11 @@ Gekka 副校长 Mashiro："我希望体育生和文科生能和睦相处"。
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/PRIMAL%C3%97HEARTS2_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/PRIMAL%C3%97HEARTS2_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/PRIMAL%C3%97HEARTS2_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/PRIMAL%C3%97HEARTS2_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/PRIMAL%C3%97HEARTS2_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/PRIMAL%C3%97HEARTS2_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/PRIMAL%C3%97HEARTS2_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/PRIMAL%C3%97HEARTS2_Screenshot_4.avif)
 

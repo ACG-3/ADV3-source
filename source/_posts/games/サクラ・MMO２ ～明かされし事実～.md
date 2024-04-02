@@ -7,7 +7,7 @@ date: 2019-01-25 00:00:00
 
 ## 游戏封面
 
-![サクラ・MMO２ ～明かされし事実～](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%BBMMO%EF%BC%92%20%EF%BD%9E%E6%98%8E%E3%81%8B%E3%81%95%E3%82%8C%E3%81%97%E4%BA%8B%E5%AE%9F%EF%BD%9E_cover.avif)
+![サクラ・MMO２ ～明かされし事実～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B5%E3%82%AF%E3%83%A9%E3%83%BBMMO%EF%BC%92%20%EF%BD%9E%E6%98%8E%E3%81%8B%E3%81%95%E3%82%8C%E3%81%97%E4%BA%8B%E5%AE%9F%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称

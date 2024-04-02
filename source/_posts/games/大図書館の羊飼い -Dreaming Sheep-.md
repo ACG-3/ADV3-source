@@ -7,7 +7,7 @@ date: 2014-03-28 00:00:00
 
 ## 游戏封面
 
-![大図書館の羊飼い -Dreaming Sheep-](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-_cover.avif)
+![大図書館の羊飼い -Dreaming Sheep-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-_cover.avif)
 
 
 ## 游戏名称
@@ -50,13 +50,13 @@ date: 2014-03-28 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A4%A7%E5%9B%B3%E6%9B%B8%E9%A4%A8%E3%81%AE%E7%BE%8A%E9%A3%BC%E3%81%84%20-Dreaming%20Sheep-_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2013-04-24 00:00:00
 
 ## 游戏封面
 
-![D.M.L.C.-デスマッチラブコメ-](https://pan.timero.xyz/onedrive/img_lib_001/D.M.L.C.-%E3%83%87%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1-_cover.avif)
+![D.M.L.C.-デスマッチラブコメ-](https://pan.timero.xyz/d/onedrive/img_lib_001/D.M.L.C.-%E3%83%87%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1-_cover.avif)
 
 
 ## 游戏名称
@@ -57,13 +57,13 @@ date: 2013-04-24 00:00:00
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/D.M.L.C.-%E3%83%87%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/D.M.L.C.-%E3%83%87%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/D.M.L.C.-%E3%83%87%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/D.M.L.C.-%E3%83%87%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/D.M.L.C.-%E3%83%87%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/D.M.L.C.-%E3%83%87%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/D.M.L.C.-%E3%83%87%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/D.M.L.C.-%E3%83%87%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/D.M.L.C.-%E3%83%87%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/D.M.L.C.-%E3%83%87%E3%82%B9%E3%83%9E%E3%83%83%E3%83%81%E3%83%A9%E3%83%96%E3%82%B3%E3%83%A1-_Screenshot_5.avif)
 

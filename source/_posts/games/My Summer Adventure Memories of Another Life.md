@@ -7,7 +7,7 @@ date: 2023-05-04 00:00:00
 
 ## 游戏封面
 
-![My Summer Adventure: Memories of Another Life](https://pan.timero.xyz/onedrive/img_lib_001/My%20Summer%20Adventure%20Memories%20of%20Another%20Life_cover.avif)
+![My Summer Adventure: Memories of Another Life](https://pan.timero.xyz/d/onedrive/img_lib_001/My%20Summer%20Adventure%20Memories%20of%20Another%20Life_cover.avif)
 
 
 ## 游戏名称
