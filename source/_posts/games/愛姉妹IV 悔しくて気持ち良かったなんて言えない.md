@@ -7,7 +7,7 @@ date: 2014-05-30 00:00:00
 
 ## 游戏封面
 
-![愛姉妹IV 悔しくて気持ち良かったなんて言えない](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84_cover.avif)
+![愛姉妹IV 悔しくて気持ち良かったなんて言えない](https://pan.timero.xyz/onedrive/img_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84_cover.avif)
 
 
 ## 游戏名称
@@ -40,19 +40,22 @@ date: 2014-05-30 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E6%84%9B%E5%A7%89%E5%A6%B9IV%20%E6%82%94%E3%81%97%E3%81%8F%E3%81%A6%E6%B0%97%E6%8C%81%E3%81%A1%E8%89%AF%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AA%E3%82%93%E3%81%A6%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84_Screenshot_5.avif)
 

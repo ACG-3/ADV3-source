@@ -7,7 +7,7 @@ date: 2004-03-25 00:00:00
 
 ## 游戏封面
 
-![ステディ×スタディ](https://pan.timero.xyz/d/onedrive/img_lib_001/Study%20Steady_cover.avif)
+![ステディ×スタディ](https://pan.timero.xyz/onedrive/img_lib_001/Study%20Steady_cover.avif)
 
 
 ## 游戏名称
@@ -41,7 +41,10 @@ Steady X Study》使用了 "ASV"（周围搜索视图）系统，让你可以观
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Study%20Steady)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Study%20Steady)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

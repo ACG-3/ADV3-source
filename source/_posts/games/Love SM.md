@@ -7,7 +7,7 @@ date: 2000-10-06 00:00:00
 
 ## 游戏封面
 
-![プリズム・ハート](https%3A//pan.timero.xyz/onedrive/img_lib_001/Love%20SM_cover.avif)
+![プリズム・ハート](https://pan.timero.xyz/onedrive/img_lib_001/Love%20SM_cover.avif)
 
 
 ## 游戏名称
@@ -39,7 +39,10 @@ date: 2000-10-06 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Love%20SM)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Love%20SM)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

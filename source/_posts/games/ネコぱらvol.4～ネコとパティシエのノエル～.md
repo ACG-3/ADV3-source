@@ -7,7 +7,7 @@ date: 2020-11-26 00:00:00
 
 ## 游戏封面
 
-![ネコぱらvol.4～ネコとパティシエのノエル～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_cover.avif)
+![ネコぱらvol.4～ネコとパティシエのノエル～](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -44,26 +44,29 @@ date: 2020-11-26 00:00:00
 
 在法国还遇到了一个新的猫女......
 
-这个故事是一部温馨的猫咪喜剧，讲述了卡修通过猫伙伴们所经历的成长，以及与它们和家人之间的羁绊
+这个故事是一部温馨的猫咪喜剧，讲述了卡修通过猫伙伴们所经历的成长，以及与猫伙伴和家人之间的羁绊...
 
 
 
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89vol.4%EF%BD%9E%E3%83%8D%E3%82%B3%E3%81%A8%E3%83%91%E3%83%86%E3%82%A3%E3%82%B7%E3%82%A8%E3%81%AE%E3%83%8E%E3%82%A8%E3%83%AB%EF%BD%9E_Screenshot_5.avif)
 

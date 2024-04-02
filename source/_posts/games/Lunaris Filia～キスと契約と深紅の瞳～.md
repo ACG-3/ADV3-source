@@ -7,7 +7,7 @@ date: 2011-09-30 00:00:00
 
 ## 游戏封面
 
-![Lunaris Filia～キスと契約と深紅の瞳～](https%3A//pan.timero.xyz/onedrive/img_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E_cover.avif)
+![Lunaris Filia～キスと契約と深紅の瞳～](https://pan.timero.xyz/onedrive/img_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -43,19 +43,22 @@ date: 2011-09-30 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Lunaris%20Filia%EF%BD%9E%E3%82%AD%E3%82%B9%E3%81%A8%E5%A5%91%E7%B4%84%E3%81%A8%E6%B7%B1%E7%B4%85%E3%81%AE%E7%9E%B3%EF%BD%9E_Screenshot_5.avif)
 

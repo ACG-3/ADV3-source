@@ -7,7 +7,7 @@ date: 2014-11-28 00:00:00
 
 ## 游戏封面
 
-![VenusBlood -HYPNO-](https://pan.timero.xyz/d/onedrive/img_lib_001/VenusBlood%20-HYPNO-_cover.avif)
+![VenusBlood -HYPNO-](https://pan.timero.xyz/onedrive/img_lib_001/VenusBlood%20-HYPNO-_cover.avif)
 
 
 ## 游戏名称
@@ -26,10 +26,10 @@ date: 2014-11-28 00:00:00
 - 发售日期：2014-11-28
 - 游戏平台：win
 - 相关作品：
-   - 世界观：ヴィーナスブラッド・ガイア
    - 外传：VenusBlood -AfterDays- Episode:3 業炎の花嫁
    - 外传：VenusBlood -AfterDays- Episode:4 竜の歌姫
    - 外传：VenusBlood DarkChronicle Episode:1 堕ちた竜姉妹
+   - 世界观：ヴィーナスブラッド・ガイア
 
 - 相关链接：[vndb](https://vndb.org/v15641)
 
@@ -49,19 +49,22 @@ date: 2014-11-28 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/VenusBlood%20-HYPNO-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/VenusBlood%20-HYPNO-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/VenusBlood%20-HYPNO-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/VenusBlood%20-HYPNO-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/VenusBlood%20-HYPNO-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/VenusBlood%20-HYPNO-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/VenusBlood%20-HYPNO-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/VenusBlood%20-HYPNO-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/VenusBlood%20-HYPNO-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/VenusBlood%20-HYPNO-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/VenusBlood%20-HYPNO-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/VenusBlood%20-HYPNO-_Screenshot_5.avif)
 

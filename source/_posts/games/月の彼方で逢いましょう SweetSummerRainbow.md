@@ -7,7 +7,7 @@ date: 2020-05-29 00:00:00
 
 ## 游戏封面
 
-![月の彼方で逢いましょう SweetSummerRainbow](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow_cover.avif)
+![月の彼方で逢いましょう SweetSummerRainbow](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow_cover.avif)
 
 
 ## 游戏名称
@@ -58,19 +58,22 @@ date: 2020-05-29 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%88%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%A7%E9%80%A2%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20SweetSummerRainbow_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2000-02-25 00:00:00
 
 ## 游戏封面
 
-![Phantom -PHANTOM OF INFERNO-](https://pan.timero.xyz/d/onedrive/img_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-_cover.avif)
+![Phantom -PHANTOM OF INFERNO-](https://pan.timero.xyz/onedrive/img_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-_cover.avif)
 
 
 ## 游戏名称
@@ -26,8 +26,8 @@ date: 2000-02-25 00:00:00
 - 发售日期：2000-02-25
 - 游戏平台：win, mac, dvd, ps2, xb3, web
 - 相关作品：
-   - 角色：ちよれんお宝ディスク Vol.1 ～我等ちよれんの為に～
    - 角色：月下の鎮魂歌
+   - 角色：ちよれんお宝ディスク Vol.1 ～我等ちよれんの為に～
 
 - 相关链接：[vndb](https://vndb.org/v45)
 
@@ -41,19 +41,22 @@ date: 2000-02-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Phantom%20-PHANTOM%20OF%20INFERNO-_Screenshot_5.avif)
 

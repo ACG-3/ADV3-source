@@ -7,7 +7,7 @@ date: 2002-11-01 00:00:00
 
 ## 游戏封面
 
-![BALDR FORCE](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20FORCE_cover.avif)
+![BALDR FORCE](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20FORCE_cover.avif)
 
 
 ## 游戏名称
@@ -21,7 +21,7 @@ date: 2002-11-01 00:00:00
 
 ## 游戏信息
 
-- 时长：31.25 h
+- 时长：30.83 h
 - 开发者：Team Baldrhead
 - 发售日期：2002-11-01
 - 游戏平台：win, ps2, drc
@@ -45,19 +45,22 @@ date: 2002-11-01 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/BALDR%20FORCE)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/BALDR%20FORCE)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20FORCE_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20FORCE_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20FORCE_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20FORCE_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20FORCE_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20FORCE_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20FORCE_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20FORCE_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20FORCE_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20FORCE_Screenshot_5.avif)
 

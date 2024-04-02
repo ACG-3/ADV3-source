@@ -7,7 +7,7 @@ date: 2019-03-22 00:00:00
 
 ## 游戏封面
 
-![Echo Tokyo: Phoenix](https://pan.timero.xyz/d/onedrive/img_lib_001/Echo%20Tokyo%20Phoenix_cover.avif)
+![Echo Tokyo: Phoenix](https://pan.timero.xyz/onedrive/img_lib_001/Echo%20Tokyo%20Phoenix_cover.avif)
 
 
 ## 游戏名称
@@ -43,7 +43,10 @@ date: 2019-03-22 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Echo%20Tokyo%20Phoenix)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Echo%20Tokyo%20Phoenix)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

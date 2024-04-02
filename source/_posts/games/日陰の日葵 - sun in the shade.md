@@ -1,12 +1,13 @@
 ---
-title: "日陰の日葵 - sun in the shade"
-date: 2021-12-18
+title: 日陰の日葵 - sun in the shade
+abbrlink: ba08e31
+date: 2021-12-18 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%97%A5%E9%99%B0%E3%81%AE%E6%97%A5%E8%91%B5%20-%20sun%20in%20the%20shade.md)
 
 ## 游戏封面
 
-![日陰の日葵 - sun in the shade](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%97%A5%E9%99%B0%E3%81%AE%E6%97%A5%E8%91%B5%20-%20sun%20in%20the%20shade_cover.avif)
+![日陰の日葵 - sun in the shade](https://pan.timero.xyz/onedrive/img_lib_001/%E6%97%A5%E9%99%B0%E3%81%AE%E6%97%A5%E8%91%B5%20-%20sun%20in%20the%20shade_cover.avif)
 
 
 ## 游戏名称
@@ -38,7 +39,10 @@ date: 2021-12-18
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%97%A5%E9%99%B0%E3%81%AE%E6%97%A5%E8%91%B5%20-%20sun%20in%20the%20shade)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%97%A5%E9%99%B0%E3%81%AE%E6%97%A5%E8%91%B5%20-%20sun%20in%20the%20shade)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

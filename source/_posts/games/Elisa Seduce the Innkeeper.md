@@ -7,7 +7,7 @@ date: 2017-06-20 00:00:00
 
 ## 游戏封面
 
-![Elisa: The Innkeeper - A New Customer Arrives!](https://pan.timero.xyz/d/onedrive/img_lib_001/Elisa%20Seduce%20the%20Innkeeper_cover.avif)
+![Elisa: The Innkeeper - A New Customer Arrives!](https://pan.timero.xyz/onedrive/img_lib_001/Elisa%20Seduce%20the%20Innkeeper_cover.avif)
 
 
 ## 游戏名称
@@ -43,19 +43,22 @@ date: 2017-06-20 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Elisa%20Seduce%20the%20Innkeeper)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Elisa%20Seduce%20the%20Innkeeper)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Elisa%20Seduce%20the%20Innkeeper_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Elisa%20Seduce%20the%20Innkeeper_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Elisa%20Seduce%20the%20Innkeeper_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Elisa%20Seduce%20the%20Innkeeper_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Elisa%20Seduce%20the%20Innkeeper_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Elisa%20Seduce%20the%20Innkeeper_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Elisa%20Seduce%20the%20Innkeeper_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Elisa%20Seduce%20the%20Innkeeper_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Elisa%20Seduce%20the%20Innkeeper_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Elisa%20Seduce%20the%20Innkeeper_Screenshot_5.avif)
 

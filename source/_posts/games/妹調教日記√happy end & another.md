@@ -7,7 +7,7 @@ date: 2013-08-11 00:00:00
 
 ## 游戏封面
 
-![妹調教日記√happy end & another](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A6%B9%E8%AA%BF%E6%95%99%E6%97%A5%E8%A8%98%E2%88%9Ahappy%20end%20&%20another_cover.avif)
+![妹調教日記√happy end & another](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A6%B9%E8%AA%BF%E6%95%99%E6%97%A5%E8%A8%98%E2%88%9Ahappy%20end%20%26%20another_cover.avif)
 
 
 ## 游戏名称
@@ -33,12 +33,15 @@ date: 2013-08-11 00:00:00
 
 ## 游戏简介
 
-Imouto Choukyou Nikki ~Konna Tsundere ga Ore no Imouto na Wakenai!~ 的 Fandisk，在 Comiket 84 上发布
+Imouto Choukyou Nikki ~Konna Tsundere ga Ore no Imouto na Wakenai!~ 的 Fandisk，在 Comiket 84 上发布。
 
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A6%B9%E8%AA%BF%E6%95%99%E6%97%A5%E8%A8%98%E2%88%9Ahappy%20end%20%26%20another)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A6%B9%E8%AA%BF%E6%95%99%E6%97%A5%E8%A8%98%E2%88%9Ahappy%20end%20%26%20another)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

@@ -7,7 +7,7 @@ date: 2009-08-14 00:00:00
 
 ## 游戏封面
 
-![姉♥Summer!2 ～ねえ♥さま～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A7%89%E2%99%A5Summer!2%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E_cover.avif)
+![姉♥Summer!2 ～ねえ♥さま～](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A7%89%E2%99%A5Summer%212%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -40,19 +40,22 @@ date: 2009-08-14 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A7%89%E2%99%A5Summer%212%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A7%89%E2%99%A5Summer%212%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A7%89%E2%99%A5Summer!2%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A7%89%E2%99%A5Summer%212%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A7%89%E2%99%A5Summer!2%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A7%89%E2%99%A5Summer%212%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A7%89%E2%99%A5Summer!2%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A7%89%E2%99%A5Summer%212%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A7%89%E2%99%A5Summer!2%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A7%89%E2%99%A5Summer%212%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%A7%89%E2%99%A5Summer!2%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A7%89%E2%99%A5Summer%212%20%EF%BD%9E%E3%81%AD%E3%81%88%E2%99%A5%E3%81%95%E3%81%BE%EF%BD%9E_Screenshot_5.avif)
 

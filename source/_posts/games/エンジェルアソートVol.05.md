@@ -7,7 +7,7 @@ date: 2008-01-18 00:00:00
 
 ## 游戏封面
 
-![エンジェルアソートVol.05](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%88Vol.05_cover.avif)
+![エンジェルアソートVol.05](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%88Vol.05_cover.avif)
 
 
 ## 游戏名称
@@ -26,9 +26,9 @@ date: 2008-01-18 00:00:00
 - 发售日期：2008-01-18
 - 游戏平台：win
 - 相关作品：
+   - 世界观：エンジェルアソートVol.04
    - 原作：ソルフェージュ
    - 原作：パレドゥレーヌ
-   - 世界观：エンジェルアソートVol.04
 
 - 相关链接：[vndb](https://vndb.org/v47948)
 
@@ -40,7 +40,10 @@ date: 2008-01-18 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%88Vol.05)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%88Vol.05)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

@@ -7,7 +7,7 @@ date: 2022-04-08 00:00:00
 
 ## 游戏封面
 
-![ウチのペット事情 Vol.1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1_cover.avif)
+![ウチのペット事情 Vol.1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1_cover.avif)
 
 
 ## 游戏名称
@@ -21,7 +21,7 @@ date: 2022-04-08 00:00:00
 
 ## 游戏信息
 
-- 时长：5.43 h
+- 时长：5.48 h
 - 开发者：Animal Herb
 - 发售日期：2022-04-08
 - 游戏平台：win
@@ -41,19 +41,22 @@ date: 2022-04-08 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A6%E3%83%81%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E4%BA%8B%E6%83%85%20Vol.1_Screenshot_5.avif)
 

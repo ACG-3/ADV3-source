@@ -7,7 +7,7 @@ date: 2002-04-05 00:00:00
 
 ## 游戏封面
 
-![Ripple～ブルーシールへようこそっ～](https%3A//pan.timero.xyz/onedrive/img_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E_cover.avif)
+![Ripple～ブルーシールへようこそっ～](https://pan.timero.xyz/onedrive/img_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -40,19 +40,22 @@ date: 2002-04-05 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Ripple%EF%BD%9E%E3%83%96%E3%83%AB%E3%83%BC%E3%82%B7%E3%83%BC%E3%83%AB%E3%81%B8%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%E3%81%A3%EF%BD%9E_Screenshot_5.avif)
 

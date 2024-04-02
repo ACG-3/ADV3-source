@@ -7,7 +7,7 @@ date: 2003-12-26 00:00:00
 
 ## 游戏封面
 
-![Vagrants](https%3A//pan.timero.xyz/onedrive/img_lib_001/Vagrants_cover.avif)
+![Vagrants](https://pan.timero.xyz/onedrive/img_lib_001/Vagrants_cover.avif)
 
 
 ## 游戏名称
@@ -45,7 +45,10 @@ date: 2003-12-26 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Vagrants)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Vagrants)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

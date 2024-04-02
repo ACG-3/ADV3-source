@@ -7,7 +7,7 @@ date: 2000-03-23 00:00:00
 
 ## 游戏封面
 
-![Never7 -the end of infinity-](https://pan.timero.xyz/d/onedrive/img_lib_001/Never7%20-the%20end%20of%20infinity-_cover.avif)
+![Never7 -the end of infinity-](https://pan.timero.xyz/onedrive/img_lib_001/Never7%20-the%20end%20of%20infinity-_cover.avif)
 
 
 ## 游戏名称
@@ -26,11 +26,11 @@ date: 2000-03-23 00:00:00
 - 发售日期：2000-03-23
 - 游戏平台：win, lin, mac, ios, and, psp, ps1, ps2, drc, swi, vnd, oth
 - 相关作品：
-   - 世界观：Ever17 -the out of infinity-
-   - 系列：メモリーズオフ
+   - 变体：Never7 - Kurumi Cure
    - 角色：メモリーズオフ -フェスタ-
    - 角色：KIDミックスセクション キャラクターコレクション
-   - 变体：Never7 - Kurumi Cure
+   - 世界观：Ever17 -the out of infinity-
+   - 系列：メモリーズオフ
 
 - 相关链接：[vndb](https://vndb.org/v248)
 
@@ -44,19 +44,22 @@ date: 2000-03-23 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Never7%20-the%20end%20of%20infinity-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Never7%20-the%20end%20of%20infinity-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Never7%20-the%20end%20of%20infinity-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Never7%20-the%20end%20of%20infinity-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Never7%20-the%20end%20of%20infinity-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Never7%20-the%20end%20of%20infinity-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Never7%20-the%20end%20of%20infinity-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Never7%20-the%20end%20of%20infinity-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Never7%20-the%20end%20of%20infinity-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Never7%20-the%20end%20of%20infinity-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Never7%20-the%20end%20of%20infinity-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Never7%20-the%20end%20of%20infinity-_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2019-02-22 00:00:00
 
 ## 游戏封面
 
-![はぴねす！2 Sakura Celebration](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration_cover.avif)
+![はぴねす！2 Sakura Celebration](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration_cover.avif)
 
 
 ## 游戏名称
@@ -26,8 +26,8 @@ date: 2019-02-22 00:00:00
 - 发售日期：2019-02-22
 - 游戏平台：win, swi
 - 相关作品：
-   - 系列：はぴねす！
    - 系列：ウィッチズガーデン
+   - 系列：はぴねす！
    - 外传：はぴねす！2 りらっくす
 
 - 相关链接：[vndb](https://vndb.org/v22013)
@@ -62,19 +62,22 @@ date: 2019-02-22 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%AF%E3%81%B4%E3%81%AD%E3%81%99%EF%BC%812%20Sakura%20Celebration_Screenshot_5.avif)
 

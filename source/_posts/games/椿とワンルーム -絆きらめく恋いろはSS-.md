@@ -7,7 +7,7 @@ date: 2020-07-31 00:00:00
 
 ## 游戏封面
 
-![椿とワンルーム -絆きらめく恋いろはSS-](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-_cover.avif)
+![椿とワンルーム -絆きらめく恋いろはSS-](https://pan.timero.xyz/onedrive/img_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-_cover.avif)
 
 
 ## 游戏名称
@@ -41,19 +41,22 @@ date: 2020-07-31 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E6%A4%BF%E3%81%A8%E3%83%AF%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%A0%20-%E7%B5%86%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E6%81%8B%E3%81%84%E3%82%8D%E3%81%AFSS-_Screenshot_5.avif)
 

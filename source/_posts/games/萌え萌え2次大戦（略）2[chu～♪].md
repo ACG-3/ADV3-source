@@ -7,7 +7,7 @@ date: 2009-09-25 00:00:00
 
 ## 游戏封面
 
-![萌え萌え2次大戦（略）2[chu～♪]](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%90%8C%E3%81%88%E8%90%8C%E3%81%882%E6%AC%A1%E5%A4%A7%E6%88%A6%EF%BC%88%E7%95%A5%EF%BC%892%5Bchu%EF%BD%9E%E2%99%AA%5D_cover.avif)
+![萌え萌え2次大戦（略）2[chu～♪]](None)
 
 
 ## 游戏名称
@@ -39,7 +39,10 @@ date: 2009-09-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E8%90%8C%E3%81%88%E8%90%8C%E3%81%882%E6%AC%A1%E5%A4%A7%E6%88%A6%EF%BC%88%E7%95%A5%EF%BC%892%5Bchu%EF%BD%9E%E2%99%AA%5D)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E8%90%8C%E3%81%88%E8%90%8C%E3%81%882%E6%AC%A1%E5%A4%A7%E6%88%A6%EF%BC%88%E7%95%A5%EF%BC%892%5Bchu%EF%BD%9E%E2%99%AA%5D)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

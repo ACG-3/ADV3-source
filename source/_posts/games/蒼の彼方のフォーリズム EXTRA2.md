@@ -1,12 +1,13 @@
 ---
-title: "蒼の彼方のフォーリズム EXTRA2"
-date: 2022-05-27
+title: 蒼の彼方のフォーリズム EXTRA2
+abbrlink: 1d79f63b
+date: 2022-05-27 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2.md)
 
 ## 游戏封面
 
-![蒼の彼方のフォーリズム EXTRA2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2_cover.avif)
+![蒼の彼方のフォーリズム EXTRA2](https://pan.timero.xyz/onedrive/img_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2_cover.avif)
 
 
 ## 游戏名称
@@ -44,19 +45,22 @@ date: 2022-05-27
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E8%92%BC%E3%81%AE%E5%BD%BC%E6%96%B9%E3%81%AE%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0%20EXTRA2_Screenshot_5.avif)
 

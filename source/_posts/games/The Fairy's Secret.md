@@ -1,12 +1,13 @@
 ---
-title: "The Fairy's Secret"
-date: 2023-02-06
+title: The Fairy's Secret
+abbrlink: 347ce23c
+date: 2023-02-06 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/The%20Fairy%27s%20Secret.md)
 
 ## 游戏封面
 
-![The Fairy's Secret](https%3A//pan.timero.xyz/onedrive/img_lib_001/The%20Fairy%27s%20Secret_cover.avif)
+![The Fairy's Secret](https://pan.timero.xyz/onedrive/img_lib_001/The%20Fairy%27s%20Secret_cover.avif)
 
 
 ## 游戏名称
@@ -52,7 +53,10 @@ date: 2023-02-06
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/The%20Fairy%27s%20Secret)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/The%20Fairy%27s%20Secret)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

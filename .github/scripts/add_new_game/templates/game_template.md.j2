@@ -36,12 +36,14 @@ date: {{ game_release_date }}
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/{{ game_title_url }})
+- 稳定链接
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/{{ game_title_url }})
+        - 解压密码：ADV!
 
-其它链接：
-- [{{ download_platform }}]({{ download_link }})
-    {% if download_password %}- 密码：{{ download_password }}{% endif %}
-    {% if unpack_password %}- 解压密码：{{ unpack_password }}{% endif %}
+- 其它链接：
+    - [{{ download_platform }}]({{ download_link }})
+        {% if download_password %}- 访问密码：{{ download_password }}{% endif %}
+        {% if unpack_password %}- 解压密码：{{ unpack_password }}{% endif %}
 
 
 ## 游戏截图

@@ -7,7 +7,7 @@ date: 2019-04-26 00:00:00
 
 ## 游戏封面
 
-![9-nine-はるいろはるこいはるのかぜ](https%3A//pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C_cover.avif)
+![9-nine-はるいろはるこいはるのかぜ](https://pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C_cover.avif)
 
 
 ## 游戏名称
@@ -43,19 +43,22 @@ Kakeru 和他的同学 Miyako 以及 imouto Sora 调查了石化事件，发现�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%AF%E3%82%8B%E3%81%84%E3%82%8D%E3%81%AF%E3%82%8B%E3%81%93%E3%81%84%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%8B%E3%81%9C_Screenshot_5.avif)
 

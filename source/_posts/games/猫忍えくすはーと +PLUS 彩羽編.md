@@ -7,7 +7,7 @@ date: 2017-11-17 00:00:00
 
 ## 游戏封面
 
-![猫忍えくすはーと +PLUS 彩羽編](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20+PLUS%20%E5%BD%A9%E7%BE%BD%E7%B7%A8_cover.avif)
+![猫忍えくすはーと +PLUS 彩羽編](https://pan.timero.xyz/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20%2BPLUS%20%E5%BD%A9%E7%BE%BD%E7%B7%A8_cover.avif)
 
 
 ## 游戏名称
@@ -21,7 +21,7 @@ date: 2017-11-17 00:00:00
 
 ## 游戏信息
 
-- 时长：1.53 h
+- 时长：1.5 h
 - 开发者：Whirlpool
 - 发售日期：2017-11-17
 - 游戏平台：win
@@ -47,17 +47,20 @@ date: 2017-11-17 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20%2BPLUS%20%E5%BD%A9%E7%BE%BD%E7%B7%A8)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20%2BPLUS%20%E5%BD%A9%E7%BE%BD%E7%B7%A8)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20+PLUS%20%E5%BD%A9%E7%BE%BD%E7%B7%A8_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20%2BPLUS%20%E5%BD%A9%E7%BE%BD%E7%B7%A8_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20+PLUS%20%E5%BD%A9%E7%BE%BD%E7%B7%A8_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20%2BPLUS%20%E5%BD%A9%E7%BE%BD%E7%B7%A8_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20+PLUS%20%E5%BD%A9%E7%BE%BD%E7%B7%A8_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20%2BPLUS%20%E5%BD%A9%E7%BE%BD%E7%B7%A8_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20+PLUS%20%E5%BD%A9%E7%BE%BD%E7%B7%A8_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E7%8C%AB%E5%BF%8D%E3%81%88%E3%81%8F%E3%81%99%E3%81%AF%E3%83%BC%E3%81%A8%20%2BPLUS%20%E5%BD%A9%E7%BE%BD%E7%B7%A8_Screenshot_4.avif)
 

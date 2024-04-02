@@ -7,7 +7,7 @@ date: 2017-11-23 00:00:00
 
 ## 游戏封面
 
-![NOeSIS 歌う影の戯曲](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS%20%E6%AD%8C%E3%81%86%E5%BD%B1%E3%81%AE%E6%88%AF%E6%9B%B2_cover.avif)
+![NOeSIS 歌う影の戯曲](https://pan.timero.xyz/onedrive/img_lib_001/NOeSIS%20%E6%AD%8C%E3%81%86%E5%BD%B1%E3%81%AE%E6%88%AF%E6%9B%B2_cover.avif)
 
 
 ## 游戏名称
@@ -39,7 +39,10 @@ NOeSIS UKA 的延续
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/NOeSIS%20%E6%AD%8C%E3%81%86%E5%BD%B1%E3%81%AE%E6%88%AF%E6%9B%B2)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/NOeSIS%20%E6%AD%8C%E3%81%86%E5%BD%B1%E3%81%AE%E6%88%AF%E6%9B%B2)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

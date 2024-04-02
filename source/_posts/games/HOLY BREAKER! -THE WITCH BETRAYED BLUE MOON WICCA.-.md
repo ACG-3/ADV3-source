@@ -7,7 +7,7 @@ date: 2014-12-28 00:00:00
 
 ## 游戏封面
 
-![HOLY BREAKER! -THE WITCH BETRAYED BLUE MOON WICCA.-](https://pan.timero.xyz/d/onedrive/img_lib_001/HOLY%20BREAKER!%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-_cover.avif)
+![HOLY BREAKER! -THE WITCH BETRAYED BLUE MOON WICCA.-](https://pan.timero.xyz/onedrive/img_lib_001/HOLY%20BREAKER%21%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-_cover.avif)
 
 
 ## 游戏名称
@@ -40,19 +40,22 @@ date: 2014-12-28 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/HOLY%20BREAKER%21%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/HOLY%20BREAKER%21%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/HOLY%20BREAKER!%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/HOLY%20BREAKER%21%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/HOLY%20BREAKER!%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/HOLY%20BREAKER%21%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/HOLY%20BREAKER!%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/HOLY%20BREAKER%21%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/HOLY%20BREAKER!%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/HOLY%20BREAKER%21%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/HOLY%20BREAKER!%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/HOLY%20BREAKER%21%20-THE%20WITCH%20BETRAYED%20BLUE%20MOON%20WICCA.-_Screenshot_5.avif)
 

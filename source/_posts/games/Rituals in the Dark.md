@@ -1,12 +1,13 @@
 ---
-title: "Rituals in the Dark"
-date: 2019-11-20
+title: Rituals in the Dark
+abbrlink: eaa8fb0e
+date: 2019-11-20 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Rituals%20in%20the%20Dark.md)
 
 ## 游戏封面
 
-![Rituals in the Dark](https%3A//pan.timero.xyz/onedrive/img_lib_001/Rituals%20in%20the%20Dark_cover.avif)
+![Rituals in the Dark](https://pan.timero.xyz/onedrive/img_lib_001/Rituals%20in%20the%20Dark_cover.avif)
 
 
 ## 游戏名称
@@ -20,7 +21,7 @@ date: 2019-11-20
 
 ## 游戏信息
 
-- 时长：3.63 h
+- 时长：3.67 h
 - 开发者：ebi-hime
 - 发售日期：2019-11-20
 - 游戏平台：win, lin, mac, and
@@ -44,19 +45,22 @@ date: 2019-11-20
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Rituals%20in%20the%20Dark)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Rituals%20in%20the%20Dark)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/Rituals%20in%20the%20Dark_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Rituals%20in%20the%20Dark_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/Rituals%20in%20the%20Dark_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Rituals%20in%20the%20Dark_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/Rituals%20in%20the%20Dark_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Rituals%20in%20the%20Dark_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/Rituals%20in%20the%20Dark_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Rituals%20in%20the%20Dark_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/Rituals%20in%20the%20Dark_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Rituals%20in%20the%20Dark_Screenshot_5.avif)
 

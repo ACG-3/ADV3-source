@@ -7,7 +7,7 @@ date: 2016-07-25 00:00:00
 
 ## 游戏封面
 
-![Just Deserts](https%3A//pan.timero.xyz/onedrive/img_lib_001/Just%20Deserts_cover.avif)
+![Just Deserts](https://pan.timero.xyz/onedrive/img_lib_001/Just%20Deserts_cover.avif)
 
 
 ## 游戏名称
@@ -39,19 +39,22 @@ Just Deserts》是一款科幻动作约会模拟游戏，在游戏中，你将�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Just%20Deserts)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Just%20Deserts)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/Just%20Deserts_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Just%20Deserts_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/Just%20Deserts_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Just%20Deserts_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/Just%20Deserts_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Just%20Deserts_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/Just%20Deserts_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Just%20Deserts_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/Just%20Deserts_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Just%20Deserts_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2009-05-29 00:00:00
 
 ## 游戏封面
 
-![天神乱漫 LUCKY or UNLUCKY!?](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21_cover.avif)
+![天神乱漫 LUCKY or UNLUCKY!?](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21_cover.avif)
 
 
 ## 游戏名称
@@ -42,19 +42,22 @@ date: 2009-05-29 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E7%A5%9E%E4%B9%B1%E6%BC%AB%20LUCKY%20or%20UNLUCKY%21_Screenshot_5.avif)
 

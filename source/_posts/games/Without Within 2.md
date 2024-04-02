@@ -7,7 +7,7 @@ date: 2015-11-09 00:00:00
 
 ## 游戏封面
 
-![Without Within 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Without%20Within%202_cover.avif)
+![Without Within 2](https://pan.timero.xyz/onedrive/img_lib_001/Without%20Within%202_cover.avif)
 
 
 ## 游戏名称
@@ -41,15 +41,18 @@ Vinty 正在墨尔本参加一个书法活动。她终于可以见到世界著�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Without%20Within%202)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Without%20Within%202)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Without%20Within%202_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Without%20Within%202_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Without%20Within%202_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Without%20Within%202_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Without%20Within%202_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Without%20Within%202_Screenshot_3.avif)
 

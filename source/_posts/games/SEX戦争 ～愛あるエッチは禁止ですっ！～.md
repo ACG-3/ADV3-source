@@ -7,7 +7,7 @@ date: 2012-08-31 00:00:00
 
 ## 游戏封面
 
-![SEX戦争 ～愛あるエッチは禁止ですっ！～](None)
+![SEX戦争 ～愛あるエッチは禁止ですっ！～](https://pan.timero.xyz/onedrive/img_lib_001/SEX%E6%88%A6%E4%BA%89%20%EF%BD%9E%E6%84%9B%E3%81%82%E3%82%8B%E3%82%A8%E3%83%83%E3%83%81%E3%81%AF%E7%A6%81%E6%AD%A2%E3%81%A7%E3%81%99%E3%81%A3%EF%BC%81%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -45,7 +45,10 @@ date: 2012-08-31 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/SEX%E6%88%A6%E4%BA%89%20%EF%BD%9E%E6%84%9B%E3%81%82%E3%82%8B%E3%82%A8%E3%83%83%E3%83%81%E3%81%AF%E7%A6%81%E6%AD%A2%E3%81%A7%E3%81%99%E3%81%A3%EF%BC%81%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/SEX%E6%88%A6%E4%BA%89%20%EF%BD%9E%E6%84%9B%E3%81%82%E3%82%8B%E3%82%A8%E3%83%83%E3%83%81%E3%81%AF%E7%A6%81%E6%AD%A2%E3%81%A7%E3%81%99%E3%81%A3%EF%BC%81%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

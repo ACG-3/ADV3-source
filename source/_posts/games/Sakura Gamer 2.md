@@ -7,7 +7,7 @@ date: 2019-12-12 00:00:00
 
 ## 游戏封面
 
-![Sakura Gamer 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Gamer%202_cover.avif)
+![Sakura Gamer 2](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Gamer%202_cover.avif)
 
 
 ## 游戏名称
@@ -48,7 +48,10 @@ date: 2019-12-12 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Sakura%20Gamer%202)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Sakura%20Gamer%202)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

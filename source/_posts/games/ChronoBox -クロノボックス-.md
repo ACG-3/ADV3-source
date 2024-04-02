@@ -7,7 +7,7 @@ date: 2017-05-26 00:00:00
 
 ## 游戏封面
 
-![ChronoBox -クロノボックス-](https%3A//pan.timero.xyz/onedrive/img_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-_cover.avif)
+![ChronoBox -クロノボックス-](https://pan.timero.xyz/onedrive/img_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-_cover.avif)
 
 
 ## 游戏名称
@@ -44,19 +44,22 @@ Nayuta 是在一个名为 "天使岛 "的孤岛上参加 "EDEN "的众多学生�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/ChronoBox%20-%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9-_Screenshot_5.avif)
 

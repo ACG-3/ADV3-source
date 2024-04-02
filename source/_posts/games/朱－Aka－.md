@@ -7,7 +7,7 @@ date: 2003-06-13 00:00:00
 
 ## 游戏封面
 
-![朱－Aka－](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D_cover.avif)
+![朱－Aka－](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D_cover.avif)
 
 
 ## 游戏名称
@@ -44,19 +44,22 @@ date: 2003-06-13 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%B1%EF%BC%8DAka%EF%BC%8D_Screenshot_5.avif)
 

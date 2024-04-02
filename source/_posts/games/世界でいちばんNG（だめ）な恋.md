@@ -7,7 +7,7 @@ date: 2007-11-22 00:00:00
 
 ## 游戏封面
 
-![世界でいちばんNG（だめ）な恋](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_cover.avif)
+![世界でいちばんNG（だめ）な恋](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_cover.avif)
 
 
 ## 游戏名称
@@ -38,26 +38,29 @@ date: 2007-11-22 00:00:00
 
 自称身材高大、受过教育但没有工作的 Osamu 开始与 Mitoko 一起生活，这挑战了他对自己和周围环境的看法。他与奇特的邻居一起生活，拒绝同事的追求，挫败有钱邻居的阴谋，并寻找光子神秘老师的真相。
 
-厄运缠绕着 Osamu，他的未来充满了不确定性，他将踏上一段难以预料的成长和探索之旅。
+厄运缠绕着 Osamu，他的未来充满了不确定性，他将踏上一段难以预料的成长与探索之旅。
 
-[根据 [url=http://mangagamer.org/damekoi/] MangaGamer[/url] 和官方网站] 制作
+[根据[url=http://mangagamer.org/damekoi/] MangaGamer[/url] 和官方网站]整理。
 
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B8%96%E7%95%8C%E3%81%A7%E3%81%84%E3%81%A1%E3%81%B0%E3%82%93NG%EF%BC%88%E3%81%A0%E3%82%81%EF%BC%89%E3%81%AA%E6%81%8B_Screenshot_5.avif)
 

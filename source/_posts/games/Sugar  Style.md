@@ -7,7 +7,7 @@ date: 2019-01-25 00:00:00
 
 ## 游戏封面
 
-![Sugar * Style](https://pan.timero.xyz/d/onedrive/img_lib_001/Sugar%20%20Style_cover.avif)
+![Sugar * Style](https://pan.timero.xyz/onedrive/img_lib_001/Sugar%20%20Style_cover.avif)
 
 
 ## 游戏名称
@@ -35,7 +35,7 @@ date: 2019-01-25 00:00:00
 
 春天应该是一个更有趣的季节
 
-被恶毒的女人欺骗，被夜跑的父母逼债......接二连三的麻烦让我无法决定毕业后的去向。后来，在好心亲戚的帮助下，我在当地一所专科学校报了名。
+被恶毒的女人骗了，父母欠债后连夜出走......在连续遭遇困境后，我无法决定毕业后的去向。后来，在好心亲戚的帮助下，我在当地一所专科学校报了名。
 
 "这一次，我会好好享受我的人生！！"
 满怀着期待，我来到了 "Hidamari 宿舍"。
@@ -48,19 +48,22 @@ date: 2019-01-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Sugar%20%20Style)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Sugar%20%20Style)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Sugar%20%20Style_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Sugar%20%20Style_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Sugar%20%20Style_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Sugar%20%20Style_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Sugar%20%20Style_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Sugar%20%20Style_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Sugar%20%20Style_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Sugar%20%20Style_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Sugar%20%20Style_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Sugar%20%20Style_Screenshot_5.avif)
 

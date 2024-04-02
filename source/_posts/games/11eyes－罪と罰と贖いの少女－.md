@@ -7,7 +7,7 @@ date: 2008-04-25 00:00:00
 
 ## 游戏封面
 
-![11eyes－罪と罰と贖いの少女－](https%3A//pan.timero.xyz/onedrive/img_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D_cover.avif)
+![11eyes－罪と罰と贖いの少女－](https://pan.timero.xyz/onedrive/img_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D_cover.avif)
 
 
 ## 游戏名称
@@ -45,19 +45,22 @@ Kakeru 五年前失去了姐姐。他努力恢复正常生活，但仍然过着�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/11eyes%EF%BC%8D%E7%BD%AA%E3%81%A8%E7%BD%B0%E3%81%A8%E8%B4%96%E3%81%84%E3%81%AE%E5%B0%91%E5%A5%B3%EF%BC%8D_Screenshot_5.avif)
 

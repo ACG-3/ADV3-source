@@ -7,7 +7,7 @@ date: 2016-08-26 00:00:00
 
 ## 游戏封面
 
-![Triangle Love -アプリコットフィズ-](https%3A//pan.timero.xyz/onedrive/img_lib_001/Triangle%20Love%20-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B3%E3%83%83%E3%83%88%E3%83%95%E3%82%A3%E3%82%BA-_cover.avif)
+![Triangle Love -アプリコットフィズ-](https://pan.timero.xyz/onedrive/img_lib_001/Triangle%20Love%20-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B3%E3%83%83%E3%83%88%E3%83%95%E3%82%A3%E3%82%BA-_cover.avif)
 
 
 ## 游戏名称
@@ -46,7 +46,10 @@ Mitsuru 和 Karin 相处得很好，因为他们都喜欢去游戏中心、打�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Triangle%20Love%20-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B3%E3%83%83%E3%83%88%E3%83%95%E3%82%A3%E3%82%BA-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Triangle%20Love%20-%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B3%E3%83%83%E3%83%88%E3%83%95%E3%82%A3%E3%82%BA-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

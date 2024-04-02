@@ -7,7 +7,7 @@ date: 2000-08-11 00:00:00
 
 ## 游戏封面
 
-![月姫](https://pan.timero.xyz/d/onedrive/img_lib_001/AIR_cover.avif)
+![月姫](https://pan.timero.xyz/onedrive/img_lib_001/AIR_cover.avif)
 
 
 ## 游戏名称
@@ -21,7 +21,7 @@ date: 2000-08-11 00:00:00
 
 ## 游戏信息
 
-- 时长：41.87 h
+- 时长：41.77 h
 - 开发者：TYPE-MOON
 - 发售日期：2000-08-11
 - 游戏平台：win, lin, mac, ios, and, gba, psp, swi, vnd, web
@@ -66,19 +66,22 @@ date: 2000-08-11 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/AIR)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/AIR)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/AIR_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/AIR_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/AIR_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/AIR_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/AIR_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/AIR_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/AIR_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/AIR_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/AIR_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/AIR_Screenshot_5.avif)
 

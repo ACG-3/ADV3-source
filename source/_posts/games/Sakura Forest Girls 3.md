@@ -7,7 +7,7 @@ date: 2021-11-15 00:00:00
 
 ## 游戏封面
 
-![Sakura Forest Girls 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Forest%20Girls%203_cover.avif)
+![Sakura Forest Girls 3](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Forest%20Girls%203_cover.avif)
 
 
 ## 游戏名称
@@ -50,7 +50,10 @@ date: 2021-11-15 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Sakura%20Forest%20Girls%203)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Sakura%20Forest%20Girls%203)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

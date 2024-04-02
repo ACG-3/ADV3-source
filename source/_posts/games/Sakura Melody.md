@@ -1,12 +1,13 @@
 ---
-title: "Sakura Melody"
-date: 2022-10-24
+title: Sakura Melody
+abbrlink: 9ed85202
+date: 2022-10-24 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sakura%20Melody.md)
 
 ## 游戏封面
 
-![Sakura Melody](https%3A//pan.timero.xyz/onedrive/img_lib_001/Sakura%20Melody_cover.avif)
+![Sakura Melody](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Melody_cover.avif)
 
 
 ## 游戏名称
@@ -46,7 +47,10 @@ date: 2022-10-24
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Sakura%20Melody)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Sakura%20Melody)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

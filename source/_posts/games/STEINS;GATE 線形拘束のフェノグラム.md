@@ -7,7 +7,7 @@ date: 2013-04-25 00:00:00
 
 ## 游戏封面
 
-![STEINS;GATE 線形拘束のフェノグラム](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS;GATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0_cover.avif)
+![STEINS;GATE 線形拘束のフェノグラム](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0_cover.avif)
 
 
 ## 游戏名称
@@ -21,8 +21,8 @@ date: 2013-04-25 00:00:00
 
 ## 游戏信息
 
-- 时长：27.83 h
-- 开发者：NITRO PLUS, MAGES. GAME
+- 时长：27.8 h
+- 开发者：NITRO PLUS, MAGES.
 - 发售日期：2013-04-25
 - 游戏平台：win, lin, mac, ios, and, ps3, ps4, psv, swi, xb3
 - 相关作品：
@@ -40,19 +40,22 @@ date: 2013-04-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/STEINS%3BGATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/STEINS%3BGATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS;GATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS;GATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS;GATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS;GATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS;GATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%20%E7%B7%9A%E5%BD%A2%E6%8B%98%E6%9D%9F%E3%81%AE%E3%83%95%E3%82%A7%E3%83%8E%E3%82%B0%E3%83%A9%E3%83%A0_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2018-04-27 00:00:00
 
 ## 游戏封面
 
-![9-nine-そらいろそらうたそらのおと](https%3A//pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8_cover.avif)
+![9-nine-そらいろそらうたそらのおと](https://pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8_cover.avif)
 
 
 ## 游戏名称
@@ -21,7 +21,7 @@ date: 2018-04-27 00:00:00
 
 ## 游戏信息
 
-- 时长：10.9 h
+- 时长：10.87 h
 - 开发者：Palette
 - 发售日期：2018-04-27
 - 游戏平台：win, and, ps4, swi
@@ -43,19 +43,22 @@ date: 2018-04-27 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/9-nine-%E3%81%9D%E3%82%89%E3%81%84%E3%82%8D%E3%81%9D%E3%82%89%E3%81%86%E3%81%9F%E3%81%9D%E3%82%89%E3%81%AE%E3%81%8A%E3%81%A8_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2020-12-22 00:00:00
 
 ## 游戏封面
 
-![Futa Fix Dick Dine and Dash](https://pan.timero.xyz/d/onedrive/img_lib_001/Futa%20Fix%20Dick%20Dine%20and%20Dash_cover.avif)
+![Futa Fix Dick Dine and Dash](https://pan.timero.xyz/onedrive/img_lib_001/Futa%20Fix%20Dick%20Dine%20and%20Dash_cover.avif)
 
 
 ## 游戏名称
@@ -41,17 +41,20 @@ date: 2020-12-22 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Futa%20Fix%20Dick%20Dine%20and%20Dash)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Futa%20Fix%20Dick%20Dine%20and%20Dash)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Futa%20Fix%20Dick%20Dine%20and%20Dash_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Futa%20Fix%20Dick%20Dine%20and%20Dash_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Futa%20Fix%20Dick%20Dine%20and%20Dash_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Futa%20Fix%20Dick%20Dine%20and%20Dash_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Futa%20Fix%20Dick%20Dine%20and%20Dash_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Futa%20Fix%20Dick%20Dine%20and%20Dash_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Futa%20Fix%20Dick%20Dine%20and%20Dash_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Futa%20Fix%20Dick%20Dine%20and%20Dash_Screenshot_4.avif)
 

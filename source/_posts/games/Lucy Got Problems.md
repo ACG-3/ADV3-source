@@ -7,7 +7,7 @@ date: 2018-09-18 00:00:00
 
 ## 游戏封面
 
-![Lucy Got Problems](https%3A//pan.timero.xyz/onedrive/img_lib_001/Lucy%20Got%20Problems_cover.avif)
+![Lucy Got Problems](https://pan.timero.xyz/onedrive/img_lib_001/Lucy%20Got%20Problems_cover.avif)
 
 
 ## 游戏名称
@@ -43,19 +43,22 @@ date: 2018-09-18 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Lucy%20Got%20Problems)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Lucy%20Got%20Problems)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/Lucy%20Got%20Problems_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Lucy%20Got%20Problems_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/Lucy%20Got%20Problems_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Lucy%20Got%20Problems_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/Lucy%20Got%20Problems_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Lucy%20Got%20Problems_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/Lucy%20Got%20Problems_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Lucy%20Got%20Problems_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/Lucy%20Got%20Problems_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Lucy%20Got%20Problems_Screenshot_5.avif)
 

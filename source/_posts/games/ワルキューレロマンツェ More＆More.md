@@ -7,7 +7,7 @@ date: 2013-10-25 00:00:00
 
 ## 游戏封面
 
-![ワルキューレロマンツェ More＆More](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More_cover.avif)
+![ワルキューレロマンツェ More＆More](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More_cover.avif)
 
 
 ## 游戏名称
@@ -43,19 +43,22 @@ Walkure Romanze ~Shoujo Kishi Monogatari~ 的爱好者光盘，包含原标题�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%83%AD%E3%83%9E%E3%83%B3%E3%83%84%E3%82%A7%20More%EF%BC%86More_Screenshot_5.avif)
 

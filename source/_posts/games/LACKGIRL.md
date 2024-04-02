@@ -1,12 +1,13 @@
 ---
-title: "LACKGIRL"
-date: 2022-12-31
+title: LACKGIRL
+abbrlink: d1ec833a
+date: 2022-12-31 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/LACKGIRL.md)
 
 ## 游戏封面
 
-![LACKGIRL](https%3A//pan.timero.xyz/onedrive/img_lib_001/LACKGIRL_cover.avif)
+![LACKGIRL](https://pan.timero.xyz/onedrive/img_lib_001/LACKGIRL_cover.avif)
 
 
 ## 游戏名称
@@ -46,7 +47,10 @@ date: 2022-12-31
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/LACKGIRL)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/LACKGIRL)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

@@ -1,13 +1,12 @@
 ---
-title: BALDR SKY Dive2 "RECORDARE"
-abbrlink: 991ec1c0
-date: 2009-11-27 00:00:00
+title: "BALDR SKY Dive2 "RECORDARE""
+date: 2009-11-27
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BALDR%20SKY%20Dive2%20RECORDARE.md)
 
 ## 游戏封面
 
-![BALDR SKY Dive2 "RECORDARE"](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive2%20RECORDARE_cover.avif)
+![BALDR SKY Dive2 "RECORDARE"](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive2%20RECORDARE_cover.avif)
 
 
 ## 游戏名称
@@ -26,9 +25,9 @@ date: 2009-11-27 00:00:00
 - 发售日期：2009-11-27
 - 游戏平台：win
 - 相关作品：
-   - 外传：Sky & Heart Last Survival
-   - 外传：BALDRSKY Core Defender
-   - 外传：BALDRSKY DiveX "DREAM WORLD"
+   - 外传：SKY & HEART LAST SURVIVAL
+   - 外传：BALDR SKY Core Defender
+   - 外传：BALDR SKY DiveX "DREAM WORLD"
    - 前作：BALDR SKY Dive1 "Lost Memory"
    - 系列：BALDR HEART
 
@@ -48,19 +47,22 @@ Kou 和 Rain 调查了破坏他平静校园生活的 "灰色圣诞节 "事件，
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/BALDR%20SKY%20Dive2%20RECORDARE)
+
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/BALDR%20SKY%20Dive2%20RECORDARE)
+        - 解压密码：ADV!
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive2%20RECORDARE_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive2%20RECORDARE_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive2%20RECORDARE_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive2%20RECORDARE_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive2%20RECORDARE_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive2%20RECORDARE_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive2%20RECORDARE_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive2%20RECORDARE_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive2%20RECORDARE_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive2%20RECORDARE_Screenshot_5.avif)
 

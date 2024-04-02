@@ -1,12 +1,13 @@
 ---
-title: "Perfect Gold: The Alchemy of Happiness"
-date: 2021-04-19
+title: 'Perfect Gold: The Alchemy of Happiness'
+abbrlink: 7b16185e
+date: 2021-04-19 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Saint%20Maker.md)
 
 ## 游戏封面
 
-![Perfect Gold: The Alchemy of Happiness](https%3A//pan.timero.xyz/onedrive/img_lib_001/Saint%20Maker_cover.avif)
+![Perfect Gold: The Alchemy of Happiness](https://pan.timero.xyz/onedrive/img_lib_001/Saint%20Maker_cover.avif)
 
 
 ## 游戏名称
@@ -43,19 +44,22 @@ date: 2021-04-19
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Saint%20Maker)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Saint%20Maker)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/Saint%20Maker_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Saint%20Maker_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/Saint%20Maker_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Saint%20Maker_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/Saint%20Maker_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Saint%20Maker_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/Saint%20Maker_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Saint%20Maker_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/Saint%20Maker_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Saint%20Maker_Screenshot_5.avif)
 

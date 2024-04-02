@@ -7,7 +7,7 @@ date: 2011-06-24 00:00:00
 
 ## 游戏封面
 
-![Stellar ☆ Theater Encore](https://pan.timero.xyz/d/onedrive/img_lib_001/Stellar%20%E2%98%86%20Theater%20Encore_cover.avif)
+![Stellar ☆ Theater Encore](https://pan.timero.xyz/onedrive/img_lib_001/Stellar%20%E2%98%86%20Theater%20Encore_cover.avif)
 
 
 ## 游戏名称
@@ -40,17 +40,20 @@ date: 2011-06-24 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Stellar%20%E2%98%86%20Theater%20Encore)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Stellar%20%E2%98%86%20Theater%20Encore)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Stellar%20%E2%98%86%20Theater%20Encore_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Stellar%20%E2%98%86%20Theater%20Encore_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Stellar%20%E2%98%86%20Theater%20Encore_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Stellar%20%E2%98%86%20Theater%20Encore_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Stellar%20%E2%98%86%20Theater%20Encore_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Stellar%20%E2%98%86%20Theater%20Encore_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Stellar%20%E2%98%86%20Theater%20Encore_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Stellar%20%E2%98%86%20Theater%20Encore_Screenshot_4.avif)
 

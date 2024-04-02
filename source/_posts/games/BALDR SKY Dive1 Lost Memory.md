@@ -1,13 +1,12 @@
 ---
-title: BALDR SKY Dive1 "Lost Memory"
-abbrlink: 7ebfa88e
-date: 2009-03-27 00:00:00
+title: "BALDR SKY Dive1 "Lost Memory""
+date: 2009-03-27
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BALDR%20SKY%20Dive1%20Lost%20Memory.md)
 
 ## 游戏封面
 
-![BALDR SKY Dive1 "Lost Memory"](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_cover.avif)
+![BALDR SKY Dive1 "Lost Memory"](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_cover.avif)
 
 
 ## 游戏名称
@@ -26,7 +25,7 @@ date: 2009-03-27 00:00:00
 - 发售日期：2009-03-27
 - 游戏平台：win
 - 相关作品：
-   - 角色：バルドスカイ ゼロ
+   - 角色：BALDR SKY ZERO
    - 续作：BALDR SKY Dive2 "RECORDARE"
    - 世界观：BALDR FORCE
 
@@ -46,19 +45,22 @@ date: 2009-03-27 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory)
+
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory)
+        - 解压密码：ADV!
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/BALDR%20SKY%20Dive1%20Lost%20Memory_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 1998-05-29 00:00:00
 
 ## 游戏封面
 
-![ONE ～輝く季節へ～](https://pan.timero.xyz/d/onedrive/img_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E_cover.avif)
+![ONE ～輝く季節へ～](https://pan.timero.xyz/onedrive/img_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -26,6 +26,7 @@ date: 1998-05-29 00:00:00
 - 发售日期：1998-05-29
 - 游戏平台：win, and, ps1, web
 - 相关作品：
+   - 角色：Rib²on
    - 变体：ＯＮＦ～闘う羅刹へ～
    - 角色：PiaONE Toy Box
    - 角色：QGP ZERO
@@ -49,19 +50,22 @@ One 的故事围绕着主人公 Kouhei Orihara 展开，在平静的日常生活
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/ONE%20%EF%BD%9E%E8%BC%9D%E3%81%8F%E5%AD%A3%E7%AF%80%E3%81%B8%EF%BD%9E_Screenshot_5.avif)
 

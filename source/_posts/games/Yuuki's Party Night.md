@@ -7,7 +7,7 @@ date: 2020-02-21 00:00:00
 
 ## 游戏封面
 
-![Yuuki's Party Night](https%3A//pan.timero.xyz/onedrive/img_lib_001/Yuuki%27s%20Party%20Night_cover.avif)
+![Yuuki's Party Night](https://pan.timero.xyz/onedrive/img_lib_001/Yuuki%27s%20Party%20Night_cover.avif)
 
 
 ## 游戏名称
@@ -22,7 +22,7 @@ date: 2020-02-21 00:00:00
 ## 游戏信息
 
 - 时长：none h
-- 开发者：Dharker Studio
+- 开发者：Dharker Studios
 - 发售日期：2020-02-21
 - 游戏平台：win
 - 相关作品：
@@ -44,7 +44,10 @@ Yuuki 会遇到新朋友，还是会找到生命中的某个特别的人？
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Yuuki%27s%20Party%20Night)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Yuuki%27s%20Party%20Night)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

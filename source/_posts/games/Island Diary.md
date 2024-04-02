@@ -7,7 +7,7 @@ date: 2021-03-19 00:00:00
 
 ## 游戏封面
 
-![Island Diary](https://pan.timero.xyz/d/onedrive/img_lib_001/Island%20Diary_cover.avif)
+![Island Diary](https://pan.timero.xyz/onedrive/img_lib_001/Island%20Diary_cover.avif)
 
 
 ## 游戏名称
@@ -21,7 +21,7 @@ date: 2021-03-19 00:00:00
 
 ## 游戏信息
 
-- 时长：4.88 h
+- 时长：5.0 h
 - 开发者：Watakubi
 - 发售日期：2021-03-19
 - 游戏平台：win
@@ -41,19 +41,22 @@ date: 2021-03-19 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Island%20Diary)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Island%20Diary)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Island%20Diary_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Island%20Diary_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Island%20Diary_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Island%20Diary_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Island%20Diary_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Island%20Diary_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Island%20Diary_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Island%20Diary_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Island%20Diary_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Island%20Diary_Screenshot_5.avif)
 

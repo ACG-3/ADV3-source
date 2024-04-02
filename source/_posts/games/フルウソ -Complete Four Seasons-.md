@@ -7,7 +7,7 @@ date: 2015-11-27 00:00:00
 
 ## 游戏封面
 
-![ハルウソ -Passing Memories-](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%83%AB%E3%82%A6%E3%82%BD%20-Complete%20Four%20Seasons-_cover.avif)
+![ハルウソ -Passing Memories-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%83%AB%E3%82%A6%E3%82%BD%20-Complete%20Four%20Seasons-_cover.avif)
 
 
 ## 游戏名称
@@ -51,13 +51,16 @@ date: 2015-11-27 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%95%E3%83%AB%E3%82%A6%E3%82%BD%20-Complete%20Four%20Seasons-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%95%E3%83%AB%E3%82%A6%E3%82%BD%20-Complete%20Four%20Seasons-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%83%AB%E3%82%A6%E3%82%BD%20-Complete%20Four%20Seasons-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%83%AB%E3%82%A6%E3%82%BD%20-Complete%20Four%20Seasons-_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%83%AB%E3%82%A6%E3%82%BD%20-Complete%20Four%20Seasons-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%83%AB%E3%82%A6%E3%82%BD%20-Complete%20Four%20Seasons-_Screenshot_2.avif)
 

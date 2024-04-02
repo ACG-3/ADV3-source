@@ -7,7 +7,7 @@ date: 2005-08-02 00:00:00
 
 ## 游戏封面
 
-![narcissu](https://pan.timero.xyz/d/onedrive/img_lib_001/Koneko%20Neko%20Neko_cover.avif)
+![narcissu](https://pan.timero.xyz/onedrive/img_lib_001/Koneko%20Neko%20Neko_cover.avif)
 
 
 ## 游戏名称
@@ -21,7 +21,7 @@ date: 2005-08-02 00:00:00
 
 ## 游戏信息
 
-- 时长：3.0 h
+- 时长：2.92 h
 - 开发者：Stage-nana, Regista, Sekai Project
 - 发售日期：2005-08-02
 - 游戏平台：win, lin, mac, ios, and, nds, psp, vnd, web
@@ -42,19 +42,22 @@ date: 2005-08-02 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Koneko%20Neko%20Neko)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Koneko%20Neko%20Neko)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Koneko%20Neko%20Neko_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Koneko%20Neko%20Neko_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Koneko%20Neko%20Neko_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Koneko%20Neko%20Neko_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Koneko%20Neko%20Neko_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Koneko%20Neko%20Neko_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Koneko%20Neko%20Neko_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Koneko%20Neko%20Neko_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Koneko%20Neko%20Neko_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Koneko%20Neko%20Neko_Screenshot_5.avif)
 

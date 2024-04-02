@@ -7,7 +7,7 @@ date: 2016-05-27 00:00:00
 
 ## 游戏封面
 
-![乙女理論とその後の周辺 -Belle Epoque-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E5%91%A8%E8%BE%BA%20-Belle%20Epoque-_cover.avif)
+![乙女理論とその後の周辺 -Belle Epoque-](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E5%91%A8%E8%BE%BA%20-Belle%20Epoque-_cover.avif)
 
 
 ## 游戏名称
@@ -33,14 +33,17 @@ date: 2016-05-27 00:00:00
 
 ## 游戏简介
 
-这是《Otome Riron to Sono Shuuhen》的番外篇，也需要您玩过原名《Tsuki ni Yorisou Otome no Sahou》。它收录了雷索娜和梅丽尔的续集故事，以及布卢埃特的另一个故事和续集故事。
+这是《Otome Riron to Sono Shuuhen》的番外篇，也需要您玩过原作《Tsuki ni Yorisou Otome no Sahou》。它收录了雷索娜和梅丽尔的续集故事，以及布卢埃特的另一个故事和续集故事。
 
 
 
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E5%91%A8%E8%BE%BA%20-Belle%20Epoque-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%BE%8C%E3%81%AE%E5%91%A8%E8%BE%BA%20-Belle%20Epoque-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

@@ -7,7 +7,7 @@ date: 2018-03-29 00:00:00
 
 ## 游戏封面
 
-![メモリーズオフ -Innocent Fille-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_cover.avif)
+![メモリーズオフ -Innocent Fille-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_cover.avif)
 
 
 ## 游戏名称
@@ -22,7 +22,7 @@ date: 2018-03-29 00:00:00
 ## 游戏信息
 
 - 时长：35.33 h
-- 开发者：MAGES. GAME, SDR Project
+- 开发者：MAGES., SDR Project
 - 发售日期：2018-03-29
 - 游戏平台：win, ps4, psv, swi
 - 相关作品：
@@ -44,15 +44,18 @@ date: 2018-03-29 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%95%20-Innocent%20Fille-_Screenshot_3.avif)
 

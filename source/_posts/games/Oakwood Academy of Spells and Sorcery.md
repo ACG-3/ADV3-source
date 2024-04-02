@@ -7,7 +7,7 @@ date: 2018-03-26 00:00:00
 
 ## 游戏封面
 
-![Oakwood Academy of Spells and Sorcery](https://pan.timero.xyz/d/onedrive/img_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery_cover.avif)
+![Oakwood Academy of Spells and Sorcery](https://pan.timero.xyz/onedrive/img_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery_cover.avif)
 
 
 ## 游戏名称
@@ -37,19 +37,22 @@ date: 2018-03-26 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Oakwood%20Academy%20of%20Spells%20and%20Sorcery_Screenshot_5.avif)
 

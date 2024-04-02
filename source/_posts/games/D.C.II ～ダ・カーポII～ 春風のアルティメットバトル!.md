@@ -7,7 +7,7 @@ date: 2006-04-15 00:00:00
 
 ## 游戏封面
 
-![D.C.II ～ダ・カーポII～ 春風のアルティメットバトル!](https%3A//pan.timero.xyz/onedrive/img_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21_cover.avif)
+![D.C.II ～ダ・カーポII～ 春風のアルティメットバトル!](https://pan.timero.xyz/onedrive/img_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21_cover.avif)
 
 
 ## 游戏名称
@@ -38,19 +38,22 @@ date: 2006-04-15 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/D.C.II%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DII%EF%BD%9E%20%E6%98%A5%E9%A2%A8%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A1%E3%83%83%E3%83%88%E3%83%90%E3%83%88%E3%83%AB%21_Screenshot_5.avif)
 

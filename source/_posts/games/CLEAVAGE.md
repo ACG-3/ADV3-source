@@ -7,7 +7,7 @@ date: 2005-02-18 00:00:00
 
 ## 游戏封面
 
-![CLEAVAGE](https%3A//pan.timero.xyz/onedrive/img_lib_001/CLEAVAGE_cover.avif)
+![CLEAVAGE](https://pan.timero.xyz/onedrive/img_lib_001/CLEAVAGE_cover.avif)
 
 
 ## 游戏名称
@@ -39,19 +39,22 @@ Cleavage 采用了流行的《Bible Black》和《Discipline》的创作者 Sei 
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/CLEAVAGE)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/CLEAVAGE)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/CLEAVAGE_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/CLEAVAGE_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/CLEAVAGE_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/CLEAVAGE_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/CLEAVAGE_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/CLEAVAGE_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/CLEAVAGE_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/CLEAVAGE_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/CLEAVAGE_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/CLEAVAGE_Screenshot_5.avif)
 

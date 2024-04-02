@@ -1,12 +1,13 @@
 ---
-title: "BETA-SIXDOUZE"
-date: 2020-08-28
+title: BETA-SIXDOUZE
+abbrlink: 18b21123
+date: 2020-08-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BETA-SIXDOUZE.md)
 
 ## 游戏封面
 
-![BETA-SIXDOUZE](https%3A//pan.timero.xyz/onedrive/img_lib_001/BETA-SIXDOUZE_cover.avif)
+![BETA-SIXDOUZE](https://pan.timero.xyz/onedrive/img_lib_001/BETA-SIXDOUZE_cover.avif)
 
 
 ## 游戏名称
@@ -48,19 +49,22 @@ date: 2020-08-28
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/BETA-SIXDOUZE)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/BETA-SIXDOUZE)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/BETA-SIXDOUZE_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/BETA-SIXDOUZE_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/BETA-SIXDOUZE_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/BETA-SIXDOUZE_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/BETA-SIXDOUZE_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/BETA-SIXDOUZE_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/BETA-SIXDOUZE_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/BETA-SIXDOUZE_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/BETA-SIXDOUZE_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/BETA-SIXDOUZE_Screenshot_5.avif)
 

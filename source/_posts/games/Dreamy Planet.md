@@ -1,12 +1,13 @@
 ---
-title: "Dreamy Planet"
-date: 2022-09-15
+title: Dreamy Planet
+abbrlink: aa64ec04
+date: 2022-09-15 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Dreamy%20Planet.md)
 
 ## 游戏封面
 
-![Dreamy Planet](https%3A//pan.timero.xyz/onedrive/img_lib_001/Dreamy%20Planet_cover.avif)
+![Dreamy Planet](https://pan.timero.xyz/onedrive/img_lib_001/Dreamy%20Planet_cover.avif)
 
 
 ## 游戏名称
@@ -48,7 +49,10 @@ date: 2022-09-15
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Dreamy%20Planet)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Dreamy%20Planet)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

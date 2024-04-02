@@ -7,7 +7,7 @@ date: 2021-09-03 00:00:00
 
 ## 游戏封面
 
-![planetarian～雪圏球～](https%3A//pan.timero.xyz/onedrive/img_lib_001/planetarian%EF%BD%9E%E9%9B%AA%E5%9C%8F%E7%90%83%EF%BD%9E_cover.avif)
+![planetarian～雪圏球～](None)
 
 
 ## 游戏名称
@@ -42,15 +42,18 @@ date: 2021-09-03 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/planetarian%EF%BD%9E%E9%9B%AA%E5%9C%8F%E7%90%83%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/planetarian%EF%BD%9E%E9%9B%AA%E5%9C%8F%E7%90%83%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/planetarian%EF%BD%9E%E9%9B%AA%E5%9C%8F%E7%90%83%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/planetarian%EF%BD%9E%E9%9B%AA%E5%9C%8F%E7%90%83%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/planetarian%EF%BD%9E%E9%9B%AA%E5%9C%8F%E7%90%83%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](None)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/planetarian%EF%BD%9E%E9%9B%AA%E5%9C%8F%E7%90%83%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/planetarian%EF%BD%9E%E9%9B%AA%E5%9C%8F%E7%90%83%EF%BD%9E_Screenshot_3.avif)
 

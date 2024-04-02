@@ -7,7 +7,7 @@ date: 2006-06-23 00:00:00
 
 ## 游戏封面
 
-![H2O -FOOTPRINTS IN THE SAND-](https://pan.timero.xyz/d/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_cover.avif)
+![H2O -FOOTPRINTS IN THE SAND-](https://pan.timero.xyz/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_cover.avif)
 
 
 ## 游戏名称
@@ -21,15 +21,15 @@ date: 2006-06-23 00:00:00
 
 ## 游戏信息
 
-- 时长：31.5 h
+- 时长：30.0 h
 - 开发者：Makura
 - 发售日期：2006-06-23
 - 游戏平台：win, ps2
 - 相关作品：
-   - 旁支：√ after and another
+   - 角色：サクラノ刻－櫻の森の下を歩む－
    - 角色：サクラノ詩－櫻の森の上を舞う－
    - 系列：素晴らしき日々～不連続存在～
-   - 角色：サクラノ刻－櫻の森の下を歩む－
+   - 旁支：√ after and another
 
 - 相关链接：[vndb](https://vndb.org/v473)
 
@@ -43,19 +43,22 @@ H2O 的故事围绕着失明的初中男生广濑拓马（Takuma Hirose）展开
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/H2O%20-FOOTPRINTS%20IN%20THE%20SAND-_Screenshot_5.avif)
 

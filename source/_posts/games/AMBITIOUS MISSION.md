@@ -1,12 +1,13 @@
 ---
-title: "かけぬけ★青春スパーキング！"
-date: 2020-08-28
+title: かけぬけ★青春スパーキング！
+abbrlink: 9584b40
+date: 2020-08-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/AMBITIOUS%20MISSION.md)
 
 ## 游戏封面
 
-![かけぬけ★青春スパーキング！](https%3A//pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_cover.avif)
+![かけぬけ★青春スパーキング！](https://pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_cover.avif)
 
 
 ## 游戏名称
@@ -60,19 +61,22 @@ Yuu 是一个坚定的现实主义者，他在兼职工作中尽情挥洒自己�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/AMBITIOUS%20MISSION)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/AMBITIOUS%20MISSION)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/AMBITIOUS%20MISSION_Screenshot_5.avif)
 

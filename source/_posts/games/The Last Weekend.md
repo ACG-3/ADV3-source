@@ -7,7 +7,7 @@ date: 2017-02-14 00:00:00
 
 ## 游戏封面
 
-![The Last Weekend](https%3A//pan.timero.xyz/onedrive/img_lib_001/The%20Last%20Weekend_cover.avif)
+![The Last Weekend](https://pan.timero.xyz/onedrive/img_lib_001/The%20Last%20Weekend_cover.avif)
 
 
 ## 游戏名称
@@ -37,7 +37,10 @@ date: 2017-02-14 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/The%20Last%20Weekend)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/The%20Last%20Weekend)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

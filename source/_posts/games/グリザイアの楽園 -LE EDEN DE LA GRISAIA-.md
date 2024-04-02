@@ -7,7 +7,7 @@ date: 2013-05-24 00:00:00
 
 ## 游戏封面
 
-![グリザイアの楽園 -LE EDEN DE LA GRISAIA-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-_cover.avif)
+![グリザイアの楽園 -LE EDEN DE LA GRISAIA-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-_cover.avif)
 
 
 ## 游戏名称
@@ -21,13 +21,13 @@ date: 2013-05-24 00:00:00
 
 ## 游戏信息
 
-- 时长：25.8 h
+- 时长：26.0 h
 - 开发者：Frontwing
 - 发售日期：2013-05-24
 - 游戏平台：win, and, psp, psv, swi
 - 相关作品：
-   - 前作：グリザイアの迷宮 -LE LABYRINTHE DE LA GRISAIA-
    - 角色：アイドル魔法少女ちるちる☆みちる
+   - 前作：グリザイアの迷宮 -LE LABYRINTHE DE LA GRISAIA-
    - 世界观：グリザイア ファントムトリガー Vol. 1
    - 世界观：グリザイア クロノスリベリオン
 
@@ -47,19 +47,22 @@ Grisaia 系列的最后一章，包括序章《Prologue De La Grisaia》（雄�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%A5%BD%E5%9C%92%20-LE%20EDEN%20DE%20LA%20GRISAIA-_Screenshot_5.avif)
 

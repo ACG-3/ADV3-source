@@ -7,7 +7,7 @@ date: 2020-02-20 00:00:00
 
 ## 游戏封面
 
-![TrymenT ―今を変えたいと願うあなたへ―](https%3A//pan.timero.xyz/onedrive/img_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95_cover.avif)
+![TrymenT ―今を変えたいと願うあなたへ―](https://pan.timero.xyz/onedrive/img_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95_cover.avif)
 
 
 ## 游戏名称
@@ -38,19 +38,22 @@ date: 2020-02-20 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/TrymenT%20%E2%80%95%E4%BB%8A%E3%82%92%E5%A4%89%E3%81%88%E3%81%9F%E3%81%84%E3%81%A8%E9%A1%98%E3%81%86%E3%81%82%E3%81%AA%E3%81%9F%E3%81%B8%E2%80%95_Screenshot_5.avif)
 

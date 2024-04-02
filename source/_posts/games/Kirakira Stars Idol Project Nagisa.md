@@ -7,14 +7,14 @@ date: 2020-06-19 00:00:00
 
 ## 游戏封面
 
-![Kirakira Stars Idol Project Nagisa](https://pan.timero.xyz/d/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa_cover.avif)
+![Kirakira Stars Idol Project Nagisa](https://pan.timero.xyz/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa_cover.avif)
 
 
 ## 游戏名称
 
 - 日文：Kirakira Stars Idol Project Nagisa
 - 英文：Kirakira Stars Idol Project Nagisa
-- 中文：None
+- 中文：爱的闪耀偶像企划 Nagisa
 
 - 别名：きらきらスターズ ーidol project Nagisaー, 闪耀明星偶像计划-雪城渚
 
@@ -50,19 +50,22 @@ DivaFes 在共同的课程中，小爱接受了考验，迈出了偶像的下一
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Nagisa_Screenshot_5.avif)
 

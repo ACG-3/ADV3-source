@@ -7,7 +7,7 @@ date: 2013-07-26 00:00:00
 
 ## 游戏封面
 
-![乙女理論とその周辺 -Ecole de Paris-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-_cover.avif)
+![乙女理論とその周辺 -Ecole de Paris-](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-_cover.avif)
 
 
 ## 游戏名称
@@ -26,8 +26,8 @@ date: 2013-07-26 00:00:00
 - 发售日期：2013-07-26
 - 游戏平台：win, psv
 - 相关作品：
-   - 前作：月に寄りそう乙女の作法
    - 外传：乙女理論とその後の周辺 -Belle Epoque-
+   - 前作：月に寄りそう乙女の作法
 
 - 相关链接：[vndb](https://vndb.org/v12246)
 
@@ -43,19 +43,22 @@ date: 2013-07-26 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E4%B9%99%E5%A5%B3%E7%90%86%E8%AB%96%E3%81%A8%E3%81%9D%E3%81%AE%E5%91%A8%E8%BE%BA%20-Ecole%20de%20Paris-_Screenshot_5.avif)
 

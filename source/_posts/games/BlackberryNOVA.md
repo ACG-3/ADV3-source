@@ -7,7 +7,7 @@ date: 2021-08-19 00:00:00
 
 ## 游戏封面
 
-![BlackberryNOVA](https://pan.timero.xyz/d/onedrive/img_lib_001/BlackberryNOVA_cover.avif)
+![BlackberryNOVA](https://pan.timero.xyz/onedrive/img_lib_001/BlackberryNOVA_cover.avif)
 
 
 ## 游戏名称
@@ -40,7 +40,10 @@ BlackberryNOVA：一部百合视觉小说，讲述了一个高中毕业的女孩
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/BlackberryNOVA)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/BlackberryNOVA)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

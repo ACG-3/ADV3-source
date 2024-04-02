@@ -7,7 +7,7 @@ date: 2018-08-03 00:00:00
 
 ## 游戏封面
 
-![1room -家出少女-](https%3A//pan.timero.xyz/onedrive/img_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-_cover.avif)
+![1room -家出少女-](https://pan.timero.xyz/onedrive/img_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-_cover.avif)
 
 
 ## 游戏名称
@@ -47,20 +47,22 @@ date: 2018-08-03 00:00:00
 
 
 ## 下载链接
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-)
+        - 解压密码：ADV!
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-)
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/1room%20-%E5%AE%B6%E5%87%BA%E5%B0%91%E5%A5%B3-_Screenshot_5.avif)
 

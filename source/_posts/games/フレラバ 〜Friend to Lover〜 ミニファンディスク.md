@@ -7,7 +7,7 @@ date: 2014-08-15 00:00:00
 
 ## 游戏封面
 
-![フレラバ 〜Friend to Lover〜 ミニファンディスク](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_cover.avif)
+![フレラバ 〜Friend to Lover〜 ミニファンディスク](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_cover.avif)
 
 
 ## 游戏名称
@@ -41,19 +41,22 @@ date: 2014-08-15 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%95%E3%83%AC%E3%83%A9%E3%83%90%20%E3%80%9CFriend%20to%20Lover%E3%80%9C%20%E3%83%9F%E3%83%8B%E3%83%95%E3%82%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF_Screenshot_5.avif)
 

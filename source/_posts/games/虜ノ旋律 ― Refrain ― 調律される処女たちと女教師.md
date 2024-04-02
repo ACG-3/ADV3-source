@@ -1,12 +1,13 @@
 ---
-title: "虜ノ旋律 ― Refrain ― 調律される処女たちと女教師"
-date: 2019-06-28
+title: 虜ノ旋律 ― Refrain ― 調律される処女たちと女教師
+abbrlink: bd52dbec
+date: 2019-06-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%99%9C%E3%83%8E%E6%97%8B%E5%BE%8B%20%E2%80%95%20Refrain%20%E2%80%95%20%E8%AA%BF%E5%BE%8B%E3%81%95%E3%82%8C%E3%82%8B%E5%87%A6%E5%A5%B3%E3%81%9F%E3%81%A1%E3%81%A8%E5%A5%B3%E6%95%99%E5%B8%AB.md)
 
 ## 游戏封面
 
-![虜ノ旋律 ― Refrain ― 調律される処女たちと女教師](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E8%99%9C%E3%83%8E%E6%97%8B%E5%BE%8B%20%E2%80%95%20Refrain%20%E2%80%95%20%E8%AA%BF%E5%BE%8B%E3%81%95%E3%82%8C%E3%82%8B%E5%87%A6%E5%A5%B3%E3%81%9F%E3%81%A1%E3%81%A8%E5%A5%B3%E6%95%99%E5%B8%AB_cover.avif)
+![虜ノ旋律 ― Refrain ― 調律される処女たちと女教師](https://pan.timero.xyz/onedrive/img_lib_001/%E8%99%9C%E3%83%8E%E6%97%8B%E5%BE%8B%20%E2%80%95%20Refrain%20%E2%80%95%20%E8%AA%BF%E5%BE%8B%E3%81%95%E3%82%8C%E3%82%8B%E5%87%A6%E5%A5%B3%E3%81%9F%E3%81%A1%E3%81%A8%E5%A5%B3%E6%95%99%E5%B8%AB_cover.avif)
 
 
 ## 游戏名称
@@ -42,7 +43,10 @@ date: 2019-06-28
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E8%99%9C%E3%83%8E%E6%97%8B%E5%BE%8B%20%E2%80%95%20Refrain%20%E2%80%95%20%E8%AA%BF%E5%BE%8B%E3%81%95%E3%82%8C%E3%82%8B%E5%87%A6%E5%A5%B3%E3%81%9F%E3%81%A1%E3%81%A8%E5%A5%B3%E6%95%99%E5%B8%AB)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E8%99%9C%E3%83%8E%E6%97%8B%E5%BE%8B%20%E2%80%95%20Refrain%20%E2%80%95%20%E8%AA%BF%E5%BE%8B%E3%81%95%E3%82%8C%E3%82%8B%E5%87%A6%E5%A5%B3%E3%81%9F%E3%81%A1%E3%81%A8%E5%A5%B3%E6%95%99%E5%B8%AB)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

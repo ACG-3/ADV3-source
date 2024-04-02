@@ -7,7 +7,7 @@ date: 2011-02-25 00:00:00
 
 ## 游戏封面
 
-![グリザイアの果実 -LE FRUIT DE LA GRISAIA-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-_cover.avif)
+![グリザイアの果実 -LE FRUIT DE LA GRISAIA-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-_cover.avif)
 
 
 ## 游戏名称
@@ -21,15 +21,15 @@ date: 2011-02-25 00:00:00
 
 ## 游戏信息
 
-- 时长：75.03 h
+- 时长：75.05 h
 - 开发者：Frontwing
 - 发售日期：2011-02-25
 - 游戏平台：win, lin, and, psp, psv, swi
 - 相关作品：
+   - 角色：Danganronpa Forge:Re
    - 角色：ほしうた
    - 续作：グリザイアの迷宮 -LE LABYRINTHE DE LA GRISAIA-
    - 旁支：グリザイアの有閑
-   - 角色：Danganronpa Forge:Re
 
 - 相关链接：[vndb](https://vndb.org/v5154)
 
@@ -47,19 +47,22 @@ date: 2011-02-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%B0%E3%83%AA%E3%82%B6%E3%82%A4%E3%82%A2%E3%81%AE%E6%9E%9C%E5%AE%9F%20-LE%20FRUIT%20DE%20LA%20GRISAIA-_Screenshot_5.avif)
 

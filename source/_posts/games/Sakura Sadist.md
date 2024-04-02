@@ -7,7 +7,7 @@ date: 2018-05-25 00:00:00
 
 ## 游戏封面
 
-![Sakura Sadist](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Sadist_cover.avif)
+![Sakura Sadist](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Sadist_cover.avif)
 
 
 ## 游戏名称
@@ -50,19 +50,22 @@ date: 2018-05-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Sakura%20Sadist)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Sakura%20Sadist)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Sadist_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Sadist_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Sadist_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Sadist_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Sadist_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Sadist_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Sadist_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Sadist_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Sakura%20Sadist_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Sadist_Screenshot_5.avif)
 

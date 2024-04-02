@@ -7,7 +7,7 @@ date: 2008-04-11 00:00:00
 
 ## 游戏封面
 
-![戦国ランス～三匹が斬ったり突いたり燃やしたり -slash!thrust!burn!-](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-_cover.avif)
+![戦国ランス～三匹が斬ったり突いたり燃やしたり -slash!thrust!burn!-](https://pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-_cover.avif)
 
 
 ## 游戏名称
@@ -42,17 +42,20 @@ date: 2008-04-11 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%88%A6%E5%9B%BD%E3%83%A9%E3%83%B3%E3%82%B9%EF%BD%9E%E4%B8%89%E5%8C%B9%E3%81%8C%E6%96%AC%E3%81%A3%E3%81%9F%E3%82%8A%E7%AA%81%E3%81%84%E3%81%9F%E3%82%8A%E7%87%83%E3%82%84%E3%81%97%E3%81%9F%E3%82%8A%20-slash%21thrust%21burn%21-_Screenshot_4.avif)
 

@@ -7,7 +7,7 @@ date: 2021-08-14 00:00:00
 
 ## 游戏封面
 
-![Chasing Tails -A Promise in the Snow-](https%3A//pan.timero.xyz/onedrive/img_lib_001/Chasing%20Tails%20%E3%80%9C%E9%9B%AA%E4%B8%AD%E8%AA%93%E7%BA%A6%E3%80%9C_cover.avif)
+![Chasing Tails -A Promise in the Snow-](https://pan.timero.xyz/onedrive/img_lib_001/Chasing%20Tails%20%E3%80%9C%E9%9B%AA%E4%B8%AD%E8%AA%93%E7%BA%A6%E3%80%9C_cover.avif)
 
 
 ## 游戏名称
@@ -41,7 +41,10 @@ date: 2021-08-14 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Chasing%20Tails%20%E3%80%9C%E9%9B%AA%E4%B8%AD%E8%AA%93%E7%BA%A6%E3%80%9C)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Chasing%20Tails%20%E3%80%9C%E9%9B%AA%E4%B8%AD%E8%AA%93%E7%BA%A6%E3%80%9C)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

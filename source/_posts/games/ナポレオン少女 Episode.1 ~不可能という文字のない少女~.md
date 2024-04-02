@@ -1,12 +1,13 @@
 ---
-title: "ナポレオン少女 Episode.1 ~不可能という文字のない少女~"
-date: 2022-12-15
+title: ナポレオン少女 Episode.1 ~不可能という文字のない少女~
+abbrlink: c37587c4
+date: 2022-12-15 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~.md)
 
 ## 游戏封面
 
-![ナポレオン少女 Episode.1 ~不可能という文字のない少女~](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~_cover.avif)
+![ナポレオン少女 Episode.1 ~不可能という文字のない少女~](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~_cover.avif)
 
 
 ## 游戏名称
@@ -49,19 +50,22 @@ date: 2022-12-15
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8A%E3%83%9D%E3%83%AC%E3%82%AA%E3%83%B3%E5%B0%91%E5%A5%B3%20Episode.1%20~%E4%B8%8D%E5%8F%AF%E8%83%BD%E3%81%A8%E3%81%84%E3%81%86%E6%96%87%E5%AD%97%E3%81%AE%E3%81%AA%E3%81%84%E5%B0%91%E5%A5%B3~_Screenshot_5.avif)
 

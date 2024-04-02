@@ -7,7 +7,7 @@ date: 2010-06-25 00:00:00
 
 ## 游戏封面
 
-![Tiny Dungeon ~BLACK and WHITE~](https%3A//pan.timero.xyz/onedrive/img_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~_cover.avif)
+![Tiny Dungeon ~BLACK and WHITE~](https://pan.timero.xyz/onedrive/img_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~_cover.avif)
 
 
 ## 游戏名称
@@ -40,19 +40,22 @@ date: 2010-06-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Tiny%20Dungeon%20~BLACK%20and%20WHITE~_Screenshot_5.avif)
 

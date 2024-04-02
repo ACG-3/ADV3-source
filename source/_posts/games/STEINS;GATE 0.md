@@ -7,7 +7,7 @@ date: 2009-10-15 00:00:00
 
 ## 游戏封面
 
-![STEINS;GATE](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS;GATE%200_cover.avif)
+![STEINS;GATE](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%200_cover.avif)
 
 
 ## 游戏名称
@@ -22,7 +22,7 @@ date: 2009-10-15 00:00:00
 ## 游戏信息
 
 - 时长：43.75 h
-- 开发者：NITRO PLUS, MAGES. GAME, MAGES. Inc.
+- 开发者：NITRO PLUS, MAGES., MAGES. Inc.
 - 发售日期：2009-10-15
 - 游戏平台：win, lin, ios, and, psp, ps3, ps4, psv, swi, xb3
 - 相关作品：
@@ -58,19 +58,22 @@ Steins;Gate 讲述的是一群精通技术的年轻学生发现了利用改装�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/STEINS%3BGATE%200)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/STEINS%3BGATE%200)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS;GATE%200_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%200_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS;GATE%200_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%200_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS;GATE%200_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%200_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS;GATE%200_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%200_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS;GATE%200_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/STEINS%3BGATE%200_Screenshot_5.avif)
 

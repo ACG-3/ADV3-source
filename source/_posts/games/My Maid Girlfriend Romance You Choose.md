@@ -7,7 +7,7 @@ date: 2017-12-12 00:00:00
 
 ## 游戏封面
 
-![None](https://pan.timero.xyz/d/onedrive/img_lib_001/My%20Maid%20Girlfriend%20Romance%20You%20Choose_cover.avif)
+![My Maid Girlfriend: Romance You Choose](https://pan.timero.xyz/onedrive/img_lib_001/My%20Maid%20Girlfriend%20Romance%20You%20Choose_cover.avif)
 
 
 ## 游戏名称
@@ -40,7 +40,10 @@ date: 2017-12-12 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/My%20Maid%20Girlfriend%20Romance%20You%20Choose)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/My%20Maid%20Girlfriend%20Romance%20You%20Choose)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

@@ -7,7 +7,7 @@ date: 1999-12-24 00:00:00
 
 ## 游戏封面
 
-![天使のお仕事 -Their Wishes Afterward-](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%20-Their%20Wishes%20Afterward-_cover.avif)
+![天使のお仕事 -Their Wishes Afterward-](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%20-Their%20Wishes%20Afterward-_cover.avif)
 
 
 ## 游戏名称
@@ -41,7 +41,10 @@ date: 1999-12-24 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%20-Their%20Wishes%20Afterward-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%81%8A%E4%BB%95%E4%BA%8B%20-Their%20Wishes%20Afterward-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

@@ -7,7 +7,7 @@ date: 2016-06-16 00:00:00
 
 ## 游戏封面
 
-![√Letter ルートレター](https://pan.timero.xyz/d/onedrive/img_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC_cover.avif)
+![√Letter ルートレター](https://pan.timero.xyz/onedrive/img_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC_cover.avif)
 
 
 ## 游戏名称
@@ -42,19 +42,21 @@ date: 2016-06-16 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC)
+        - 解压密码：ADV!
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E2%88%9ALetter%20%E3%83%AB%E3%83%BC%E3%83%88%E3%83%AC%E3%82%BF%E3%83%BC_Screenshot_5.avif)
 

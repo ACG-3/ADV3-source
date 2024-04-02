@@ -7,7 +7,7 @@ date: 1996-12-26 00:00:00
 
 ## 游戏封面
 
-![この世の果てで恋を唄う少女YU-NO](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO_cover.avif)
+![この世の果てで恋を唄う少女YU-NO](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO_cover.avif)
 
 
 ## 游戏名称
@@ -22,7 +22,7 @@ date: 1996-12-26 00:00:00
 ## 游戏信息
 
 - 时长：44.73 h
-- 开发者：elf, MAGES. GAME
+- 开发者：elf, MAGES.
 - 发售日期：1996-12-26
 - 游戏平台：win, p98, ps4, psv, sat, swi
 - 相关作品：
@@ -39,19 +39,22 @@ date: 1996-12-26 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%9E%9C%E3%81%A6%E3%81%A7%E6%81%8B%E3%82%92%E5%94%84%E3%81%86%E5%B0%91%E5%A5%B3YU-NO_Screenshot_5.avif)
 

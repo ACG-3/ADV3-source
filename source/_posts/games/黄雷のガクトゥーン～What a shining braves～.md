@@ -7,7 +7,7 @@ date: 2012-12-21 00:00:00
 
 ## 游戏封面
 
-![黄雷のガクトゥーン～What a shining braves～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E_cover.avif)
+![黄雷のガクトゥーン～What a shining braves～](https://pan.timero.xyz/onedrive/img_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -26,9 +26,9 @@ date: 2012-12-21 00:00:00
 - 发售日期：2012-12-21
 - 游戏平台：win, ios, and
 - 相关作品：
-   - 世界观：紫影のソナーニル　～What a beautiful memories～
    - 外传：黄雷のガクトゥーン：シャイニングナイト
    - 世界观：瞬旭のティルヒア ~What a Beautiful Dawn~
+   - 世界观：紫影のソナーニル　～What a beautiful memories～
 
 - 相关链接：[vndb](https://vndb.org/v11033)
 
@@ -57,19 +57,22 @@ date: 2012-12-21 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E9%BB%84%E9%9B%B7%E3%81%AE%E3%82%AC%E3%82%AF%E3%83%88%E3%82%A5%E3%83%BC%E3%83%B3%EF%BD%9EWhat%20a%20shining%20braves%EF%BD%9E_Screenshot_5.avif)
 

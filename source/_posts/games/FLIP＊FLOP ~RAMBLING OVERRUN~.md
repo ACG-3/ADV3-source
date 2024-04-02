@@ -1,12 +1,13 @@
 ---
-title: "FLIP＊FLOP ~RAMBLING OVERRUN~"
-date: 2023-02-24
+title: FLIP＊FLOP ~RAMBLING OVERRUN~
+abbrlink: 981a6660
+date: 2023-02-24 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~.md)
 
 ## 游戏封面
 
-![FLIP＊FLOP ~RAMBLING OVERRUN~](https%3A//pan.timero.xyz/onedrive/img_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~_cover.avif)
+![FLIP＊FLOP ~RAMBLING OVERRUN~](https://pan.timero.xyz/onedrive/img_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~_cover.avif)
 
 
 ## 游戏名称
@@ -55,19 +56,22 @@ date: 2023-02-24
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/FLIP%EF%BC%8AFLOP%20~RAMBLING%20OVERRUN~_Screenshot_5.avif)
 

@@ -1,12 +1,13 @@
 ---
-title: "去人たちZERO Div1"
-date: 2022-11-09
+title: 去人たちZERO Div1
+abbrlink: c98cb2ff
+date: 2022-11-09 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1.md)
 
 ## 游戏封面
 
-![去人たちZERO Div1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1_cover.avif)
+![去人たちZERO Div1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1_cover.avif)
 
 
 ## 游戏名称
@@ -37,13 +38,16 @@ date: 2022-11-09
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%8E%BB%E4%BA%BA%E3%81%9F%E3%81%A1ZERO%20Div1_Screenshot_2.avif)
 

@@ -1,12 +1,13 @@
 ---
-title: "天使☆騒々 RE-BOOT!"
-date: 2023-04-28
+title: 天使☆騒々 RE-BOOT!
+abbrlink: 35bc5ded
+date: 2023-04-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21.md)
 
 ## 游戏封面
 
-![天使☆騒々 RE-BOOT!](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_cover.avif)
+![天使☆騒々 RE-BOOT!](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_cover.avif)
 
 
 ## 游戏名称
@@ -20,7 +21,7 @@ date: 2023-04-28
 
 ## 游戏信息
 
-- 时长：48.52 h
+- 时长：49.27 h
 - 开发者：Yuzusoft
 - 发售日期：2023-04-28
 - 游戏平台：win
@@ -59,19 +60,22 @@ date: 2023-04-28
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E2%98%86%E9%A8%92%E3%80%85%20RE-BOOT%21_Screenshot_5.avif)
 

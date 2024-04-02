@@ -7,7 +7,7 @@ date: 2018-03-30 00:00:00
 
 ## 游戏封面
 
-![Fatal Twelve](https://pan.timero.xyz/d/onedrive/img_lib_001/Fatal%20Twelve_cover.avif)
+![Fatal Twelve](https://pan.timero.xyz/onedrive/img_lib_001/Fatal%20Twelve_cover.avif)
 
 
 ## 游戏名称
@@ -38,28 +38,31 @@ Shishimai Rinka 是一名高中生，代替祖母经营一家名为 "狮子屋 "
 
 为了通过 "神选"，一个人必须通过收集他人的姓名、死因和在现实世界中的遗憾等信息，然后 "选举 "他们，从而淘汰其他人。
 
-这一转折将使她了解到自己死亡背后的真相，以及她个人的遗憾。她还将面对 Miharu 为了她不惜抛弃自己生命的现实，以及其他参与者为了活到最后而不惜付出的代价。
+这一转折将使她了解到自己死亡背后的真相，以及自己的个人遗憾。她还将面对 Miharu 为了她不惜抛弃自己生命的现实，以及其他参与者为了活到最后而不惜付出的代价。
 
-现在等待她的经历远远超出了她的想象，但一旦一切都结束了，她的决心又将把她引向何方呢......？
+现在等待她的经历远远超出了她的想象，但一旦一切都结束了，她的决心又会把她引向何方呢......？
 
 
 
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Fatal%20Twelve)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Fatal%20Twelve)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Fatal%20Twelve_Screenshot_5.avif)
 

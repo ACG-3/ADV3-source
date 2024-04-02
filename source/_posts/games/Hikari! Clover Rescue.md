@@ -3,11 +3,11 @@ title: Hikari! Clover Rescue
 abbrlink: 48e2b0fe
 date: 2018-10-22 00:00:00
 ---
-[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E8%A7%A3%E6%95%91%E4%B8%89%E5%8F%B6%E8%8D%89.md)
+[编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Hikari%21%20Clover%20Rescue.md)
 
 ## 游戏封面
 
-![Hikari! Clover Rescue](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%A7%A3%E6%95%91%E4%B8%89%E5%8F%B6%E8%8D%89_cover.avif)
+![Hikari! Clover Rescue](https://pan.timero.xyz/onedrive/img_lib_001/Hikari%21%20Clover%20Rescue_cover.avif)
 
 
 ## 游戏名称
@@ -46,19 +46,22 @@ date: 2018-10-22 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E8%A7%A3%E6%95%91%E4%B8%89%E5%8F%B6%E8%8D%89)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Hikari%21%20Clover%20Rescue)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%A7%A3%E6%95%91%E4%B8%89%E5%8F%B6%E8%8D%89_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Hikari%21%20Clover%20Rescue_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%A7%A3%E6%95%91%E4%B8%89%E5%8F%B6%E8%8D%89_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Hikari%21%20Clover%20Rescue_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%A7%A3%E6%95%91%E4%B8%89%E5%8F%B6%E8%8D%89_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Hikari%21%20Clover%20Rescue_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%A7%A3%E6%95%91%E4%B8%89%E5%8F%B6%E8%8D%89_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Hikari%21%20Clover%20Rescue_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E8%A7%A3%E6%95%91%E4%B8%89%E5%8F%B6%E8%8D%89_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Hikari%21%20Clover%20Rescue_Screenshot_5.avif)
 

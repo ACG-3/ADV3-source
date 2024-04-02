@@ -1,12 +1,13 @@
 ---
-title: "元社畜のオレが美少女JKに拾われて甘々癒されエロ同棲生活"
-date: 2022-10-28
+title: 元社畜のオレが美少女JKに拾われて甘々癒されエロ同棲生活
+abbrlink: 57ab24b0
+date: 2022-10-28 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB.md)
 
 ## 游戏封面
 
-![元社畜のオレが美少女JKに拾われて甘々癒されエロ同棲生活](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB_cover.avif)
+![元社畜のオレが美少女JKに拾われて甘々癒されエロ同棲生活](https://pan.timero.xyz/onedrive/img_lib_001/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB_cover.avif)
 
 
 ## 游戏名称
@@ -46,17 +47,20 @@ date: 2022-10-28
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%85%83%E7%A4%BE%E7%95%9C%E3%81%AE%E3%82%AA%E3%83%AC%E3%81%8C%E7%BE%8E%E5%B0%91%E5%A5%B3JK%E3%81%AB%E6%8B%BE%E3%82%8F%E3%82%8C%E3%81%A6%E7%94%98%E3%80%85%E7%99%92%E3%81%95%E3%82%8C%E3%82%A8%E3%83%AD%E5%90%8C%E6%A3%B2%E7%94%9F%E6%B4%BB_Screenshot_4.avif)
 

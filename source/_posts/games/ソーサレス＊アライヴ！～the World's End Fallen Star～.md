@@ -7,7 +7,7 @@ date: 2019-01-25 00:00:00
 
 ## 游戏封面
 
-![ソーサレス＊アライヴ！～the World's End Fallen Star～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World's%20End%20Fallen%20Star%EF%BD%9E_cover.avif)
+![ソーサレス＊アライヴ！～the World's End Fallen Star～](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World%27s%20End%20Fallen%20Star%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -39,19 +39,22 @@ date: 2019-01-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World%27s%20End%20Fallen%20Star%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World%27s%20End%20Fallen%20Star%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World's%20End%20Fallen%20Star%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World%27s%20End%20Fallen%20Star%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World's%20End%20Fallen%20Star%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World%27s%20End%20Fallen%20Star%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World's%20End%20Fallen%20Star%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World%27s%20End%20Fallen%20Star%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World's%20End%20Fallen%20Star%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World%27s%20End%20Fallen%20Star%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World's%20End%20Fallen%20Star%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%BD%E3%83%BC%E3%82%B5%E3%83%AC%E3%82%B9%EF%BC%8A%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%B4%EF%BC%81%EF%BD%9Ethe%20World%27s%20End%20Fallen%20Star%EF%BD%9E_Screenshot_5.avif)
 

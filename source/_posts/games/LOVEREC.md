@@ -7,7 +7,7 @@ date: 2009-07-16 00:00:00
 
 ## 游戏封面
 
-![Click Here For Love: Reconnected](https%3A//pan.timero.xyz/onedrive/img_lib_001/LOVEREC_cover.avif)
+![Click Here For Love: Reconnected](https://pan.timero.xyz/onedrive/img_lib_001/LOVEREC_cover.avif)
 
 
 ## 游戏名称
@@ -45,13 +45,16 @@ Click Here For Love》更加个性化！
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/LOVEREC)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/LOVEREC)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/LOVEREC_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/LOVEREC_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/LOVEREC_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/LOVEREC_Screenshot_2.avif)
 

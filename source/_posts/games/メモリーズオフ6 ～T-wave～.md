@@ -7,7 +7,7 @@ date: 2008-08-21 00:00:00
 
 ## 游戏封面
 
-![メモリーズオフ6 ～T-wave～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E_cover.avif)
+![メモリーズオフ6 ～T-wave～](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -22,15 +22,15 @@ date: 2008-08-21 00:00:00
 ## 游戏信息
 
 - 时长：36.1 h
-- 开发者：KID, MAGES. GAME, CYBERFRONT, SDR Project
+- 开发者：KID, MAGES., CYBERFRONT, SDR Project
 - 发售日期：2008-08-21
 - 游戏平台：win, ios, and, psp, ps2, ps3, ps4, psv, swi, xb3, mob
 - 相关作品：
    - 角色：CHAOS;HEAD
-   - 世界观：Memories Off #5 とぎれたフィルム
-   - 续作：メモリーズオフ6 Next Relation
-   - 世界观：メモリーズオフ ゆびきりの記憶
    - 角色：メモリーズオフ ゆびきりの記憶 ふたりの風流庵
+   - 续作：メモリーズオフ6 Next Relation
+   - 世界观：Memories Off #5 とぎれたフィルム
+   - 世界观：メモリーズオフ ゆびきりの記憶
 
 - 相关链接：[vndb](https://vndb.org/v1646)
 
@@ -44,19 +44,22 @@ date: 2008-08-21 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%BC%E3%82%BA%E3%82%AA%E3%83%956%20%EF%BD%9ET-wave%EF%BD%9E_Screenshot_5.avif)
 

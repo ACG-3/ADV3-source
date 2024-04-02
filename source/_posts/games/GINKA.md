@@ -1,12 +1,13 @@
 ---
-title: "夢見る銀貨"
-date: 2006-12-31
+title: 夢見る銀貨
+abbrlink: 93558f6c
+date: 2006-12-31 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/GINKA.md)
 
 ## 游戏封面
 
-![夢見る銀貨](https%3A//pan.timero.xyz/onedrive/img_lib_001/GINKA_cover.avif)
+![夢見る銀貨](https://pan.timero.xyz/onedrive/img_lib_001/GINKA_cover.avif)
 
 
 ## 游戏名称
@@ -38,7 +39,10 @@ date: 2006-12-31
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/GINKA)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/GINKA)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

@@ -7,7 +7,7 @@ date: 2018-04-04 00:00:00
 
 ## 游戏封面
 
-![Forest Fortress](https://pan.timero.xyz/d/onedrive/img_lib_001/Forest%20Fortress_cover.avif)
+![Forest Fortress](https://pan.timero.xyz/onedrive/img_lib_001/Forest%20Fortress_cover.avif)
 
 
 ## 游戏名称
@@ -39,7 +39,10 @@ date: 2018-04-04 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Forest%20Fortress)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Forest%20Fortress)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

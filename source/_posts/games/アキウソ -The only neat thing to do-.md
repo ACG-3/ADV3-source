@@ -7,7 +7,7 @@ date: 2016-11-25 00:00:00
 
 ## 游戏封面
 
-![アキウソ -The only neat thing to do-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_cover.avif)
+![アキウソ -The only neat thing to do-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_cover.avif)
 
 
 ## 游戏名称
@@ -27,9 +27,9 @@ date: 2016-11-25 00:00:00
 - 游戏平台：win, and
 - 相关作品：
    - 前作：ナツウソ -Ahead of the reminiscence-
+   - 续作：フユウソ -Snow World End-
    - 系列：Deep Love Diary -恋人日記-
    - 系列：不運と幸運と恋占いのタロット
-   - 续作：フユウソ -Snow World End-
 
 - 相关链接：[vndb](https://vndb.org/v19604)
 
@@ -47,19 +47,22 @@ date: 2016-11-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%AD%E3%82%A6%E3%82%BD%20-The%20only%20neat%20thing%20to%20do-_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2013-03-22 00:00:00
 
 ## 游戏封面
 
-![LOVESICK PUPPIES -僕らは恋するために生まれてきた-](https%3A//pan.timero.xyz/onedrive/img_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-_cover.avif)
+![LOVESICK PUPPIES -僕らは恋するために生まれてきた-](https://pan.timero.xyz/onedrive/img_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-_cover.avif)
 
 
 ## 游戏名称
@@ -44,19 +44,22 @@ date: 2013-03-22 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/LOVESICK%20PUPPIES%20-%E5%83%95%E3%82%89%E3%81%AF%E6%81%8B%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E7%94%9F%E3%81%BE%E3%82%8C%E3%81%A6%E3%81%8D%E3%81%9F-_Screenshot_5.avif)
 

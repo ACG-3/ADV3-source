@@ -7,7 +7,7 @@ date: 2011-05-02 00:00:00
 
 ## 游戏封面
 
-![天使の日曜日「続・プリンセスサマー」Angel's Holiday - another story, for BugBug.](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug_cover.avif)
+![天使の日曜日「続・プリンセスサマー」Angel's Holiday - another story, for BugBug.](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug_cover.avif)
 
 
 ## 游戏名称
@@ -39,17 +39,20 @@ date: 2011-05-02 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%A4%A9%E4%BD%BF%E3%81%AE%E6%97%A5%E6%9B%9C%E6%97%A5%E3%80%8C%E7%B6%9A%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%B5%E3%83%9E%E3%83%BC%E3%80%8DAngel%27s%20Holiday%20-%20another%20story%2C%20for%20BugBug_Screenshot_4.avif)
 

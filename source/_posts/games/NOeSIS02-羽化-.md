@@ -7,7 +7,7 @@ date: 2012-10-24 00:00:00
 
 ## 游戏封面
 
-![NOeSIS02-羽化-](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_cover.avif)
+![NOeSIS02-羽化-](https://pan.timero.xyz/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_cover.avif)
 
 
 ## 游戏名称
@@ -21,10 +21,10 @@ date: 2012-10-24 00:00:00
 
 ## 游戏信息
 
-- 时长：10.5 h
+- 时长：14.33 h
 - 开发者：cutlass, Classic Chocolat
 - 发售日期：2012-10-24
-- 游戏平台：win, ios, and
+- 游戏平台：win, ios, and, psp
 - 相关作品：
    - 前作：NOeSIS～嘘を吐いた記憶の物語～
    - 续作：NOeSIS 歌う影の戯曲
@@ -45,17 +45,20 @@ date: 2012-10-24 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/NOeSIS02-%E7%BE%BD%E5%8C%96-_Screenshot_4.avif)
 

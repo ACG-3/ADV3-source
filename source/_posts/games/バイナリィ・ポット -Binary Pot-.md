@@ -7,7 +7,7 @@ date: 2002-02-22 00:00:00
 
 ## 游戏封面
 
-![バイナリィ・ポット -Binary Pot-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-_cover.avif)
+![バイナリィ・ポット -Binary Pot-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-_cover.avif)
 
 
 ## 游戏名称
@@ -41,19 +41,22 @@ date: 2002-02-22 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%90%E3%82%A4%E3%83%8A%E3%83%AA%E3%82%A3%E3%83%BB%E3%83%9D%E3%83%83%E3%83%88%20-Binary%20Pot-_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2019-12-31 00:00:00
 
 ## 游戏封面
 
-![死埋葬 -III-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-_cover.avif)
+![死埋葬 -III-](https://pan.timero.xyz/onedrive/img_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-_cover.avif)
 
 
 ## 游戏名称
@@ -39,19 +39,22 @@ date: 2019-12-31 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E6%AD%BB%E5%9F%8B%E8%91%AC%20-III-_Screenshot_5.avif)
 

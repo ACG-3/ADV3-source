@@ -7,7 +7,7 @@ date: 2017-12-22 00:00:00
 
 ## 游戏封面
 
-![金色ラブリッチェ](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-_cover.avif)
+![金色ラブリッチェ](https://pan.timero.xyz/onedrive/img_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-_cover.avif)
 
 
 ## 游戏名称
@@ -41,19 +41,22 @@ date: 2017-12-22 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E9%87%91%E8%89%B2%E3%83%A9%E3%83%96%E3%83%AA%E3%83%83%E3%83%81%E3%82%A7-Golden%20Time-_Screenshot_5.avif)
 

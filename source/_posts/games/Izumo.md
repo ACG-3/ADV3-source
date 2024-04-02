@@ -7,7 +7,7 @@ date: 2001-12-21 00:00:00
 
 ## 游戏封面
 
-![Izumo](https%3A//pan.timero.xyz/onedrive/img_lib_001/Izumo_cover.avif)
+![Izumo](https://pan.timero.xyz/onedrive/img_lib_001/Izumo_cover.avif)
 
 
 ## 游戏名称
@@ -41,7 +41,10 @@ date: 2001-12-21 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Izumo)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Izumo)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

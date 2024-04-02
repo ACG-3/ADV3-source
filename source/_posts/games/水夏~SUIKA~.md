@@ -7,7 +7,7 @@ date: 2001-07-27 00:00:00
 
 ## 游戏封面
 
-![水夏~SUIKA~](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~_cover.avif)
+![水夏~SUIKA~](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~_cover.avif)
 
 
 ## 游戏名称
@@ -45,7 +45,7 @@ date: 2001-07-27 00:00:00
 
 第一章
 
-风间明最近随母亲回到常盘村。在去村里神社的路上，他与儿时的老友南濑树重逢了。他们的重逢勾起了他们的各种回忆，那时他们还在一起玩耍，一起度过了美好的时光。他们的过去和现在交织在一起，命运会给他们带来什么呢？
+风间明最近随母亲回到常盘村。在去村里神社的路上，他与儿时的老友南濑树重逢了。他们的重逢勾起了他们的各种回忆，那时他们还在一起玩耍，一起度过了美好的时光。他们的过去和现在交织在一起，命运又会给他们带来什么......？
 
 第二章
 
@@ -57,26 +57,29 @@ date: 2001-07-27 00:00:00
 
 第四章
 
-稻叶浩从小因为家庭问题不得不离开家，住进了孤儿院。听说父亲病重的消息后，他在七夕节的晚上回到了常盘村。那天晚上，弘遇到了一个神秘的女孩，她手里拿着一个黑色的毛绒猫咪玩具。这个穿着黑色衣服、戴着黑色帽子的奇怪女孩不记得自己的名字，但这并不妨碍弘与女孩和她的毛绒猫阿基米德相处更长的时间。弘树在常盘的特殊夏天才刚刚开始。
+稻叶浩从小因为家庭问题不得不离开家，住进了孤儿院。听说父亲病重的消息后，他在七夕节的晚上回到了常盘村。那天晚上，弘遇到了一个神秘的女孩，她手里拿着一个黑色的毛绒猫玩具。这个穿着黑色衣服、戴着黑色帽子的奇怪女孩不记得自己的名字，但这并不妨碍弘与女孩和她的毛绒猫阿基米德相处更长的时间。弘树在常盘的特殊夏天才刚刚开始。
 
 
 
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B0%B4%E5%A4%8F~SUIKA~_Screenshot_5.avif)
 

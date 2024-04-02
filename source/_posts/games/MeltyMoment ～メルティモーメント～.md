@@ -7,7 +7,7 @@ date: 2014-01-31 00:00:00
 
 ## 游戏封面
 
-![MeltyMoment ～メルティモーメント～](https://pan.timero.xyz/d/onedrive/img_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E_cover.avif)
+![MeltyMoment ～メルティモーメント～](https://pan.timero.xyz/onedrive/img_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -21,7 +21,7 @@ date: 2014-01-31 00:00:00
 
 ## 游戏信息
 
-- 时长：28.75 h
+- 时长：35.9 h
 - 开发者：HOOKSOFT
 - 发售日期：2014-01-31
 - 游戏平台：win, psv
@@ -56,19 +56,22 @@ date: 2014-01-31 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/MeltyMoment%20%EF%BD%9E%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%A2%E3%83%BC%E3%83%A1%E3%83%B3%E3%83%88%EF%BD%9E_Screenshot_5.avif)
 

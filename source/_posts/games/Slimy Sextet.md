@@ -1,12 +1,13 @@
 ---
-title: "Slimy Sextet"
-date: 2023-05-19
+title: Slimy Sextet
+abbrlink: ffdb505e
+date: 2023-05-19 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Slimy%20Sextet.md)
 
 ## 游戏封面
 
-![Slimy Sextet](https%3A//pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_cover.avif)
+![Slimy Sextet](https://pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_cover.avif)
 
 
 ## 游戏名称
@@ -44,19 +45,22 @@ Slimy Sextet》是一部视觉小说，你将扮演塞莱斯特的粘液奴才�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Slimy%20Sextet)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Slimy%20Sextet)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Slimy%20Sextet_Screenshot_5.avif)
 

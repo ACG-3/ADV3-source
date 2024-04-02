@@ -7,7 +7,7 @@ date: 2021-06-25 00:00:00
 
 ## 游戏封面
 
-![流星ワールドアクター Badge & Dagger](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger_cover.avif)
+![流星ワールドアクター Badge & Dagger](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger_cover.avif)
 
 
 ## 游戏名称
@@ -49,19 +49,22 @@ date: 2021-06-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E6%B5%81%E6%98%9F%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%20Badge%20%26%20Dagger_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2014-12-29 00:00:00
 
 ## 游戏封面
 
-![ネコぱら Vol.1 ソレイユ開店しました！](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_cover.avif)
+![ネコぱら Vol.1 ソレイユ開店しました！](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_cover.avif)
 
 
 ## 游戏名称
@@ -21,14 +21,14 @@ date: 2014-12-29 00:00:00
 
 ## 游戏信息
 
-- 时长：6.23 h
+- 时长：6.22 h
 - 开发者：NEKO WORKs
 - 发售日期：2014-12-29
 - 游戏平台：win, ios, and, ps4, swi, web
 - 相关作品：
+   - 变体：ネコぱら- catboys paradise -
    - 外传：ネコぱら vol.0 水無月ネコたちの日常！
    - 续作：ネコぱら vol.2 姉妹ネコのシュクレ
-   - 变体：ネコぱら- catboys paradise -
 
 - 相关链接：[vndb](https://vndb.org/v15538)
 
@@ -50,19 +50,22 @@ Minazuki Kashou 是日本糕点师世家的后代，他自己开了一家名为 
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20Vol.1%20%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%E9%96%8B%E5%BA%97%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2003-02-07 00:00:00
 
 ## 游戏封面
 
-![CANNONBALL ～ねこねこマシン猛レース！～](https%3A//pan.timero.xyz/onedrive/img_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E_cover.avif)
+![CANNONBALL ～ねこねこマシン猛レース！～](https://pan.timero.xyz/onedrive/img_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -47,19 +47,22 @@ date: 2003-02-07 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/CANNONBALL%20%EF%BD%9E%E3%81%AD%E3%81%93%E3%81%AD%E3%81%93%E3%83%9E%E3%82%B7%E3%83%B3%E7%8C%9B%E3%83%AC%E3%83%BC%E3%82%B9%EF%BC%81%EF%BD%9E_Screenshot_5.avif)
 

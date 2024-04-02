@@ -7,7 +7,7 @@ date: 2017-11-25 00:00:00
 
 ## 游戏封面
 
-![Hello 殺戮 world -ZERO ONE-](https%3A//pan.timero.xyz/onedrive/img_lib_001/Hello%20%E6%AE%BA%E6%88%AE%20world%20-ZERO%20ONE-_cover.avif)
+![Hello 殺戮 world -ZERO ONE-](https://pan.timero.xyz/onedrive/img_lib_001/Hello%20%E6%AE%BA%E6%88%AE%20world%20-ZERO%20ONE-_cover.avif)
 
 
 ## 游戏名称
@@ -39,7 +39,10 @@ date: 2017-11-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Hello%20%E6%AE%BA%E6%88%AE%20world%20-ZERO%20ONE-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Hello%20%E6%AE%BA%E6%88%AE%20world%20-ZERO%20ONE-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

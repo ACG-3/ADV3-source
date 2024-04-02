@@ -7,7 +7,7 @@ date: 2012-06-22 00:00:00
 
 ## 游戏封面
 
-![LEWDNESS ~Vita Sexualis~](https%3A//pan.timero.xyz/onedrive/img_lib_001/LEWDNESS%20~Vita%20Sexualis~_cover.avif)
+![LEWDNESS ~Vita Sexualis~](https://pan.timero.xyz/onedrive/img_lib_001/LEWDNESS%20~Vita%20Sexualis~_cover.avif)
 
 
 ## 游戏名称
@@ -32,7 +32,7 @@ date: 2012-06-22 00:00:00
 
 ## 游戏简介
 
-本世纪中叶，这个国家的政治家们担心出生率下降，于是提出了一项法律。禁止性行为法"。该法的内容是 "禁止一切不以生殖为目的的性行为"。
+本世纪中叶，这个国家的政治家们因担心出生率下降而提出了一项法律。禁止性行为法"。该法的内容是 "禁止一切不以生殖为目的的性行为"。
 这是一部禁止通过接触或拥有来享受色情制品和性产业的法律。
 这项法律的核心人物名叫立花忠信。他曾是这个国家的第一任行政长官，退休后创办了 "圣人学园"，这是一个专门隔离那些违反禁止 SM 法的年轻人的机构，他将以该机构主席的身份度过余生。
 
@@ -46,19 +46,22 @@ date: 2012-06-22 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/LEWDNESS%20~Vita%20Sexualis~)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/LEWDNESS%20~Vita%20Sexualis~)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/LEWDNESS%20~Vita%20Sexualis~_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/LEWDNESS%20~Vita%20Sexualis~_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/LEWDNESS%20~Vita%20Sexualis~_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/LEWDNESS%20~Vita%20Sexualis~_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/LEWDNESS%20~Vita%20Sexualis~_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/LEWDNESS%20~Vita%20Sexualis~_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/LEWDNESS%20~Vita%20Sexualis~_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/LEWDNESS%20~Vita%20Sexualis~_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/LEWDNESS%20~Vita%20Sexualis~_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/LEWDNESS%20~Vita%20Sexualis~_Screenshot_5.avif)
 

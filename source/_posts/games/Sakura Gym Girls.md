@@ -1,12 +1,13 @@
 ---
-title: "Sakura Gym Girls"
-date: 2022-12-19
+title: Sakura Gym Girls
+abbrlink: 9b4acf7d
+date: 2022-12-19 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Sakura%20Gym%20Girls.md)
 
 ## 游戏封面
 
-![Sakura Gym Girls](https%3A//pan.timero.xyz/onedrive/img_lib_001/Sakura%20Gym%20Girls_cover.avif)
+![Sakura Gym Girls](https://pan.timero.xyz/onedrive/img_lib_001/Sakura%20Gym%20Girls_cover.avif)
 
 
 ## 游戏名称
@@ -49,7 +50,10 @@ Shouhei 与他最喜欢的（也是唯一的）同事 Asa 聊天，Asa 天性甜
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Sakura%20Gym%20Girls)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Sakura%20Gym%20Girls)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

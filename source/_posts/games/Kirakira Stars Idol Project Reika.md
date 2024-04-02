@@ -7,14 +7,14 @@ date: 2020-10-29 00:00:00
 
 ## 游戏封面
 
-![Kirakira Stars Idol Project Reika](https://pan.timero.xyz/d/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Reika_cover.avif)
+![Kirakira Stars Idol Project Reika](https://pan.timero.xyz/onedrive/img_lib_001/Kirakira%20Stars%20Idol%20Project%20Reika_cover.avif)
 
 
 ## 游戏名称
 
 - 日文：Kirakira Stars Idol Project Reika
 - 英文：Kirakira Stars Idol Project Reika
-- 中文：None
+- 中文：爱的闪耀偶像企划 Reika
 
 - 别名：きらきらスターズ ーidol project Reikaー, 闪耀明星偶像计划-爱叶礼华
 
@@ -47,7 +47,10 @@ date: 2020-10-29 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Kirakira%20Stars%20Idol%20Project%20Reika)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Kirakira%20Stars%20Idol%20Project%20Reika)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

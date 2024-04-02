@@ -7,7 +7,7 @@ date: 2005-07-29 00:00:00
 
 ## 游戏封面
 
-![As you like～星降る夜にロマンスを～](https://pan.timero.xyz/d/onedrive/img_lib_001/As%20you%20like%EF%BD%9E%E6%98%9F%E9%99%8D%E3%82%8B%E5%A4%9C%E3%81%AB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%EF%BD%9E_cover.avif)
+![As you like～星降る夜にロマンスを～](https://pan.timero.xyz/onedrive/img_lib_001/As%20you%20like%EF%BD%9E%E6%98%9F%E9%99%8D%E3%82%8B%E5%A4%9C%E3%81%AB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -42,13 +42,16 @@ date: 2005-07-29 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/As%20you%20like%EF%BD%9E%E6%98%9F%E9%99%8D%E3%82%8B%E5%A4%9C%E3%81%AB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/As%20you%20like%EF%BD%9E%E6%98%9F%E9%99%8D%E3%82%8B%E5%A4%9C%E3%81%AB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/As%20you%20like%EF%BD%9E%E6%98%9F%E9%99%8D%E3%82%8B%E5%A4%9C%E3%81%AB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/As%20you%20like%EF%BD%9E%E6%98%9F%E9%99%8D%E3%82%8B%E5%A4%9C%E3%81%AB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/As%20you%20like%EF%BD%9E%E6%98%9F%E9%99%8D%E3%82%8B%E5%A4%9C%E3%81%AB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/As%20you%20like%EF%BD%9E%E6%98%9F%E9%99%8D%E3%82%8B%E5%A4%9C%E3%81%AB%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%B9%E3%82%92%EF%BD%9E_Screenshot_2.avif)
 

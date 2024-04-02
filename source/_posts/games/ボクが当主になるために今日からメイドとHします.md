@@ -1,12 +1,13 @@
 ---
-title: "ボクが当主になるために今日からメイドとHします"
-date: 2023-03-31
+title: ボクが当主になるために今日からメイドとHします
+abbrlink: 667fb2fd
+date: 2023-03-31 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99.md)
 
 ## 游戏封面
 
-![ボクが当主になるために今日からメイドとHします](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_cover.avif)
+![ボクが当主になるために今日からメイドとHします](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_cover.avif)
 
 
 ## 游戏名称
@@ -39,7 +40,7 @@ date: 2023-03-31
 你一直在家族拥有的大片庄园里过着无忧无虑的生活。
 有一天，你突然接到父亲去世的消息。
 
-还没等你缓过神来，就面临着接班人的重任。
+还没等你缓过神来，你就面临着成为他接班人的责任。
 此外，当你向母亲谈及这一情况时，似乎有些不对劲......
 
 "我们家族是恶魔世家的一员" "他们利用自己的天赋在色情行业发家致富"
@@ -56,17 +57,20 @@ date: 2023-03-31
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%9C%E3%82%AF%E3%81%8C%E5%BD%93%E4%B8%BB%E3%81%AB%E3%81%AA%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AB%E4%BB%8A%E6%97%A5%E3%81%8B%E3%82%89%E3%83%A1%E3%82%A4%E3%83%89%E3%81%A8H%E3%81%97%E3%81%BE%E3%81%99_Screenshot_4.avif)
 

@@ -7,7 +7,7 @@ date: 2016-10-02 00:00:00
 
 ## 游戏封面
 
-![本当は怖いヤンデレ娘 ～love one another～](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E6%9C%AC%E5%BD%93%E3%81%AF%E6%80%96%E3%81%84%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E5%A8%98%20%EF%BD%9Elove%20one%20another%EF%BD%9E_cover.avif)
+![本当は怖いヤンデレ娘 ～love one another～](https://pan.timero.xyz/onedrive/img_lib_001/%E6%9C%AC%E5%BD%93%E3%81%AF%E6%80%96%E3%81%84%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E5%A8%98%20%EF%BD%9Elove%20one%20another%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -38,7 +38,10 @@ date: 2016-10-02 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%9C%AC%E5%BD%93%E3%81%AF%E6%80%96%E3%81%84%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E5%A8%98%20%EF%BD%9Elove%20one%20another%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E6%9C%AC%E5%BD%93%E3%81%AF%E6%80%96%E3%81%84%E3%83%A4%E3%83%B3%E3%83%87%E3%83%AC%E5%A8%98%20%EF%BD%9Elove%20one%20another%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

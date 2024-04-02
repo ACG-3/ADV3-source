@@ -7,7 +7,7 @@ date: 2008-01-25 00:00:00
 
 ## 游戏封面
 
-![FORTUNE ARTERIAL](https://pan.timero.xyz/d/onedrive/img_lib_001/FORTUNE%20ARTERIAL_cover.avif)
+![FORTUNE ARTERIAL](https://pan.timero.xyz/onedrive/img_lib_001/FORTUNE%20ARTERIAL_cover.avif)
 
 
 ## 游戏名称
@@ -21,13 +21,13 @@ date: 2008-01-25 00:00:00
 
 ## 游戏信息
 
-- 时长：32.63 h
+- 时长：34.5 h
 - 开发者：AUGUST
 - 发售日期：2008-01-25
 - 游戏平台：win
 - 相关作品：
-   - 系列：大図書館の羊飼い
    - 外传：Augustic Pieces 2009
+   - 系列：大図書館の羊飼い
 
 - 相关链接：[vndb](https://vndb.org/v87)
 
@@ -41,19 +41,22 @@ date: 2008-01-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/FORTUNE%20ARTERIAL)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/FORTUNE%20ARTERIAL)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/FORTUNE%20ARTERIAL_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/FORTUNE%20ARTERIAL_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/FORTUNE%20ARTERIAL_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/FORTUNE%20ARTERIAL_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/FORTUNE%20ARTERIAL_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/FORTUNE%20ARTERIAL_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/FORTUNE%20ARTERIAL_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/FORTUNE%20ARTERIAL_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/FORTUNE%20ARTERIAL_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/FORTUNE%20ARTERIAL_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2016-02-19 00:00:00
 
 ## 游戏封面
 
-![ネコぱら vol.2 姉妹ネコのシュクレ](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC_cover.avif)
+![ネコぱら vol.2 姉妹ネコのシュクレ](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC_cover.avif)
 
 
 ## 游戏名称
@@ -45,19 +45,22 @@ La Soleil 是南月嘉寿与他的两个猫女 Chocola 和 Vanilla、他的妹�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89%20vol.2%20%E5%A7%89%E5%A6%B9%E3%83%8D%E3%82%B3%E3%81%AE%E3%82%B7%E3%83%A5%E3%82%AF%E3%83%AC_Screenshot_5.avif)
 

@@ -7,7 +7,7 @@ date: 2020-07-27 00:00:00
 
 ## 游戏封面
 
-![Synergia](https%3A//pan.timero.xyz/onedrive/img_lib_001/Synergia_cover.avif)
+![Synergia](https://pan.timero.xyz/onedrive/img_lib_001/Synergia_cover.avif)
 
 
 ## 游戏名称
@@ -34,7 +34,7 @@ date: 2020-07-27 00:00:00
 
 西拉是一名老警察，性格孤僻、易怒，除了臭氧的气味、刺眼的霓虹灯和无处不在的沙井蒸汽，她对生活别无所求。至少，直到一位不怀好意的朋友帮她换掉了坏掉的摩托车。
 
-M.A.R.A. 装置先进、高效、感知力极强，它开始穿透西拉坚韧的外表，甚至有可能治愈新主人的旧伤--如果西拉能破解这个过程带来的反复出现的噩梦的话。很快，茜拉和马拉就建立起了一种独特的、有时甚至是令人不安的联系。
+M.A.R.A. 装置先进、高效、感知能力极强，它开始穿透西拉坚韧的外表，甚至有可能治愈新主人的旧伤--如果西拉能破解这个过程带来的反复出现的噩梦的话。很快，茜拉和马拉就建立起了一种独特的、有时甚至是令人不安的联系。
 
 茜拉并不知道，就在她的生活开始恢复正常的时候，科技巨头维尔塔实验室（Velta Labs）得知了玛拉的存在，并对这个机器人产生了神秘的兴趣。
 
@@ -43,19 +43,22 @@ M.A.R.A. 装置先进、高效、感知力极强，它开始穿透西拉坚韧�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Synergia)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Synergia)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/Synergia_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Synergia_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/Synergia_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Synergia_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/Synergia_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Synergia_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/Synergia_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Synergia_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/Synergia_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Synergia_Screenshot_5.avif)
 

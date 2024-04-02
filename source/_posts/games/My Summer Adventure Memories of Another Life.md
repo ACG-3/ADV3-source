@@ -1,12 +1,13 @@
 ---
-title: "My Summer Adventure: Memories of Another Life"
-date: 2023-05-04
+title: 'My Summer Adventure: Memories of Another Life'
+abbrlink: 477d6bae
+date: 2023-05-04 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/My%20Summer%20Adventure%20Memories%20of%20Another%20Life.md)
 
 ## 游戏封面
 
-![My Summer Adventure: Memories of Another Life](https%3A//pan.timero.xyz/onedrive/img_lib_001/My%20Summer%20Adventure%20Memories%20of%20Another%20Life_cover.avif)
+![My Summer Adventure: Memories of Another Life](https://pan.timero.xyz/onedrive/img_lib_001/My%20Summer%20Adventure%20Memories%20of%20Another%20Life_cover.avif)
 
 
 ## 游戏名称
@@ -42,7 +43,10 @@ date: 2023-05-04
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/My%20Summer%20Adventure%20Memories%20of%20Another%20Life)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/My%20Summer%20Adventure%20Memories%20of%20Another%20Life)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

@@ -7,7 +7,7 @@ date: 2003-12-19 00:00:00
 
 ## 游戏封面
 
-![V.G. Neo](https://pan.timero.xyz/d/onedrive/img_lib_001/V.G.%20Neo_cover.avif)
+![V.G. Neo](https://pan.timero.xyz/onedrive/img_lib_001/V.G.%20Neo_cover.avif)
 
 
 ## 游戏名称
@@ -43,13 +43,16 @@ date: 2003-12-19 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/V.G.%20Neo)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/V.G.%20Neo)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/V.G.%20Neo_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/V.G.%20Neo_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/V.G.%20Neo_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/V.G.%20Neo_Screenshot_2.avif)
 

@@ -7,7 +7,7 @@ date: 2020-12-18 00:00:00
 
 ## 游戏封面
 
-![竜姫ぐーたらいふ LOVE + PLUS](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS_cover.avif)
+![竜姫ぐーたらいふ LOVE + PLUS](https://pan.timero.xyz/onedrive/img_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS_cover.avif)
 
 
 ## 游戏名称
@@ -38,19 +38,22 @@ Drapri Guu-ta-life 的 Fandisc，包括 Haru 和 Suzuka 的续集故事，以及
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E7%AB%9C%E5%A7%AB%E3%81%90%E3%83%BC%E3%81%9F%E3%82%89%E3%81%84%E3%81%B5%20LOVE%20%2B%20PLUS_Screenshot_5.avif)
 

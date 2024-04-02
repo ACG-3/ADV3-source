@@ -7,7 +7,7 @@ date: 2003-12-28 00:00:00
 
 ## 游戏封面
 
-![Petit Fleur　～風吹く街のメロディ～](https://pan.timero.xyz/d/onedrive/img_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E_cover.avif)
+![Petit Fleur　～風吹く街のメロディ～](https://pan.timero.xyz/onedrive/img_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -40,19 +40,22 @@ Mizuk 是一名孤儿，在当地一家面包店工作。一天，她帮助了�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Petit%20Fleur%E3%80%80%EF%BD%9E%E9%A2%A8%E5%90%B9%E3%81%8F%E8%A1%97%E3%81%AE%E3%83%A1%E3%83%AD%E3%83%87%E3%82%A3%EF%BD%9E_Screenshot_5.avif)
 

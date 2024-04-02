@@ -7,7 +7,7 @@ date: 1998-11-05 00:00:00
 
 ## 游戏封面
 
-![初恋ばれんたいん SPECIAL](https%3A//pan.timero.xyz/onedrive/img_lib_001/%E5%88%9D%E6%81%8B%E3%81%B0%E3%82%8C%E3%82%93%E3%81%9F%E3%81%84%E3%82%93%20SPECIAL_cover.avif)
+![初恋ばれんたいん SPECIAL](https://pan.timero.xyz/onedrive/img_lib_001/%E5%88%9D%E6%81%8B%E3%81%B0%E3%82%8C%E3%82%93%E3%81%9F%E3%81%84%E3%82%93%20SPECIAL_cover.avif)
 
 
 ## 游戏名称
@@ -40,7 +40,10 @@ date: 1998-11-05 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%88%9D%E6%81%8B%E3%81%B0%E3%82%8C%E3%82%93%E3%81%9F%E3%81%84%E3%82%93%20SPECIAL)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%88%9D%E6%81%8B%E3%81%B0%E3%82%8C%E3%82%93%E3%81%9F%E3%81%84%E3%82%93%20SPECIAL)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

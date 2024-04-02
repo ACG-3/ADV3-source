@@ -7,7 +7,7 @@ date: 2019-10-10 00:00:00
 
 ## 游戏封面
 
-![King of Halloween](https://pan.timero.xyz/d/onedrive/img_lib_001/King%20of%20Halloween_cover.avif)
+![King of Halloween](https://pan.timero.xyz/onedrive/img_lib_001/King%20of%20Halloween_cover.avif)
 
 
 ## 游戏名称
@@ -43,7 +43,10 @@ date: 2019-10-10 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/King%20of%20Halloween)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/King%20of%20Halloween)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

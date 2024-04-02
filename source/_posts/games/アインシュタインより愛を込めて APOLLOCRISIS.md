@@ -7,7 +7,7 @@ date: 2020-10-30 00:00:00
 
 ## 游戏封面
 
-![アインシュタインより愛を込めて](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS_cover.avif)
+![アインシュタインより愛を込めて](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS_cover.avif)
 
 
 ## 游戏名称
@@ -21,7 +21,7 @@ date: 2020-10-30 00:00:00
 
 ## 游戏信息
 
-- 时长：17.52 h
+- 时长：17.73 h
 - 开发者：GLOVETY
 - 发售日期：2020-10-30
 - 游戏平台：win
@@ -50,19 +50,22 @@ date: 2020-10-30 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%82%88%E3%82%8A%E6%84%9B%E3%82%92%E8%BE%BC%E3%82%81%E3%81%A6%20APOLLOCRISIS_Screenshot_5.avif)
 

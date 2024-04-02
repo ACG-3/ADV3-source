@@ -7,7 +7,7 @@ date: 2021-12-24 00:00:00
 
 ## 游戏封面
 
-![LUNARiA -Virtualized Moonchild-](https%3A//pan.timero.xyz/onedrive/img_lib_001/LUNARiA%20-Virtualized%20Moonchild-_cover.avif)
+![LUNARiA -Virtualized Moonchild-](https://pan.timero.xyz/onedrive/img_lib_001/LUNARiA%20-Virtualized%20Moonchild-_cover.avif)
 
 
 ## 游戏名称
@@ -49,19 +49,22 @@ T-bit 不是普通的高中生。他还是一个不折不扣的天才游戏玩�
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/LUNARiA%20-Virtualized%20Moonchild-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/LUNARiA%20-Virtualized%20Moonchild-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/LUNARiA%20-Virtualized%20Moonchild-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/LUNARiA%20-Virtualized%20Moonchild-_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/LUNARiA%20-Virtualized%20Moonchild-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/LUNARiA%20-Virtualized%20Moonchild-_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/LUNARiA%20-Virtualized%20Moonchild-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/LUNARiA%20-Virtualized%20Moonchild-_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/LUNARiA%20-Virtualized%20Moonchild-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/LUNARiA%20-Virtualized%20Moonchild-_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/LUNARiA%20-Virtualized%20Moonchild-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/LUNARiA%20-Virtualized%20Moonchild-_Screenshot_5.avif)
 

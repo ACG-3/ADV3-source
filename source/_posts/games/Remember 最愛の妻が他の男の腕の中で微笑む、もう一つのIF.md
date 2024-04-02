@@ -7,7 +7,7 @@ date: 2012-03-23 00:00:00
 
 ## 游戏封面
 
-![Remember 最愛の妻が他の男の腕の中で微笑む、もう一つのIF](https%3A//pan.timero.xyz/onedrive/img_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF_cover.avif)
+![Remember 最愛の妻が他の男の腕の中で微笑む、もう一つのIF](https://pan.timero.xyz/onedrive/img_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF_cover.avif)
 
 
 ## 游戏名称
@@ -45,19 +45,22 @@ Tomoka 和 Moeka 悲痛欲绝，祈祷他们深爱的丈夫能够康复。
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Remember%20%E6%9C%80%E6%84%9B%E3%81%AE%E5%A6%BB%E3%81%8C%E4%BB%96%E3%81%AE%E7%94%B7%E3%81%AE%E8%85%95%E3%81%AE%E4%B8%AD%E3%81%A7%E5%BE%AE%E7%AC%91%E3%82%80%E3%80%81%E3%82%82%E3%81%86%E4%B8%80%E3%81%A4%E3%81%AEIF_Screenshot_5.avif)
 

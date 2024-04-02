@@ -7,7 +7,7 @@ date: 2018-07-27 00:00:00
 
 ## 游戏封面
 
-![ネコぱらExtra  仔ネコの日の約束](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F_cover.avif)
+![ネコぱらExtra  仔ネコの日の約束](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F_cover.avif)
 
 
 ## 游戏名称
@@ -46,19 +46,22 @@ Nekopara Extra》是《Nekopara》OVA 众筹活动的延伸目标之一。可爱
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8D%E3%82%B3%E3%81%B1%E3%82%89Extra%20%20%E4%BB%94%E3%83%8D%E3%82%B3%E3%81%AE%E6%97%A5%E3%81%AE%E7%B4%84%E6%9D%9F_Screenshot_5.avif)
 

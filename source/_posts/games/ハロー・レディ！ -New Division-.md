@@ -7,7 +7,7 @@ date: 2014-12-19 00:00:00
 
 ## 游戏封面
 
-![ハロー・レディ！ -New Division-](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-_cover.avif)
+![ハロー・レディ！ -New Division-](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-_cover.avif)
 
 
 ## 游戏名称
@@ -40,19 +40,22 @@ date: 2014-12-19 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%83%8F%E3%83%AD%E3%83%BC%E3%83%BB%E3%83%AC%E3%83%87%E3%82%A3%EF%BC%81%20-New%20Division-_Screenshot_5.avif)
 

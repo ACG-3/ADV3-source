@@ -7,7 +7,7 @@ date: 2004-06-24 00:00:00
 
 ## 游戏封面
 
-![Memories Off ～それから～](https://pan.timero.xyz/d/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E_cover.avif)
+![Memories Off ～それから～](https://pan.timero.xyz/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -22,7 +22,7 @@ date: 2004-06-24 00:00:00
 ## 游戏信息
 
 - 时长：31.92 h
-- 开发者：KID, MAGES. GAME, SDR Project
+- 开发者：KID, MAGES., SDR Project
 - 发售日期：2004-06-24
 - 游戏平台：win, lin, mac, ios, and, psp, ps2, ps4, swi, mob
 - 相关作品：
@@ -49,19 +49,22 @@ Memories Off》系列的第四款游戏（副标题为 "Kakeganai Omoi wo Noriko
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Memories%20Off%20%EF%BD%9E%E3%81%9D%E3%82%8C%E3%81%8B%E3%82%89%EF%BD%9E_Screenshot_5.avif)
 

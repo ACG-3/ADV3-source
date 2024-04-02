@@ -1,12 +1,13 @@
 ---
-title: "Six Days of Snow"
-date: 2017-12-29
+title: Six Days of Snow
+abbrlink: 1e725f74
+date: 2017-12-29 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/Six%20Days%20of%20Snow.md)
 
 ## 游戏封面
 
-![Six Days of Snow](https%3A//pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_cover.avif)
+![Six Days of Snow](https://pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_cover.avif)
 
 
 ## 游戏名称
@@ -39,7 +40,7 @@ date: 2017-12-29
 
 在阿扎米旅馆的六天旅途中，英二遇到了旅馆老板、严厉而不屈不挠的垣内小姐和她不善言辞的女儿玲子。
 
-英二不知道为什么，但玲子身上的某些东西吸引了他。尽管他试图抗拒，但他发现自己还是被她的魅力所吸引。
+英二不知道为什么，玲子身上的某些东西吸引了他。尽管他试图抗拒，但他发现自己还是被她的魅力所吸引。
 
 玲子会成为他的缪斯女神，激发他创作出另一部杰作吗？还是他对她的痴迷会毁了他们俩？
 
@@ -48,17 +49,20 @@ date: 2017-12-29
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Six%20Days%20of%20Snow)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Six%20Days%20of%20Snow)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Six%20Days%20of%20Snow_Screenshot_4.avif)
 

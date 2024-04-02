@@ -7,7 +7,7 @@ date: 2008-05-29 00:00:00
 
 ## 游戏封面
 
-![G線上の魔王](https://pan.timero.xyz/d/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B_cover.avif)
+![G線上の魔王](https://pan.timero.xyz/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B_cover.avif)
 
 
 ## 游戏名称
@@ -21,10 +21,10 @@ date: 2008-05-29 00:00:00
 
 ## 游戏信息
 
-- 时长：35.17 h
+- 时长：35.33 h
 - 开发者：AKABEiSOFT2
 - 发售日期：2008-05-29
-- 游戏平台：win, psp, vnd
+- 游戏平台：win, psp, vnd, web
 - 相关作品：
    - 旁支：G線上の魔王 大番外編『車輪の国の魔王』
 
@@ -40,19 +40,22 @@ date: 2008-05-29 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B_Screenshot_4.avif)
 
-![Screenshot 5](Error processing image)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/G%E7%B7%9A%E4%B8%8A%E3%81%AE%E9%AD%94%E7%8E%8B_Screenshot_5.avif)
 

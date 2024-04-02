@@ -7,7 +7,7 @@ date: 2006-08-13 00:00:00
 
 ## 游戏封面
 
-![僕はキミだけを見つめる～I gaze at only you～](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E_cover.avif)
+![僕はキミだけを見つめる～I gaze at only you～](https://pan.timero.xyz/onedrive/img_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -44,19 +44,22 @@ date: 2006-08-13 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E5%83%95%E3%81%AF%E3%82%AD%E3%83%9F%E3%81%A0%E3%81%91%E3%82%92%E8%A6%8B%E3%81%A4%E3%82%81%E3%82%8B%EF%BD%9EI%20gaze%20at%20only%20you%EF%BD%9E_Screenshot_5.avif)
 

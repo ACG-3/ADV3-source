@@ -7,7 +7,7 @@ date: 2016-11-25 00:00:00
 
 ## 游戏封面
 
-![よめがみ My Sweet Goddess!](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess!_cover.avif)
+![よめがみ My Sweet Goddess!](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess%21_cover.avif)
 
 
 ## 游戏名称
@@ -34,7 +34,7 @@ date: 2016-11-25 00:00:00
 
 在《夜神》中，世界一片祥和，但人类并不知道这个世界的奇迹以及神界的斗争。
 
-故事发生在春天，一个名叫 "新正道市 "的省城，一个名叫隼人的转校生在一个不寻常的时间转入了这里。隼人是一个过去曾疯狂作恶的恶魔的转世。他的母亲鸢尾花也是过去力量的转世。但她的转世灵童是一位女神，而不是恶魔。她告诉他，如果他在人类世界做了足够多的好事，他就能回到神的世界。因此，林和试图按照她的话过上青年时代的生活。
+故事发生在春天，一个名叫 "新正户市 "的省城，一个名叫隼人的转学生在一个不寻常的时间转学到这里。隼人是一个过去曾疯狂作恶的恶魔的转世。他的母亲鸢尾花也是过去力量的转世。但她的转世灵童是一位女神，而不是恶魔。她告诉他，如果他在人类世界做了足够多的善事，就能回到神的世界。因此，林和试图按照她的话过上青年时代的生活。
 
 不幸的是，恶魔的力量仍然控制着他，他抢走了新同学御子的一个吻。如果这个误会继续下去，他之前所做的一切好事都将化为乌有！在好友兼班长玛丽的帮助下，他找到了正确的道歉方式和时机。然而，一个神秘又调皮的狗耳女孩出现了，事情出现了转机。
 
@@ -45,19 +45,22 @@ date: 2016-11-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess%21)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess%21)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess!_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess%21_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess!_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess%21_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess!_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess%21_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess!_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess%21_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess!_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E3%82%88%E3%82%81%E3%81%8C%E3%81%BF%20My%20Sweet%20Goddess%21_Screenshot_5.avif)
 

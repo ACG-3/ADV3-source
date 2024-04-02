@@ -7,7 +7,7 @@ date: 2004-01-30 00:00:00
 
 ## 游戏封面
 
-![Fate/stay night](https://pan.timero.xyz/d/onedrive/img_lib_001/Aster_cover.avif)
+![Fate/stay night](https://pan.timero.xyz/onedrive/img_lib_001/Aster_cover.avif)
 
 
 ## 游戏名称
@@ -64,7 +64,7 @@ date: 2004-01-30 00:00:00
 
 ----，获得圣杯的人可以实现任何愿望。
 
-圣杯战争将最伟大的圣器圣杯实体化的伟大仪式。参加这个仪式有两个条件：一是魔法师，二是被圣杯选中的 "大师"。
+圣杯战争将最伟大的圣器圣杯实体化的伟大仪式。参加这个仪式有两个条件：一是魔术师，二是被圣杯选中的 "大师"。
 
 共有七位被选中的 "大师 "和七类 "仆人"，这些仆人类似于超人，拥有惊人的战斗能力。圣杯只有一个。如果你希望获得奇迹，那就证明你的力量是最强的。
 
@@ -75,19 +75,22 @@ date: 2004-01-30 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Aster)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Aster)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/Aster_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/Aster_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/Aster_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/Aster_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/Aster_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/Aster_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/Aster_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/Aster_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/Aster_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/Aster_Screenshot_5.avif)
 

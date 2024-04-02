@@ -7,7 +7,7 @@ date: 2020-10-23 00:00:00
 
 ## 游戏封面
 
-![VenusBlood -AfterDays- Episode:6 後宮の絶対神](https://pan.timero.xyz/d/onedrive/img_lib_001/VenusBlood%20-AfterDays-%20Episode6%20%E5%BE%8C%E5%AE%AE%E3%81%AE%E7%B5%B6%E5%AF%BE%E7%A5%9E_cover.avif)
+![VenusBlood -AfterDays- Episode:6 後宮の絶対神](None)
 
 
 ## 游戏名称
@@ -42,7 +42,10 @@ date: 2020-10-23 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/VenusBlood%20-AfterDays-%20Episode6%20%E5%BE%8C%E5%AE%AE%E3%81%AE%E7%B5%B6%E5%AF%BE%E7%A5%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/VenusBlood%20-AfterDays-%20Episode6%20%E5%BE%8C%E5%AE%AE%E3%81%AE%E7%B5%B6%E5%AF%BE%E7%A5%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

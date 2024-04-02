@@ -7,7 +7,7 @@ date: 2014-04-25 00:00:00
 
 ## 游戏封面
 
-![D.C.III P.P. ～ダ・カーポIII プラチナパートナー～](https%3A//pan.timero.xyz/onedrive/img_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E_cover.avif)
+![D.C.III P.P. ～ダ・カーポIII プラチナパートナー～](https://pan.timero.xyz/onedrive/img_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E_cover.avif)
 
 
 ## 游戏名称
@@ -41,19 +41,22 @@ date: 2014-04-25 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https%3A//pan.timero.xyz/onedrive/img_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E_Screenshot_1.avif)
 
-![Screenshot 2](https%3A//pan.timero.xyz/onedrive/img_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E_Screenshot_2.avif)
 
-![Screenshot 3](https%3A//pan.timero.xyz/onedrive/img_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E_Screenshot_3.avif)
 
-![Screenshot 4](https%3A//pan.timero.xyz/onedrive/img_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E_Screenshot_4.avif)
 
-![Screenshot 5](https%3A//pan.timero.xyz/onedrive/img_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/D.C.III%20P.P.%20%EF%BD%9E%E3%83%80%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%9DIII%20%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC%EF%BD%9E_Screenshot_5.avif)
 

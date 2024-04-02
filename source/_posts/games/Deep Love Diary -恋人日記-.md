@@ -7,7 +7,7 @@ date: 2016-10-28 00:00:00
 
 ## 游戏封面
 
-![Deep Love Diary -恋人日記-](https%3A//pan.timero.xyz/onedrive/img_lib_001/Deep%20Love%20Diary%20-%E6%81%8B%E4%BA%BA%E6%97%A5%E8%A8%98-_cover.avif)
+![Deep Love Diary -恋人日記-](https://pan.timero.xyz/onedrive/img_lib_001/Deep%20Love%20Diary%20-%E6%81%8B%E4%BA%BA%E6%97%A5%E8%A8%98-_cover.avif)
 
 
 ## 游戏名称
@@ -44,7 +44,10 @@ date: 2016-10-28 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/Deep%20Love%20Diary%20-%E6%81%8B%E4%BA%BA%E6%97%A5%E8%A8%98-)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/Deep%20Love%20Diary%20-%E6%81%8B%E4%BA%BA%E6%97%A5%E8%A8%98-)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图

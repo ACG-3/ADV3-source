@@ -7,7 +7,7 @@ date: 2021-03-26 00:00:00
 
 ## 游戏封面
 
-![魔法少女消耗戦線 DeadΩAegis](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis_cover.avif)
+![魔法少女消耗戦線 DeadΩAegis](https://pan.timero.xyz/onedrive/img_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis_cover.avif)
 
 
 ## 游戏名称
@@ -21,7 +21,7 @@ date: 2021-03-26 00:00:00
 
 ## 游戏信息
 
-- 时长：21.38 h
+- 时长：22.0 h
 - 开发者：metalogiq
 - 发售日期：2021-03-26
 - 游戏平台：win
@@ -52,19 +52,22 @@ date: 2021-03-26 00:00:00
 
 ## 下载链接
 
-[点击下载](https://pan.timero.xyz/onedrive/adv_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis)
+- 稳定链接：
+    - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis)
+        - 解压密码：ADV!
+
 
 
 ## 游戏截图
 
 
-![Screenshot 1](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis_Screenshot_1.avif)
+![Screenshot 1](https://pan.timero.xyz/onedrive/img_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis_Screenshot_1.avif)
 
-![Screenshot 2](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis_Screenshot_2.avif)
+![Screenshot 2](https://pan.timero.xyz/onedrive/img_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis_Screenshot_2.avif)
 
-![Screenshot 3](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis_Screenshot_3.avif)
+![Screenshot 3](https://pan.timero.xyz/onedrive/img_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis_Screenshot_3.avif)
 
-![Screenshot 4](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis_Screenshot_4.avif)
+![Screenshot 4](https://pan.timero.xyz/onedrive/img_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis_Screenshot_4.avif)
 
-![Screenshot 5](https://pan.timero.xyz/d/onedrive/img_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis_Screenshot_5.avif)
+![Screenshot 5](https://pan.timero.xyz/onedrive/img_lib_001/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%B6%88%E8%80%97%E6%88%A6%E7%B7%9A%20Dead%CE%A9Aegis_Screenshot_5.avif)
 
