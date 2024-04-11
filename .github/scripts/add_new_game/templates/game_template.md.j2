@@ -42,8 +42,8 @@ date: {{ game_release_date }}
 
 - 其它链接：
     - [{{ download_platform }}]({{ download_link }})
-        {% if download_password is not "_No response_" %}- 访问密码：{{ download_password }}{% endif %}
-        {% if unpack_password is not "_No response_" %}- 解压密码：{{ unpack_password }}{% endif %}
+        {% if download_password != "_No response_" %}- 访问密码：{{ download_password }}{% endif %}
+        {% if unpack_password != "_No response_" %}- 解压密码：{{ unpack_password }}{% endif %}
 
 
 ## 游戏截图
