@@ -236,7 +236,7 @@ def main():
     unpack_password = issue_data['unpack_password']
     global download_platform
     download_platform = issue_data['download_paltform']
-    if 'vndb_id' in issue_data:
+    if issue_data['vndb_id'] is not None:
         game_id = issue_data['vndb_id']
         game_data = fetch_game_info_by_id(game_id)
         create_markdown(game_data)
