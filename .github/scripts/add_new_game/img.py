@@ -20,7 +20,7 @@ def upload_to_webdav(local_file_path):
     try:
         subprocess.check_output(command, shell=True, stderr=subprocess.STDOUT)
         print("Upload successful.")
-        return urllib.parse.quote(f"https://pan.timero.xyz/onedrive/img_lib_001/{file_name}")
+        return f"https://pan.timero.xyz/d/onedrive/img_lib_001/{urllib.parse.quote(file_name)}"
     except subprocess.CalledProcessError as e:
         print("Error occurred:", e.output.decode())
 
@@ -34,16 +34,6 @@ def download_image(image_url):
 
 def convert_image_to_avif(img, output_path):
     img.save(output_path, format='AVIF')
-
-def upload_image_to_picgo(image_path):
-    url = "http://127.0.0.1:36677/upload"
-    payload = {"list": [image_path]}
-    headers = {"Content-Type": "application/json"}
-    response = requests.post(url, json=payload, headers=headers)
-    if response.status_code == 200 and response.json().get("success"):
-        return response.json().get("result")[0]
-    else:
-        raise Exception("Failed to upload image to picgo. Response: " + response.text)
 
 def delete_local_image(image_path):
     if os.path.exists(image_path):
