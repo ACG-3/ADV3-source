@@ -225,7 +225,7 @@ img_folder_path = '.github/scripts/add_new_game/img'
 
 def main():
     issue_number = os.getenv('ISSUE_NUMBER')
-    # issue_number = 12
+    # issue_number = 24
     issue_body = get_issue_content(issue_number)
     issue_data = parse_issue_body(issue_body)
     global download_link
