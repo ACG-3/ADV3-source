@@ -43,7 +43,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          commit-message: "${{ github.event.issue.title }} from issue ${{ github.event.issue.number }}"
-          title: "${{ github.event.issue.title }} from issue ${{ github.event.issue.number }}"
+          commit-message: "${{ github.event.issue.title }}"
+          title: "${{ github.event.issue.title }}"
           body: "This PR adds a Markdown file generated based on the content of the closed Issue #${{ github.event.issue.number }}."
           branch: "issue-${{ github.event.issue.number }}"
