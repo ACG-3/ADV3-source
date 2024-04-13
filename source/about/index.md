@@ -28,6 +28,10 @@ ADV3是一个易用的 中文化 视觉小说 / Galgame 备份仓库。
 ![adv_pr_auto](https://pan.timero.xyz/d/onedrive/img_lib_001/adv_pr_auto.webp)
 ps：如果您的下载链接或压缩文件需要密码，请填写issue模板中的对应项。额外的vndb_id将提高脚本的准确度。
 
+## 联系我们
+
+- [telegram群组](https://t.me/+AYhVa7OMOoYyMDIx)
+
 ## 致谢
 
 本仓库的诞生离不开以下项目
