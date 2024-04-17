@@ -1,52 +1,58 @@
 ---
-title: CHAOS;CHILD
-abbrlink: ff512b93
-date: 2014-12-18 00:00:00
+title: "CHAOS;HEAD NOAH"
+date: 2009-02-26
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CHAOS%3BHEAD%20NOAH.md)
 
 ## 游戏封面
 
-![CHAOS;CHILD](https://pan.timero.xyz/d/onedrive/img_lib_001/CHAOS%3BHEAD%20NOAH_cover.avif)
+![CHAOS;HEAD NOAH](https://pan.timero.xyz/d/onedrive/img_lib_001/CHAOS%3BHEAD%20NOAH_cover.avif)
 
 
 ## 游戏名称
 
-- 日文：CHAOS;CHILD
-- 英文：None
-- 中文：混沌之子
+- 日文：CHAOS;HEAD NOAH
+- 英文：CHAOS;HEAD NOAH
+- 中文：混沌之脑：诺亚
 
-- 别名：カオスチャイルド, C;C, ChäoS;Child, Science Adventure Series #4, カオチャ
+- 别名：ChäoS;HEĀd NoAH, カオスヘッド ノア, C;HN, C;H NoAH, Science Adventure Series #1, カオヘノア, 混沌头
 
 
 ## 游戏信息
 
-- 时长：56.25 h
+- 时长：45.5 h
 - 开发者：NITRO PLUS, MAGES.
-- 发售日期：2014-12-18
-- 游戏平台：win, ios, and, ps3, ps4, psv, swi, xbo
+- 发售日期：2009-02-26
+- 游戏平台：win, lin, mac, ios, and, psp, ps3, psv, swi, xb3
 - 相关作品：
    - 系列：Symmetric;Vision
-   - 外传：カオスチャイルド らぶchu☆chu!!
-   - 前作：CHAOS;HEAD NOAH
-   - 系列：OCCULTIC;NINE
+   - 变体：CHAOS;HEAD
+   - 外传：カオスヘッド らぶChu☆Chu!
+   - 续作：CHAOS;CHILD
+   - 系列：STEINS;GATE
 
-- 相关链接：[vndb](https://vndb.org/v14018)
+- 相关链接：[vndb](https://vndb.org/v22505)
 
 
 ## 游戏简介
 
-涉谷市被大地震夷为平地已有六年。现在，2015 年 10 月，在调查最近发生的几起谋杀案时，宫代拓鹤意识到了一个可怕的事实。这些凶杀案是六年前让涩谷陷入恐怖的一系列凶杀案的翻版。与此同时，那些被称为 "自大狂 "的人也开始觉醒，他们拥有将自己的妄想变为现实的能力。
+"如果你是上帝，你的妄想可以变成现实，你希望得到什么妄想？一个感官世界？一个专制的社会？毁灭性的制裁？还是......"
 
+西条拓海是一个闭门不出的游戏玩家和动漫宅男，整天被关在一个集装箱里，偶尔去上上课。在他的居住地涩谷，一连串离奇的连环杀人案开始发生，他也被卷入其中。
 
+Chaos;Head NoAH》是《Chaos;Head》的导演剪辑版，增加了 6 条新路线，修改了故事情节、新 CG 和改版后的真实结局。
 
 
 ## 下载链接
 
-- 稳定链接：
+- 稳定链接
     - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/CHAOS%3BHEAD%20NOAH)
         - 解压密码：ADV!
 
+- 其它链接：
+    - [Onedrive](xxx)
+        
+        
 
 
 ## 游戏截图
