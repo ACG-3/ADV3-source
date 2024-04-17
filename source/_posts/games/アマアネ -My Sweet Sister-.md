@@ -1,6 +1,7 @@
 ---
-title: "アマアネ -My Sweet Sister-"
-date: 2019-08-30
+title: アマアネ -My Sweet Sister-
+abbrlink: c464ec01
+date: 2019-08-30 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%82%A2%E3%83%9E%E3%82%A2%E3%83%8D%20-My%20Sweet%20Sister-.md)
 

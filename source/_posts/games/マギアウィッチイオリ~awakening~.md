@@ -1,6 +1,7 @@
 ---
-title: "マギアウィッチイオリ~awakening~"
-date: 2021-05-14
+title: マギアウィッチイオリ~awakening~
+abbrlink: 772a604d
+date: 2021-05-14 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%83%9E%E3%82%AE%E3%82%A2%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E3%82%A4%E3%82%AA%E3%83%AA~awakening~.md)
 

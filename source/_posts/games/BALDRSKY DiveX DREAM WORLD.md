@@ -1,6 +1,7 @@
 ---
-title: "BALDR SKY DiveX "DREAM WORLD""
-date: 2010-09-24
+title: BALDR SKY DiveX "DREAM WORLD"
+abbrlink: bb2a1fd0
+date: 2010-09-24 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/BALDRSKY%20DiveX%20DREAM%20WORLD.md)
 

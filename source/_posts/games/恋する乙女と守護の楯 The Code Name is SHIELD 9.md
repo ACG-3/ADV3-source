@@ -1,6 +1,7 @@
 ---
-title: "恋する乙女と守護の楯 The Code Name is "SHIELD 9""
-date: 2007-06-29
+title: 恋する乙女と守護の楯 The Code Name is "SHIELD 9"
+abbrlink: '7e061275'
+date: 2007-06-29 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E6%81%8B%E3%81%99%E3%82%8B%E4%B9%99%E5%A5%B3%E3%81%A8%E5%AE%88%E8%AD%B7%E3%81%AE%E6%A5%AF%20The%20Code%20Name%20is%20SHIELD%209.md)
 

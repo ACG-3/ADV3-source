@@ -1,6 +1,7 @@
 ---
-title: "D.C.I.F.～ダ・カーポ～イノセントフィナーレ"
-date: 2009-04-29
+title: D.C.I.F.～ダ・カーポ～イノセントフィナーレ
+abbrlink: 778ccb8c
+date: 2009-04-29 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/%E3%81%93%E3%81%A8%E3%82%8A%20Love%20Ex%20P.md)
 
