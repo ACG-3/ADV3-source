@@ -28,6 +28,22 @@ auto_dir_categorize:
 	enable: true  # options:true, false; default is true
 	force: true # options:true, false; default is false
 
+algolia:
+  appId: "7NRNSSMOBD"
+  apiKey: "8f7f2d794d8a843c782ff6120e77050f"
+  adminApiKey: "3f8277600be4d4c854655e4bb24dad12"
+  chunkSize: 5000
+  indexName: "adv3"
+  fields:
+    - content:strip:truncate,0,500
+    - excerpt:strip
+    - gallery
+    - permalink
+    - photos
+    - slug
+    - tags
+    - title
+
 # Directory
 source_dir: source
 public_dir: public

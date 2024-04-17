@@ -3,5 +3,53 @@
     <input type="text" class="search-input" id="search-input" placeholder="<%= __('search.search') %>">
   </form>
   <div id="search-result"></div>
-  <p class="search-no-result"><%= __('search.no_results') %></p>
+  <p class="search-no-result" style="display: none;"><%= __('search.no_results') %></p>
 </section>
+
+<script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+<script>
+  // 初始化 Algolia 客户端
+  var client = algoliasearch('7NRNSSMOBD', '8f7f2d794d8a843c782ff6120e77050f');
+  var index = client.initIndex('adv3');
+
+  // 获取输入框和结果展示区域
+  var input = document.getElementById('search-input');
+  var resultContainer = document.getElementById('search-result');
+  var noResultMessage = document.querySelector('.search-no-result');
+
+  input.addEventListener('input', function() {
+    // 执行搜索
+    index.search(input.value, { hitsPerPage: 10 }).then(({ hits }) => {
+      resultContainer.innerHTML = ''; // 清空旧的搜索结果
+      if (hits.length) {
+        noResultMessage.style.display = 'none';
+        var resultList = [];
+        hits.forEach(hit => {
+          // 对标题进行高亮处理
+          var highlightedTitle = hit.title.replace(new RegExp(input.value, "gi"), "<em class='search-keyword'>$&</em>");
+          var resultItem = `<li><a href="${hit.permalink}" class="search-result-title">${highlightedTitle}</a>`;
+
+          // 处理内容部分的高亮显示和文本截取
+          if (hit.contentStripTruncate) {
+            var regEx = new RegExp(`.{0,50}${input.value}.{0,50}`, "gi");
+            var snippets = hit.contentStripTruncate.match(regEx) || [];
+            var snippetHtml = snippets.map(snippet => {
+              return snippet.replace(new RegExp(input.value, "gi"), "<em class='search-keyword'>$&</em>");
+            }).join("... ");
+            resultItem += `<p class="search-result">${snippetHtml}</p>`;
+          }
+
+          // 根据标题匹配提高优先级
+          var matchTitle = hit.title.toLowerCase().indexOf(input.value.toLowerCase()) >= 0 ? 1 : 0;
+          resultList.push({ item: resultItem, matchTitle: matchTitle });
+        });
+        resultList.sort((a, b) => b.matchTitle - a.matchTitle);
+        resultContainer.innerHTML = '<ul class="search-result-list">' + resultList.map(r => r.item).join('') + '</ul>';
+      } else {
+        noResultMessage.style.display = 'block'; // 显示无结果信息
+      }
+    }).catch(err => {
+      console.error(err);
+    });
+  });
+</script>
