@@ -31,12 +31,13 @@
 
           // 处理内容部分的高亮显示和文本截取
           if (hit.contentStripTruncate) {
-            var regEx = new RegExp(`.{0,50}${input.value}.{0,50}`, "gi");
+            var regEx = new RegExp(`.{0,30}${input.value}.{0,30}`, "gi");
             var snippets = hit.contentStripTruncate.match(regEx) || [];
             var snippetHtml = snippets.map(snippet => {
-              return snippet.replace(new RegExp(input.value, "gi"), "<em class='search-keyword'>$&</em>");
+              var end = snippet.length < 60 ? "" : "...";  // 如果截取文本未达到最大长度，不添加省略号
+              return snippet.replace(new RegExp(input.value, "gi"), "<em class='search-keyword'>$&</em>") + end;
             }).join("... ");
-            resultItem += `<p class="search-result">${snippetHtml}</p>`;
+            resultItem += `<p class="search-result">...${snippetHtml}...</p>`;
           }
 
           // 根据标题匹配提高优先级
