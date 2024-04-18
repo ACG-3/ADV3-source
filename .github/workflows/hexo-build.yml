@@ -31,7 +31,7 @@ jobs:
         run: |
           git config --global user.email "acg.three@gmail.com"
           git config --global user.name "ACG-3"
-          git add source/posts/*
+          git add source/_posts/games*
           git commit -m "Update posts abbrlink"
           git push
 
