@@ -1,67 +1,69 @@
 ---
-title: STEINS;GATE
-abbrlink: 7fd6e4a3
-date: 2009-10-15 00:00:00
+title: "STEINS;GATE 0"
+date: 2015-12-10
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/STEINS%3BGATE%200.md)
 
 ## 游戏封面
 
-![STEINS;GATE](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS%3BGATE%200_cover.avif)
+![STEINS;GATE 0](https://pan.timero.xyz/d/onedrive/img_lib_001/STEINS%3BGATE%200_cover.avif)
 
 
 ## 游戏名称
 
-- 日文：STEINS;GATE
-- 英文：Steins;Gate
-- 中文：命运石之门
+- 日文：STEINS;GATE 0
+- 英文：None
+- 中文：None
 
-- 别名：シュタインズ・ゲート, シュタゲ, S;G, Science Adventure Series #2, Shutage
+- 别名：シュタインズ・ゲート・ゼロ, シュタゲゼロ, S;G 0, Shutage 0
 
 
 ## 游戏信息
 
-- 时长：43.75 h
-- 开发者：NITRO PLUS, MAGES., MAGES. Inc.
-- 发售日期：2009-10-15
-- 游戏平台：win, lin, ios, and, psp, ps3, ps4, psv, swi, xb3
+- 时长：35.0 h
+- 开发者：NITRO PLUS, MAGES., M2 Co., Ltd.
+- 发售日期：2015-12-10
+- 游戏平台：win, ps3, ps4, psv, swi, xbo
 - 相关作品：
-   - 续作：STEINS;???
-   - 角色：Danganronpa Forge:Re
-   - 续作：助手ちゅっちゅ！　―比翼連理にさよならを―
-   - 系列：Symmetric;Vision
-   - 旁支：Steins;Gate Divergence
-   - 旁支：Steins;Gate: The Distant Valhalla
-   - 旁支：Steins;Gate Gamma
-   - 变体：ファミコレADV シュタインズ・ゲート
-   - 外传：STEINS;GATE 線形拘束のフェノグラム
-   - 外传：STEINS;GATE 比翼恋理のだーりん
-   - 外传：STEINS;GATE 変移空間のオクテット
-   - 续作：STEINS;GATE 0
-   - 系列：CHAOS;HEAD NOAH
-   - 系列：ROBOTICS;NOTES
-   - 旁支：STEINS;GATE×サンリオキャラクターズ ｢邂逅相遇のゴルディッヒパーティ」
+   - 前作：STEINS;GATE
 
-- 相关链接：[vndb](https://vndb.org/v2002)
+- 相关链接：[vndb](https://vndb.org/v17102)
 
 
 ## 游戏简介
 
-[决定全人类的命运--[/b］
-你能改变命运的轨迹吗？
-并拯救最亲近的人？
+"这是一个无法挽救的'未来'的故事"。
 
-Steins;Gate 讲述的是一群精通技术的年轻学生发现了利用改装过的微波炉通过邮件改变过去的方法。随着他们被卷入围绕 SERN（大型强子对撞机背后的组织）和自称来自乌托邦未来的约翰-提托尔（John Titor）的阴谋中，他们对自己的发现能走多远的实验开始失控。
+2010 年 12 月 - Beta 世界线：主人公[url=https://vndb.org/c6498]冈部临太郎[/url]在经历了无数苦难和悲伤之后，放弃了拯救 "她 "的一切努力。冈部陷入了绝望的深渊，他的朋友们开始担心他的安危。
+
+但是，无法获救的 "她 "又是怎样的呢？
+通过 "零 "的故事，您将了解到新的人物和际遇。
+
+是的...她 "还在
+
+-----
+
+在经历了一段不为人知的世界线之旅后，冈部回到了日常生活中，他试图摒弃之前的生活，专心学习，尽管他仍然为无法拯救 "她 "而悲痛欲绝。
+
+在一次大学研讨会上，他遇到了与 "她 "同队同校的[url=https://vndb.org/c43790]Alexis Leskinen[/url]教授和他的助手[url=https://vndb.org/c38152]Hiyajou Maho[/url]。  在那里，他发现了 "Amadeus"，一个能够以数字方式存储人类记忆的不完整系统。冈部受邀测试该程序，因为其中包含的正是......"她 "的记忆他不知道，这个名为 "Amadeus "的系统将再次把他卷入一个充满阴谋的黑暗世界。
+
+-----
+
+它独特地改编了 "书信集三部曲 "中的小说和戏剧光盘中的其他内容。
 
 
 
 
 ## 下载链接
 
-- 稳定链接：
+- 稳定链接
     - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/STEINS%3BGATE%200)
         - 解压密码：ADV!
 
+- 其它链接：
+    - [Onedrive](xxx)
+        
+        
 
 
 ## 游戏截图
