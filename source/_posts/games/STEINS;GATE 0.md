@@ -1,6 +1,7 @@
 ---
-title: "STEINS;GATE 0"
-date: 2015-12-10
+title: STEINS;GATE 0
+abbrlink: d0c9b06c
+date: 2015-12-10 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/STEINS%3BGATE%200.md)
 
