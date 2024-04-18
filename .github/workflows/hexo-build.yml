@@ -34,9 +34,11 @@ jobs:
         run: |
           git config --global user.email "acg.three@gmail.com"
           git config --global user.name "ACG-3"
-          git add source/_posts/games*
-          git commit -m "add posts abbrlink"
-          git push
+          git add source/_posts/games/*  # 添加更改
+          git diff --staged --exit-code || git commit -m "add posts abbrlink"  # 如果有更改则提交
+          git push  # 推送到仓库
+          true  # 确保不以错误码结束
+        shell: /usr/bin/bash -e {0}
 
       - name: Get current date
         id: date
