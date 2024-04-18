@@ -27,7 +27,7 @@
         hits.forEach(hit => {
           // 对标题进行高亮处理
           var highlightedTitle = hit.title.replace(new RegExp(input.value, "gi"), "<em class='search-keyword'>$&</em>");
-          var resultItem = `<li><a href="${hit.permalink}" class="search-result-title">${highlightedTitle}</a>`;
+          var resultItem = `<li><a href="${hit.permalink}" target="_blank" class="search-result-title">${highlightedTitle}</a>`;
 
           // 处理内容部分的高亮显示和文本截取
           if (hit.contentStripTruncate) {
