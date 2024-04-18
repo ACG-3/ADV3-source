@@ -1,6 +1,7 @@
 ---
-title: "CHAOS;HEAD NOAH"
-date: 2009-02-26
+title: CHAOS;HEAD NOAH
+abbrlink: f3d7f51
+date: 2009-02-26 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/CHAOS%3BHEAD%20NOAH.md)
 
