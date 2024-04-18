@@ -57,7 +57,7 @@ date: 2015-12-10 00:00:00
 
 ## 下载链接
 
-- 稳定链接
+- 稳定链接：
     - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/STEINS%3BGATE%200)
         - 解压密码：ADV!
 
