@@ -24,6 +24,9 @@ jobs:
       - name: Clean
         run: npx hexo clean  # 运行Hexo清除命令
 
+      - name: algolia index
+        run: npx hexo algolia
+
       - name: Build
         run: npx hexo generate  # 运行Hexo生成命令
 
