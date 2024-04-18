@@ -1,6 +1,7 @@
 ---
-title: "STEINS;GATE 0"
-date: 2015-12-10
+title: STEINS;GATE 0
+abbrlink: d0c9b06c
+date: 2015-12-10 00:00:00
 ---
 [编辑此页面](https://github.com/ACG-3/ADV3-source/blob/main/source/_posts/games/STEINS%3BGATE%200.md)
 
@@ -56,14 +57,9 @@ date: 2015-12-10
 
 ## 下载链接
 
-- 稳定链接
+- 稳定链接：
     - [OneDrive](https://pan.timero.xyz/onedrive/adv_lib_001/STEINS%3BGATE%200)
         - 解压密码：ADV!
-
-- 其它链接：
-    - [Onedrive](xxx)
-        
-        
 
 
 ## 游戏截图
