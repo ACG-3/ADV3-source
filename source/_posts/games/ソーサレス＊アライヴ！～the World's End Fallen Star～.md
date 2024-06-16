@@ -13,8 +13,8 @@ date: 2019-01-25 00:00:00
 ## 游戏名称
 
 - 日文：ソーサレス＊アライヴ！～the World's End Fallen Star～
-- 英文：None
-- 中文：None
+- 英文：Sorceress*Alive! ～the World's End Fallen Star～
+- 中文：世界末日陨落之星
 
 - 别名：ソサアラ
 
