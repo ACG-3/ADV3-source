@@ -1,9 +1,11 @@
 <section id="search">
-  <form>
-    <input type="text" class="search-input" id="search-input" placeholder="<%= __('search.search') %>">
+  <form method="GET" action="/search">
+    <input type="text" name="q" class="search-input" id="search-input" placeholder="<%= __('search.search') %>">
   </form>
   <div id="search-result"></div>
-  <p class="search-no-result" style="display: none;"><%= __('search.no_results') %></p>
+  <p class="search-no-result" style="display: none;">
+    <%= __('search.no_results') %>
+  </p>
 </section>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/algoliasearch/3.35.1/algoliasearch.min.js"></script>
@@ -17,31 +19,40 @@
   var resultContainer = document.getElementById('search-result');
   var noResultMessage = document.querySelector('.search-no-result');
 
-  input.addEventListener('input', function() {
-    // 执行搜索
-    index.search(input.value, { hitsPerPage: 10 }).then(({ hits }) => {
+  // 获取URL参数
+  function getQueryParam(param) {
+    var urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(param);
+  }
+
+  // 执行搜索
+  function performSearch(query) {
+    if (!query) return;
+
+    input.value = query;
+    index.search(query, { hitsPerPage: 10 }).then(({ hits }) => {
       resultContainer.innerHTML = ''; // 清空旧的搜索结果
       if (hits.length) {
         noResultMessage.style.display = 'none';
         var resultList = [];
         hits.forEach(hit => {
           // 对标题进行高亮处理
-          var highlightedTitle = hit.title.replace(new RegExp(input.value, "gi"), "<em class='search-keyword'>$&</em>");
+          var highlightedTitle = hit.title.replace(new RegExp(query, "gi"), "<em class='search-keyword'>$&</em>");
           var resultItem = `<li><a href="${hit.permalink}" target="_blank" class="search-result-title">${highlightedTitle}</a>`;
 
           // 处理内容部分的高亮显示和文本截取
           if (hit.contentStripTruncate) {
-            var regEx = new RegExp(`.{0,30}${input.value}.{0,30}`, "gi");
+            var regEx = new RegExp(`.{0,30}${query}.{0,30}`, "gi");
             var snippets = hit.contentStripTruncate.match(regEx) || [];
             var snippetHtml = snippets.map(snippet => {
-              var end = snippet.length < 60 ? "" : "...";  // 如果截取文本未达到最大长度，不添加省略号
-              return snippet.replace(new RegExp(input.value, "gi"), "<em class='search-keyword'>$&</em>") + end;
+              var end = snippet.length < 60 ? "" : "...";
+              return snippet.replace(new RegExp(query, "gi"), "<em class='search-keyword'>$&</em>") + end;
             }).join("... ");
             resultItem += `<p class="search-result">...${snippetHtml}...</p>`;
           }
 
           // 根据标题匹配提高优先级
-          var matchTitle = hit.title.toLowerCase().indexOf(input.value.toLowerCase()) >= 0 ? 1 : 0;
+          var matchTitle = hit.title.toLowerCase().indexOf(query.toLowerCase()) >= 0 ? 1 : 0;
           resultList.push({ item: resultItem, matchTitle: matchTitle });
         });
         resultList.sort((a, b) => b.matchTitle - a.matchTitle);
@@ -52,5 +63,16 @@
     }).catch(err => {
       console.error(err);
     });
+  }
+
+  // 检查URL参数并执行搜索
+  var searchQuery = getQueryParam('q');
+  if (searchQuery) {
+    performSearch(searchQuery);
+  }
+
+  // 添加输入事件监听器
+  input.addEventListener('input', function () {
+    performSearch(input.value);
   });
 </script>
