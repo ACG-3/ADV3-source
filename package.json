@@ -28,6 +28,6 @@
     "hexo-server": "^3.0.0",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-stellar": "^1.27.0",
-    "markdown-it-highlightjs": "^4.0.1"
+    "markdown-it-highlightjs": "^4.1.0"
   }
 }
