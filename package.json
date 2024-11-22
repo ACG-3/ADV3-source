@@ -12,7 +12,7 @@
     "version": "7.1.1"
   },
   "dependencies": {
-    "hexo": "^7.0.0",
+    "hexo": "^7.3.0",
     "hexo-abbrlink": "^2.2.1",
     "hexo-algoliasearch": "^2.0.1",
     "hexo-deployer-git": "^4.0.0",
